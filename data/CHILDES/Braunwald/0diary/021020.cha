@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00011063-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;10.20|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	09-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	you know what someone did ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|someone-Ind-S1 verb|do-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|OBJ 4|5|NSUBJ 5|2|CCOMP 6|2|PUNCT
+%sit:	229
+*CHI:	they licked my finger .
+%mor:	pron|they-Prs-Nom-P3 verb|lick-Fin-Ind-Past-P3 pron|my-Prs-Gen-S1 noun|finger .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	229
+*CHI:	someone of my friends did .
+%mor:	pron|someone-Ind-S1 adp|of pron|my-Prs-Gen-S1 noun|friend-Plur aux|do-Fin-Ind-Past-S3 .
+%gra:	1|5|NSUBJ 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|5|ROOT 6|5|PUNCT
+%sit:	229
+*CHI:	Joanna, can I do all two candles ?
+%mor:	noun|Joanna cm|cm aux|can-Fin-S pron|I-Prs-Nom-S1 verb|do-Inf-S det|all-Def num|two noun|candle-Plur ?
+%gra:	1|5|VOCATIVE 2|5|PUNCT 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|8|DET 7|8|NUMMOD 8|5|OBJ 9|5|PUNCT
+%sit:	230
+*SIS:	no, I'm gonna do Jack's .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|do-Inf-S noun|Jack~part|s .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|6|OBJ 8|7|CASE 9|6|PUNCT
+%sit:	230
+@End

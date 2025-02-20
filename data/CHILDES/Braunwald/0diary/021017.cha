@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00011060-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;10.17|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	06-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	we don't want Peanuts to fight Katie do we ?
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|want-Inf-S noun|peanut-Plur part|to verb|fight-Inf-S noun|Katie verb|do-Inf-S pron|we-Prs-Nom-P1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|7|XCOMP 10|9|OBJ 11|4|PUNCT
+%sit:	217
+*CHI:	so we can keep her .
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|keep-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	217
+*MOT:	you love Peanuts, don't you ?
+%mor:	pron|you-Prs-Nom-S2 verb|love-Fin-Ind-Pres-S2 noun|Peanut-Plur cm|cm aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|PUNCT 5|2|PARATAXIS 6|5|ADVMOD 7|5|NSUBJ 8|2|PUNCT
+%sit:	218
+*CHI:	I don't because he fights Katie .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not sconj|because pron|he-Prs-Nom-S3 verb|fight-Fin-Ind-Pres-S3 noun|Katie .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|ADVMOD 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|OBJ 8|2|PUNCT
+%sit:	218
+*CHI:	look what happened .
+%mor:	verb|look-Fin-Imp-S pron|what-Rel-S1 verb|happen-Fin-Ind-Past-S3 .
+%gra:	1|3|ROOT 2|1|OBJ 3|2|ACL-RELCL 4|1|PUNCT
+%sit:	219
+*CHI:	if felled [: fell] [*] down .
+%mor:	sconj|if verb|fall-Fin-Ind-Past-S3 adv|down .
+%gra:	1|2|MARK 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	219
+*CHI:	I bet it made Devon frustrated .
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3 noun|Devon adj|frustrated-Pos-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|4|XCOMP 7|2|PUNCT
+%sit:	219
+*CHI:	Sue, if I come in will you get sick ?
+%mor:	noun|Sue cm|cm sconj|if pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adv|in aux|will-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S adj|sick-Pos-S1 ?
+%gra:	1|9|VOCATIVE 2|9|PUNCT 3|5|MARK 4|5|NSUBJ 5|9|ADVCL 6|5|COMPOUND-PRT 7|9|AUX 8|9|NSUBJ 9|10|ROOT 10|9|XCOMP 11|9|PUNCT
+%sit:	220
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	220
+*CHI:	I made caca [= poo] so I don't have a bellyache .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Fin-Ind-Past-S1 noun|caca adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S det|a-Ind-Art noun|bellyache .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|OBJ 4|8|MARK 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|PARATAXIS 9|10|DET 10|8|OBJ 11|2|PUNCT
+%sit:	221
+@End

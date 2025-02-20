@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00010873-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;03.27|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	17-JUN-1973
+@Types:	long, toyplay, TD
+*CHI:	pipit@c [= blanket] .
+%mor:	noun|pipit .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	j6_16_33
+*CHI:	my pipit@c [= blanket] downstairs .
+%mor:	pron|my-Prs-Gen-S1 noun|pipit noun|downstairs .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	j6_16_33
+*MOT:	no, it isn't .
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%sit:	j6_16_33
+*MOT:	it's right there .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|right adv|there .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	j6_16_33
+*CHI:	I thought my pipit@c [= blanket] was downstairs .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|pipit aux|be-Fin-Ind-Past-S3 adv|downstairs .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NMOD-POSS 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|2|PUNCT
+%sit:	j6_16_33
+@End

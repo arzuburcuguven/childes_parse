@@ -1,0 +1,112 @@
+@UTF8
+@PID:	11312/c-00010722-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;10.09|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	29-DEC-1972
+@Types:	long, toyplay, TD
+*CHI:	hello, Susan .
+%mor:	intj|hello cm|cm noun|Susan .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%sit:	688
+*CHI:	I got you .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	688
+*CHI:	this is Deedee's [: Joanna's] .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|Joanna~part|s .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%sit:	689 numerous times
+*CHI:	this is Laura's .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|Laura~part|s .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%sit:	689 numerous times
+*CHI:	I'm tired .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|tired-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	690
+*MOT:	Joanna and Laura, you know what ?
+%mor:	noun|Joanna cconj|and noun|Laura cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 ?
+%gra:	1|6|VOCATIVE 2|3|CC 3|1|CONJ 4|1|PUNCT 5|6|NSUBJ 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	691
+*MOT:	tomorrow you're gonna sleep at Missus_Gluck's .
+%mor:	noun|tomorrow pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|gonna verb|sleep-Inf-S adp|at noun|MissusGluck~part|s .
+%gra:	1|5|OBL-TMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|7|CASE 7|5|OBL 8|7|CASE 9|5|PUNCT
+%sit:	691
+*SIS:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	691
+*SIS:	goo(d), yay .
+%mor:	adj|good-Pos-S1 cm|cm intj|yay .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%sit:	691
+*CHI:	I don't .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	691
+*CHI:	I don't .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	691
+*CHI:	no, no, Peanus [: Peanuts] .
+%mor:	intj|no cm|cm intj|no cm|cm noun|peanut-Plur .
+%gra:	1|5|ROOT 2|1|PUNCT 3|5|DISCOURSE 4|5|PUNCT 5|1|PARATAXIS 6|1|PUNCT
+%sit:	692
+*CHI:	I got you, Peanus [: Peanuts] .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 cm|cm noun|Peanut-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|PUNCT 5|2|PARATAXIS 6|2|PUNCT
+%sit:	692
+*CHI:	I got, Peanus [: Peanuts] .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 cm|cm noun|peanut-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|PUNCT 4|2|OBJ 5|2|PUNCT
+%sit:	692
+*CHI:	I got, Peanus [: Peanuts] .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 cm|cm noun|peanut-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|PUNCT 4|2|OBJ 5|2|PUNCT
+%sit:	692
+*CHI:	there we are Peanus [: Peanuts] .
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 noun|peanut-Plur .
+%gra:	1|4|EXPL 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%sit:	693
+*CHI:	I go see vacuum_cleaner .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|see-Inf-S noun|vacuumcleaner .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%sit:	694
+*MOT:	Jack has momentarily parked the car illegally .
+%mor:	noun|Jack aux|have-Fin-Ind-Pres-S3 adv|momentarily verb|park-Part-Past-S det|the-Def-Art noun|car adv|illegally .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%sit:	695
+*CHI:	he bad girl .
+%mor:	pron|he-Prs-Nom-S3 adj|bad-Pos-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	695
+*CHI:	he bad girl .
+%mor:	pron|he-Prs-Nom-S3 adj|bad-Pos-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	695
+*CHI:	Deedee [: Joanna] hafta quiet .
+%mor:	noun|Joanna x|hafta noun|quiet .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|CONJ 4|1|PUNCT
+%sit:	696
+*CHI:	Laura sleeping .
+%mor:	noun|Laura verb|sleep-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	696
+*CHI:	tangled .
+%mor:	verb|tangle-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	697
+*CHI:	tangled .
+%mor:	verb|tangle-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	697
+*CHI:	I can't find it .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|find-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	698
+@End

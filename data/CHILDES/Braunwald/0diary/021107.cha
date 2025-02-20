@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/c-00011079-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;11.07|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	27-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	you guys, you noticed that I'm gonna beat you .
+%mor:	pron|you-Prs-Nom-S2 noun|guy-Plur cm|cm pron|you-Prs-Nom-S2 verb|notice-Fin-Ind-Past-S2 sconj|that pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|beat-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|DEP 2|5|VOCATIVE 3|2|PUNCT 4|5|NSUBJ 5|11|ROOT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|CCOMP 11|10|OBJ 12|5|PUNCT
+%sit:	317
+*CHI:	when Joanna's at school you're only my mother .
+%mor:	adv|when noun|Joanna~part|s adp|at noun|school pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|only pron|my-Prs-Gen-S1 noun|mother .
+%gra:	1|2|ADVMOD 2|10|NSUBJ 3|2|CASE 4|5|CASE 5|2|NMOD 6|10|NSUBJ 7|10|COP 8|10|ADVMOD 9|10|NMOD-POSS 10|10|ROOT 11|10|PUNCT
+%sit:	318
+*MOT:	no, I'm still Jo's [: Joanna's] mother, but I only take care of you .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|still noun|Joanna~part|s noun|mother cm|cm cconj|but pron|I-Prs-Nom-S1 adv|only verb|take-Fin-Ind-Pres-S1 noun|care adp|of pron|you-Prs-Acc-S2 .
+%gra:	1|8|DISCOURSE 2|8|PUNCT 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|NMOD-POSS 7|6|CASE 8|16|ROOT 9|13|PUNCT 10|13|CC 11|13|NSUBJ 12|13|ADVMOD 13|8|CONJ 14|13|OBJ 15|16|CASE 16|13|OBL 17|8|PUNCT
+%sit:	318
+*CHI:	when I'm at schoo(l) you only take care of Jo [: Joanna] .
+%mor:	adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|at noun|school pron|you-Prs-Nom-S2 adv|only verb|take-Fin-Ind-Pres-S2 noun|care adp|of noun|Joanna .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|CASE 5|8|ADVCL 6|8|NSUBJ 7|8|ADVMOD 8|11|ROOT 9|8|OBJ 10|11|CASE 11|8|OBL 12|8|PUNCT
+%sit:	318
+*MOT:	no, when you're at school I only take care of Sue .
+%mor:	intj|no cm|cm adv|when pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|at noun|school pron|I-Prs-Nom-S1 adv|only verb|take-Fin-Ind-Pres-S1 noun|care adp|of noun|Sue .
+%gra:	1|10|DISCOURSE 2|10|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|COP 6|7|CASE 7|10|ADVCL 8|10|NSUBJ 9|10|ADVMOD 10|13|ROOT 11|10|OBJ 12|13|CASE 13|10|OBL 14|10|PUNCT
+%sit:	318
+*MOT:	you and Jo [: Joanna] are both at school .
+%mor:	pron|you-Prs-Nom-S2 cconj|and noun|Joanna aux|be-Fin-Ind-Pres-P3 adv|both adp|at noun|school .
+%gra:	1|7|NSUBJ 2|3|CC 3|1|CONJ 4|7|COP 5|7|ADVMOD 6|7|CASE 7|7|ROOT 8|7|PUNCT
+%sit:	318
+@End

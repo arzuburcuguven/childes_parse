@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00010893-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;04.18|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	08-JUL-1973
+@Types:	long, toyplay, TD
+*CHI:	little bit cream, okay Mama ?
+%mor:	adj|little-Pos-S1 noun|bit noun|cream cm|cm adj|okay-Pos-S1 noun|mama ?
+%gra:	1|2|AMOD 2|3|NMOD-NPMOD 3|6|ROOT 4|3|PUNCT 5|6|AMOD 6|3|PARATAXIS 7|3|PUNCT
+%sit:	278
+*CHI:	wanna little bit cream after milk .
+%mor:	intj|wanna adj|little-Pos-S1 noun|bit noun|cream adp|after noun|milk .
+%gra:	1|4|DISCOURSE 2|3|AMOD 3|4|NMOD-NPMOD 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%sit:	278
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	278
+*CHI:	whose that recorder player is ?
+%mor:	pron|whose-Rel-S1 det|that-Def-Dem noun|recorder noun|player aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|4|NMOD-POSS 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%sit:	279
+*MOT:	Laura's .
+%mor:	noun|Laura~part|s .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+%sit:	279
+*CHI:	whose that recorder player is ?
+%mor:	pron|whose-Rel-S1 det|that-Def-Dem noun|recorder noun|player aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|4|NMOD-POSS 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%sit:	279
+*MOT:	Laura's .
+%mor:	noun|Laura~part|s .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+%sit:	279
+*CHI:	a balloon .
+%mor:	det|a-Ind-Art noun|balloon .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	280
+*CHI:	two balloons .
+%mor:	num|two noun|balloon-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%sit:	280
+*CHI:	bet those are balloons, aren't (th)em ?
+%mor:	verb|bet-Fin-Imp-S pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|balloon-Plur cm|cm aux|be-Fin-Ind-Pres-P3~part|not pron|they-Prs-Acc-P3 ?
+%gra:	1|8|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT 6|8|COP 7|8|ADVMOD 8|1|PARATAXIS 9|1|PUNCT
+%sit:	280
+@End

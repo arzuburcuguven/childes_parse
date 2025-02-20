@@ -1,0 +1,83 @@
+@UTF8
+@PID:	11312/c-00010548-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;04.10|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	30-JUN-1972
+@Types:	long, toyplay, TD
+*CHI:	cy [: cry] .
+%mor:	verb|cry-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	733
+*CHI:	baby cy [: cry] .
+%mor:	noun|baby noun|cry .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	734
+*CHI:	bow(wow) cy [: cry] .
+%mor:	intj|bowwow verb|cry-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	735
+*MOT:	bow(wow) bark .
+%mor:	noun|bowwow noun|bark .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	735
+*CHI:	bar(k) bar(k) .
+%mor:	noun|bark noun|bark .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	735
+*CHI:	hi bar(k) .
+%mor:	intj|hi noun|bark .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	735
+*CHI:	baby baby cy [: cry] hi cy [: cry] cy [: cry] cy [: cry] .
+%mor:	noun|baby noun|baby noun|cry intj|hi verb|cry-Fin-Imp-S verb|cry-Fin-Imp-S verb|cry-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|7|ROOT 4|5|DISCOURSE 5|3|PARATAXIS 6|5|PARATAXIS 7|6|XCOMP 8|3|PUNCT
+%sit:	736
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	737
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	737
+*CHI:	baby baby cy [: cry] .
+%mor:	noun|baby noun|baby noun|cry .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	737
+*CHI:	bowwow cy [: cry] .
+%mor:	intj|bowwow verb|cry-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	738
+*MOT:	no bowwow bark .
+%mor:	det|no-Def noun|bowwow noun|bark .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	738
+*CHI:	bar(k) bar(k) bar(k) .
+%mor:	noun|bark noun|bark noun|bark .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	738
+*CHI:	bowwow bar(k) .
+%mor:	noun|bowwow noun|bark .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	738
+*CHI:	hi bar(k) hi bar(k) .
+%mor:	intj|hi verb|bark-Fin-Imp-S intj|hi noun|bark .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DISCOURSE 4|2|OBJ 5|2|PUNCT
+%sit:	738
+*CHI:	(y)um (y)um goo(d) .
+%mor:	intj|yum noun|yum adj|good-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	739
+*CHI:	hi bowwow .
+%mor:	intj|hi intj|bowwow .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%sit:	740
+*CHI:	sa@b Dada .
+%mor:	noun|sa noun|Dada .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	741
+@End

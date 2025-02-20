@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/c-00010787-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;00.14|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	06-MAR-1973
+@Types:	long, toyplay, TD
+*CHI:	I did woke [: wake] [*] up .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1 verb|wake-Inf-S adp|up .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%sit:	201
+*MOT:	you did .
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	201
+*CHI:	raining .
+%mor:	verb|rain-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	202
+*CHI:	pouring .
+%mor:	noun|pour .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	202
+*CHI:	rain rain go away .
+%mor:	noun|rain noun|rain verb|go-Fin-Imp-S adv|away .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%sit:	202
+*CHI:	old man get bump .
+%mor:	adj|old-Pos-S1 noun|man verb|get-Fin-S noun|bump .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	202
+*CHI:	Sue look have piece of gum .
+%mor:	noun|Sue verb|look-Fin-Imp-S verb|have-Fin-S noun|piece adp|of noun|gum .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|3|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+%sit:	203
+*MOT:	no, it's all_gone .
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|allgone-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%sit:	203
+*MOT:	I'll put it on my grocery list .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on pron|my-Prs-Gen-S1 noun|grocery noun|list .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+%sit:	203
+*CHI:	look you purse .
+%mor:	verb|look-Fin-Imp-S pron|you-Prs-Gen-S2 noun|purse .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%sit:	203
+*CHI:	can I have some of you egg Deedee [: Joanna] ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def adp|of pron|you-Prs-Acc-S2 noun|egg noun|Joanna ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|4|NMOD 7|8|COMPOUND 8|4|NMOD 9|3|PUNCT
+%sit:	204
+*CHI:	not two enough .
+%mor:	part|not num|two adv|enough .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	205
+*CHI:	is it uppie time ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|uppie-Pos-S1 noun|time ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%sit:	206
+*CHI:	is it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%sit:	206
+*CHI:	is it ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%sit:	206
+*MOT:	no, it isn't .
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%sit:	206
+*CHI:	yes it is .
+%mor:	intj|yes pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	206
+*CHI:	pouring .
+%mor:	noun|pour .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	207
+*CHI:	not go outside .
+%mor:	part|not verb|go-Fin-Imp-S adv|outside .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	207
+*CHI:	Winnie_The_Pooh teared .
+%mor:	noun|WinnieThePooh verb|tear-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	208
+*CHI:	I wear my hat .
+%mor:	pron|I-Prs-Nom-S1 verb|wear-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|hat .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	209
+*CHI:	my man .
+%mor:	pron|my-Prs-Gen-S1 noun|man .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	209
+*CHI:	get you shoe off .
+%mor:	verb|get-Fin-Imp-S pron|you-Prs-Gen-S2 noun|shoe adv|off .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%sit:	210
+*MOT:	you wanna wear my shoes ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S verb|wear-Inf-S pron|my-Prs-Gen-S1 noun|shoe-Plur ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%sit:	210
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	210
+*CHI:	I carry it for you .
+%mor:	pron|I-Prs-Nom-S1 verb|carry-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%sit:	211
+*CHI:	you don't change my diapers .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|change-Inf-S pron|my-Prs-Gen-S1 noun|diaper-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%sit:	212
+*CHI:	I take my coat off .
+%mor:	pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|coat adv|off .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%sit:	213
+*CHI:	wrong way .
+%mor:	adj|wrong-Pos-S1 noun|way .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	214
+@End

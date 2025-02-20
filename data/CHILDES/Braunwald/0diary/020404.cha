@@ -1,0 +1,22 @@
+@UTF8
+@PID:	11312/c-00010880-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;04.04|female|||Target_Child|||
+@Date:	24-JUN-1973
+@Types:	long, toyplay, TD
+*CHI:	my shoes will get wet .
+%mor:	pron|my-Prs-Gen-S1 noun|shoe-Plur aux|will-Fin-S verb|get-Inf-S adj|wet-Pos-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%sit:	171
+*CHI:	I don't care my shoes get wet .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|care-Inf-S pron|my-Prs-Gen-S1 noun|shoe-Plur verb|get-Inf-S adj|wet-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|NMOD-POSS 6|7|NSUBJ 7|4|CCOMP 8|7|XCOMP 9|4|PUNCT
+%sit:	171
+*CHI:	I don't care .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|care-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	171
+@End

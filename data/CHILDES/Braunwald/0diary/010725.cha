@@ -1,0 +1,215 @@
+@UTF8
+@PID:	11312/c-00010649-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;07.25|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	15-OCT-1972
+@Types:	long, toyplay, TD
+*CHI:	byebye car .
+%mor:	noun|Byebye noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1304
+*CHI:	car ride .
+%mor:	noun|car noun|ride .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1304
+*CHI:	Baura [: Laura] talk .
+%mor:	noun|Laura verb|talk-Fin-Ind-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1305
+*CHI:	open Daddy car .
+%mor:	verb|open-Inf-S noun|Daddy noun|car .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	1306
+*CHI:	open Daddy car .
+%mor:	verb|open-Inf-S noun|Daddy noun|car .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	1306
+*CHI:	Sue downstairs downstairs .
+%mor:	noun|Sue noun|downstairs noun|downstairs .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1307
+*MOT:	did you go down the stair ?
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|go-Inf-S adp|down det|the-Def-Art noun|stair ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%sit:	1307
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1307
+*CHI:	wash Sue hair .
+%mor:	verb|wash-Fin-Imp-S noun|Sue noun|hair .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	1308
+*CHI:	wash Sue hair .
+%mor:	verb|wash-Fin-Imp-S noun|Sue noun|hair .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	1308
+*MOT:	yeah, I'm washing my hair .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|wash-Part-Pres-S pron|my-Prs-Gen-S1 noun|hair .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+%sit:	1308
+*CHI:	doll wet .
+%mor:	noun|doll adj|wet-Pos-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%sit:	1309
+*CHI:	hair wet .
+%mor:	noun|hair adj|wet-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1309
+*MOT:	is the doll's hair wet ?
+%mor:	aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|doll~part|s noun|hair adj|wet-Pos-S1 ?
+%gra:	1|6|COP 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%sit:	1309
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1309
+*CHI:	Sue hair wet .
+%mor:	noun|Sue noun|hair adj|wet-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1310
+*CHI:	don't .
+%mor:	verb|do-Fin-Imp-S~part|not .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1311
+*CHI:	more dandaid [: bandaid] papoom [: bathroom] .
+%mor:	adj|more-Cmp-S1 noun|bandaid noun|bathroom .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1311
+*CHI:	Mommy toy away .
+%mor:	noun|Mommy noun|toy adv|away .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	1312
+*CHI:	Daddy byebye (g)reen car .
+%mor:	noun|Daddy noun|Byebye adj|green-Pos-S1 noun|car .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|AMOD 4|1|APPOS 5|1|PUNCT
+%sit:	1313
+*MOT:	no, the green car's here .
+%mor:	intj|no cm|cm det|the-Def-Art adj|green-Pos-S1 noun|car~aux|be-Fin-Ind-Pres-S3 adv|here .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%sit:	1313
+*MOT:	Daddy went byebye blue car .
+%mor:	noun|Daddy verb|go-Fin-Ind-Past-S3 noun|byebye adj|blue-Pos-S1 noun|car .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|COMPOUND 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%sit:	1313
+*CHI:	Daddy byebye (g)reen car .
+%mor:	noun|Daddy noun|Byebye adj|green-Pos-S1 noun|car .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|AMOD 4|1|APPOS 5|1|PUNCT
+%sit:	1313
+*MOT:	let's put on your goody pants .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S adp|on pron|your-Prs-Gen-S2 noun|goody noun|pant-Plur .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|NMOD-POSS 6|7|COMPOUND 7|3|OBJ 8|1|PUNCT
+%sit:	1314
+*CHI:	in goody pant .
+%mor:	adp|in adj|goody-Pos-S1 noun|pant .
+%gra:	1|3|CASE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1314
+*CHI:	in goody pant .
+%mor:	adp|in adj|goody-Pos-S1 noun|pant .
+%gra:	1|3|CASE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1314
+*CHI:	Daddy Daddy jacket .
+%mor:	noun|Daddy noun|Daddy noun|jacket .
+%gra:	1|3|COMPOUND 2|1|FLAT 3|3|ROOT 4|3|PUNCT
+%sit:	1315
+*MOT:	yes, that's Daddy's jacket .
+%mor:	intj|yes cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Daddy~part|s noun|jacket .
+%gra:	1|7|DISCOURSE 2|7|PUNCT 3|7|NSUBJ 4|7|COP 5|7|NMOD-POSS 6|5|CASE 7|7|ROOT 8|7|PUNCT
+%sit:	1315
+*CHI:	pretty pretty .
+%mor:	adv|pretty adj|pretty-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1315
+*MOT:	do you like Daddy's jacket ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S noun|Daddy~part|s noun|jacket ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|3|PUNCT
+%sit:	1315
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1315
+*CHI:	zebra .
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1316
+*CHI:	zebra .
+%mor:	noun|zebra .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1316
+*CHI:	egg book .
+%mor:	noun|egg noun|book .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1317
+*CHI:	Laura egg book .
+%mor:	noun|Laura noun|egg noun|book .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1317
+*CHI:	Sue back soon .
+%mor:	noun|Sue adv|back adv|soon .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	1318
+*CHI:	Sue back soon .
+%mor:	noun|Sue adv|back adv|soon .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	1318
+*CHI:	lie down pipit@c [= blanket] .
+%mor:	verb|lie-Fin-Imp-S adp|down noun|pipit .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+%sit:	1319
+*CHI:	cat fight .
+%mor:	noun|cat noun|fight .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1320
+*MOT:	who wants more cheese ?
+%mor:	pron|who-Rel-S1 verb|want-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|cheese ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%sit:	1321
+*CHI:	me, me, I do .
+%mor:	pron|I-Prs-Acc-S1 cm|cm pron|I-Prs-Acc-S1 cm|cm pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|1|VOCATIVE 4|3|PUNCT 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%sit:	1321
+*MOT:	where's Laura ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Laura ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	1323
+*CHI:	I are .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1323
+*CHI:	shut_up Deedee [: Joanna] .
+%mor:	verb|shutup-Fin-Imp-S noun|Joanna .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1324
+*CHI:	shut_up, Deedee [: Joanna] .
+%mor:	noun|shutup cm|cm noun|Joanna .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+%sit:	1324
+*CHI:	Laura bump head .
+%mor:	noun|Laura verb|bump-Fin-Ind-S noun|head .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1325
+*CHI:	Laura bump head .
+%mor:	noun|Laura verb|bump-Fin-Ind-S noun|head .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1325
+*CHI:	Laura open Sue car .
+%mor:	noun|Laura verb|open-Fin-Ind-Pres-S noun|Sue noun|car .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%sit:	1326
+*CHI:	open Laura Sue car .
+%mor:	verb|open-Inf-S noun|Laura noun|Sue noun|car .
+%gra:	1|4|ROOT 2|4|COMPOUND 3|2|FLAT 4|1|OBJ 5|1|PUNCT
+%sit:	1326
+*CHI:	Mommy push me .
+%mor:	noun|Mommy verb|push-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1327
+*CHI:	Sue push me .
+%mor:	noun|Sue verb|push-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1327
+@End

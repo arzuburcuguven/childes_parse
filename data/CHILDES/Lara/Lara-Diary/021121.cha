@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/c-00018077-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;11.21|female|||Target_Child|||
+@Date:	06-MAY-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	what are those for ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|that-Dem-P1 adp|for ?
+%gra:	1|4|ROOT 2|1|COP 3|1|NSUBJ 4|1|CASE 5|1|PUNCT
+*CHI:	what should I do then ?
+%mor:	pron|what-Int-S1 aux|should-Fin-S pron|I-Prs-Nom-S1 verb|do-Inf-S adv|then ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	where has Amy ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 noun|Amy ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	replaced by
+*CHI:	where has Amy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Amy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what do you hafta do with it ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|hafta verb|do-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|3|APPOS 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	what is that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	where (i)s dolly ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|dolly ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	where has her sister gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|sister verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+@End

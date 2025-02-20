@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/c-00011105-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;00.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	23-FEB-1974
+@Types:	long, toyplay, TD
+*CHI:	if I was a baby I would use it .
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art noun|baby pron|I-Prs-Nom-S1 aux|would-Fin-S verb|use-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|DET 5|8|ADVCL 6|8|NSUBJ 7|8|AUX 8|9|ROOT 9|8|OBJ 10|8|PUNCT
+%sit:	483
+*CHI:	I'll show you which one I did already .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|show-Inf-S pron|you-Prs-Acc-S2 det|which-Def-Int noun|one pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 adv|already .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|IOBJ 5|6|DET 6|8|OBJ 7|8|NSUBJ 8|3|CCOMP 9|8|ADVMOD 10|3|PUNCT
+%sit:	484
+*CHI:	it's better sitting down .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 verb|sit-Ger-S adv|down .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|3|ADVCL 5|4|ADVMOD 6|3|PUNCT
+%sit:	485
+*CHI:	Mommy, Steven did something dangerous .
+%mor:	noun|Mommy cm|cm noun|Steven verb|do-Fin-Ind-Past-S3 pron|something-Ind-S1 adj|dangerous-Pos-S1 .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+%sit:	486
+*MOT:	what's she doing ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	486
+*CHI:	down there on the swingset .
+%mor:	adv|down adv|there adp|on det|the-Def-Art noun|swingset .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%sit:	486
+*CHI:	well, Jo [: Joanna], next time you see him you call him a bad boy .
+%mor:	intj|well cm|cm noun|Joanna cm|cm adj|next-Pos-S1 noun|time pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 pron|you-Prs-Nom-S2 verb|call-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 det|a-Ind-Art adj|bad-Pos-S1 noun|boy .
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|11|VOCATIVE 4|11|PUNCT 5|6|AMOD 6|11|OBL-TMOD 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|11|NSUBJ 11|15|ROOT 12|11|OBJ 13|15|DET 14|15|AMOD 15|11|XCOMP 16|11|PUNCT
+%sit:	487
+*SIS:	uhuh .
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	487
+*CHI:	why, is he a nice boy ?
+%mor:	adv|why cm|cm aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 det|a-Ind-Art adj|nice-Pos-S1 noun|boy ?
+%gra:	1|7|ADVMOD 2|7|PUNCT 3|7|COP 4|7|NSUBJ 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%sit:	487
+@End

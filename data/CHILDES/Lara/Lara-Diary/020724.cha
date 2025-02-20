@@ -1,0 +1,109 @@
+@UTF8
+@PID:	11312/c-00017961-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;07.24|female|||Target_Child|||
+@Date:	09-JAN-1997
+@Comment:	Mum and Dad
+@Types:	long, everyday, TD
+*CHI:	<what you did> [/] what you did go ? [+ UNINV]
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2 verb|go-Inf-S ?
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%com:	means where
+*CHI:	what you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what you doing with my clothes ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-S adp|with pron|my-Prs-Gen-S1 noun|clothes-Plur ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	what Mummy did do ?
+%mor:	pron|what-Rel-S1 noun|Mummy aux|do-Fin-Ind-Past-S3 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	what Mummy did do ?
+%mor:	pron|what-Rel-S1 noun|Mummy aux|do-Fin-Ind-Past-S3 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+@Comment:	Mum and Lara leave for nursery so next words in car on way home from nursery
+*CHI:	where (ha)s my coat gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|coat verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	where (ha)s the Christmas tree gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|Christmas noun|tree verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|XCOMP 7|2|PUNCT
+%com:	means magic tree air freshener
+*CHI:	where (ha)s Gizmo gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Gizmo verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where (i)s Rupert going ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|Rupert verb|go-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%com:	means where is Rupert going later
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what you did do ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%com:	when Mum whistled
+@Comment:	at home with Mum and Dad
+*CHI:	what (ha)s Amy got on ?
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S3 noun|Amy verb|get-Part-Past-S adv|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+@Comment:	in car on way to Safeway
+*CHI:	where didn't we park ?
+%mor:	adv|where aux|do-Fin-Ind-Past-P3~part|not pron|we-Prs-Nom-P1 verb|park-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%com:	means where are we gonna park
+*CHI:	where we park ?
+%mor:	adv|where pron|we-Prs-Nom-P1 verb|park-Fin-Ind-Pres-P1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%com:	means where are we gonna park
+@Comment:	in Safeway
+*CHI:	what (i)s that little girl ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|little-Pos-S1 noun|girl ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+%com:	means who
+*CHI:	where (ha)s Daddy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where (ha)s my Daddy gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	where (ha)s my Daddy gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	where (ha)s my Daddy gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+@Comment:	at home
+*CHI:	where (ha)s Amy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Amy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where ?
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	after Mum told her Dad had taken her plate away
+@Comment:	in bed reading story with dad
+*CHI:	where (i)s pricked her finger ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 verb|prick-Part-Past-S pron|her-Prs-Gen-S3 noun|finger ?
+%gra:	1|3|ADVMOD 2|3|AUX-PASS 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	where (i)s the black bird ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|black-Pos-S1 noun|bird ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	where (i)s the dragon ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dragon ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	where (i)s his mouth though ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|mouth adv|though ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|NSUBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	where (i)s the horsie ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|horsie ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	where (i)s the white horsie ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|white-Pos-S1 noun|horsie ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+@End

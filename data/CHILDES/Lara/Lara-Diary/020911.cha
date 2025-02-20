@@ -1,0 +1,330 @@
+@UTF8
+@PID:	11312/c-00018010-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;09.11|female|||Target_Child|||
+@Date:	27-FEB-1997
+@Comment:	Mum and Dad
+@Types:	long, everyday, TD
+*CHI:	what (i)s Amy gonna [: going to] do ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 noun|Amy verb|go-Part-Pres-S part|to verb|do-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	when Daddy (ha)s got clothes on ? [+ UNINV]
+%mor:	adv|when noun|Daddy aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S noun|clothes-Plur adv|on ?
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*CHI:	what_about me ?
+%mor:	verb|whatabout-Fin-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	what &=0have you done ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about my gloves ?
+%mor:	intj|whatabout pron|my-Prs-Gen-S1 noun|glove-Plur ?
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	what &=0are you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	how did you drop it like that ?
+%mor:	adv|how aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|drop-Inf-S pron|it-Prs-Acc-S3 adp|like pron|that-Dem-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*CHI:	why &=0has she gone in the broken car and gone to work why ?
+%mor:	adv|why pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adp|in det|the-Def-Art adj|broken-Pos-S1 noun|car cconj|and verb|go-Fin-Ind-Past-S3 adp|to noun|work adv|why ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|12|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|9|CC 9|3|CONJ 10|11|CASE 11|9|OBL 12|9|ADVMOD 13|3|PUNCT
+*CHI:	why is the lady crashed into our car why ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|lady verb|crash-Part-Past-S adp|into pron|our-Prs-Gen-P1 noun|car adv|why ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|9|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|ADVMOD 10|5|PUNCT
+*CHI:	what &=0are you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about this ?
+%mor:	intj|whatabout pron|this-Dem-S1 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	what &=0have you done ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	why is our car broken and the lady crashed into our car why ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|car verb|break-Part-Past-S cconj|and det|the-Def-Art noun|lady verb|crash-Fin-Ind-Past-S3 adp|into pron|our-Prs-Gen-P1 noun|car adv|why ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|NMOD-POSS 4|5|NSUBJ 5|13|ROOT 6|9|CC 7|8|DET 8|9|NSUBJ 9|5|CONJ 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|9|ADVMOD 14|5|PUNCT
+*CHI:	why is the car a bit broken why and the lady crashed into it why ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|car det|a-Ind-Art noun|bit verb|break-Part-Past-S adv|why cconj|and det|the-Def-Art noun|lady verb|crash-Fin-Ind-Past-S3 adp|into pron|it-Prs-Acc-S3 adv|why ?
+%gra:	1|7|ADVMOD 2|7|AUX-PASS 3|4|DET 4|7|NSUBJ-PASS 5|6|DET 6|7|OBL-NPMOD 7|15|ROOT 8|7|ADVMOD 9|12|CC 10|11|DET 11|12|NSUBJ 12|7|CONJ 13|14|CASE 14|12|OBL 15|12|ADVMOD 16|7|PUNCT
+%com:	after Dad said the car's a bit broken cos the lady crashed into it
+*CHI:	where (i)s my chocolate rolls ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|chocolate noun|roll-Plur ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what &=0have you done ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what &=0are you doing with that ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-S adp|with pron|that-Dem-S1 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	why are you doing that ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S pron|that-Dem-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	what &=0are you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what you do with it ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	where (ha)s the rain gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|rain verb|go-Part-Past-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	why you used them all up ?
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|use-Fin-Ind-Past-S2 pron|they-Prs-Acc-P3 det|all-Def adv|up ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|4|DET 6|3|ADVMOD 7|3|PUNCT
+%com:	after Dad said I've used them all up
+*CHI:	what_about her rest ?
+%mor:	verb|whatabout-Fin-Imp-S pron|her-Prs-Gen-S3 noun|rest ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	what_about your coat ?
+%mor:	verb|whatabout-Fin-Imp-S pron|your-Prs-Gen-S2 noun|coat ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	why the lady (i)s gonna [: going to] have her lunch why ? [+ UNINV]
+%mor:	adv|why det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|have-Inf-S pron|her-Prs-Gen-S3 noun|lunch adv|why ?
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|9|NMOD-POSS 9|7|OBJ 10|7|ADVMOD 11|5|PUNCT
+%com:	after Dad said the lady's gonna have her lunch
+*CHI:	where (ha)s More_Dadaw and Grandad gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 noun|MoreDadaw cconj|and noun|Grandad verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|OBJ 4|5|CC 5|3|CONJ 6|2|XCOMP 7|2|PUNCT
+*CHI:	what bought this ?
+%mor:	pron|what-Int-S1 verb|buy-Fin-Ind-Past-S3 pron|this-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	why she wasn't watching where she was going why ? [+ UNINV]
+%mor:	adv|why pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not verb|watch-Part-Pres-S adv|where pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 verb|go-Part-Pres-S adv|why ?
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|9|ADVMOD 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|9|ADVMOD 11|5|PUNCT
+%com:	after Dad said she wasn't watching where she was going ?
+*CHI:	why she was being a bit silly why ? [+ UNINV]
+%mor:	adv|why pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 aux|be-Ger-S det|a-Ind-Art noun|bit adj|silly-Pos-S1 adv|why ?
+%gra:	1|7|ADVMOD 2|7|NSUBJ 3|7|AUX 4|7|COP 5|6|DET 6|7|OBL-NPMOD 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+*CHI:	why you said brave brave girl why ? [+ UNINV]
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2 adj|brave-Pos-S1 adj|brave-Pos-S1 noun|girl adv|why ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|6|AMOD 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%com:	Mummy said you were a brave brave girl
+*CHI:	why is that lady's car broken ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem noun|lady~part|s noun|car verb|break-Part-Past-S ?
+%gra:	1|7|ADVMOD 2|7|AUX-PASS 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|7|NSUBJ-PASS 7|7|ROOT 8|7|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s he doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what &=0are we doing ?
+%mor:	pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|do-Part-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what &=0have you done ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	where (ha)s marbles box gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 noun|marble noun|box verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	where this go ?
+%mor:	adv|where det|this-Def-Dem verb|go-Fin-Ind-Pres-S ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about Womble ?
+%mor:	noun|whatabout noun|Womble ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	why nobody gonna [: going to] crash why ?
+%mor:	adv|why pron|nobody-Neg-S1 verb|go-Ger-S part|to verb|crash-Inf-S adv|why ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|3|PUNCT
+%com:	after Dad nobody's gonna crash
+*CHI:	why &=0are we not going to go too fast ?
+%mor:	adv|why pron|we-Prs-Nom-P1 part|not verb|go-Part-Pres-S part|to verb|go-Inf-S adv|too adv|fast ?
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|ADVMOD 8|6|ADVMOD 9|4|PUNCT
+%com:	after Mum says we're not gonna go too fast
+*CHI:	where (ha)s my coat gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|coat verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	what was it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	why was it loud ?
+%mor:	adv|why aux|be-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 adj|loud-Pos-S1 ?
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%com:	after Mum says it was loud
+*CHI:	where (ha)s the lady gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lady verb|go-Part-Past-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	where (i)s our home ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|home ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s over there ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adp|over adv|there ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	what (i)s there ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what &=0are you watching ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|watch-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	why is it finished ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|finish-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	who (i)s gonna [: going to] look after Amy then ?
+%mor:	pron|who-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|look-Inf-S adp|after noun|Amy adv|then ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|3|PUNCT
+*CHI:	where (ha)s Sarah gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Sarah verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what &=0are you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	why &=0are we going to Safeway's ?
+%mor:	adv|why pron|we-Prs-Nom-P1 verb|go-Ger-S adp|to noun|Safeway~part|s ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|5|CASE 5|3|OBL 6|5|CASE 7|3|PUNCT
+*CHI:	what &=0are you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	why somebody crashed into our car ?
+%mor:	adv|why pron|somebody-Ind-S1 verb|crash-Fin-Ind-Past-S3 adp|into pron|our-Prs-Gen-P1 noun|car ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	why &=0are you going quite slowly ?
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|go-Ger-S adv|quite adv|slowly ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*CHI:	why are you going quite slowly and somebody won't crash into us ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S adv|quite adv|slowly cconj|and pron|somebody-Ind-S1 aux|will-Fin-S~part|not verb|crash-Inf-S adp|into pron|we-Prs-Acc-P1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|13|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|4|CONJ 12|13|CASE 13|11|OBL 14|4|PUNCT
+*CHI:	what &=0are you doing , Mummy ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-S cm|cm noun|Mummy ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|5|ROOT 4|5|PUNCT 5|3|OBJ 6|3|PUNCT
+*CHI:	where (ha)s Daddy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	why I was a brave brave girl ?
+%mor:	adv|why pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art adj|brave-Pos-S1 adj|brave-Pos-S1 noun|girl ?
+%gra:	1|7|ROOT 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|AMOD 6|7|AMOD 7|1|ADVCL-RELCL 8|1|PUNCT
+%com:	after Dad said Mummy said you were a brave girl
+*CHI:	where (ha)s the Womble gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|Womble verb|go-Part-Past-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	where (ha)s my Womble gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|Womble verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about my biscuit ?
+%mor:	intj|whatabout pron|my-Prs-Gen-S1 noun|biscuit ?
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what &=0have you done ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about this ?
+%mor:	intj|whatabout pron|this-Dem-S1 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what (i)s on ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adv|on ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s on telly ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adp|on noun|telly ?
+%gra:	1|4|ROOT 2|1|COP 3|4|CASE 4|1|NMOD 5|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what from ?
+%mor:	pron|what-Int-S1 adp|from ?
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+*CHI:	what from please ?
+%mor:	pron|what-Int-S1 adp|from intj|please ?
+%gra:	1|3|ROOT 2|1|CASE 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	what &=0are you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s those ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-P1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	why did you do that ?
+%mor:	adv|why aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S pron|that-Dem-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	what_about my gloves ?
+%mor:	intj|whatabout pron|my-Prs-Gen-S1 noun|glove-Plur ?
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	why is this broken ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 verb|break-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	why nobody can crash into us ?
+%mor:	adv|why pron|nobody-Neg-S1 aux|can-Fin-S verb|crash-Inf-S adp|into pron|we-Prs-Acc-P1 ?
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%com:	after Dad says noone is going to crash into us
+*CHI:	where (ha)s Mummy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Mummy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where (ha)s Daddy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	how did you found [*] this one ?
+%mor:	adv|how aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|find-Part-Past-S det|this-Def-Dem noun|one ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

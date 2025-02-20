@@ -1,0 +1,258 @@
+@UTF8
+@PID:	11312/c-00016761-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, INV Investigator
+@Options:	multi
+@ID:	eng|McMillan|MOT||female|||Mother|||
+@ID:	eng|McMillan|CHI|2;04.|female|||Target_Child|||
+@ID:	eng|McMillan|INV|||||Investigator|||
+@Media:	sarah, video
+@Situation:	Sarah is looking at a book with her mother
+@Types:	cross, book, TD
+*MOT:	is that a girl ? 23426_25319
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|girl ?
+%gra:	1|4|ROOT 2|4|DET 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	what else is in this book ? 25319_29000
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 adp|in det|this-Def-Dem noun|book ?
+%gra:	1|3|NSUBJ 2|1|AMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	oh ! 29000_30579
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what else do you see ? 30579_32804
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	what that ? 32804_34194
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	that's +... 34194_35800
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	look . 35600_36000
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's the girl , isn't it ? 36000_38000
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|girl cm|cm aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|8|ROOT 5|8|PUNCT 6|8|COP 7|8|ADVMOD 8|4|PARATAXIS 9|4|PUNCT
+*CHI:	xxx . 38000_40083
+*MOT:	dog ? 40083_40961
+%mor:	noun|dog ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dog ! 40961_41661
+%mor:	noun|dog !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	dog , that's right , you're a smart girl . 41661_43800
+%mor:	noun|dog cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|smart-Pos-S1 noun|girl .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|11|ROOT 6|5|PUNCT 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|AMOD 11|5|PARATAXIS 12|5|PUNCT
+*CHI:	dog dog , dog . 43800_46626
+%mor:	noun|dog noun|dog cm|cm noun|dog .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|2|PUNCT 4|2|CONJ 5|2|PUNCT
+*MOT:	(o)kay , wanna turn the page when you're ready ? 46626_49023
+%mor:	intj|okay cm|cm intj|wanna verb|turn-Fin-Imp-S det|the-Def-Art noun|page adv|when pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|ready-Pos-S1 ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DISCOURSE 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|ADVMOD 8|10|NSUBJ 9|10|COP 10|4|ADVCL 11|4|PUNCT
+*CHI:	dog . 49023_52258
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(o)kay . 52258_53896
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh . 53896_55630
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what else do you see ? 55630_57170
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	&-eh ? 57170_58468
+*CHI:	oh no . 58468_60137
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	you said oh no ?
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2 intj|oh intj|no ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|DISCOURSE 4|2|DISCOURSE 5|2|PUNCT
+*MOT:	yeah , he's taking the stick from the policeman , isn't he ? 60137_64837
+%mor:	intj|yeah cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|the-Def-Art noun|stick adp|from det|the-Def-Art noun|policeman cm|cm aux|be-Fin-Ind-Pres-S3~part|not pron|he-Prs-Nom-S3 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|14|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT 12|5|PARATAXIS 13|12|ADVMOD 14|5|PARATAXIS 15|5|PUNCT
+%com:	chi is making effortful sounds as she tries to grab the picture in the book
+*MOT:	are you trying to take that from him ? 64837_69487
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|try-Part-Pres-S part|to verb|take-Inf-S pron|that-Dem-S1 adp|from pron|he-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|3|PUNCT
+*CHI:	oh no . 69487_71430
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	oh no . 71430_72915
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	xxx . 72915_75123
+*CHI:	oh no . 75123_78188
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	oh no . 78188_81842
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*INV:	hi there . 81842_85270
+%mor:	intj|hi adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	are we ready to go onto another page ? 85270_87539
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adj|ready-Pos-S1 part|to verb|go-Inf-S adp|onto det|another-Def noun|page ?
+%gra:	1|3|COP 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*CHI:	yeah &=sigh . 87539_91000
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(o)kay . 91000_91700
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . 91700_93700
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh no ! 93700_94518
+%mor:	intj|oh intj|no !
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	is she playing peekaboo ? 94518_96253
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|play-Part-Pres-S noun|peekaboo ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	what ? 96253_97228
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	peekaboo ? 97228_98054
+%mor:	noun|peekaboo ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	baby . 98054_102693
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	baby ? 102693_103699
+%mor:	noun|baby ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	baby . 103699_105283
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	baby . 105283_106308
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(o)kay , what else do you see ? 106308_109048
+%mor:	intj|okay cm|cm pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|OBJ 4|3|ADVMOD 5|7|AUX 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+*CHI:	a baby . 107608_109048
+%mor:	det|a-Ind-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	yeah , you see a baby ? 109048_110173
+%mor:	intj|yeah cm|cm pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|a-Ind-Art noun|baby ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	a baby . 112173_115047
+%mor:	det|a-Ind-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	there is a baby ? 115047_116437
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|baby ?
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	a baby ? 116437_117937
+%mor:	det|a-Ind-Art noun|baby ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	mhm . 117937_118937
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what about the moon ?
+%mor:	pron|what-Int-S1 adp|about det|the-Def-Art noun|moon ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*MOT:	where's the moon ? 121037_123159
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|moon ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	look back on this page .
+%mor:	verb|look-Fin-Imp-S adv|back adp|on det|this-Def-Dem noun|page .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*MOT:	do you see a moon ? 123990_126000
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|a-Ind-Art noun|moon ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	moon ? 126275_126676
+%mor:	noun|moon ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	moon ? 126676_127700
+%mor:	noun|moon ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where's the dog ? 129000_130356
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dog ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	the dog . 130356_132137
+%mor:	det|the-Def-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	dog ! 132137_133058
+%mor:	noun|dog !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a dog . 133058_134769
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	where's the house ? 134769_136266
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|house ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	dog . 136266_137166
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dog . 137166_138522
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's that called ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|call-Part-Past-S ?
+%gra:	1|4|OBJ 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	&~hau .
+*MOT:	what's that called ? 138522_142069
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|call-Part-Past-S ?
+%gra:	1|4|OBJ 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	&~ahga . 142069_143069
+*CHI:	&~ga . 143069_146069
+*MOT:	(o)kay . 146069_146747
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	more . 146747_148245
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	more ? 148245_149225
+%mor:	adj|more-Cmp-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look a ma(n) . 149225_150725
+%mor:	verb|look-Fin-Imp-S det|a-Ind-Art noun|man .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	that's a man , that's right . 150725_152671
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|man cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|8|ROOT 5|4|PUNCT 6|8|NSUBJ 7|8|COP 8|4|PARATAXIS 9|4|PUNCT
+*CHI:	xxx . 152671_157499
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's that ? 159499_163099
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what's that ? 163099_166592
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	that's a girl . 166592_167710
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	that ? 167710_171231
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a lion . 171231_172355
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lion .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	lion . 172355_173355
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's a lion say ? 173355_174965
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lion verb|say-Inf-S ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|5|NSUBJ 5|1|ACL 6|1|PUNCT
+*CHI:	rar@o . 174965_175965
+%mor:	intj|rar .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's he got ? 175965_181449
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|get-Part-Past-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	that +... 181449_186950
+%mor:	pron|that-Dem-S1 +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a shoe . 186950_188169
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|shoe .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+@End

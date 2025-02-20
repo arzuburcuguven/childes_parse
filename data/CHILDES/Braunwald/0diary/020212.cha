@@ -1,0 +1,193 @@
+@UTF8
+@PID:	11312/c-00010841-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;02.12|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	02-MAY-1973
+@Types:	long, toyplay, TD
+*CHI:	what are we having ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	998
+*CHI:	what are we having ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	998
+*MOT:	what are we having for what ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Part-Pres-S adp|for pron|what-Rel-S1 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%sit:	998
+*CHI:	what are we having ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	998
+*MOT:	you mean for breakfast ?
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adp|for noun|breakfast ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%sit:	998
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	998
+*CHI:	give me salt when you done .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 noun|salt adv|when pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|1|OBJ 4|6|ADVMOD 5|6|NSUBJ 6|1|ADVCL 7|1|PUNCT
+%sit:	999
+*CHI:	give me salt when me when you done .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 noun|salt adv|when pron|I-Prs-Acc-S1 adv|when pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 .
+%gra:	1|8|ROOT 2|1|IOBJ 3|1|OBJ 4|5|ADVMOD 5|1|ADVCL 6|8|ADVMOD 7|8|NSUBJ 8|1|ADVCL 9|1|PUNCT
+%sit:	999
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	999
+*CHI:	I may use it .
+%mor:	pron|I-Prs-Nom-S1 aux|may-Fin-S verb|use-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1000
+*CHI:	I need Deedee [: Joanna] napkin .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 noun|Joanna noun|napkin .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%sit:	1000
+*CHI:	I need I for me .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%sit:	1000
+*CHI:	that was my number .
+%mor:	pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3 pron|my-Prs-Gen-S1 noun|number .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%sit:	1001
+*MOT:	it was ?
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1001
+*CHI:	that was my number .
+%mor:	pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3 pron|my-Prs-Gen-S1 noun|number .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%sit:	1001
+*MOT:	okay, have it .
+%mor:	intj|okay cm|cm verb|have-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1001
+*CHI:	pass me cereal .
+%mor:	verb|pass-Inf-S pron|I-Prs-Acc-S1 noun|cereal .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+%sit:	1002
+*FAT:	what do you wanna do with it ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|wanna verb|do-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|3|APPOS 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%sit:	1002
+*CHI:	I want do it .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%sit:	1002
+*CHI:	that pictures hangin(g) up wall .
+%mor:	sconj|that noun|picture-Plur verb|hang-Ger-S adp|up noun|wall .
+%gra:	1|3|MARK 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|OBJ 6|3|PUNCT
+%sit:	1003
+*CHI:	Deedee [: Joanna] drawed that .
+%mor:	noun|Joanna verb|draw-Fin-Ind-Past-S3 pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1003
+*MOT:	ready ?
+%mor:	adj|ready-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1004
+*CHI:	I'm not ready .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|ready-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	1004
+*CHI:	be ready minute .
+%mor:	aux|be-Fin-Imp-S adj|ready-Pos-S1 noun|minute .
+%gra:	1|3|COP 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1004
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1004
+*CHI:	soon I park my Volkswagon .
+%mor:	adv|soon pron|I-Prs-Nom-S1 verb|park-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|Volkswagon .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%sit:	1004
+*CHI:	Sue was waiting for you .
+%mor:	noun|Sue aux|be-Fin-Ind-Past-S3 verb|wait-Part-Pres-S adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	1005
+*CHI:	I bet we go grocery store .
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 noun|grocery noun|store .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|COMPOUND 6|4|OBJ 7|2|PUNCT
+%sit:	1006
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1006
+*CHI:	I bet we go grocery store .
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 noun|grocery noun|store .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|COMPOUND 6|4|OBJ 7|2|PUNCT
+%sit:	1006
+*MOT:	no, not right now .
+%mor:	intj|no cm|cm part|not adv|right adv|now .
+%gra:	1|5|ROOT 2|1|PUNCT 3|5|ADVMOD 4|5|ADVMOD 5|1|PARATAXIS 6|1|PUNCT
+%sit:	1006
+*CHI:	I bet, I bet .
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 cm|cm pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|PUNCT 4|5|NSUBJ 5|2|PARATAXIS 6|2|PUNCT
+%sit:	1006
+*CHI:	I wonder we going Donald's [: McDonald's] .
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|go-Ger-S noun|McDonald~part|s .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|5|CASE 7|2|PUNCT
+%sit:	1007
+*CHI:	I wonder .
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1007
+*MOT:	Laura what does wonder@q mean ?
+%mor:	noun|Laura pron|what-Rel-S1 aux|do-Fin-Ind-Pres-S3 verb|wonder-Inf-S verb|mean-Inf-S ?
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|AUX 4|5|COMPOUND 5|1|ACL-RELCL 6|1|PUNCT
+%sit:	1007
+*CHI:	I wonder .
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1007
+*SIS:	you know what my favorite food is ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|my-Prs-Gen-S1 adj|favorite-Pos-S1 noun|food aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|CCOMP 4|6|NMOD-POSS 5|6|AMOD 6|3|NSUBJ 7|3|COP 8|2|PUNCT
+%sit:	1008
+*MOT:	yeah, spaghetti .
+%mor:	intj|yeah cm|cm noun|spaghetti .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	1008
+*CHI:	my favorite food's ah chicken .
+%mor:	pron|my-Prs-Gen-S1 adj|favorite-Pos-S1 noun|food~part|s intj|ah noun|chicken .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|6|NMOD-POSS 4|3|CASE 5|6|DISCOURSE 6|6|ROOT 7|6|PUNCT
+%sit:	1008
+*CHI:	I don't want you do it for me .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 verb|do-Fin-S pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|4|XCOMP 7|6|OBJ 8|9|CASE 9|6|OBL 10|4|PUNCT
+%sit:	1009
+*CHI:	I want you do it, Sue .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 verb|do-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 cm|cm noun|Sue .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|2|PUNCT 7|2|PARATAXIS 8|2|PUNCT
+%sit:	1009
+*MOT:	okay, I will .
+%mor:	intj|okay cm|cm pron|I-Prs-Nom-S1 aux|will-Fin-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	1009
+*CHI:	I want do it myself .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 pron|myself-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|3|OBJ 5|3|OBL-NPMOD 6|2|PUNCT
+%sit:	1009
+*CHI:	I was calling for you .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|call-Part-Pres-S adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	1010
+*CHI:	Daddy came .
+%mor:	noun|Daddy verb|come-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1010
+@End

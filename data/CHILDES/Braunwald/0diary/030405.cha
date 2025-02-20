@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/c-00011183-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;04.05|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	25-JUN-1974
+@Types:	long, toyplay, TD
+*CHI:	I forgot what you looked like .
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Past-S2 adp|like .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|2|PUNCT
+%sit:	871a
+*CHI:	I love you .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	871b
+*CHI:	I'm glad you're back .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-Pos-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|back .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+%sit:	871c
+*CHI:	I missed you .
+%mor:	pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	871d
+*CHI:	I'm unhappy .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|unhappy-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	871e
+*CHI:	I'm anxious .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|anxious-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	871f
+*CHI:	I'm tired and cranky .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|tired-Pos-S1 cconj|and adj|cranky-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%sit:	871g
+*CHI:	I'm sad .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sad-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	871h
+*CHI:	I'm grouchy and tired .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|grouchy-Pos-S1 cconj|and adj|tired-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%sit:	871i
+*CHI:	I'm glad to see you, but I'm not glad for you to bite my nightgown .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-Pos-S1 part|to verb|see-Inf-S pron|you-Prs-Acc-S2 cm|cm cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|glad-Pos-S1 sconj|for pron|you-Prs-Acc-S2 part|to verb|bite-Inf-S pron|my-Prs-Gen-S1 noun|nightgown .
+%gra:	1|3|NSUBJ 2|3|COP 3|18|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|12|PUNCT 8|12|CC 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|3|CONJ 13|16|MARK 14|16|NSUBJ 15|16|MARK 16|12|CCOMP 17|18|NMOD-POSS 18|16|OBJ 19|3|PUNCT
+%sit:	872
+*CHI:	I fell off a million times of this .
+%mor:	pron|I-Prs-Nom-S1 verb|fall-Fin-Ind-Past-S1 adp|off det|a-Ind-Art num|million noun|time-Plur adp|of pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|6|NUMMOD 6|2|OBL-TMOD 7|8|CASE 8|6|NMOD 9|2|PUNCT
+%sit:	872
+*MOT:	you're not even sposta be on it .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not adv|even noun|sposta aux|be-Inf-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|ADVMOD 4|8|ADVMOD 5|8|NSUBJ 6|8|COP 7|8|CASE 8|8|ROOT 9|8|PUNCT
+%sit:	872
+@End

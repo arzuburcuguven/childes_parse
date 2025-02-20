@@ -1,0 +1,207 @@
+@UTF8
+@PID:	11312/c-00010976-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|02;07.15|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	05-OCT-1973
+@Types:	long, toyplay, TD
+*MOT:	wear something warm .
+%mor:	verb|wear-Fin-Imp-S pron|something-Ind-S1 adj|warm-Pos-S1 .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%sit:	780
+*CHI:	my sweater dress is warm .
+%mor:	pron|my-Prs-Gen-S1 noun|sweater noun|dress aux|be-Fin-Ind-Pres-S3 adj|warm-Pos-S1 .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%sit:	780
+*CHI:	my pantsuit is awful warm .
+%mor:	pron|my-Prs-Gen-S1 noun|pantsuit aux|be-Fin-Ind-Pres-S3 adj|awful-Pos-S1 adj|warm-Pos-S1 .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%sit:	780
+*MOT:	wear whatever you want as long as it is warm .
+%mor:	verb|wear-Fin-Imp-S pron|whatever-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adv|as adv|long sconj|as pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|warm-Pos-S1 .
+%gra:	1|10|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|6|ADVMOD 6|1|ADVMOD 7|10|MARK 8|10|NSUBJ 9|10|COP 10|6|ADVCL 11|1|PUNCT
+%sit:	780
+*SIS:	that's my book .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|book .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%sit:	781
+*CHI:	can I take it to school ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|take-Inf-S pron|it-Prs-Acc-S3 adp|to noun|school ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%sit:	781
+*SIS:	yeah, but don't lose it .
+%mor:	intj|yeah cm|cm cconj|but aux|do-Fin-Imp-S~part|not verb|lose-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|CC 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	781
+*CHI:	you will be sad if I lose it .
+%mor:	pron|you-Prs-Nom-S2 aux|will-Fin-S aux|be-Inf-S adj|sad-Pos-S1 sconj|if pron|I-Prs-Nom-S1 verb|lose-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|8|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|7|OBJ 9|4|PUNCT
+%sit:	781
+*CHI:	Sue, little bit my mail tore .
+%mor:	noun|Sue cm|cm adj|little-Pos-S1 noun|bit pron|my-Prs-Gen-S1 noun|mail verb|tore-Fin-Ind-Pres-S3 .
+%gra:	1|7|ROOT 2|1|PUNCT 3|4|AMOD 4|7|OBJ 5|6|NMOD-POSS 6|7|NSUBJ 7|1|PARATAXIS 8|1|PUNCT
+%sit:	782
+*CHI:	Sue, little bit my mail tore .
+%mor:	noun|Sue cm|cm adj|little-Pos-S1 noun|bit pron|my-Prs-Gen-S1 noun|mail verb|tore-Fin-Ind-Pres-S3 .
+%gra:	1|7|ROOT 2|1|PUNCT 3|4|AMOD 4|7|OBJ 5|6|NMOD-POSS 6|7|NSUBJ 7|1|PARATAXIS 8|1|PUNCT
+%sit:	782
+*CHI:	I did it by accident .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adp|by noun|accident .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%sit:	782
+*CHI:	it's wet .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|wet-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	783
+*CHI:	how_come it's wet ?
+%mor:	intj|howcome pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|wet-Pos-S1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%sit:	783
+*MOT:	John ah +...
+%mor:	noun|John intj|ah +...
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%sit:	783
+*CHI:	hosed it .
+%mor:	verb|hose-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	783
+*CHI:	John hosed it .
+%mor:	noun|John verb|hose-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	783
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	783
+*CHI:	may I come in ?
+%mor:	aux|may-Fin-S pron|I-Prs-Nom-S1 verb|come-Inf-S adv|in ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%sit:	784
+*CHI:	may I with wet socks ?
+%mor:	aux|may-Fin-S pron|I-Prs-Nom-S1 adp|with adj|wet-Pos-S1 noun|sock-Plur ?
+%gra:	1|5|ROOT 2|1|NSUBJ 3|5|CASE 4|5|AMOD 5|1|OBL 6|1|PUNCT
+%sit:	784
+*MOT:	oh, that's pretty wet .
+%mor:	intj|oh cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|pretty adj|wet-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	784
+*CHI:	hey, the fireplace got rusty .
+%mor:	intj|hey cm|cm det|the-Def-Art noun|fireplace verb|get-Fin-Ind-Past-S3 adj|rusty-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+%sit:	785
+*CHI:	see see .
+%mor:	verb|see-Fin-Imp-S noun|see .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	785
+*MOT:	no, that's not rusty, the log burnt .
+%mor:	intj|no cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 part|not adj|rusty-Pos-S1 cm|cm det|the-Def-Art noun|log verb|burn-Fin-Ind-Past-S3 .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|10|ROOT 7|6|PUNCT 8|9|DET 9|10|NSUBJ 10|6|PARATAXIS 11|6|PUNCT
+%sit:	785
+*CHI:	we can make kitty_cat food of these .
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|make-Inf-S noun|kittycat noun|food adp|of pron|this-Dem-P1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|COMPOUND 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+%sit:	786
+*MOT:	no, we can't, but you can pretend .
+%mor:	intj|no cm|cm pron|we-Prs-Nom-P1 aux|can-Fin-S~part|not cm|cm cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S verb|pretend-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|NSUBJ 4|10|ROOT 5|4|ADVMOD 6|10|PUNCT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|4|CONJ 11|4|PUNCT
+%sit:	786
+*CHI:	let me put (th)em in the (re)frigerator for next week .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|refrigerator adp|for adj|next-Pos-S1 noun|week .
+%gra:	1|10|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|AMOD 10|3|OBL 11|1|PUNCT
+%sit:	786
+*CHI:	lookit we can have it for cold cereal .
+%mor:	noun|lookit pron|we-Prs-Nom-P1 aux|can-Fin-S verb|have-Inf-S pron|it-Prs-Acc-S3 adp|for adj|cold-Pos-S1 noun|cereal .
+%gra:	1|8|ROOT 2|4|NSUBJ 3|4|AUX 4|1|PARATAXIS 5|4|OBJ 6|8|CASE 7|8|AMOD 8|4|OBL 9|1|PUNCT
+%sit:	787
+*MOT:	no, honey .
+%mor:	intj|no cm|cm noun|honey .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	787
+*MOT:	it's bark for the ground .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|bark adp|for det|the-Def-Art noun|ground .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%sit:	787
+*MOT:	it's really not to eat .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|really part|not part|to verb|eat-Inf-S .
+%gra:	1|6|NSUBJ-OUTER 2|6|COP 3|6|ADVMOD 4|6|ADVMOD 5|6|MARK 6|6|ROOT 7|6|PUNCT
+%sit:	787
+*MOT:	Laura, maybe you should do one at a time .
+%mor:	noun|Laura cm|cm adv|maybe pron|you-Prs-Nom-S2 aux|should-Fin-S verb|do-Inf-S num|one adp|at det|a-Ind-Art noun|time .
+%gra:	1|6|VOCATIVE 2|6|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|10|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+%sit:	788
+*CHI:	I can do two, see ?
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|do-Inf-S num|two cm|cm verb|see-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|PUNCT 6|3|PARATAXIS 7|3|PUNCT
+%sit:	788
+*CHI:	I'll stop on my way .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|stop-Inf-S adp|on pron|my-Prs-Gen-S1 noun|way .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%sit:	788
+*CHI:	pretty soon bathroom .
+%mor:	adv|pretty adv|soon noun|bathroom .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	788
+*CHI:	see ?
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	788
+*CHI:	Ma, I used all up my milk .
+%mor:	noun|ma cm|cm pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Past-S1 det|all-Def adp|up pron|my-Prs-Gen-S1 noun|milk .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|8|NMOD-POSS 8|4|OBJ 9|4|PUNCT
+%sit:	789
+*CHI:	first I gotta go bathroom .
+%mor:	adv|first pron|I-Prs-Nom-S1 aux|gotta-Fin-S verb|go-Inf-S noun|bathroom .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	790
+*CHI:	then I will be all set .
+%mor:	adv|then pron|I-Prs-Nom-S1 aux|will-Fin-S aux|be-Inf-S adv|all adj|set-Pos-S1 .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	790
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	790
+*CHI:	it's okay (be)cause I don't wanna drink it and I'm not thirsty .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-Pos-S1 sconj|because pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|wanna verb|drink-Inf-S pron|it-Prs-Acc-S3 cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|thirsty-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|15|ROOT 4|9|MARK 5|9|NSUBJ 6|9|AUX 7|9|ADVMOD 8|9|ADVMOD 9|3|ADVCL 10|9|OBJ 11|15|CC 12|15|NSUBJ 13|15|COP 14|15|ADVMOD 15|9|CONJ 16|3|PUNCT
+%sit:	791
+*CHI:	which one to open a door ?
+%mor:	det|which-Def-Int num|one part|to verb|open-Inf-S det|a-Ind-Art noun|door ?
+%gra:	1|2|DET 2|6|ROOT 3|4|MARK 4|2|ACL 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	792
+*CHI:	which one to open he's [: his] [*] car door ?
+%mor:	det|which-Def-Int num|one part|to verb|open-Inf-S pron|his-Prs-Gen-S3 noun|car noun|door ?
+%gra:	1|2|DET 2|7|ROOT 3|4|MARK 4|2|ACL 5|7|NMOD-POSS 6|7|COMPOUND 7|4|OBJ 8|2|PUNCT
+%sit:	792
+*CHI:	show me .
+%mor:	verb|show-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+%sit:	792
+*CHI:	Mommy, which one to open the trunk, which one ?
+%mor:	noun|Mommy cm|cm det|which-Def-Int num|one part|to verb|open-Inf-S det|the-Def-Art noun|trunk cm|cm pron|which-Rel-S1 num|one ?
+%gra:	1|6|VOCATIVE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|MARK 6|11|ROOT 7|8|DET 8|6|OBJ 9|10|PUNCT 10|6|ADVCL-RELCL 11|10|DEP 12|6|PUNCT
+*CHI:	show me .
+%mor:	verb|show-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+%sit:	793
+*CHI:	Grandma, I got a message for you .
+%mor:	noun|Grandma cm|cm pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 det|a-Ind-Art noun|message adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|PUNCT
+%sit:	794
+*MOT:	okay, thank_you, I'll write it down .
+%mor:	intj|okay cm|cm intj|thankyou cm|cm pron|I-Prs-Nom-S1~aux|will-Fin-S verb|write-Inf-S pron|it-Prs-Acc-S3 adp|down .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|9|ROOT 8|7|OBJ 9|7|COMPOUND-PRT 10|7|PUNCT
+%sit:	794
+*MOT:	what's it say ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|say-Pos-S1 ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NSUBJ 4|1|ACL-RELCL 5|1|PUNCT
+%sit:	794
+*CHI:	dear Grandma, thank you for the Santa_Barbara .
+%mor:	adj|dear-Pos-S1 noun|Grandma cm|cm verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|for det|the-Def-Art noun|SantaBarbara .
+%gra:	1|2|AMOD 2|4|VOCATIVE 3|4|PUNCT 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%sit:	794
+@End

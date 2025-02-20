@@ -1,0 +1,272 @@
+@UTF8
+@PID:	11312/c-00017738-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|VanHouten|CHI|2;04.|male|MOT_Adolescent_||Target_Child|||
+@ID:	eng|VanHouten|MOT||female|||Mother|||
+@Situation:	Lunch. Child sits at kitchen table eating lunch while Mother busies herself around the kitchen. Most of what Child says is intelligible.
+@Comment:	Age Group of MOT Adolescent
+@Comment:	cross, meal, TD
+@Types:	cross, meal, TD
+*CHI:	I all sticky .
+%mor:	pron|I-Prs-Nom-S1 det|all-Def-Tot adj|sticky-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Ini $Rep
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Cla
+*CHI:	I all sticky .
+%mor:	pron|I-Prs-Nom-S1 det|all-Def-Tot adj|sticky-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rep
+*MOT:	you're all sticky ?
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|all adj|sticky-Pos-S1 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Exp
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	that's alright .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|alright-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Rep
+*MOT:	eat lunch .
+%mor:	verb|eat-Fin-Imp-S noun|lunch .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	Mommy will be out in a minute (.) okay ?
+%mor:	noun|Mommy aux|will-Fin-S aux|be-Inf-S adv|out adp|in det|a-Ind-Art noun|minute adj|okay-Pos-S1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|8|ROOT 5|8|CASE 6|7|DET 7|8|OBL-TMOD 8|4|OBL 9|4|PUNCT
+%cod:	$MLU=8 $NMV=1 $Ini $Rfi
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	Mother enters kitchen .
+%cod:	$MLU=1 $NMV=0 $Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rep
+*MOT:	Mommy's gonna get some lunch for her .
+%mor:	noun|Mommy~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|get-Inf-S det|some-Def noun|lunch adp|for pron|her-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+%cod:	$MLU=8 $NMV=1 $Ini $Rep
+*CHI:	xxx .
+%cod:	$Ini
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rep
+*CHI:	xxx .
+%cod:	$Con
+*MOT:	what are you talking about ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|talk-Part-Pres-S adp|about ?
+%gra:	1|4|OBL 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Res $Cla
+*CHI:	xxx .
+%cod:	$Res $Rep
+*MOT:	is that good ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adj|good-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	gonna have some ?
+%mor:	adv|gonna verb|have-Inf-S det|some-Def ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	Mommy's gonna have some .
+%mor:	noun|Mommy~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|have-Inf-S det|some-Def .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rri $Rep
+*CHI:	Auntie not gonna have some ?
+%mor:	noun|Auntie part|not adv|gonna verb|have-Inf-S det|some-Def ?
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Res $Rfi
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $Rep
+*MOT:	do you wanna (.) &-um +/.
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wanna-Inf-S +/.
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	how do you know what I'm asking you ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|ask-Part-Pres-S pron|you-Prs-Acc-S2 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|IOBJ 10|4|PUNCT
+%cod:	$MLU=9 $NMV=2 $Rde $Rfi
+*MOT:	do you want Koolaid or do you want chocolate milk ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|Koolaid cconj|or aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|chocolate noun|milk ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|8|CC 6|8|AUX 7|8|NSUBJ 8|3|CONJ 9|10|COMPOUND 10|8|OBJ 11|3|PUNCT
+%cod:	$MLU=10 $NMV=2 $Con $Rfi
+*CHI:	I want Koolaid .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|Koolaid .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Des
+*MOT:	kool-aid (.) okay .
+%mor:	noun|koolaid intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rde $Acc
+*MOT:	let Mommy finish making her lunch then she'll get you the Koolaid (.) okay ?
+%mor:	verb|let-Fin-Imp-S noun|Mommy verb|finish-Inf-S verb|make-Ger-S pron|her-Prs-Gen-S3 noun|lunch adv|then pron|she-Prs-Nom-S3~aux|will-Fin-S verb|get-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art noun|koolaid intj|okay ?
+%gra:	1|14|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|1|PARATAXIS 11|10|IOBJ 12|13|DET 13|10|XCOMP 14|1|DISCOURSE 15|1|PUNCT
+%cod:	$MLU=13 $NMV=4 $Con $Rep
+*MOT:	oh (.) I got something else too .
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|something-Ind-S1 adj|else-Pos-S1 adv|too .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|4|AMOD 6|3|ADVMOD 7|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	I forgot .
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Past-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $Rep
+*MOT:	you want some crangrape ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def noun|crangrape ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	nods yes .
+%cod:	$Res $Des
+*MOT:	I got crangrape juice .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|crangrape noun|juice .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=0 $Ini $Rep
+*MOT:	you want that instead of Koolaid ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|that-Dem-S1 adv|instead adp|of noun|Koolaid ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|4|FIXED 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	nods yes .
+%cod:	$Res $Des
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rde $Cla
+*CHI:	0 .
+%sit:	nods yes .
+%cod:	$Res $Des
+*MOT:	crangrape juice instead ?
+%mor:	noun|crangrape noun|juice adv|instead ?
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$MLU=4 $NMV=0 $Rde $Cla
+*CHI:	0 .
+%sit:	nods yes .
+%cod:	$Res $Des
+*MOT:	oh (.) okay .
+%mor:	intj|oh intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Acc
+*CHI:	<get me xxx> [?] .
+%mor:	verb|get-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	sounds like a demand .
+%cod:	$Ini $Des
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rde $Cla
+*CHI:	get me +...
+%mor:	verb|get-Fin-Imp-S pron|I-Prs-Acc-S1 +...
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$Res $Des
+*MOT:	crangrape ?
+%mor:	noun|crangrape ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rfi
+*CHI:	0 .
+%sit:	shakes head no .
+%cod:	$Res $Des
+*MOT:	want some crangrape ?
+%mor:	verb|want-Fin-Imp-S det|some-Def noun|crangrape ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	0 .
+%sit:	nods yes .
+%cod:	$Res $Des
+*MOT:	cranberry grape juice (.) uhhuh .
+%mor:	noun|cranberry noun|grape noun|juice noun|uhhuh .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%sit:	walks to refrigerator to get juice .
+%cod:	$MLU=3 $NMV=0 $Rde $Exp
+*CHI:	cranberry juice .
+%mor:	noun|cranberry noun|juice .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Des
+*MOT:	cranberry grape juice (.) see .
+%mor:	noun|cranberry noun|grape noun|juice verb|see-Fin-Imp-S .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rde $Exp
+*MOT:	oh look .
+%mor:	intj|oh verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	you like that ?
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|that-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	that's the stuff mommy gave you in the bottle yesterday .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|stuff noun|mommy verb|give-Fin-Ind-Past-S3 pron|you-Prs-Acc-S2 adp|in det|the-Def-Art noun|bottle noun|yesterday .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|11|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|6|IOBJ 8|10|CASE 9|10|DET 10|6|OBL 11|6|OBL-TMOD 12|4|PUNCT
+%cod:	$MLU=11 $NMV=2 $Rre $Rep
+*MOT:	remember ?
+%mor:	verb|remember-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Rfi
+*CHI:	no (.) I don't want that .
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|that-Dem-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Res $Des
+*MOT:	alright (.) I'll get you Koolaid .
+%mor:	intj|alright pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|you-Prs-Acc-S2 noun|Koolaid .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rde $Acc
+*MOT:	Mommy's having that .
+%mor:	noun|Mommy~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Pres-S pron|that-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	I don't want that .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|that-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Des
+*MOT:	good .
+%mor:	adj|good-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Rep
+*MOT:	you can have Koolaid then .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S noun|Koolaid adv|then .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*MOT:	Mommy's having that .
+%mor:	noun|Mommy~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Pres-S pron|that-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	I don't want that .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|that-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Des
+@End

@@ -1,0 +1,27 @@
+@UTF8
+@PID:	11312/c-00011140-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;01.27|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	16-APR-1974
+@Types:	long, toyplay, TD
+*CHI:	I'm glad you're my work mother .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-Pos-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|work noun|mother .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|8|NSUBJ 5|8|COP 6|8|NMOD-POSS 7|8|COMPOUND 8|3|CCOMP 9|3|PUNCT
+%sit:	675
+*CHI:	and you can help Toffer [: Christopher] if Johnnie calls him a caca [: poo] baby .
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|help-Inf-S noun|Christopher sconj|if noun|Johnnie verb|call-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 det|a-Ind-Art noun|poo noun|baby .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|12|ROOT 5|4|OBJ 6|8|MARK 7|8|NSUBJ 8|4|ADVCL 9|8|IOBJ 10|12|DET 11|12|COMPOUND 12|8|XCOMP 13|4|PUNCT
+%sit:	675
+*CHI:	that's your job .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|job .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%sit:	675
+*MOT:	good .
+%mor:	adj|good-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	675
+@End

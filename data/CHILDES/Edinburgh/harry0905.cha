@@ -1,0 +1,369 @@
+@UTF8
+@PID:	11312/a-00047587-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Edinburgh|CHI|0;09.16|male|||Target_Child|||
+@ID:	eng|Edinburgh|MOT||female|||Mother|||
+@ID:	eng|Edinburgh|FAT||male|||Father|||
+@Media:	harry0905, audio, missing
+@Date:	03-NOV-2013
+@Types:	long, toyplay, TD
+*CHI:	&=babbles .
+*MOT:	+< &=imitates:babble .
+*FAT:	+< so how'd your Mum sleep ?
+%mor:	adv|so adv|how~aux|would-Fin-Ind-S3 pron|your-Prs-Gen-S2 noun|mum verb|sleep-Inf-S ?
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|6|AUX 4|5|NMOD-POSS 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*CHI:	&=babbles .
+*MOT:	+< hello .
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles .
+*MOT:	&=imitates:babble, okay .
+%mor:	cm|cm intj|okay .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+*FAT:	shall I play with you Harry in the +...
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|play-Inf-S adp|with pron|you-Prs-Acc-S2 noun|Harry adp|in det|the-Def-Art +...
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|CASE 5|3|OBL 6|3|VOCATIVE 7|8|CASE 8|3|OBL 9|3|PUNCT
+*MOT:	yeah, can you +/? [+ NAC]
+%mor:	intj|yeah cm|cm aux|can-Fin-S pron|you-Prs-Acc-S2 +/?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+*FAT:	+< play corner ?
+%mor:	verb|play-Fin-Imp-S noun|corner ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	+< distract him ? [+ NAC]
+%mor:	verb|distract-Fin-Imp-S pron|he-Prs-Acc-S3 ?
+*MOT:	I'll cook you up some dinner . [+ NAC]
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|cook-Inf-S pron|you-Prs-Acc-S2 adp|up det|some-Def noun|dinner .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|7|DET 7|3|OBJ 8|3|PUNCT
+*FAT:	and by play with you I mean I lie here and you come (.) and like touch me with your soft [/] soft hands and stroke my face, yeah, okay ?
+%mor:	cconj|and adp|by noun|play adp|with pron|you-Prs-Acc-S2 pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|lie-Fin-Ind-Pres-S1 adv|here cconj|and pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Pres-S2 cconj|and intj|like verb|touch-Fin-Ind-S pron|I-Prs-Acc-S1 adp|with pron|your-Prs-Gen-S2 adj|soft-Pos-S1 noun|hand-Plur cconj|and verb|stroke-Fin-Ind-Pres-P1 pron|my-Prs-Gen-S1 noun|face cm|cm intj|yeah cm|cm intj|okay ?
+%gra:	1|9|CC 2|3|CASE 3|9|OBL 4|5|CASE 5|3|NMOD 6|7|NSUBJ 7|9|PARATAXIS 8|9|NSUBJ 9|29|ROOT 10|9|ADVMOD 11|13|CC 12|13|NSUBJ 13|9|CONJ 14|16|CC 15|16|DISCOURSE 16|13|CONJ 17|16|OBJ 18|21|CASE 19|21|NMOD-POSS 20|21|AMOD 21|16|OBL 22|23|CC 23|13|CONJ 24|25|NMOD-POSS 25|23|OBJ 26|27|PUNCT 27|23|DISCOURSE 28|27|PUNCT 29|9|DISCOURSE 30|9|PUNCT
+*FAT:	thanks .
+%mor:	noun|thanks .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	seems likely ?
+%mor:	verb|seem-Fin-Ind-Pres-S3 adj|likely-Pos-S1 ?
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles .
+*FAT:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~eg .
+*FAT:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles .
+*FAT:	+< hi [/] hi Dad hi .
+%mor:	intj|hi noun|dad intj|hi .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*FAT:	hi Dad .
+%mor:	intj|hi noun|dad .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	&=babbles .
+*FAT:	is the recorder recording again darlin(g) ? [+ NAC]
+%mor:	aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|recorder noun|recording adv|again noun|darling ?
+%gra:	1|6|COP 2|6|DET 3|4|COMPOUND 4|6|COMPOUND 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	+< &=coughs .
+*MOT:	yeah . [+ NAC]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh . [+ NAC]
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's the wheels .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|wheel-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	green wheels .
+%mor:	adj|green-Pos-S1 noun|wheel-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	xxx .
+*MOT:	what does the main do, does the main go round and round ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art adj|main-Pos-S1 verb|do-Inf-S cm|cm aux|do-Fin-Ind-Pres-S3 det|the-Def-Art adj|main-Pos-S1 verb|go-Inf-S adv|round cconj|and adv|round ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|10|ADVCL 6|5|PUNCT 7|10|AUX 8|9|DET 9|10|NSUBJ 10|13|ROOT 11|10|ADVMOD 12|13|CC 13|11|CONJ 14|10|PUNCT
+*MOT:	Harry do it .
+%mor:	noun|Harry verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	yay: well done .
+%mor:	intj|yay adv|well verb|do-Part-Past-S .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	well done .
+%mor:	adv|well verb|do-Part-Past-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	you turn it round and round and round .
+%mor:	pron|you-Prs-Nom-S2 verb|turn-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adv|round cconj|and adv|round cconj|and adv|round .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|2|ADVMOD 5|6|CC 6|4|CONJ 7|8|CC 8|4|CONJ 9|2|PUNCT
+*MOT:	what noise does a lion make ?
+%mor:	det|what-Def-Int noun|noise verb|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lion verb|make-Inf-S ?
+%gra:	1|2|DET 2|3|OBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*CHI:	&=babbles .
+*MOT:	+< hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it's a &=roar .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	&=laughs .
+*MOT:	&=laughs .
+*MOT:	row [/] row, rock your boat gently <down the shore> [//] to the shore [=! singing] . [+ SNG]
+%mor:	noun|row cm|cm verb|rock-Fin-Imp-S pron|your-Prs-Gen-S2 noun|boat adv|gently adp|to det|the-Def-Art noun|shore .
+%gra:	1|9|ROOT 2|1|PUNCT 3|1|PARATAXIS 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|1|PUNCT
+*MOT:	and if you see a lion don't forget to roar &=roars [=! singing] . [+ SNG]
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|a-Ind-Art noun|lion aux|do-Fin-Ind-Pres-P~part|not verb|forget-Fin-Imp-S part|to verb|roar-Inf-S .
+%gra:	1|9|CC 2|4|MARK 3|4|NSUBJ 4|9|ADVCL 5|6|DET 6|4|OBJ 7|9|AUX 8|9|ADVMOD 9|11|ROOT 10|11|MARK 11|9|XCOMP 12|9|PUNCT
+*CHI:	&=laughs .
+*MOT:	&=laughs ping@o, that's the microwave .
+%mor:	noun|ping cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|microwave .
+%gra:	1|6|ROOT 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|PARATAXIS 7|1|PUNCT
+*CHI:	&=babbles .
+*MOT:	nearly .
+%mor:	adv|nearly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh perfect .
+%mor:	intj|oh adj|perfect-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	+< &=babbles .
+*MOT:	smells really good .
+%mor:	verb|smell-Fin-Ind-Pres-S3 adv|really adj|good-Pos-S1 .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|XCOMP 4|1|PUNCT
+*MOT:	I think you're gonna [: going to ] like thi:s .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S part|to verb|like-Inf-S pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|2|PUNCT
+*MOT:	mmm: .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	if I wasn't having such a mighty fine quiche for my dinner I would eat this all up .
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3~part|not verb|have-Part-Pres-S det|such-Def det|a-Ind-Art adj|mighty-Pos-S1 adj|fine-Pos-S1 noun|quiche adp|for pron|my-Prs-Gen-S1 noun|dinner pron|I-Prs-Nom-S1 aux|would-Fin-S verb|eat-Inf-S pron|this-Dem-S1 det|all-Def adv|up .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|16|ADVCL 6|10|DET-PREDET 7|10|DET 8|10|AMOD 9|10|AMOD 10|5|OBJ 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|16|NSUBJ 15|16|AUX 16|19|ROOT 17|16|OBJ 18|17|DET 19|16|ADVMOD 20|16|PUNCT
+*MOT:	oh she didn't give me cooking instructions . [+ NAC]
+%mor:	intj|oh pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3~part|not verb|give-Inf-S pron|I-Prs-Acc-S1 noun|cooking noun|instruction-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|IOBJ 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+*MOT:	just stick the whole lot in . [+ NAC]
+%mor:	adv|just verb|stick-Fin-Imp-S det|the-Def-Art adj|whole-Pos-S1 noun|lot adv|in .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+*MOT:	until it's cooked eh ? [+ NAC]
+%mor:	sconj|until pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|cook-Part-Past-S intj|eh ?
+%gra:	1|4|MARK 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*MOT:	I think it'll probably take quite a long time . [+ NAC]
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|will-Fin-S adv|probably verb|take-Inf-S det|quite-Def det|a-Ind-Art adj|long-Pos-S1 noun|time .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|10|DET-PREDET 8|10|DET 9|10|AMOD 10|6|OBJ 11|2|PUNCT
+*MOT:	so in the meantime +/. [+ NAC]
+%mor:	adv|so adp|in det|the-Def-Art noun|meantime +/.
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*FAT:	for [/] for what ? [+ NAC]
+%mor:	adp|for pron|what-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	quiche ! [+ NAC]
+%mor:	noun|quiche !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	is the quiche made by your mother ? [+ NAC]
+%mor:	aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|quiche verb|make-Part-Past-S adp|by pron|your-Prs-Gen-S2 noun|mother ?
+%gra:	1|3|COP 2|3|DET 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|NMOD-POSS 7|4|OBL-AGENT 8|3|PUNCT
+*MOT:	yes . [+ NAC]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles .
+*MOT:	&=imitates:babble .
+*MOT:	&~imitates:babble .
+*MOT:	where do you want to eat ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|eat-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*MOT:	do you want to eat it <in> [//] on your play mat ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|eat-Inf-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|play noun|mat ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|COMPOUND 10|5|OBL 11|3|PUNCT
+*CHI:	+< &=babbles .
+*MOT:	yeah, is that a good idea ?
+%mor:	intj|yeah cm|cm aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art adj|good-Pos-S1 noun|idea ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|COP 4|7|NSUBJ 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+*CHI:	&=babbles .
+*MOT:	do you know I didn't get any little satsumas either and I totally meant to get them from Tesco's . [+ NAC]
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|get-Inf-S det|any-Def adj|little-Pos-S1 noun|satsuma-Plur adv|either cconj|and pron|I-Prs-Nom-S1 adv|totally verb|mean-Fin-Ind-Past-S1 part|to verb|get-Inf-S pron|they-Prs-Acc-P3 adp|from noun|Tesco~part|s .
+%gra:	1|3|AUX 2|3|NSUBJ 3|21|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|10|DET 9|10|AMOD 10|7|OBJ 11|7|ADVMOD 12|15|CC 13|15|NSUBJ 14|15|ADVMOD 15|3|CONJ 16|17|MARK 17|15|XCOMP 18|17|OBJ 19|20|CASE 20|17|OBL 21|20|CASE 22|3|PUNCT
+*FAT:	it was all gettin(g) a bit much though wasn't it ? [+ NAC]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adv|all verb|get-Part-Pres-S det|a-Ind-Art noun|bit adv|much adv|though aux|be-Fin-Ind-Past-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|6|DET 6|7|OBL-NPMOD 7|4|ADVMOD 8|4|ADVMOD 9|11|COP 10|11|ADVMOD 11|4|PARATAXIS 12|4|PUNCT
+*MOT:	yeah, Tesco's is hard for babies . [+ NAC]
+%mor:	intj|yeah cm|cm noun|Tesco~part|s aux|be-Fin-Ind-Pres-S3 adj|hard-Pos-S1 adp|for noun|baby-Plur .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|NSUBJ 4|3|CASE 5|6|COP 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*FAT:	+< yeah . [+ NAC]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah, he wasn't enjoying it . [+ NAC]
+%mor:	intj|yeah cm|cm pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not verb|enjoy-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*MOT:	okay . [+ NAC]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	do you want me to do it ? [+ NAC]
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+*MOT:	<yeah could you make a> [//] no could you make a salad please for him . [+ NAC]
+%mor:	intj|no aux|could-Fin-S pron|you-Prs-Nom-S2 verb|make-Inf-S det|a-Ind-Art noun|salad intj|please adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|4|DISCOURSE 8|9|CASE 9|4|OBL 10|4|PUNCT
+*MOT:	I'll get him a bib . [+ NAC]
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|he-Prs-Acc-S3 det|a-Ind-Art noun|bib .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|XCOMP 7|3|PUNCT
+*FAT:	+< okay . [+ NAC]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	thanks . [+ NAC]
+%mor:	noun|thanks .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you wanna [: want to ] do this at the xylophone ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|do-Inf-S pron|this-Dem-S1 adp|at det|the-Def-Art noun|xylophone ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|2|PUNCT
+*FAT:	crash xxx crash .
+%mor:	noun|crash noun|crash .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	&=gasps, oh are you puttin(g) the beater on the shelf ?
+%mor:	cm|cm intj|oh aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|put-Part-Pres-S det|the-Def-Art noun|beater adp|on det|the-Def-Art noun|shelf ?
+%gra:	1|5|PUNCT 2|5|DISCOURSE 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*MOT:	&=gasps well done !
+%mor:	adv|well verb|do-Part-Past-S !
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	that's new .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	that's new .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|new-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	is that where the beater lives ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that adv|where det|the-Def-Art noun|beater verb|live-Fin-Ind-Pres-S3 ?
+%gra:	1|6|ROOT 2|6|OBJ 3|6|ADVMOD 4|5|DET 5|6|NSUBJ 6|1|ADVCL 7|1|PUNCT
+*MOT:	are you tidying up ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|tidy-Part-Pres-S adp|up ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*MOT:	is Harry tidying up ?
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|Harry verb|tidy-Ger-Pres-S adp|up ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*MOT:	well done .
+%mor:	adv|well verb|do-Part-Past-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	what else goes on the shelf ?
+%mor:	pron|what-Int-S1 adv|else verb|go-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|shelf ?
+%gra:	1|3|NSUBJ 2|1|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*MOT:	got some books, yeah, uhhuh, xxx books .
+%mor:	verb|get-Fin-Ind-Past-S1 det|some-Def noun|book-Plur cm|cm intj|yeah cm|cm intj|uhhuh cm|cm noun|book-Plur .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|5|PUNCT 5|9|DISCOURSE 6|5|PUNCT 7|9|DISCOURSE 8|7|PUNCT 9|3|APPOS 10|1|PUNCT
+*MOT:	we put them to the back of the shelf .
+%mor:	pron|we-Prs-Nom-P1 verb|put-Fin-Ind-Past-P1 pron|they-Prs-Acc-P3 adp|to det|the-Def-Art noun|back adp|of det|the-Def-Art noun|shelf .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|2|PUNCT
+*MOT:	uhhuh ?
+%mor:	intj|uhhuh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~ee:y .
+*MOT:	yeah, what else goes on the shelf ?
+%mor:	intj|yeah cm|cm pron|what-Int-S1 adv|else verb|go-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|shelf ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|3|AMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	&~ee:h .
+*MOT:	the monkey, does the monkey go on the shelf ?
+%mor:	det|the-Def-Art noun|monkey cm|cm aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|monkey verb|go-Inf-S adp|on det|the-Def-Art noun|shelf ?
+%gra:	1|2|DET 2|7|DISLOCATED 3|7|PUNCT 4|7|AUX 5|6|DET 6|7|NSUBJ 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*CHI:	&~hoo .
+*MOT:	&~ahoo .
+*CHI:	&~ee:y .
+*MOT:	hiya .
+%mor:	intj|hiya .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what dya [: do you ] think ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	dya [: do you ] think the monkey goes on the shelf ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|the-Def-Art noun|monkey verb|go-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|shelf ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|6|NSUBJ 6|3|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*MOT:	where does the monkey go ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|monkey verb|go-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	where does the monkey live ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|monkey verb|live-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	+" five little monkeys jumping on the bed . [+ RHY]
+%mor:	num|five adj|little-Pos-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*MOT:	+" one fell off and bumped his head, whoosh@o . [+ RHY]
+%mor:	num|one verb|fall-Fin-Ind-Past-S3 adp|off cconj|and verb|bump-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|head cm|cm noun|whoosh .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|ADVMOD 4|5|CC 5|2|CONJ 6|7|NMOD-POSS 7|5|OBJ 8|9|PUNCT 9|2|PARATAXIS 10|2|PUNCT
+*MOT:	+" Mummy called the doctor and the doctor said, no more monkeys jumping on the bed &=kiss . [+ RHY]
+%mor:	noun|Mummy verb|call-Fin-Ind-Past-S3 det|the-Def-Art noun|doctor cconj|and det|the-Def-Art noun|doctor verb|say-Fin-Ind-Past-S3 cm|cm det|no-Def adj|more-Cmp-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|DET 4|2|OBJ 5|8|CC 6|7|DET 7|8|NSUBJ 8|2|CONJ 9|12|PUNCT 10|12|DET 11|12|AMOD 12|8|CCOMP 13|12|ACL 14|16|CASE 15|16|DET 16|13|OBL 17|2|PUNCT
+*CHI:	&~ooh .
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+" four little monkeys jumping on the bed . [+ RHY]
+%mor:	num|four adj|little-Pos-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*MOT:	+" one fell off and bumped his head, Mummy called the +/. [+ RHY]
+%mor:	num|one verb|fall-Fin-Ind-Past-S3 adp|off cconj|and verb|bump-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|head cm|cm noun|Mummy verb|call-Fin-Ind-Past-S3 det|the-Def-Art +/.
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|ADVMOD 4|5|CC 5|2|CONJ 6|7|NMOD-POSS 7|5|OBJ 8|2|PUNCT 9|10|NSUBJ 10|2|PARATAXIS 11|10|OBJ 12|2|PUNCT
+*CHI:	+< &=babbles .
+*MOT:	+< &~eeoo, he hurt his head ! [+ RHY]
+%mor:	cm|cm pron|he-Prs-Nom-S3 verb|hurt-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|head !
+%gra:	1|3|PUNCT 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*MOT:	+" Mummy called the doctor and the doctor said, no more monkeys jumping on the bed . [+ RHY]
+%mor:	noun|Mummy verb|call-Fin-Ind-Past-S3 det|the-Def-Art noun|doctor cconj|and det|the-Def-Art noun|doctor verb|say-Fin-Ind-Past-S3 cm|cm det|no-Def adj|more-Cmp-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|DET 4|2|OBJ 5|8|CC 6|7|DET 7|8|NSUBJ 8|2|CONJ 9|12|PUNCT 10|12|DET 11|12|AMOD 12|8|CCOMP 13|12|ACL 14|16|CASE 15|16|DET 16|13|OBL 17|2|PUNCT
+*CHI:	+< &=babbles .
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+" three little monkeys jumping on the bed &=laughs . [+ RHY]
+%mor:	num|three adj|little-Pos-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*CHI:	+< &=babbles .
+*MOT:	+" one fell off .
+%mor:	num|one verb|fall-Fin-Ind-Past-S3 adv|off .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	whoosh@o .
+%mor:	noun|whoosh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+" and bumped his head . [+ RHY]
+%mor:	cconj|and verb|bump-Fin-Ind-Past-S1 pron|his-Prs-Gen-S3 noun|head .
+%gra:	1|2|CC 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	+" Mummy called the doctor and the doctor said, no more monkeys jumping on the bed . [+ RHY]
+%mor:	noun|Mummy verb|call-Fin-Ind-Past-S3 det|the-Def-Art noun|doctor cconj|and det|the-Def-Art noun|doctor verb|say-Fin-Ind-Past-S3 cm|cm det|no-Def adj|more-Cmp-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|DET 4|2|OBJ 5|8|CC 6|7|DET 7|8|NSUBJ 8|2|CONJ 9|12|PUNCT 10|12|DET 11|12|AMOD 12|8|CCOMP 13|12|ACL 14|16|CASE 15|16|DET 16|13|OBL 17|2|PUNCT
+*MOT:	yay: .
+%mor:	intj|yay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~yay .
+*MOT:	+< +" two little monkeys jumping on the bed . [+ RHY]
+%mor:	num|two adj|little-Pos-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|7|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*MOT:	+" one fell off . [+ RHY]
+%mor:	num|one verb|fall-Fin-Ind-Past-S3 adv|off .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	&=babbles .
+*MOT:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+" and bumped her head . [+ RHY]
+%mor:	cconj|and verb|bump-Fin-Ind-Past-S1 pron|her-Prs-Gen-S3 noun|head .
+%gra:	1|2|CC 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	+" Mummy phoned the doctor and the doctor said, no more monkeys jumping on the bed . [+ RHY]
+%mor:	noun|mummy verb|phone-Fin-Ind-Past-S3 det|the-Def-Art noun|doctor cconj|and det|the-Def-Art noun|doctor verb|say-Fin-Ind-Past-S3 cm|cm det|no-Def adj|more-Cmp-S1 noun|monkey-Plur verb|jump-Ger-S adp|on det|the-Def-Art noun|bed .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|DET 4|2|OBJ 5|8|CC 6|7|DET 7|8|NSUBJ 8|2|CONJ 9|12|PUNCT 10|12|DET 11|12|AMOD 12|8|CCOMP 13|12|ACL 14|16|CASE 15|16|DET 16|13|OBL 17|2|PUNCT
+*MOT:	are you looking after the monkey ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|look-Part-Pres-S adp|after det|the-Def-Art noun|monkey ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*MOT:	he fell off the bed .
+%mor:	pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3 adp|off det|the-Def-Art noun|bed .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*MOT:	hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=grunts .
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it's a little bit hot ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|hot-Pos-S1 ?
+%gra:	1|6|NSUBJ 2|6|COP 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	&=shouts .
+*MOT:	xxx .
+@End

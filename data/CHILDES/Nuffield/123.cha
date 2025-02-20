@@ -1,0 +1,251 @@
+@UTF8
+@PID:	11312/a-00008179-1
+@Begin
+@Languages:	eng
+@Participants:	CDS Participant
+@Options:	multi
+@ID:	eng|Nuffield|CDS|||||Participant|||
+@Types:	long, everyday, TD
+*CDS:	be normal !
+%mor:	aux|be-Fin-Imp-S adj|normal-Pos-S1 !
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%com:	PPT_123
+*CDS:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	what's this ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CDS:	I love my kitten .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|kitten .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CDS:	I love my kitten because she's soft and fluffy .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|kitten sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|soft-Pos-S1 cconj|and adj|fluffy-Pos-S1 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|8|MARK 6|8|NSUBJ 7|8|COP 8|2|ADVCL 9|10|CC 10|8|CONJ 11|2|PUNCT
+*CDS:	every morning she laps up milk from her special bowl .
+%mor:	det|every-Def noun|morning pron|she-Prs-Nom-S3 verb|lap-Fin-Ind-Pres-S3 adp|up noun|milk adp|from pron|her-Prs-Gen-S3 adj|special-Pos-S1 noun|bowl .
+%gra:	1|2|DET 2|4|OBL-TMOD 3|4|NSUBJ 4|10|ROOT 5|4|COMPOUND-PRT 6|4|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|4|OBL 11|4|PUNCT
+*CDS:	I love my kitten because she loves to play with wiggly wool .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|kitten sconj|because pron|she-Prs-Nom-S3 verb|love-Fin-Ind-Pres-S3 part|to verb|play-Inf-S adp|with adj|wiggly-Pos-S1 noun|wool .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|AMOD 12|9|OBL 13|2|PUNCT
+*CDS:	she meows and chases squeaky mice across the room .
+%mor:	pron|she-Prs-Nom-S3 verb|meow-Fin-Ind-Pres-S3 cconj|and verb|chase-Fin-Ind-Pres-S3 adj|squeaky-Pos-S1 noun|mouse-Plur adp|across det|the-Def-Art noun|room .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|CC 4|2|CONJ 5|6|AMOD 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|2|PUNCT
+*CDS:	I love my kitten because she purrs and swishes her tail .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|kitten sconj|because pron|she-Prs-Nom-S3 verb|purr-Fin-Ind-Pres-S3 cconj|and verb|swish-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|tail .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|9|CC 9|7|CONJ 10|11|NMOD-POSS 11|9|OBJ 12|2|PUNCT
+*CDS:	she can't wait to go outside and play with her friends .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not verb|wait-Inf-S part|to verb|go-Inf-S adv|outside cconj|and verb|play-Inf-S adp|with pron|her-Prs-Gen-S3 noun|friend-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|6|MARK 6|4|ADVCL 7|6|ADVMOD 8|9|CC 9|6|CONJ 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|4|PUNCT
+*CDS:	at night my kitten snuggles .
+%mor:	adp|at noun|night pron|my-Prs-Gen-S1 noun|kitten verb|snuggle-Fin-Ind-Pres-S3 .
+%gra:	1|2|CASE 2|5|OBL 3|4|NMOD-POSS 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	what else have we got ?
+%mor:	pron|what-Int-S1 adv|else aux|have-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|get-Part-Past-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CDS:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CDS:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CDS:	shall we do these ?
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S pron|this-Dem-P1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	shall we throw these ?
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|throw-Inf-S pron|this-Dem-P1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	and see if we can get them in ?
+%mor:	cconj|and verb|see-Fin-Imp-S sconj|if pron|we-Prs-Nom-P1 aux|can-Fin-S verb|get-Inf-S pron|they-Prs-Acc-P3 adv|in ?
+%gra:	1|2|CC 2|8|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|6|OBJ 8|6|ADVMOD 9|2|PUNCT
+*CDS:	Childsname ?
+%mor:	noun|Childsname ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	you ready, Childsname ?
+%mor:	pron|you-Prs-Nom-S2 adj|ready-Pos-S1 cm|cm noun|Childsname ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|PUNCT 4|2|PARATAXIS 5|2|PUNCT
+*CDS:	Childsname !
+%mor:	noun|Childsname !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	Mummy missed it !
+%mor:	noun|Mummy verb|miss-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	oh Mummy did it .
+%mor:	intj|oh noun|Mummy verb|do-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	oh Mummy missed it .
+%mor:	intj|oh noun|Mummy verb|miss-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	Mummy missed it .
+%mor:	noun|Mummy verb|miss-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	shall we do it again ?
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S pron|it-Prs-Acc-S3 adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CDS:	oo Mummy got it in .
+%mor:	intj|oo noun|Mummy verb|get-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adv|in .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	Mummy got it in !
+%mor:	noun|Mummy verb|get-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adv|in !
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	Mummy missed it !
+%mor:	noun|Mummy verb|miss-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	and .
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	this .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	if you do that one it can go on your wrist .
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 det|that-Def-Dem num|one pron|it-Prs-Nom-S3 aux|can-Fin-S verb|go-Inf-S adp|on pron|your-Prs-Gen-S2 noun|wrist .
+%gra:	1|3|MARK 2|3|NSUBJ 3|8|ADVCL 4|5|DET 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|11|ROOT 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|8|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	have a little armband !
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art adj|little-Pos-S1 noun|armband !
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CDS:	that's right !
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CDS:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CDS:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	that's better isn't it ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|COP 5|6|ADVMOD 6|3|PARATAXIS 7|3|PUNCT
+*CDS:	got a little bag !
+%mor:	verb|get-Fin-Ind-Past-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bag !
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CDS:	Mummy have one ?
+%mor:	noun|mummy verb|have-Fin-Ind-Pres-P3 num|one ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	Mummy can .
+%mor:	noun|mummy aux|can-Fin-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CDS:	put all those down ?
+%mor:	verb|put-Fin-Imp-S det|all-Def pron|that-Dem-P1 adv|down ?
+%gra:	1|4|ROOT 2|3|DET-PREDET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CDS:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CDS:	baby's first colors !
+%mor:	noun|baby~part|s adj|first-Pos-S1 noun|color-Plur !
+%gra:	1|4|NMOD-POSS 2|1|CASE 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CDS:	orange .
+%mor:	adj|orange-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	fish .
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	and an orange .
+%mor:	cconj|and det|a-Ind-Art noun|orange .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CDS:	red .
+%mor:	adj|red-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	car !
+%mor:	noun|car !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	and an apple .
+%mor:	cconj|and det|a-Ind-Art noun|apple .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CDS:	apple !
+%mor:	noun|apple !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	green !
+%mor:	adj|green-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	grey .
+%mor:	noun|grey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	elephant .
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	and a dolphin .
+%mor:	cconj|and det|a-Ind-Art noun|dolphin .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CDS:	elephant .
+%mor:	noun|elephant .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	dolphin .
+%mor:	noun|dolphin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	where's the elephant ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|elephant ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CDS:	where's the elephant Childsname ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|elephant noun|Childsname ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*CDS:	&~ele .
+*CDS:	lots_of colors !
+%mor:	noun|lotsof noun|color-Plur !
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CDS:	wow !
+%mor:	intj|wow !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CDS:	that's right !
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CDS:	isn't that good ?
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not adv|that adj|good-Pos-S1 ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CDS:	Mummy can't build these towers can she ?
+%mor:	noun|Mummy aux|can-Fin-S~part|not verb|build-Inf-S det|this-Def-Dem noun|tower-Plur aux|can-Fin-S pron|she-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|DET 6|4|OBJ 7|4|PARATAXIS 8|4|PARATAXIS 9|4|PUNCT
+*CDS:	right good .
+%mor:	adv|right adj|good-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CDS:	doesn't matter because Childsname's throwing them .
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S sconj|because noun|Childsname~aux|be-Fin-Ind-Pres-S3 verb|throw-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|8|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|7|OBJ 9|3|PUNCT
+*CDS:	what you doing Childsname ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-S noun|Childsname ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	it's stopped .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stop-Part-Past-S .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*CDS:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CDS:	spins around doesn't it ?
+%mor:	noun|spin-Plur adv|around aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|3|NSUBJ 2|1|ADVMOD 3|5|ROOT 4|3|ADVMOD 5|3|NSUBJ 6|3|PUNCT
+*CDS:	who's that ?
+%mor:	pron|who-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CDS:	shall we fix these together ?
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|fix-Inf-S pron|this-Dem-P1 adv|together ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+@End

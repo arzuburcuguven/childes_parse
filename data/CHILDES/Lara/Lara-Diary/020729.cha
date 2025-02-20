@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/c-00017966-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;07.29|female|||Target_Child|||
+@Date:	14-JAN-1997
+@Comment:	grandma grandad mum and dad
+@Comment:	Dad goes to work
+@Types:	long, everyday, TD
+*CHI:	where (i)s Daddy going ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|Daddy verb|go-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where (ha)s Amy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Amy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what (i)s Amy doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 noun|Amy verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what_about me ?
+%mor:	verb|whatabout-Fin-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+@Comment:	Mum goes to work
+*CHI:	what you doing with them ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S adp|with pron|they-Prs-Acc-P3 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%com:	toys put on hearth
+*CHI:	where (ha)s my two ladys gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 num|two noun|lady-Plur verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|NMOD-POSS 4|5|NUMMOD 5|2|OBJ 6|2|XCOMP 7|2|PUNCT
+%com:	Barbie dolls
+*CHI:	what (i)s in there ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adp|in adv|there ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%com:	a tin
+*CHI:	what you got on your scarf ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 adp|on pron|your-Prs-Gen-S2 noun|scarf ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	where (i)s our shadows ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|shadow-Plur ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	what_about us ?
+%mor:	verb|whatabout-Fin-Imp-S pron|we-Prs-Acc-P1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	where (ha)s More_Dadaw and grandad gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 noun|MoreDadaw cconj|and noun|grandad verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|OBJ 4|5|CC 5|3|CONJ 6|2|XCOMP 7|2|PUNCT
+@Comment:	Mum and Dad return and Grandparents go
+*CHI:	where (ha)s black bird gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 adj|black-Pos-S1 noun|bird verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|AMOD 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+%com:	reading sleeping beauty
+*CHI:	where (ha)s her face gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|face verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	where (ha)s that face gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 det|that-Def-Dem noun|face verb|go-Part-Past-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	where (i)s the spinning wheel ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|spinning noun|wheel ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*CHI:	where (i)s some that ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|some-Def pron|that-Dem-S1 ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+@End

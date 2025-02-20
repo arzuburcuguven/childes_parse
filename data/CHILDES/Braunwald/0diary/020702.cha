@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00010963-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;07.02|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	22-SEP-1973
+@Types:	long, toyplay, TD
+*CHI:	you're in (pa)jamas, you better get dressed .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|in noun|pajama-Plur cm|cm pron|you-Prs-Nom-S2 adv|well aux|get-Inf-S verb|dress-Part-Past-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|9|ROOT 5|4|PUNCT 6|9|NSUBJ-PASS 7|9|ADVMOD 8|9|AUX-PASS 9|4|PARATAXIS 10|4|PUNCT
+%sit:	708
+*MOT:	first I better make breakfast .
+%mor:	adv|first pron|I-Prs-Nom-S1 adv|well verb|make-Fin-Ind-Pres-S1 noun|breakfast .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	708
+*CHI:	dressed .
+%mor:	verb|dress-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	708
+*CHI:	you take this to hospital then bring it to Gluckie's .
+%mor:	pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Pres-S2 pron|this-Dem-S1 adp|to noun|hospital adv|then verb|bring-Fin-S pron|it-Prs-Acc-S3 adp|to noun|Gluckie~part|s .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|7|ADVMOD 7|2|PARATAXIS 8|7|OBJ 9|10|CASE 10|7|OBL 11|10|CASE 12|2|PUNCT
+%sit:	709
+*MOT:	who are you ?
+%mor:	pron|who-Rel-S1 aux|be-Fin-Ind-Pres-P3 pron|you-Prs-Acc-S2 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	710
+*CHI:	nobody .
+%mor:	pron|nobody-Neg-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	710
+*MOT:	nobody, have you seen Laura_Lastname, Braunwald ?
+%mor:	pron|nobody-Neg-S1 cm|cm aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Part-Past-S noun|LauraLastname cm|cm noun|Braunwald ?
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|5|OBJ 7|6|PUNCT 8|6|APPOS 9|5|PUNCT
+%sit:	710
+*CHI:	she's in my pishie [= pee_pee] place .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in pron|my-Prs-Gen-S1 noun|pishie noun|place .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|NMOD-POSS 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%sit:	710
+*MOT:	oh, she is !
+%mor:	intj|oh cm|cm pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 !
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	710
+*CHI:	hope Gluckie will like this message .
+%mor:	verb|hope-Fin-Ind-Pres-S1 noun|Gluckie aux|will-Fin-S verb|like-Inf-S det|this-Def-Dem noun|message .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+%sit:	711
+*MOT:	oh, I hope she will .
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 aux|will-Fin-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+%sit:	711
+*CHI:	a woman .
+%mor:	det|a-Ind-Art noun|woman .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	712
+*CHI:	I making a woman and a babysitter .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Ger-S det|a-Ind-Art noun|woman cconj|and det|a-Ind-Art noun|babysitter .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+%sit:	712
+@End

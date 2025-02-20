@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/c-00010940-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.06|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	26-AUG-1973
+@Types:	long, toyplay, TD
+*CHI:	I will go in and go out, back and forth .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|go-Inf-S adv|in cconj|and verb|go-Inf-S adv|out cm|cm adv|back cconj|and adv|forth .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|ADVMOD 8|9|PUNCT 9|6|ADVMOD 10|11|CC 11|9|CONJ 12|3|PUNCT
+%sit:	585
+*MOT:	no, Jackie's asleep .
+%mor:	intj|no cm|cm noun|Jackie~part|s adj|asleep-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%sit:	585
+*CHI:	I will be quiet .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S aux|be-Inf-S adj|quiet-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%sit:	585
+*CHI:	just give Jack a kiss .
+%mor:	adv|just verb|give-Fin-Imp-S noun|Jack det|a-Ind-Art noun|kiss .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%sit:	585
+*MOT:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	585
+*MOT:	go in then right out .
+%mor:	verb|go-Fin-Imp-S adv|in adv|then adv|right adv|out .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|5|ADVMOD 5|1|ADVMOD 6|1|PUNCT
+%sit:	585
+*CHI:	hurry hurry hurry (be)fore our baby get lost .
+%mor:	verb|hurry-Inf-S noun|hurry noun|hurry sconj|before pron|our-Prs-Gen-P1 noun|baby aux|get-Fin-Ind-Pres-P3 verb|lose-Part-Past-S .
+%gra:	1|8|ROOT 2|3|COMPOUND 3|1|OBJ 4|8|MARK 5|6|NMOD-POSS 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|1|ADVCL 9|1|PUNCT
+%sit:	586
+*CHI:	lotta [: lots_of] junk we bringed [: brought] [*] .
+%mor:	noun|lotsof noun|junk pron|we-Prs-Nom-P1 verb|bring-Fin-Ind-Past-P1 .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+%sit:	587
+*CHI:	Sue, you better help me .
+%mor:	noun|Sue cm|cm pron|you-Prs-Nom-S2 adv|well verb|help-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|5|VOCATIVE 2|5|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%sit:	588
+*CHI:	I get my dirty bottle so you can wash it .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 adj|dirty-Pos-S1 noun|bottle sconj|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|wash-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|2|ADVCL 10|9|OBJ 11|2|PUNCT
+%sit:	589
+*MOT:	okay, that's a good idea .
+%mor:	intj|okay cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-Pos-S1 noun|idea .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%sit:	589
+@End

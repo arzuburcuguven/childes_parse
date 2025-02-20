@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/c-00010948-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.16|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	06-SEP-1973
+@Types:	long, toyplay, TD
+*CHI:	who is it ?
+%mor:	pron|who-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	633
+*CHI:	sho [: who] is that dog is ?
+%mor:	pron|who-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem noun|dog aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|COP 6|1|PUNCT
+%sit:	633
+*CHI:	do you have a ink in your eye ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art noun|ink adp|in pron|your-Prs-Gen-S2 noun|eye ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+%sit:	634
+*MOT:	ink ?
+%mor:	noun|ink ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	634
+*MOT:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	634
+*CHI:	inksy [: itsy] winksy [: bitsy] spider .
+%mor:	adj|itsy-Pos-S1 adj|bitsy-Pos-S1 noun|spider .
+%gra:	1|3|AMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	634
+*CHI:	some days Daddy hits me .
+%mor:	det|some-Def noun|day-Plur noun|Daddy verb|hit-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|2|DET 2|4|OBL-TMOD 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	635
+*MOT:	why does he hit you ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|hit-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	635
+*CHI:	because I have trouble to go nini@c [= nap] .
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|trouble part|to verb|go-Inf-S noun|nini .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|MARK 6|4|ACL 7|6|OBJ 8|3|PUNCT
+%sit:	635
+*CHI:	here's a kleenex case [: in_case] you sneeze Mommy .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kleenex noun|incase pron|you-Prs-Nom-S2 verb|sneeze-Fin-Ind-Pres-S2 noun|Mommy .
+%gra:	1|8|ROOT 2|1|COP 3|5|DET 4|5|COMPOUND 5|1|NSUBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|1|PUNCT
+%sit:	636
+*MOT:	see if the mail came .
+%mor:	verb|see-Fin-Imp-S sconj|if det|the-Def-Art noun|mail verb|come-Fin-Ind-Past-S3 .
+%gra:	1|5|ROOT 2|5|MARK 3|4|DET 4|5|NSUBJ 5|1|CCOMP 6|1|PUNCT
+%sit:	637
+*CHI:	mail didn't came [: come] [*] .
+%mor:	noun|mail aux|do-Fin-Ind-Past-S3~part|not verb|come-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	637
+*CHI:	I just wanna peek in so allbody [: everybody] will be safe .
+%mor:	pron|I-Prs-Nom-S1 adv|just aux|wanna-Fin-S verb|peek-Inf-S adv|in adv|so pron|everybody-Tot-S1 aux|will-Fin-S aux|be-Inf-S adj|safe-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|AUX 4|10|ROOT 5|4|ADVMOD 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|COP 10|4|PARATAXIS 11|4|PUNCT
+%sit:	638
+*CHI:	when my mouth hurts I say ah@q to my daddy's ahing@n thing .
+%mor:	adv|when pron|my-Prs-Gen-S1 noun|mouth verb|hurt-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 intj|ah adp|to pron|my-Prs-Gen-S1 noun|daddy~part|s noun|ahing noun|thing .
+%gra:	1|4|ADVMOD 2|3|NMOD-POSS 3|4|NSUBJ 4|6|ADVCL 5|6|NSUBJ 6|13|ROOT 7|6|CCOMP 8|13|CASE 9|10|NMOD-POSS 10|13|NMOD-POSS 11|10|CASE 12|13|COMPOUND 13|6|OBL 14|6|PUNCT
+%sit:	639, "daddy's ah-ing thing" probably refers to a tongue depressor
+*MOT:	oh, when you have a sore throat .
+%mor:	intj|oh cm|cm adv|when pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art adj|sore-Pos-S1 noun|throat .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|NSUBJ 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+%sit:	639
+*CHI:	lookit that cute doggie .
+%mor:	verb|lookit-Fin-Imp-S det|that-Def-Dem adj|cute-Pos-S1 noun|doggie .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%sit:	640
+*CHI:	I wish I can have that dog .
+%mor:	pron|I-Prs-Nom-S1 verb|wish-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|have-Inf-S det|that-Def-Dem noun|dog .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+%sit:	640
+*CHI:	is Gluttow better ?
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|Gluttow adj|good-Cmp-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	641
+*FAT:	I didn't see him today .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|see-Inf-S pron|he-Prs-Acc-S3 noun|today .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|OBL-TMOD 7|4|PUNCT
+%sit:	641
+@End

@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/c-00017979-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;08.11|female|||Target_Child|||
+@Date:	27-JAN-1997
+@Comment:	Mum Dad Grandma and Grandad
+@Types:	long, everyday, TD
+*CHI:	what he ?
+%mor:	pron|what-Rel-S1 pron|he-Prs-Nom-S3 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*CHI:	where (i)s More_Dadaw coming ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|MoreDadaw verb|come-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where (ha)s Daddy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	who (ha)s gone toilet ?
+%mor:	pron|who-Rel-S1 aux|have-Fin-Ind-Pres-S3 verb|go-Part-Past-S noun|toilet ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+@Comment:	Mum and Dad to work
+*CHI:	what you got on your dinner ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 adp|on pron|your-Prs-Gen-S2 noun|dinner ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	what you got on your dinner ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 adp|on pron|your-Prs-Gen-S2 noun|dinner ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	why he gone home ?
+%mor:	adv|why pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adv|home ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	what_about giraffe ?
+%mor:	adj|whatabout-Pos-S1 noun|giraffe ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	where (i)s all the animals ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|all-Def det|the-Def-Art noun|animal-Plur ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET-PREDET 4|5|DET 5|2|NSUBJ 6|1|PUNCT
+*CHI:	what_about these ?
+%mor:	intj|whatabout pron|this-Dem-P1 ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	why it right now ?
+%mor:	adv|why pron|it-Prs-Nom-S3 adv|right adv|now ?
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+%com:	after why what
+*CHI:	what you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@Comment:	Mum and Dad back
+*CHI:	where (i)s my cough medicine .
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|cough noun|medicine .
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*CHI:	where (ha)s my Daddy gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	what_about that spoon ?
+%mor:	intj|whatabout pron|that-Rel-S1 verb|spoon-Fin-Ind-Pres-S3 ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+*CHI:	why they got no clothes on ?
+%mor:	adv|why pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3 det|no-Def noun|clothes-Plur adv|on ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%com:	after why what
+*CHI:	where (i)s our sister ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|sister ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	where (i)s our sister ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|sister ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	why it hot ?
+%mor:	adv|why pron|it-Prs-Nom-S3 adj|hot-Pos-S1 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	where (ha)s her face gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|face verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+%com:	sleeping beauty reading
+@End

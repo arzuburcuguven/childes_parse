@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/c-00018034-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;10.08|female|||Target_Child|||
+@Date:	24-MAR-1997
+@Comment:	Mum and Dad
+@Types:	long, everyday, TD
+*CHI:	who wanna play with me ?
+%mor:	pron|who-Rel-S1 aux|wanna-Fin-S verb|play-Inf-S adp|with pron|I-Prs-Acc-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	where my drink gone ?
+%mor:	adv|where pron|my-Prs-Gen-S1 noun|drink verb|go-Fin-Ind-Past-S3 ?
+%gra:	1|4|ADVMOD 2|3|NMOD-POSS 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where my yoghurt ?
+%mor:	adv|where pron|my-Prs-Gen-S1 noun|yoghurt ?
+%gra:	1|3|ADVMOD 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s the matter with Mummy ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|matter adp|with noun|Mummy ?
+%gra:	1|6|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|6|CASE 6|4|NMOD 7|1|PUNCT
+*CHI:	what you been doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+@End

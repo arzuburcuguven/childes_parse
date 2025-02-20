@@ -1,0 +1,131 @@
+@UTF8
+@PID:	11312/c-00010760-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;11.17|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	06-FEB-1973
+@Types:	long, toyplay, TD
+*CHI:	help my take it off .
+%mor:	verb|help-Fin-Imp-S pron|my-Prs-Gen-S1 verb|take-Inf-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|XCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|1|PUNCT
+%sit:	1235
+*CHI:	my wash it .
+%mor:	pron|my-Prs-Gen-S1 noun|wash pron|it-Prs-Acc-S3 .
+%gra:	1|2|NMOD-POSS 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+%sit:	1235
+*CHI:	I get milk in my cup .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 noun|milk adp|in pron|my-Prs-Gen-S1 noun|cup .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|2|PUNCT
+%sit:	1236
+*CHI:	my want Sue .
+%mor:	pron|my-Prs-Gen-S1 verb|want-Fin-Ind-Pres-S1 noun|Sue .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1236
+*CHI:	how (a)bout Sue do it ?
+%mor:	adv|how adp|about noun|Sue verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 ?
+%gra:	1|5|ROOT 2|3|CASE 3|1|OBL 4|1|ADVCL-RELCL 5|4|OBJ 6|1|PUNCT
+%sit:	1236
+*CHI:	my have bad cough .
+%mor:	pron|my-Prs-Gen-S1 verb|have-Fin-Ind-Pres-S1 adj|bad-Pos-S1 noun|cough .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%sit:	1237
+*CHI:	my have good_gracious cough .
+%mor:	pron|my-Prs-Gen-S1 verb|have-Fin-Ind-Pres-S1 adj|goodgracious-Pos-S1 noun|cough .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%sit:	1237
+*CHI:	terrible cough .
+%mor:	adj|terrible-Pos-S1 noun|cough .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1237
+*CHI:	I right back .
+%mor:	pron|I-Prs-Nom-S1 adv|right adv|back .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1238
+*CHI:	my right back .
+%mor:	pron|my-Prs-Gen-S1 adj|right-Pos-S1 noun|back .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1238
+*MOT:	okay, you be right back .
+%mor:	intj|okay cm|cm pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adv|right adv|back .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	1238
+*CHI:	I did it .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1238
+*CHI:	Peanut [: Peanuts] want out .
+%mor:	noun|peanut-Plur verb|want-Fin-Ind-Pres-P3 adp|out .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%sit:	1239
+*CHI:	I see our house .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|our-Prs-Gen-P1 noun|house .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	1240
+*CHI:	and Laura_Lastname's .
+%mor:	cconj|and noun|LauraLastnam~part|s .
+%gra:	1|2|CC 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	1240
+*CHI:	open it Laura_Lastname ?
+%mor:	verb|open-Fin-Imp-S pron|it-Prs-Acc-S3 noun|LauraLastname ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+%sit:	1241
+*MOT:	yeah open it .
+%mor:	intj|yeah verb|open-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1241
+*CHI:	then close it ?
+%mor:	adv|then verb|close-Fin-Imp-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1241
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1241
+*CHI:	there haircut house .
+%mor:	pron|there-Prs-Gen-S3 noun|haircut noun|house .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1242
+*CHI:	Mommy you carry me .
+%mor:	intj|mommy pron|you-Prs-Nom-S2 verb|carry-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1243
+*CHI:	I want bandaid .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|bandaid .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1244
+*CHI:	I want bandaid box .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|bandaid noun|box .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%sit:	1244
+*MOT:	you can have a bandaid, but not the box .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S det|a-Ind-Art noun|bandaid cm|cm cconj|but part|not det|the-Def-Art noun|box .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|DET 5|3|OBJ 6|10|PUNCT 7|10|CC 8|10|ADVMOD 9|10|DET 10|5|CONJ 11|3|PUNCT
+%sit:	1244
+*CHI:	Deedee [: Joanna] hit my back .
+%mor:	noun|Joanna verb|hit-Fin-Ind-Past-S3 pron|my-Prs-Gen-S1 noun|back .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	1245
+*MOT:	Deedee [: Joanna] hit your back ?
+%mor:	noun|Joanna verb|hit-Fin-Ind-Past-S3 pron|your-Prs-Gen-S2 noun|back ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	1245
+*CHI:	I didn't like it .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1245
+*CHI:	I didn't like it .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1245
+*CHI:	my sneak up .
+%mor:	pron|my-Prs-Gen-S1 noun|sneak adv|up .
+%gra:	1|2|NMOD-POSS 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	1246
+*CHI:	my sneak up .
+%mor:	pron|my-Prs-Gen-S1 noun|sneak adv|up .
+%gra:	1|2|NMOD-POSS 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	1246
+@End

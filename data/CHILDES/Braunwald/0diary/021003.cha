@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/c-00011049-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|02;10.03|female|||Target_Child|||
+@Date:	23-DEC-1973
+@Types:	long, toyplay, TD
+*MOT:	how (a)bout if Daddy dresses you ?
+%mor:	adv|how sconj|about sconj|if noun|Daddy verb|dress-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 ?
+%gra:	1|6|ROOT 2|5|MARK 3|5|MARK 4|5|NSUBJ 5|1|ADVCL 6|5|OBJ 7|1|PUNCT
+%sit:	146
+*MOT:	I dress you everyday .
+%mor:	pron|I-Prs-Nom-S1 verb|dress-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adv|everyday .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%sit:	146
+*CHI:	Daddy dressed me yesterday .
+%mor:	noun|Daddy verb|dress-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 noun|yesterday .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBL-TMOD 5|2|PUNCT
+%sit:	146
+*MOT:	no, I dressed you yesterday .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|dress-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 noun|yesterday .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|OBL-TMOD 7|4|PUNCT
+%sit:	146
+*CHI:	Daddy dressed my a real long time ago .
+%mor:	noun|Daddy verb|dress-Fin-Ind-Past-S3 pron|my-Prs-Gen-S1 det|a-Ind-Art adj|real-Pos-S1 adj|long-Pos-S1 noun|time adv|ago .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|7|NMOD-POSS 4|7|DET 5|7|AMOD 6|7|AMOD 7|2|OBJ 8|2|ADVMOD 9|2|PUNCT
+%sit:	146
+*CHI:	Mommy look .
+%mor:	noun|Mommy verb|look-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	147
+*CHI:	see he never bites me, the lion .
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Nom-S3 adv|never verb|bite-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 cm|cm det|the-Def-Art noun|lion .
+%gra:	1|8|ROOT 2|4|NSUBJ 3|4|ADVMOD 4|1|CCOMP 5|4|OBJ 6|1|PUNCT 7|8|DET 8|4|PARATAXIS 9|1|PUNCT
+%sit:	147
+*CHI:	I can pet him .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|pet-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	147
+*CHI:	Grandma, I'm not scared of tigers .
+%mor:	noun|Grandma cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|scared-Pos-S1 adp|of noun|tiger-Plur .
+%gra:	1|6|VOCATIVE 2|6|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%sit:	148
+*CHI:	I'm not .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	148
+*CHI:	I just pet him .
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|pet-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	148
+*CHI:	he never bites me .
+%mor:	pron|he-Prs-Nom-S3 adv|never verb|bite-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	148
+*CHI:	never, never .
+%mor:	adv|never cm|cm adv|never .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+%sit:	148
+*MOT:	good, I'm glad .
+%mor:	adj|good-Pos-S1 cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-Pos-S1 .
+%gra:	1|5|ROOT 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|1|PARATAXIS 6|1|PUNCT
+%sit:	148
+*CHI:	did you wash your hair, Sue ?
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|wash-Inf-S pron|your-Prs-Gen-S2 noun|hair cm|cm noun|Sue ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT 7|3|PARATAXIS 8|3|PUNCT
+%sit:	149
+*MOT:	yes, I did .
+%mor:	intj|yes cm|cm pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	149
+*CHI:	I don't wanna help Joanna be a mommy to me .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|wanna verb|help-Inf-S noun|Joanna aux|be-Inf-S det|a-Ind-Art noun|mommy adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|11|ROOT 6|5|OBJ 7|9|COP 8|9|DET 9|5|XCOMP 10|11|CASE 11|9|NMOD 12|5|PUNCT
+%sit:	150
+*MOT:	what do wanna do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-P3 part|wanna verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	150
+*CHI:	I wanna be a mommy too .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S aux|be-Inf-S det|a-Ind-Art noun|mommy adv|too .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%sit:	150
+*MOT:	okay, tell Joanna you can change the game .
+%mor:	intj|okay cm|cm verb|tell-Fin-Imp-S noun|Joanna pron|you-Prs-Nom-S2 aux|can-Fin-S verb|change-Inf-S det|the-Def-Art noun|game .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|9|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|DET 9|7|OBJ 10|3|PUNCT
+%sit:	150
+*CHI:	would an ice_cream make you better ?
+%mor:	aux|would-Fin-S det|a-Ind-Art noun|icecream verb|make-Inf-S pron|you-Prs-Acc-S2 adj|good-Cmp-S1 ?
+%gra:	1|4|AUX 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+%sit:	151
+*CHI:	which is winning Daddy ?
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|win-Part-Pres-S noun|Daddy ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	152
+@End

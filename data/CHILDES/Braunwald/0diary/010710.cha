@@ -1,0 +1,288 @@
+@UTF8
+@PID:	11312/c-00010634-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FAT Father, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;07.10|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	30-SEP-1972
+@Types:	long, toyplay, TD
+*CHI:	door door open .
+%mor:	noun|door noun|door adj|open-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1004
+*CHI:	Sue open .
+%mor:	noun|Sue verb|open-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1004
+*CHI:	more water, Sue, water .
+%mor:	adj|more-Cmp-S1 noun|water cm|cm noun|Sue cm|cm noun|water .
+%gra:	1|2|AMOD 2|6|ROOT 3|2|PUNCT 4|2|LIST 5|2|PUNCT 6|2|CONJ 7|2|PUNCT
+%sit:	1005
+*CHI:	door, Sue .
+%mor:	noun|door cm|cm noun|Sue .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|APPOS 4|1|PUNCT
+%sit:	1005
+*CHI:	door open .
+%mor:	noun|door adj|open-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1005
+*CHI:	poo potty, poo potty .
+%mor:	noun|poo noun|potty cm|cm noun|poo noun|potty .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|2|PUNCT 4|5|COMPOUND 5|2|PARATAXIS 6|2|PUNCT
+%sit:	1006
+*CHI:	kitty out der [: there] .
+%mor:	noun|kitty adp|out adv|there .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	1007
+*CHI:	kitty out der [: there] .
+%mor:	noun|kitty adp|out adv|there .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	1007
+*FAT:	I hafta be excused very badly .
+%mor:	pron|I-Prs-Nom-S1 aux|hafta-Fin-S aux|be-Inf-S verb|excuse-Part-Past-S adv|very adv|badly .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|6|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+%sit:	1008
+*CHI:	papoom [: bathroom], Daddy papoom [: bathroom] .
+%mor:	noun|bathroom cm|cm noun|Daddy noun|bathroom .
+%gra:	1|4|ROOT 2|1|PUNCT 3|4|COMPOUND 4|1|APPOS 5|1|PUNCT
+%sit:	1008
+*CHI:	Mommy hear hear hear Eugene .
+%mor:	noun|Mommy verb|hear-Fin-Imp-S verb|hear-Inf-S verb|hear-Inf-S noun|Eugene .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|3|XCOMP 5|4|OBJ 6|2|PUNCT
+%sit:	1009
+*MOT:	yes, I hear Eugene .
+%mor:	intj|yes cm|cm pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Pres-S1 noun|Eugene .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1009
+*CHI:	cry .
+%mor:	verb|cry-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1009
+*MOT:	who's going to cry ?
+%mor:	pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|cry-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%sit:	1009
+*CHI:	Baura [: Laura] .
+%mor:	noun|Laura .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1009
+*CHI:	hi, Eugene .
+%mor:	intj|hi cm|cm noun|Eugene .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	1009
+*CHI:	pipit@c [= blanket] doll .
+%mor:	noun|pipit noun|doll .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1010
+*CHI:	pipit@c [= blanket] doll .
+%mor:	noun|pipit noun|doll .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1010.
+*CHI:	(s)ponge Sue .
+%mor:	noun|sponge noun|Sue .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1011
+*MOT:	no, I'm using it .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|use-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%sit:	1011
+*CHI:	Baura [: Laura] turn .
+%mor:	noun|Laura verb|turn-Fin-Ind-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1011
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1011
+*CHI:	(s)ponge pee_pee .
+%mor:	noun|sponge noun|peepee .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1012
+*CHI:	(s)ponge pee_pee .
+%mor:	noun|sponge noun|peepee .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1012
+*CHI:	Caca [: Erica] get her .
+%mor:	noun|Erica verb|get-Fin-Ind-Pres-S pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1013
+*CHI:	get her .
+%mor:	verb|get-Fin-Imp-S pron|her-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1013
+*CHI:	get her .
+%mor:	verb|get-Fin-Imp-S pron|her-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1013
+*CHI:	Caca [: Erica] bebroom [: bedroom] .
+%mor:	noun|Erica noun|bedroom .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1014
+*CHI:	Mommy Caca [: Erica] .
+%mor:	noun|Mommy noun|Erica .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	1014
+*CHI:	see Caca [: Erica] .
+%mor:	verb|see-Fin-Imp-S noun|Erica .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1015
+*CHI:	see Caca [: Erica] .
+%mor:	verb|see-Fin-Imp-S noun|Erica .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1015
+*MOT:	well go see if they'll let you in .
+%mor:	intj|well verb|go-Fin-Imp-S verb|see-Fin-Imp-S sconj|if pron|they-Prs-Nom-P3~aux|will-Fin-S verb|let-Inf-S pron|you-Prs-Acc-S2 adv|in .
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|2|XCOMP 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|OBJ 9|7|ADVMOD 10|2|PUNCT
+%sit:	1015
+*MOT:	go knock on the door .
+%mor:	verb|go-Fin-Imp-S verb|knock-Inf-S adp|on det|the-Def-Art noun|door .
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+%sit:	1015
+*CHI:	my shoe get .
+%mor:	pron|my-Prs-Gen-S1 noun|shoe verb|get-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1017
+*CHI:	my shoe get .
+%mor:	pron|my-Prs-Gen-S1 noun|shoe verb|get-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1017
+*CHI:	shoe my shoe my shoe my shoe .
+%mor:	verb|shoe-Inf-S pron|my-Prs-Gen-S1 noun|shoe pron|my-Prs-Gen-S1 noun|shoe pron|my-Prs-Gen-S1 noun|shoe .
+%gra:	1|7|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|NMOD-POSS 5|1|OBJ 6|7|NMOD-POSS 7|1|OBJ 8|1|PUNCT
+%sit:	1018
+*CHI:	Daddy splinter out .
+%mor:	noun|Daddy noun|splinter adp|out .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1019
+*CHI:	swing too .
+%mor:	noun|swing adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1020
+*CHI:	swing too .
+%mor:	noun|swing adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1020
+*CHI:	swing too .
+%mor:	noun|swing adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1020
+*CHI:	Caca [: Erica] shoe .
+%mor:	noun|Erica noun|shoe .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	1021
+*CHI:	Caca [: Erica] sandal .
+%mor:	noun|Erica noun|sandal .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1021
+*CHI:	Caca [: Erica] sandal .
+%mor:	noun|Erica noun|sandal .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1021
+*CHI:	Caca [: Erica] hair Sue curler .
+%mor:	noun|Erica noun|hair noun|Sue noun|curler .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%sit:	1022
+*CHI:	shoe doll on .
+%mor:	noun|shoe noun|doll adv|on .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	1023
+*CHI:	doll shoe .
+%mor:	noun|doll noun|shoe .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1023
+*CHI:	doll shoe .
+%mor:	noun|doll noun|shoe .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1023
+*MOT:	Laura, don't touch it .
+%mor:	noun|Laura cm|cm aux|do-Fin-Imp-S~part|not verb|touch-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|VOCATIVE 2|5|PUNCT 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%sit:	1024
+*CHI:	doll tuk [: truck] .
+%mor:	noun|doll noun|truck .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1024
+*CHI:	doll tuk [: truck] .
+%mor:	noun|doll noun|truck .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1024
+*CHI:	see Hatu [: Matthew] .
+%mor:	verb|see-Fin-Imp-S noun|Matthew .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1025
+*CHI:	wash pipit@c [= blanket] .
+%mor:	verb|wash-Fin-Imp-S noun|pipit .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1026
+*CHI:	Caca [: Erica] home .
+%mor:	noun|Erica adv|home .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1027
+*CHI:	Lorney home .
+%mor:	noun|Lorney adv|home .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1027
+*CHI:	Hatu [: Matthew] home .
+%mor:	noun|Matthew adv|home .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1027
+*CHI:	Jo [: Joanna] break Laura chair .
+%mor:	noun|Joanna verb|break-Fin-Ind-S noun|Laura noun|chair .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%sit:	1028
+*CHI:	mine Deedee [: Joanna] .
+%mor:	pron|mine-Prs-S1 noun|Joanna .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	1028
+*CHI:	mine Deedee [: Joanna] .
+%mor:	pron|mine-Prs-S1 noun|Joanna .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	1028
+*CHI:	Sue pur(se) .
+%mor:	noun|Sue noun|purse .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1029
+*CHI:	Sue pur(se) .
+%mor:	noun|Sue noun|purse .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1029
+*CHI:	Nestor pairplane [: airplane] .
+%mor:	noun|Nestor noun|airplane .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1030
+*CHI:	find cakie [= monkey] .
+%mor:	verb|find-Fin-Imp-S noun|cakie .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1031
+*CHI:	see Sue .
+%mor:	verb|see-Fin-Imp-S noun|Sue .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1032
+*CHI:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1032
+*CHI:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1032
+*CHI:	Sue lap .
+%mor:	noun|Sue noun|lap .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	1033
+*CHI:	I am bauter [: better] .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adj|good-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	1034
+*CHI:	up down .
+%mor:	adv|up adv|down .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1035
+*CHI:	up down .
+%mor:	adv|up adv|down .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1035
+@End

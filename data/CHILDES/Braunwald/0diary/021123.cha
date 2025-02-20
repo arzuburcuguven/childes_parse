@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/c-00011095-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;11.23|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	12-FEB-1974
+@Types:	long, toyplay, TD
+*CHI:	I like your pimples .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|your-Prs-Gen-S2 noun|pimple-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	430
+*MOT:	you like my pimples ?
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|pimple-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	430
+*MOT:	I wish I didn't have them .
+%mor:	pron|I-Prs-Nom-S1 verb|wish-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|have-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|6|OBJ 8|2|PUNCT
+%sit:	430
+*MOT:	I got them from eating junk .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|they-Prs-Acc-P3 sconj|from verb|eat-Ger-S noun|junk .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|MARK 5|2|ADVCL 6|5|OBJ 7|2|PUNCT
+%sit:	430
+*CHI:	Mommy, I hope she have a good breakfast to eat and a nice day .
+%mor:	noun|Mommy cm|cm pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-Pos-S1 noun|breakfast part|to verb|eat-Inf-S cconj|and det|a-Ind-Art adj|nice-Pos-S1 noun|day .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|15|ROOT 5|6|NSUBJ 6|4|CCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|11|MARK 11|9|ACL 12|15|CC 13|15|DET 14|15|AMOD 15|11|CONJ 16|4|PUNCT
+%sit:	431
+*MOT:	who ?
+%mor:	pron|who-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	431
+*CHI:	Katie .
+%mor:	noun|Katie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	431
+*CHI:	I hafta figure out where I'm going .
+%mor:	pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|figure-Inf-S adp|out adv|where pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|COMPOUND-PRT 5|8|ADVMOD 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|3|PUNCT
+%sit:	432
+*CHI:	Peanuts, no !
+%mor:	noun|peanut-Plur cm|cm intj|no !
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%sit:	433
+*CHI:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	433
+*CHI:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	433
+*CHI:	he listened to me .
+%mor:	pron|he-Prs-Nom-S3 verb|listen-Fin-Ind-Past-S3 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%sit:	433
+*CHI:	I'm all done with my meat .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|all verb|do-Part-Past-S adp|with pron|my-Prs-Gen-S1 noun|meat .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+%sit:	434
+*FAT:	I smell a fart .
+%mor:	pron|I-Prs-Nom-S1 verb|smell-Fin-Ind-Pres-S1 det|a-Ind-Art noun|fart .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	435
+*CHI:	not coming from me .
+%mor:	part|not verb|come-Ger-S adp|from pron|I-Prs-Acc-S1 .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%sit:	435
+@End

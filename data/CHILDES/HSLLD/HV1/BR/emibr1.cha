@@ -1,0 +1,795 @@
+@UTF8
+@PID:	11312/c-00034794-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, SIS Sister, EX1 Investigator
+@Options:	bullets
+@ID:	eng|HSLLD|MOT||female|||Mother|9||
+@ID:	eng|HSLLD|CHI|3;07.23|female|||Target_Child|||
+@ID:	eng|HSLLD|SIS|||||Sister|||
+@ID:	eng|HSLLD|EX1|||||Investigator|||
+@Birth of CHI:	21-DEC-1984
+@Media:	emibr1, audio
+@Comment:	SES of Mot is lower
+@Date:	15-AUG-1988
+@Location:	Boston , MA , USA
+@Situation:	First home visit
+@Activities:	Book Reading 1 (Very Hungry Caterpillar)
+@Bg:	bookreading
+@Types:	long, book, TD
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you wanna read the book too ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 intj|wanna verb|read-Inf-S det|the-Def-Art noun|book adv|too ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*MOT:	the very hungry caterpillar .
+%mor:	det|the-Def-Art adv|very adj|hungry-Pos-S1 noun|caterpillar .
+%gra:	1|4|DET 2|3|ADVMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+@Comment:	Time is 4:38
+*CHI:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what color is he ?
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|4|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+*CHI:	green !
+%mor:	adj|green-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at all those pretty colors .
+%mor:	verb|look-Fin-Imp-S adp|at det|all-Def det|that-Def-Dem adj|pretty-Pos-S1 noun|color-Plur .
+%gra:	1|6|ROOT 2|6|CASE 3|6|DET-PREDET 4|6|DET 5|6|AMOD 6|1|OBL 7|1|PUNCT
+*MOT:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	coughs
+*MOT:	the very hungry caterpillar .
+%mor:	det|the-Def-Art adv|very adj|hungry-Pos-S1 noun|caterpillar .
+%gra:	1|4|DET 2|3|ADVMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%int:	<4> lengthened
+*MOT:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	clears throat
+*MOT:	in the light of the moon a little egg lay on a leaf .
+%mor:	adp|in det|the-Def-Art noun|light adp|of det|the-Def-Art noun|moon det|a-Ind-Art adj|little-Pos-S1 noun|egg verb|lay-Fin-Ind-Past-S3 adp|on det|a-Ind-Art noun|leaf .
+%gra:	1|3|CASE 2|3|DET 3|10|OBL 4|6|CASE 5|6|DET 6|3|NMOD 7|9|DET 8|9|AMOD 9|10|NSUBJ 10|13|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|10|PUNCT
+*MOT:	that's the egg .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|egg .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	that's right .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	one Sunday morning the warm sun came up and pop [!] out_of the egg came a tiny and very hungry +...
+%mor:	num|one noun|Sunday noun|morning det|the-Def-Art adj|warm-Pos-S1 noun|sun verb|come-Fin-Ind-Past-S3 adp|up cconj|and noun|pop noun|outof det|the-Def-Art noun|egg verb|come-Fin-Ind-Past-S3 det|a-Ind-Art adj|tiny-Pos-S1 cconj|and adv|very adj|hungry-Pos-S1 +...
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|7|OBL-TMOD 4|6|DET 5|6|AMOD 6|7|NSUBJ 7|19|ROOT 8|7|COMPOUND-PRT 9|14|CC 10|11|AMOD 11|14|NSUBJ 12|13|DET 13|11|OBJ 14|7|CONJ 15|16|DET 16|14|XCOMP 17|19|CC 18|19|ADVMOD 19|16|CONJ 20|7|PUNCT
+*CHI:	caterpillar .
+%mor:	noun|caterpillar .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and look at the sun .
+%mor:	cconj|and verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|sun .
+%gra:	1|2|CC 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*MOT:	the sun looks happy that he came out_of his egg huh ? 6745_12205
+%mor:	det|the-Def-Art noun|sun verb|look-Fin-Ind-Pres-S3 adj|happy-Pos-S1 sconj|that pron|he-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3 adp|outof pron|his-Prs-Gen-S3 noun|egg intj|huh ?
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|3|XCOMP 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|10|APPOS 12|3|PUNCT
+%wor:	the 6745_9945 sun 9945_11705 looks happy that he came out_of his egg huh 11705_12205 ?
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	he has got a happy face .
+%mor:	pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S det|a-Ind-Art adj|happy-Pos-S1 noun|face .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%par:	whispers
+*CHI:	<oo oo> [>] .
+%mor:	intj|oo intj|oo .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	<he started> [<] to look for some food .
+%mor:	pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|look-Inf-S adp|for det|some-Def noun|food .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+*MOT:	wait a minute Chi wait a minute .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute noun|Chi verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|5|NSUBJ 5|1|PARATAXIS 6|7|DET 7|5|OBJ 8|1|PUNCT
+*MOT:	he started to look for some food . 11705_12205
+%mor:	pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|look-Inf-S adp|for det|some-Def noun|food .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+%wor:	he started to look for some food 11705_12205 .
+*MOT:	on Monday he ate through one apple but (.) he was still hungry .
+%mor:	adp|on noun|Monday pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 adp|through num|one noun|apple cconj|but pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adv|still adj|hungry-Pos-S1 .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|12|ROOT 5|7|CASE 6|7|NUMMOD 7|4|OBL 8|12|CC 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|4|CONJ 13|4|PUNCT
+*MOT:	on Tuesday he ate through how many pears ?
+%mor:	adp|on noun|Tuesday pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 adp|through adv|how adj|many-Pos-S1 noun|pear-Plur ?
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|7|ADVMOD 7|8|AMOD 8|4|OBL 9|4|PUNCT
+*CHI:	two !
+%mor:	num|two !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	but he was still hungry .
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adv|still adj|hungry-Pos-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	oh my God I can't believe he was that hungry !
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|God pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|believe-Inf-S pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adv|that adj|hungry-Pos-S1 !
+%gra:	1|7|DISCOURSE 2|3|NMOD-POSS 3|7|DISCOURSE 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|11|ROOT 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|7|CCOMP 12|7|PUNCT
+%int:	rapidly and loudly
+*MOT:	on Wednesday he ate through three plums but he was still hungry .
+%mor:	adp|on noun|Wednesday pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 adp|through num|three noun|plum-Plur cconj|but pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adv|still adj|hungry-Pos-S1 .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|12|ROOT 5|7|CASE 6|7|NUMMOD 7|4|OBL 8|12|CC 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|4|CONJ 13|4|PUNCT
+*MOT:	on Thursday how many (.) strawberries (.) is that ?
+%mor:	adp|on noun|Thursday adv|how adj|many-Pos-S1 noun|strawberry-Plur aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|CASE 2|7|OBL 3|4|ADVMOD 4|5|AMOD 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+*MOT:	that he ate ?
+%mor:	sconj|that pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	one two three four five seven .
+%mor:	num|one num|two num|three num|four num|five num|seven .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|6|NUMMOD 5|6|NUMMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	oh that's four [!] .
+%mor:	intj|oh pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 num|four .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	he ate four strawberries .
+%mor:	pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 num|four noun|strawberry-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+*MOT:	on Friday he ate through five [!] oranges but was still very hungry .
+%mor:	adp|on noun|Friday pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 adp|through num|five noun|orange-Plur cconj|but aux|be-Fin-Ind-Past-S3 adv|still adv|very adj|hungry-Pos-S1 .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|12|ROOT 5|7|CASE 6|7|NUMMOD 7|4|OBL 8|12|CC 9|12|COP 10|12|ADVMOD 11|12|ADVMOD 12|4|CONJ 13|4|PUNCT
+*CHI:	<do you xxx> [>] ? 11705_12425
+%mor:	verb|do-Fin-Imp-S2 pron|you-Prs-Acc-S2 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	do 11705_11925 you 11925_12425 ?
+*SIS:	xxx [<] [>] .
+%int:	lengthened , garbled
+*MOT:	wow [<] .
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you get that hungry ? 12465_12965
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Inf-S pron|that-Dem-S1 adj|hungry-Pos-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%wor:	do you get that hungry 12465_12965 ?
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I do too . 12465_12965
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 adv|too .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I do too 12465_12965 .
+*SIS:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	on Saturday he ate through a piece of +...
+%mor:	adp|on noun|Saturday pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3 adp|through det|a-Ind-Art noun|piece adp|of +...
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|8|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|7|ADVMOD 9|4|PUNCT
+*MOT:	what is that ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	chocolate cake +...
+%mor:	noun|chocolate noun|cake +...
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	chocolate cake .
+%mor:	noun|chocolate noun|cake .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	an ice cream cone +...
+%mor:	det|a-Ind-Art noun|ice noun|cream noun|cone +...
+%gra:	1|4|DET 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	an ice cream cone .
+%mor:	det|a-Ind-Art noun|ice noun|cream noun|cone .
+%gra:	1|4|DET 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*MOT:	a pickle +...
+%mor:	det|a-Ind-Art noun|pickle +...
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a pickle .
+%mor:	det|a-Ind-Art noun|pickle .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	a slice of swiss cheese +...
+%mor:	det|a-Ind-Art noun|slice adp|of adj|swiss-Pos-S1 noun|cheese +...
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|AMOD 5|2|NMOD 6|2|PUNCT
+*CHI:	a slice of swiss cheese .
+%mor:	det|a-Ind-Art noun|slice adp|of adj|swiss-Pos-S1 noun|cheese .
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|AMOD 5|2|NMOD 6|2|PUNCT
+*MOT:	salami +...
+%mor:	noun|salami +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	salami .
+%mor:	noun|salami .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	one lollipop +...
+%mor:	num|one noun|lollipop +...
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	one lollipop [>] .
+%mor:	num|one noun|lollipop .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*SIS:	zzz [<] [>] .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	yells
+*MOT:	<a piece> [<] of cherry pie +...
+%mor:	det|a-Ind-Art noun|piece adp|of noun|cherry noun|pie +...
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|COMPOUND 5|2|NMOD 6|2|PUNCT
+*CHI:	piece of cherry pie .
+%mor:	noun|piece adp|of noun|cherry noun|pie .
+%gra:	1|4|ROOT 2|4|CASE 3|4|COMPOUND 4|1|NMOD 5|1|PUNCT
+*MOT:	one sausage +...
+%mor:	num|one noun|sausage +...
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	one sausage .
+%mor:	num|one noun|sausage .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	one cupcake +...
+%mor:	num|one noun|cupcake +...
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	one cupcake .
+%mor:	num|one noun|cupcake .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	and one +...
+%mor:	cconj|and num|one +...
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	watermelon !
+%mor:	noun|watermelon !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and that night he had a stomach ache .
+%mor:	cconj|and det|that-Def-Dem noun|night pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|stomach noun|ache .
+%gra:	1|5|CC 2|3|DET 3|5|OBL-TMOD 4|5|NSUBJ 5|8|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+*CHI:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*SIS:	zzz [>] .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	gurgles
+*MOT:	wow [<] .
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<do you blame him> [<] ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|blame-Inf-S pron|he-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	xxx [<] !
+*MOT:	I don't blame him [>] . 12465_12965
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|blame-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	I don't blame him 12465_12965 .
+*CHI:	xxx [<] !
+*MOT:	you do ? 13605_14105
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	you do 13605_14105 ?
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	he shouldn't have eaten that much . 13605_19045
+%mor:	pron|he-Prs-Nom-S3 aux|should-Fin-S~part|not aux|have-Inf-S verb|eat-Part-Past-S pron|that-Dem-S1 adv|much .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|AUX 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+%wor:	he 13605_16005 shouldn't 16005_18465 have eaten 18465_18485 that 18485_18545 much 18545_19045 .
+*MOT:	the next day was Sunday again .
+%mor:	det|the-Def-Art adj|next-Pos-S1 noun|day aux|be-Fin-Ind-Past-S3 noun|Sunday adv|again .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*SIS:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	gurgles
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better . 18545_32945
+%mor:	det|the-Def-Art noun|caterpillar verb|eat-Fin-Ind-Past-S3 adp|through num|one adj|nice-Pos-S1 adj|green-Pos-S1 noun|leaf cconj|and sconj|after sconj|that pron|he-Prs-Nom-S3 verb|feel-Fin-Ind-Past-S3 adv|much adj|good-Cmp-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|15|ROOT 4|8|CASE 5|8|NUMMOD 6|8|AMOD 7|8|AMOD 8|3|OBL 9|13|CC 10|13|MARK 11|10|FIXED 12|13|NSUBJ 13|3|CONJ 14|15|ADVMOD 15|13|XCOMP 16|3|PUNCT
+%wor:	the caterpillar 18545_32005 ate through 32005_32285 one nice green leaf 32285_32325 and after that 32325_32445 he felt much better 32445_32945 .
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	must be good for indigestion .
+%mor:	aux|must-Fin-S aux|be-Inf-S adj|good-Pos-S1 adp|for noun|indigestion .
+%gra:	1|3|AUX 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	yes [>] .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<green leaves> [<] .
+%mor:	adj|green-Pos-S1 noun|leave-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	now he wasn't hungry anymore and he wasn't a little [!] caterpillar he was a big fat [!] caterpillar .
+%mor:	adv|now pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not adj|hungry-Pos-S1 adv|anymore cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3~part|not det|a-Ind-Art adj|little-Pos-S1 noun|caterpillar pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art adj|big-Pos-S1 noun|fat noun|caterpillar .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|19|ROOT 6|5|ADVMOD 7|13|CC 8|13|NSUBJ 9|13|COP 10|13|ADVMOD 11|13|DET 12|13|AMOD 13|5|CONJ 14|19|NSUBJ 15|19|COP 16|19|DET 17|19|AMOD 18|19|COMPOUND 19|5|PARATAXIS 20|5|PUNCT
+*MOT:	look at how big he got .
+%mor:	verb|look-Fin-Imp-S adp|at adv|how adj|big-Pos-S1 pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3 .
+%gra:	1|6|ROOT 2|6|MARK 3|4|ADVMOD 4|6|ADVMOD 5|6|NSUBJ 6|1|ADVCL 7|1|PUNCT
+*CHI:	look at his legs [!] .
+%mor:	verb|look-Fin-Imp-S adp|at pron|his-Prs-Gen-S3 noun|leg-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|PUNCT
+*MOT:	oh his legs are still tiny tiny huh ?
+%mor:	intj|oh pron|his-Prs-Gen-S3 noun|leg-Plur aux|be-Fin-Ind-Pres-P3 adv|still adj|tiny-Pos-S1 adj|tiny-Pos-S1 intj|huh ?
+%gra:	1|8|DISCOURSE 2|3|NMOD-POSS 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|AMOD 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+*CHI:	hunhunh !
+%mor:	intj|hunhunh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<this is not [!]> [<] a cocoon !
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art noun|cocoon !
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|5|ROOT 6|5|PUNCT
+*MOT:	he built a small house called a cocoon around himself and <he stayed inside for more than two weeks> [<] +/.
+%mor:	pron|he-Prs-Nom-S3 verb|build-Fin-Ind-Past-S3 det|a-Ind-Art adj|small-Pos-S1 noun|house verb|call-Fin-Ind-Past-S3 det|a-Ind-Art noun|cocoon adp|around pron|himself-Prs-Acc-S3 cconj|and pron|he-Prs-Nom-S3 verb|stay-Fin-Ind-Past-S3 adv|inside adp|for adj|more-Cmp-S1 adp|than num|two noun|week-Plur +/.
+%gra:	1|2|NSUBJ 2|19|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|ADVCL 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|13|CC 12|13|NSUBJ 13|2|CONJ 14|13|ADVMOD 15|19|CASE 16|18|ADVMOD 17|16|FIXED 18|19|NUMMOD 19|13|OBL 20|2|PUNCT
+*SIS:	<oh yes> [>] .
+%mor:	intj|oh intj|yes .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	<it is> [<] a cocoon .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cocoon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	hunhunh [>] .
+%mor:	intj|hunhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<and then> [<] he nibbled a hole in the cocoon and pushed his way out and what do you think happens to but [//] caterpillars when they come out_of their houses +...
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|nibble-Fin-Ind-Past-S3 det|a-Ind-Art noun|hole adp|in det|the-Def-Art noun|cocoon cconj|and verb|push-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|way adv|out cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S verb|happen-Fin-Ind-Pres-S3 adp|to noun|caterpillar-Plur adv|when pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Pres-P3 adp|outof pron|their-Prs-Gen-P3 noun|house-Plur +...
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|28|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|11|CC 11|4|CONJ 12|13|NMOD-POSS 13|11|OBJ 14|11|ADVMOD 15|19|CC 16|20|OBJ 17|19|AUX 18|19|NSUBJ 19|4|CONJ 20|19|CCOMP 21|22|CASE 22|20|OBL 23|25|ADVMOD 24|25|NSUBJ 25|20|ADVCL 26|28|CASE 27|28|NMOD-POSS 28|25|OBL 29|4|PUNCT
+*MOT:	they turn into +...
+%mor:	pron|they-Prs-Nom-P3 verb|turn-Fin-Ind-Pres-P3 adp|into +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL 4|2|PUNCT
+*CHI:	a butterfly [>] .
+%mor:	det|a-Ind-Art noun|butterfly .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	beautiful [<] butterflies .
+%mor:	adj|beautiful-Pos-S1 noun|butterfly-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%int:	<1> stressed , lengthened
+*SIS:	nah [>] !
+%mor:	intj|nah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hunhunh [<] [>] .
+%mor:	intj|hunhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<that's right> [<] .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	don't you think that's a beautiful butterfly ?
+%mor:	aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|think-Inf-S pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|beautiful-Pos-S1 noun|butterfly ?
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|4|CCOMP 10|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-um look at those (.) eyes they yellow .
+%mor:	verb|look-Fin-Imp-S adp|at det|that-Def-Dem noun|eye-Plur pron|they-Prs-Nom-P3 verb|yellow-Fin-Ind-Pres-P3 .
+%gra:	1|6|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|NSUBJ 6|4|ACL-RELCL 7|1|PUNCT
+*MOT:	his eyes are yellow ?
+%mor:	pron|his-Prs-Gen-S3 noun|eye-Plur aux|be-Fin-Ind-Pres-P3 adj|yellow-Pos-S1 ?
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	hims@n eyes are .
+%mor:	noun|him noun|eye-Plur aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	his [!] eyes are .
+%mor:	pron|his-Prs-Gen-S3 noun|eye-Plur aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	yeah he has yellow eyes but that's okay .
+%mor:	intj|yeah pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|yellow-Pos-S1 noun|eye-Plur cconj|but pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|okay-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|9|ROOT 4|5|AMOD 5|3|OBJ 6|9|CC 7|9|NSUBJ 8|9|COP 9|3|CONJ 10|3|PUNCT
+*MOT:	butterflies can have yellow eyes (be)cause they're beautiful .
+%mor:	noun|butterfly-Plur aux|can-Fin-S verb|have-Inf-S adj|yellow-Pos-S1 noun|eye-Plur sconj|because pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|beautiful-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|AMOD 5|3|OBJ 6|9|MARK 7|9|NSUBJ 8|9|COP 9|3|ADVCL 10|3|PUNCT
+*MOT:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughs
+@Comment:	Time is 7:44
+@Activities:	Book Reading 2 (Big Bird's Red Book)
+*MOT:	okay Chi . 20215_21015
+%mor:	intj|okay noun|Chi .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	okay 20215_20515 Chi 20515_21015 .
+*MOT:	this is Big Bird's Red Book . 20955_23335
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|Big-Pos-S1 noun|Bird~part|s adj|Red-Pos-S1 noun|Book .
+%gra:	1|7|NSUBJ 2|7|COP 3|4|AMOD 4|7|NMOD-POSS 5|4|CASE 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%wor:	this is 20955_21495 Big 21495_21835 Bird's 21835_22575 Red 22575_22835 Book 22835_23335 .
+*MOT:	right ? 24195_24695
+%mor:	adv|right ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 24195_24695 ?
+*MOT:	to start off I'm gonna show you what the color red looks like . 24435_29935
+%mor:	part|to verb|start-Inf-S adp|off pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|gonna verb|show-Inf-S pron|you-Prs-Acc-S2 pron|what-Rel-S1 det|the-Def-Art noun|color noun|red verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|2|MARK 2|7|ADVCL 3|2|COMPOUND-PRT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|14|ROOT 8|7|IOBJ 9|7|OBJ 10|12|DET 11|12|COMPOUND 12|13|NSUBJ 13|9|ACL-RELCL 14|13|OBL 15|7|PUNCT
+%wor:	to 24435_26275 start 26275_26655 off 26655_27015 I'm 27015_27455 gonna 27455_27595 show 27595_27935 you 27935_28135 what 28135_28375 the 28375_28575 color 28575_28835 red 28835_29135 looks 29135_29435 like 29435_29935 .
+*MOT:	I've got something right here in this bag and we don't see what it is because the page is messed up . 30135_36355
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S pron|something-Ind-S1 adv|right adv|here adp|in det|this-Def-Dem noun|bag cconj|and pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|see-Inf-S pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 sconj|because det|the-Def-Art noun|page aux|be-Fin-Ind-Pres-S3 verb|mess-Part-Past-S adp|up .
+%gra:	1|3|NSUBJ 2|3|AUX 3|23|ROOT 4|3|OBJ 5|6|ADVMOD 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|14|CC 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|3|CONJ 15|14|CCOMP 16|15|NSUBJ 17|15|COP 18|22|MARK 19|20|DET 20|22|NSUBJ-PASS 21|22|AUX-PASS 22|14|ADVCL 23|22|COMPOUND-PRT 24|3|PUNCT
+%wor:	I've 30135_30315 got 30315_30475 something 30475_30855 right 30855_31435 here 31435_31755 in 31755_31995 this 31995_32235 bag 32235_32695 and 32695_33335 we 33335_33515 don't 33515_33735 see 33735_33935 what 33935_34115 it 34115_34235 is 34235_34535 because 34535_34855 the 34855_35075 page 35075_35355 is 35355_35555 messed 35555_35855 up 35855_36355 .
+*MOT:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	but we see his red feet . 36455_39215
+%mor:	cconj|but pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Pres-P1 pron|his-Prs-Gen-S3 adj|red-Pos-S1 noun|foot-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|6|NMOD-POSS 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%wor:	but 36455_37915 we 37915_38095 see 38095_38315 his 38315_38475 red 38475_38715 feet 38715_39215 .
+*MOT:	but we know what it is huh ? 40225_41885
+%mor:	cconj|but pron|we-Prs-Nom-P1 verb|know-Fin-Ind-Pres-P1 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 intj|huh ?
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|4|NSUBJ 6|4|ACL-RELCL 7|4|ACL-RELCL 8|3|PUNCT
+%wor:	but 40225_40385 we 40385_40525 know 40525_40825 what 40825_41065 it 41065_41185 is 41185_41385 huh 41385_41885 ?
+@Comment:	Time is 00:26
+*CHI:	hunhunh .
+%mor:	intj|hunhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Emily you know . 41745_44045
+%mor:	noun|Emily pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+%wor:	Emily 41745_43545 you know 43545_44045 .
+*MOT:	something red something red . 44505_46645
+%mor:	pron|something-Ind-S1 adj|red-Pos-S1 pron|something-Ind-S1 adj|red-Pos-S1 .
+%gra:	1|4|ROOT 2|1|AMOD 3|1|PARATAXIS 4|3|AMOD 5|1|PUNCT
+%wor:	something 44505_45305 red 45305_45785 something 45785_46145 red 46145_46645 .
+*MOT:	that's funny I know [!] I put something red in here this morning . 46825_50025
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|funny-Pos-S1 pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Pres-S1 pron|something-Ind-S1 adj|red-Pos-S1 adp|in adv|here det|this-Def-Dem noun|morning .
+%gra:	1|3|NSUBJ 2|3|COP 3|13|ROOT 4|5|NSUBJ 5|3|PARATAXIS 6|7|NSUBJ 7|5|CCOMP 8|7|OBJ 9|8|AMOD 10|11|CASE 11|7|OBL 12|13|DET 13|7|OBL-TMOD 14|3|PUNCT
+%wor:	that's 46825_46965 funny 46965_47245 I 47245_47505 know 47505_47805 I 47805_47965 put 47965_48185 something 48185_48565 red 48565_48905 in 48905_49045 here 49045_49265 this 49265_49525 morning 49525_50025 .
+*MOT:	see he's looking in his bag for something red (.) ? 50585_52545
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|in pron|his-Prs-Gen-S3 noun|bag adp|for pron|something-Ind-S1 adj|red-Pos-S1 ?
+%gra:	1|10|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|9|CASE 9|4|OBL 10|9|AMOD 11|1|PUNCT
+%wor:	see he's 50585_50765 looking 50765_50965 in 50965_51145 his 51145_51305 bag 51305_51545 for 51545_51705 something 51705_52045 red 52045_52545 ?
+*CHI:	red <light red car> [>] . 52565_56345
+%mor:	adj|red-Pos-S1 noun|light adj|red-Pos-S1 noun|car .
+%gra:	1|2|AMOD 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	red 52565_55285 light 55285_55565 red 55565_55845 car 55845_56345 .
+*MOT:	<and look_it> [<] yeah . 55845_56445
+%mor:	cconj|and noun|lookit intj|yeah .
+%gra:	1|2|CC 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+%wor:	and look_it 55845_55945 yeah 55945_56445 .
+*MOT:	red light red car . 56605_58045
+%mor:	adj|red-Pos-S1 noun|light adj|red-Pos-S1 noun|car .
+%gra:	1|2|AMOD 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	red 56605_56925 light 56925_57265 red 57265_57545 car 57545_58045 .
+*MOT:	and what else is red here ? 58045_59365
+%mor:	cconj|and pron|what-Int-S1 adj|else-Pos-S1 aux|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 adv|here ?
+%gra:	1|5|CC 2|5|NSUBJ 3|2|AMOD 4|5|COP 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%wor:	and what 58045_58165 else 58165_58405 is 58405_58605 red 58605_58865 here 58865_59365 ?
+*CHI:	apple ! 60095_60595
+%mor:	noun|apple !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	apple 60095_60595 !
+%par:	yelled
+%int:	both syllables equally stressed
+*MOT:	that's right . 60215_62095
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's 60215_61595 right 61595_62095 .
+*MOT:	in his book there's red all around here . 62195_64095
+%mor:	adp|in pron|his-Prs-Gen-S3 noun|book pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 det|all-Def adp|around adv|here .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|EXPL 5|9|ROOT 6|5|NSUBJ 7|5|NSUBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+%wor:	in his 62195_62335 book 62335_62655 there's 62655_62875 red 62875_63095 all 63095_63295 around 63295_63595 here 63595_64095 .
+*MOT:	he's looking right in the bag . 63795_65015
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adv|right adp|in det|the-Def-Art noun|bag .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	he's 63795_63975 looking 63975_64115 right 64115_64335 in 64335_64435 the 64435_64515 bag 64515_65015 .
+*MOT:	red is a very beautiful color . 66055_67935
+%mor:	adj|red-Pos-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|beautiful-Pos-S1 noun|color .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|5|ADVMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%wor:	red 66055_66275 is 66275_66455 a 66455_66575 very 66575_66815 beautiful 66815_67435 color 67435_67935 .
+%int:	stressed , lengthened
+*MOT:	I think you're really gonna like it . 68095_69975
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|really adv|gonna verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|2|CCOMP 8|7|OBJ 9|2|PUNCT
+%wor:	I 68095_68135 think 68135_68475 you're 68475_68655 really 68655_68875 gonna 68875_69075 like 69075_69475 it 69475_69975 .
+*MOT:	and awoh look at what happened to all the red stuff . 70175_73655
+%mor:	cconj|and noun|awoh verb|look-Fin-Imp-S adp|at pron|what-Rel-S1 verb|happen-Fin-Ind-Past-S3 adp|to det|all-Def det|the-Def-Art adj|red-Pos-S1 noun|stuff .
+%gra:	1|3|CC 2|3|NSUBJ 3|11|ROOT 4|5|CASE 5|3|OBL 6|5|ACL-RELCL 7|11|CASE 8|11|DET-PREDET 9|11|DET 10|11|AMOD 11|6|OBL 12|3|PUNCT
+%wor:	and 70175_71335 awoh 71335_71915 look 71915_72075 at 72075_72095 what 72095_72215 happened 72215_72555 to 72555_72695 all 72695_72815 the 72815_72935 red 72935_73155 stuff 73155_73655 .
+*MOT:	the red car smashed into the red apple . 73675_76155
+%mor:	det|the-Def-Art adj|red-Pos-S1 noun|car verb|smashed-Fin-Ind-Past-S3 adp|into det|the-Def-Art adj|red-Pos-S1 noun|apple .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|4|PUNCT
+%wor:	the 73675_73755 red 73755_73975 car 73975_74475 smashed 74475_74895 into 74895_75215 the 75215_75415 red 75415_75655 apple 75655_76155 .
+*MOT:	and there's another red car smashing in and there's a guy eating a red apple with a red sweater on . 76305_81485
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def adj|red-Pos-S1 noun|car verb|smash-Ger-S adv|in cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|guy verb|eat-Ger-S det|a-Ind-Art adj|red-Pos-S1 noun|apple adp|with det|a-Ind-Art adj|red-Pos-S1 noun|sweater adv|on .
+%gra:	1|3|CC 2|3|EXPL 3|22|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|6|ACL 8|7|ADVMOD 9|11|CC 10|11|EXPL 11|3|CONJ 12|13|DET 13|11|NSUBJ 14|13|ACL 15|17|DET 16|17|AMOD 17|14|OBJ 18|22|MARK 19|21|DET 20|21|AMOD 21|22|NSUBJ 22|14|ADVCL 23|3|PUNCT
+%wor:	and 76305_76565 there's 76565_76685 another 76685_76945 red 76945_77265 car 77265_77705 smashing 77705_78185 in 78185_78465 and 78465_78605 there's 78605_78825 a 78825_78905 guy 78905_79145 eating 79145_79465 a 79465_79625 red 79625_79785 apple 79785_80065 with 80065_80325 a 80325_80465 red 80465_80645 sweater 80645_80985 on 80985_81485 .
+*MOT:	that's really red huh ? 82345_84065
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|really adj|red-Pos-S1 intj|huh ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+%wor:	that's 82345_82905 really 82905_83185 red 83185_83565 huh 83565_84065 ?
+*MOT:	big bird should turn around in the same xxx . 83945_86965
+%mor:	adj|big-Pos-S1 noun|bird aux|should-Fin-S verb|turn-Inf-S adv|around adp|in det|the-Def-Art adj|same-Pos-S1 .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	big 83945_85325 bird 85325_85545 should 85545_85705 turn 85705_85945 around 85945_86225 in 86225_86365 the 86365_86465 same 86465_86965 .
+*MOT:	just hold on a minute . 86825_89345
+%mor:	adv|just verb|hold-Fin-Imp-S adp|on det|a-Ind-Art noun|minute .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	just 86825_87245 hold 87245_88505 on 88505_88705 a 88705_88845 minute 88845_89345 .
+*MOT:	I know there's something red in here somewhere . 89265_91285
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|red-Pos-S1 adp|in adv|here adv|somewhere .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|EXPL 4|2|CCOMP 5|4|NSUBJ 6|5|AMOD 7|8|CASE 8|4|OBL 9|4|ADVMOD 10|2|PUNCT
+%wor:	I 89265_89305 know 89305_89545 there's 89545_89785 something 89785_90065 red 90065_90405 in 90405_90585 here 90585_90785 somewhere 90785_91285 .
+%int:	<8> stressed , lengthened
+*MOT:	see he's looking in the bag . 92545_94005
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|in det|the-Def-Art noun|bag .
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+%wor:	see 92545_92645 he's 92645_92925 looking 92925_93205 in 93205_93385 the 93385_93505 bag 93505_94005 .
+*MOT:	and now he has got a red tow truck trying to tow away the red car with the red fire engine in the back with the other red car over here about to ah (.) run the red light . 93985_103965
+%mor:	cconj|and adv|now pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S det|a-Ind-Art adj|red-Pos-S1 noun|tow noun|truck verb|try-Ger-S part|to verb|tow-Inf-S adv|away det|the-Def-Art adj|red-Pos-S1 noun|car adp|with det|the-Def-Art adj|red-Pos-S1 noun|fire noun|engine adp|in det|the-Def-Art noun|back adp|with det|the-Def-Art adj|other-Pos-S1 adj|red-Pos-S1 noun|car adp|over adv|here adv|about part|to intj|ah verb|run-Inf-S det|the-Def-Art adj|red-Pos-S1 noun|light .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|38|ROOT 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|5|OBJ 10|9|ACL 11|12|MARK 12|10|XCOMP 13|12|ADVMOD 14|16|DET 15|16|AMOD 16|12|OBJ 17|24|MARK 18|21|DET 19|21|AMOD 20|21|COMPOUND 21|24|NSUBJ 22|24|CASE 23|24|DET 24|12|ADVCL 25|31|MARK 26|29|DET 27|29|AMOD 28|29|AMOD 29|24|NSUBJ 30|31|CASE 31|24|ADVCL 32|35|ADVMOD 33|35|MARK 34|35|DISCOURSE 35|31|ADVCL 36|38|DET 37|38|AMOD 38|35|OBJ 39|5|PUNCT
+%wor:	and 93985_94185 now he 94185_94505 has 94505_94685 got 94685_94765 a 94765_95305 red 95305_95565 tow 95565_95925 truck 95925_96265 trying 96265_96605 to 96605_96765 tow 96765_96985 away 96985_97185 the 97185_97325 red 97325_97545 car 97545_97885 with 97885_98105 the 98105_98225 red 98225_98405 fire 98405_98805 engine 98805_99065 in 99065_99365 the 99365_99385 back 99385_99605 with 99605_99765 the 99765_99885 other 99885_100125 red 100125_100385 car 100385_100685 over 100685_100905 here 100905_101265 about 101265_101565 to 101565_101865 ah 101865_102225 run 102225_103065 the 103065_103245 red 103245_103465 light 103465_103965 .
+*MOT:	right ? 104945_105445
+%mor:	adv|right ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 104945_105445 ?
+*CHI:	nuhhuh .
+%mor:	intj|nuhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no (.) ? 105165_105665
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 105165_105665 ?
+*MOT:	that's what I think . 105665_109885
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%wor:	that's 105665_109045 what 109045_109205 I 109205_109385 think 109385_109885 .
+*MOT:	I seem to have bird seed in here . 112045_114365
+%mor:	pron|I-Prs-Nom-S1 verb|seem-Fin-Ind-Pres-S1 part|to verb|have-Inf-S noun|bird noun|seed adp|in adv|here .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|6|COMPOUND 6|4|OBJ 7|8|CASE 8|4|OBL 9|2|PUNCT
+%wor:	I 112045_112265 seem 112265_112545 to 112545_112745 have 112745_112945 bird 112945_113285 seed 113285_113585 in 113585_113865 here 113865_114365 .
+*MOT:	bird seed isn't red . 114425_115885
+%mor:	noun|bird noun|seed aux|be-Fin-Ind-Pres-S3~part|not adj|red-Pos-S1 .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	bird 114425_114665 seed 114665_115025 isn't 115025_115385 red 115385_115885 .
+*MOT:	what else is red in this picture ? 116205_117825
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 adp|in det|this-Def-Dem noun|picture ?
+%gra:	1|4|NSUBJ 2|1|AMOD 3|4|COP 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	what 116205_116325 else 116325_116605 is 116605_116805 red 116805_117025 in 117025_117165 this 117165_117325 picture 117325_117825 ?
+*MOT:	find something new (.) . 117665_119305
+%mor:	verb|find-Fin-Imp-S pron|something-Ind-S1 adj|new-Pos-S1 .
+%gra:	1|3|ROOT 2|1|OBJ 3|2|AMOD 4|1|PUNCT
+%wor:	find 117665_118485 something 118485_118805 new 118805_119305 .
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	right ! 121065_121565
+%mor:	adv|right !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right 121065_121565 !
+*MOT:	a red marching band . 123345_125165
+%mor:	det|a-Ind-Art adj|red-Pos-S1 noun|marching noun|band .
+%gra:	1|4|DET 2|4|AMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	a 123345_123985 red 123985_124225 marching 124225_124665 band 124665_125165 .
+*MOT:	Big Bird seems silly . 126385_127805
+%mor:	adj|Big-Pos-S1 noun|Bird verb|seem-Fin-Ind-Pres-S3 adj|silly-Pos-S1 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	Big 126385_126805 Bird 126805_127005 seems 127005_127305 silly 127305_127805 .
+*MOT:	hey ! 128185_128685
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hey 128185_128685 !
+*MOT:	none of this stuff is red . 128685_130525
+%mor:	noun|none adp|of det|this-Def-Dem noun|stuff aux|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 .
+%gra:	1|6|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	none 128685_129105 of 129105_129265 this 129265_129465 stuff 129465_129805 is 129805_130025 red 130025_130525 .
+*MOT:	look at this he has got roller skates he has got toys he has got bird seed he has got marbles nothing's red . 130065_136125
+%mor:	verb|look-Fin-Imp-S adp|at pron|this-Dem-S1 pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S noun|roller noun|skate-Plur pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S noun|toy-Plur pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S noun|bird noun|seed pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S noun|marble-Plur pron|nothing-Neg-S1~aux|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 .
+%gra:	1|24|ROOT 2|3|CASE 3|1|OBL 4|6|NSUBJ 5|6|AUX 6|1|PARATAXIS 7|8|COMPOUND 8|6|OBJ 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|11|OBJ 13|15|NSUBJ 14|15|AUX 15|11|PARATAXIS 16|17|COMPOUND 17|15|OBJ 18|20|NSUBJ 19|20|AUX 20|1|PARATAXIS 21|20|OBJ 22|24|NSUBJ 23|24|COP 24|20|CCOMP 25|1|PUNCT
+%wor:	look 130065_130385 at 130385_130545 this 130545_130745 he 130745_130885 has 130885_131025 got 131025_131445 roller 131445_131525 skates 131525_132025 he 132025_132205 has 132205_132265 got 132265_132445 toys 132445_132965 he 132965_133285 has 133285_133385 got 133385_133585 bird 133585_133965 seed 133965_134185 he 134185_134345 has 134345_134445 got 134445_134605 marbles 134605_135065 nothing's 135065_135625 red 135625_136125 .
+*MOT:	<look at> [>] all this . 136945_138105
+%mor:	verb|look-Fin-Imp-S adp|at det|all-Def pron|this-Dem-S1 .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET-PREDET 4|1|OBL 5|1|PUNCT
+%wor:	look 136945_137305 at 137305_137405 all 137405_137605 this 137605_138105 .
+*CHI:	<I know> [<] .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	red riding hood +... 138725_140385
+%mor:	adj|red-Pos-S1 noun|riding noun|hood +...
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	red 138725_139385 riding 139385_139925 hood 139925_140385 +...
+*MOT:	red flag red car red people . 142485_144585
+%mor:	adj|red-Pos-S1 noun|flag adj|red-Pos-S1 noun|car adj|red-Pos-S1 noun|person-Plur .
+%gra:	1|2|AMOD 2|6|ROOT 3|4|AMOD 4|2|CONJ 5|6|AMOD 6|4|CONJ 7|2|PUNCT
+%wor:	red flag 142485_143105 red 143105_143385 car 143385_143805 red 143805_144085 people 144085_144585 .
+*MOT:	look at all their clothes are red . 145025_146605
+%mor:	verb|look-Fin-Imp-S adp|at det|all-Def pron|their-Prs-Gen-P3 noun|clothes-Plur aux|be-Fin-Ind-Pres-P3 adj|red-Pos-S1 .
+%gra:	1|7|ROOT 2|5|CASE 3|5|DET-PREDET 4|5|NMOD-POSS 5|1|OBL 6|7|COP 7|1|ADVCL 8|1|PUNCT
+%wor:	look 145025_145165 at 145165_145205 all 145205_145325 their 145325_145485 clothes 145485_145925 are 145925_146105 red 146105_146605 .
+*CHI:	<xxx is that> [>] ? 147345_147845
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	is that 147345_147845 ?
+*SIS:	xxx [<] .
+*MOT:	that's red and white . 148645_150065
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 cconj|and adj|white-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%wor:	that's 148645_149185 red 149185_149425 and 149425_149565 white 149565_150065 .
+*MOT:	that's a man on stilts (.) . 149805_151085
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|man adp|on noun|stilt-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	that's 149805_150085 a 150085_150185 man 150185_150385 on 150385_150585 stilts 150585_151085 .
+*MOT:	and the light's still red too . 152205_155485
+%mor:	cconj|and det|the-Def-Art noun|light~aux|be-Fin-Ind-Pres-S3 adv|still adj|red-Pos-S1 adv|too .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	and 152205_153905 the 153905_154045 light's 154045_154465 still 154465_154685 red 154685_154985 too 154985_155485 .
+*MOT:	and (.) red +... 156385_158905
+%mor:	cconj|and adj|red-Pos-S1 +...
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and 156385_157305 red 157305_158905 +...
+*CHI:	horses .
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	red no they're reindeers [: reindeer] . 159105_162225
+%mor:	adj|red-Pos-S1 intj|no pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|reind-Pos-S1 .
+%gra:	1|5|ROOT 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|1|PARATAXIS 6|1|PUNCT
+%wor:	red 159105_160345 no 160345_161425 they're 161425_161725 reindeer 161725_162225 .
+*MOT:	red Santa Claus but red reindeers [: reindeer] . 162745_164825
+%mor:	adj|red-Pos-S1 noun|Santa noun|Claus cconj|but adj|red-Pos-S1 noun|reindeer .
+%gra:	1|2|AMOD 2|6|ROOT 3|2|FLAT 4|6|CC 5|6|AMOD 6|2|CONJ 7|2|PUNCT
+%wor:	red 162745_163205 Santa 163205_163585 Claus 163585_163965 but 163965_164125 red 164125_164325 reindeer 164325_164825 .
+*SIS:	xxx .
+*MOT:	I wonder what happened . 165785_167745
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 pron|what-Rel-S1 verb|happen-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+%wor:	I 165785_166545 wonder 166545_166905 what 166905_167245 happened 167245_167745 .
+*MOT:	I was sure I put something red in this bag . 167785_170385
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adj|sure-Pos-S1 pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|something-Ind-S1 adj|red-Pos-S1 adp|in det|this-Def-Dem noun|bag .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|OBJ 7|6|AMOD 8|10|CASE 9|10|DET 10|5|OBL 11|3|PUNCT
+%wor:	I 167785_168005 was sure 168005_168345 I 168345_168545 put 168545_168765 something 168765_169125 red 169125_169505 in 169505_169665 this 169665_169885 bag 169885_170385 .
+*MOT:	I guess this is the wrong bag . 170805_173285
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|wrong-Pos-S1 noun|bag .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|2|CCOMP 8|2|PUNCT
+%wor:	I 170805_171605 guess 171605_171885 this 171885_172205 is 172205_172345 the 172345_172505 wrong 172505_172785 bag 172785_173285 .
+*MOT:	golly ! 173525_174025
+%mor:	intj|golly !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	golly 173525_174025 !
+*MOT:	I must have put all the red things in some other bag . 173885_176725
+%mor:	pron|I-Prs-Nom-S1 aux|must-Fin-S aux|have-Inf-S verb|put-Part-Past-S det|all-Def det|the-Def-Art adj|red-Pos-S1 noun|thing-Plur adp|in det|some-Def adj|other-Pos-S1 noun|bag .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|12|ROOT 5|8|DET-PREDET 6|8|DET 7|8|AMOD 8|4|OBJ 9|12|CASE 10|12|DET 11|12|AMOD 12|4|OBL 13|4|PUNCT
+%wor:	I 173885_174085 must 174085_174305 have 174305_174445 put 174445_174605 all 174605_174905 the 174905_175065 red 175065_175345 things 175345_175545 in 175545_175765 some 175765_176025 other 176025_176225 bag 176225_176725 .
+*MOT:	awoh Emily .
+%mor:	noun|awoh noun|Emily .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*EX1:	thank you .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*EX1:	thank you . 176805_178325
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	thank 176805_177825 you 177825_178325 .
+*MOT:	here it comes . 180945_181905
+%mor:	adv|here pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+%wor:	here 180945_181225 it 181225_181405 comes 181405_181905 .
+*MOT:	didn't I have another bag with me a few minutes ago ? 183625_187105
+%mor:	aux|do-Fin-Ind-Past-S1~part|not pron|I-Prs-Nom-S1 verb|have-Inf-S det|another-Def noun|bag adp|with pron|I-Prs-Acc-S1 det|a-Ind-Art adj|few-Pos-S1 noun|minute-Plur adv|ago ?
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|12|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|11|DET 10|11|AMOD 11|12|OBL-NPMOD 12|4|ADVMOD 13|4|PUNCT
+%wor:	didn't 183625_183865 I 183865_184045 have 184045_184325 another 184325_184785 bag 184785_185225 with 185225_185445 me 185445_185685 a 185685_185945 few 185945_186185 minutes 186185_186605 ago 186605_187105 ?
+*MOT:	where's his other bag Emily ? 187725_188365
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 adj|other-Pos-S1 noun|bag noun|Emily ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|6|NMOD-POSS 4|6|AMOD 5|6|COMPOUND 6|2|NSUBJ 7|2|PUNCT
+%wor:	where's 187725_187745 his other 187745_187865 bag Emily 187865_188365 ?
+%par:	whispered
+*MOT:	no wait a minute . 188325_189805
+%mor:	intj|no verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	no 188325_188545 wait 188545_189105 a 189105_189305 minute 189305_189805 .
+*MOT:	maybe that was yesterday . 189605_190665
+%mor:	adv|maybe pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3 noun|yesterday .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	maybe 189605_189765 that 189765_190005 was 190005_190165 yesterday 190165_190665 .
+*MOT:	now he can't remember . 190785_191785
+%mor:	adv|now pron|he-Prs-Nom-S3 aux|can-Fin-S~part|not verb|remember-Inf-S .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	now 190785_190885 he 190885_191065 can't 191065_191285 remember 191285_191785 .
+*MOT:	did he have another bag at home ? 191805_193245
+%mor:	aux|do-Fin-Ind-Past-S3 pron|he-Prs-Nom-S3 verb|have-Inf-S det|another-Def noun|bag adp|at noun|home ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+%wor:	did 191805_191845 he 191845_191965 have 191965_192085 another 192085_192305 bag 192305_192605 at 192605_192745 home 192745_193245 ?
+*MOT:	where is it ? 193025_194765
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	where 193025_194085 is 194085_194265 it 194265_194765 ?
+*CHI:	I don't know . 194645_195825
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I 194645_195105 don't 195105_195325 know 195325_195825 .
+*MOT:	I know where it is . 195925_197285
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adv|where pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|CCOMP 4|3|NSUBJ 5|3|COP 6|2|PUNCT
+%wor:	I 195925_196065 know 196065_196345 where 196345_196625 it 196625_196785 is 196785_197285 .
+*MOT:	I see it . 197065_198165
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I 197065_197265 see 197265_197665 it 197665_198165 .
+*CHI:	where ?
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	say I'm really sorry guys . 198285_201625
+%mor:	verb|say-Fin-Imp-S pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|really adj|sorry-Pos-S1 noun|guy-Plur .
+%gra:	1|6|ROOT 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|1|CCOMP 6|5|OBJ 7|1|PUNCT
+%wor:	say 198285_199725 I'm 199725_200445 really 200445_200705 sorry 200705_201125 guys 201125_201625 .
+*MOT:	I'm afraid this book hasn't been as interesting as I had hoped . 201785_205165
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|afraid-Pos-S1 det|this-Def-Dem noun|book aux|have-Fin-Ind-Pres-S3~part|not aux|be-Part-Past-S adv|as adj|interesting-Pos-S1 sconj|as pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1 verb|hope-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|14|ROOT 4|5|DET 5|10|NSUBJ 6|10|AUX 7|10|ADVMOD 8|10|COP 9|10|ADVMOD 10|3|CCOMP 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|10|ADVCL 15|3|PUNCT
+%wor:	I'm 201785_201905 afraid 201905_202205 this 202205_202425 book 202425_202645 hasn't 202645_203045 been 203045_203225 as 203225_203485 interesting 203485_204005 as 204005_204325 I 204325_204485 had 204485_204665 hoped 204665_205165 .
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I wanted to show you guys red things . 207085_209305
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Past-S1 part|to verb|show-Inf-S pron|you-Prs-Acc-S2 noun|guy-Plur adj|red-Pos-S1 noun|thing-Plur .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|6|DEP 6|4|IOBJ 7|8|AMOD 8|4|OBJ 9|2|PUNCT
+%wor:	I 207085_207405 wanted to 207405_207645 show 207645_207885 you 207885_208045 guys 208045_208465 red 208465_208805 things 208805_209305 .
+*MOT:	and the last page is ripped out gee ! 210625_212865
+%mor:	cconj|and det|the-Def-Art adj|last-Pos-S1 noun|page aux|be-Fin-Ind-Pres-S3 verb|rip-Part-Past-S adp|out noun|gee !
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|8|ROOT 7|6|COMPOUND-PRT 8|6|OBJ 9|6|PUNCT
+%wor:	and 210625_210865 the 210865_211025 last 211025_211305 page 211305_211645 is 211645_211825 ripped 211825_212045 out 212045_212365 gee 212365_212865 !
+*MOT:	zzz (.) .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	Chi you ripped the page out ! 212865_217565
+%mor:	intj|chi pron|you-Prs-Nom-S2 verb|rip-Fin-Ind-Past-S2 det|the-Def-Art noun|page adp|out !
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+%wor:	Chi 212865_216125 you ripped 216125_216525 the 216525_216685 page 216685_217065 out 217065_217565 !
+%int:	high pitched
+*MOT:	that's the best page in the whole book ! 217425_219505
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|good-Sup-S1 noun|page adp|in det|the-Def-Art adj|whole-Pos-S1 noun|book !
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|9|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|NMOD 10|5|PUNCT
+%wor:	that's 217425_218005 the 218005_218145 best 218145_218345 page 218345_218625 in 218625_218745 the 218745_218845 whole 218845_219005 book 219005_219505 !
+*MOT:	anyways@n he sits on a bag of tomatoes . 219445_224325
+%mor:	adv|anyways pron|he-Prs-Nom-S3 verb|sit-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|bag adp|of noun|tomato-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%wor:	anyways 219445_222685 he 222685_222925 sits 222925_223165 on 223165_223345 a 223345_223445 bag 223445_223665 of 223665_223825 tomatoes 223825_224325 .
+*MOT:	he left his bag of red things on the bench . 225225_227505
+%mor:	pron|he-Prs-Nom-S3 verb|leave-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|bag adp|of adj|red-Pos-S1 noun|thing-Plur adp|on det|the-Def-Art noun|bench .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|CASE 6|7|AMOD 7|4|NMOD 8|10|CASE 9|10|DET 10|2|OBL 11|2|PUNCT
+%wor:	he 225225_225465 left 225465_225585 his 225585_225825 bag 225825_226145 of 226145_226285 red 226285_226465 things 226465_226685 on 226685_226845 the 226845_227005 bench 227005_227505 .
+*CHI:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and they were tomatoes and he sat [!] on them and he squished red stuff all over <the place> [>] . 227985_233165
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3 noun|tomato-Plur cconj|and pron|he-Prs-Nom-S3 verb|sit-Fin-Ind-Past-S3 adp|on pron|they-Prs-Acc-P3 cconj|and pron|he-Prs-Nom-S3 verb|squish-Fin-Ind-Past-S3 adj|red-Pos-S1 noun|stuff adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|18|ROOT 5|7|CC 6|7|NSUBJ 7|4|CONJ 8|9|CASE 9|7|OBL 10|12|CC 11|12|NSUBJ 12|4|CONJ 13|14|AMOD 14|12|OBJ 15|18|ADVMOD 16|18|CASE 17|18|DET 18|12|OBL 19|4|PUNCT
+%wor:	and 227985_228585 they 228585_229185 were 229185_229325 tomatoes 229325_229785 and 229785_229985 he 229985_230105 sat 230105_230425 on 230425_230545 them 230545_230665 and 230665_230785 he 230785_230905 squished 230905_231325 red 231325_231665 stuff 231665_231965 all 231965_232305 over 232305_232545 the 232545_232665 place 232665_233165 .
+*CHI:	<I see it> [<] . 232945_233565
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I see 232945_233065 it 233065_233565 .
+*MOT:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a little part of it . 233625_235565
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-Pos-S1 noun|part adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+%wor:	that's 233625_234345 a 234345_234445 little 234445_234585 part 234585_234925 of 234925_235065 it 235065_235565 .
+*CHI:	hunhunh .
+%mor:	intj|hunhunh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no ? 236045_236545
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 236045_236545 ?
+*MOT:	so he takes the little pieces of the tomatoes being splashed all over the place . 236385_242565
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Pres-S3 det|the-Def-Art adj|little-Pos-S1 noun|piece-Plur adp|of det|the-Def-Art noun|tomato-Plur aux|be-Ger-S verb|splash-Part-Past-S adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|15|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|AUX-PASS 11|9|ACL 12|15|ADVMOD 13|15|CASE 14|15|DET 15|11|OBL 16|3|PUNCT
+%wor:	so 236385_238425 he 238425_238705 takes 238705_238985 the 238985_239145 little 239145_239325 pieces 239325_239725 of 239725_239965 the 239965_240145 tomatoes 240145_240545 being 240545_240865 splashed 240865_241425 all 241425_241665 over 241665_241865 the 241865_242065 place 242065_242565 .
+*CHI:	she turned it on . 272305_272985
+%mor:	pron|she-Prs-Nom-S3 verb|turn-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|on .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+%wor:	she 272305_272485 turned it on 272485_272985 .
+*MOT:	the end . 435205_445625
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	the 435205_445125 end 445125_445625 .
+*MOT:	ripped the pages out . 445145_445765
+%mor:	verb|rip-Fin-Ind-Past-S1 det|the-Def-Art noun|page-Plur adv|out .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	ripped the 445145_445265 pages out 445265_445765 .
+*MOT:	that's terrible . 477785_478285
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|terrible-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	that's terrible 477785_478285 .
+@Comment:	Time is 4:17
+@Eg:	bookreading
+@End

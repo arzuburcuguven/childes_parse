@@ -1,0 +1,470 @@
+@UTF8
+@PID:	11312/c-00017701-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|VanHouten|MOT||female|||Mother|||
+@ID:	eng|VanHouten|CHI|2;04.|female|MOT_Adolescent||Target_Child|MOT_1||
+@Comment:	Education of MOT is 1
+@Situation:	Teaching. Mother and Child sit on the floor in a play+room. Mother teaches Child to string beads on a shoelace. Then she teaches Child to sort black and white buttons into two piles. Child quite unintelligible.
+@Comment:	Age Group of MOT Adolescent
+@Comment:	cross, toyplay, TD
+@Types:	cross, toyplay, TD
+*MOT:	Jessica (.) you wanna put a bead on here .
+%mor:	noun|Jessica pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S verb|put-Fin-S det|a-Ind-Art noun|bead adp|on adv|here .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|ADVMOD 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+%cod:	$MLU=8 $NMV=1 $Ini $C/R
+*MOT:	look (.) hon .
+%mor:	verb|look-Fin-Imp-S noun|hon .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	you put a bead on here .
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 det|a-Ind-Art noun|bead adp|on adv|here .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	you put it in the hole .
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|hole .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Tea
+*MOT:	see the hole ?
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|hole ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Lim
+*MOT:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rle $Tea
+*MOT:	want Mommy show you ?
+%mor:	verb|want-Fin-Imp-S noun|Mommy verb|show-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Ini $Rfi
+*MOT:	will you let me show you how to do it ?
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 verb|let-Inf-S pron|I-Prs-Acc-S1 verb|show-Inf-S pron|you-Prs-Acc-S2 adv|how part|to verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|3|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|MARK 9|7|ACL 10|9|OBJ 11|3|PUNCT
+%cod:	$MLU=10 $NMV=3 $Con $Rfi
+*CHI:	0 .
+%sit:	starts stringing .
+*MOT:	put it in the hole .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|hole .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $Tea
+*MOT:	want me to help you ?
+%mor:	verb|want-Fin-Imp-S pron|I-Prs-Acc-S1 part|to verb|help-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|5|ROOT 2|1|OBJ 3|4|MARK 4|1|XCOMP 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Ini $Rfi
+*CHI:	0 .
+%sit:	strings bead .
+*MOT:	oh (.) you did it .
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rep
+*MOT:	oh (.) here you go .
+%mor:	intj|oh adv|here pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*CHI:	xxx .
+%sit:	tries to give string to Mother .
+%cod:	$Ini $Des
+*MOT:	try it again .
+%mor:	verb|try-Fin-Imp-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	try it again .
+%mor:	verb|try-Fin-Imp-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	come_on .
+%mor:	noun|comeon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	put the bead on the string .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|bead adp|on det|the-Def-Art noun|string .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	come_on .
+%mor:	noun|comeon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	here (.) you wanna do it .
+%mor:	adv|here pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ADVCL-RELCL 5|4|OBJ 6|1|PUNCT
+%sit:	holds string out to Child .
+%cod:	$MLU=6 $NMV=2 $Con $C/R
+*CHI:	0 .
+%sit:	picks up bead .
+*MOT:	oh you want a different one ?
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|a-Ind-Art adj|different-Pos-S1 noun|one ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $Rep
+*MOT:	okay (.) take one .
+%mor:	intj|okay verb|take-Fin-Imp-S num|one .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*CHI:	xxx .
+%cod:	$Ini $Rep
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	put it on the string .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|string .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*MOT:	here (.) you hold it .
+%mor:	adv|here pron|you-Prs-Nom-S2 verb|hold-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|3|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	put the string in the hole (.) hon .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|string adp|in det|the-Def-Art noun|hole noun|hon .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|7|CASE 5|7|DET 6|7|COMPOUND 7|1|OBL 8|1|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $C/R
+*MOT:	on the bead .
+%mor:	adp|on det|the-Def-Art noun|bead .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $C/R
+*CHI:	0 .
+%sit:	strings bead .
+*MOT:	there it is .
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rep
+*MOT:	good girl (.) Jessica .
+%mor:	adj|good-Pos-S1 noun|girl noun|Jessica .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*MOT:	okay (.) take another one out_of the box .
+%mor:	intj|okay verb|take-Fin-Imp-S det|another-Def noun|one adp|outof det|the-Def-Art noun|box .
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	starts to take bead off string .
+*MOT:	no (.) don't take it off .
+%mor:	intj|no aux|do-Fin-Imp-S~part|not verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rta $C/R
+*MOT:	come_on .
+%mor:	noun|comeon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	take another one .
+%mor:	verb|take-Fin-Imp-S det|another-Def noun|one .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	Jessica (.) you put the white ones in the box for Mommy ?
+%mor:	noun|Jessica pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 det|the-Def-Art adj|white-Pos-S1 noun|one-Plur adp|in det|the-Def-Art noun|box adp|for noun|Mommy ?
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|11|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|11|CASE 11|3|OBL 12|3|PUNCT
+%cod:	$MLU=11 $NMV=1 $Ini $C/R
+*MOT:	the white ones .
+%mor:	det|the-Def-Art adj|white-Pos-S1 noun|one-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	points white buttons .
+%cod:	$MLU=3 $NMV=0 $Con $C/R
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	begins sorting buttons .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	no white .
+%mor:	det|no-Def adj|white-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $Tea
+*MOT:	that's black .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|black-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	begins to sort buttons .
+*MOT:	wait a minute .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	put the white ones in this box and the black ones in this box .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art adj|white-Pos-S1 noun|one-Plur adp|in det|this-Def-Dem noun|box cconj|and det|the-Def-Art adj|black-Pos-S1 noun|one-Plur adp|in det|this-Def-Dem noun|box .
+%gra:	1|14|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|7|CASE 6|7|DET 7|1|OBL 8|11|CC 9|11|DET 10|11|AMOD 11|1|CONJ 12|14|CASE 13|14|DET 14|11|NMOD 15|1|PUNCT
+%sit:	points to appropriate box as she talks .
+%cod:	$MLU=14 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	puts button in box .
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $Tea
+*MOT:	here (.) put it closer .
+%mor:	adv|here verb|put-Fin-Ind-Past-P3 pron|it-Prs-Acc-S3 adv|close .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%sit:	moves box closer to Child .
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*CHI:	0 .
+%sit:	puts button in box .
+*MOT:	no (.) that's not +/.
+%mor:	intj|no pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 part|not +/.
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$Rta $C/R .
+*CHI:	0 .
+%sit:	puts button in other box .
+%cod:	$Res $Lim
+*MOT:	that's it .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $C/R
+*MOT:	take a white one .
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art adj|white-Pos-S1 noun|one .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	take a white one .
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art adj|white-Pos-S1 noun|one .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	puts button in box .
+*MOT:	good girl (.) Jessica .
+%mor:	adj|good-Pos-S1 noun|girl noun|Jessica .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rta $C/R
+%sit:	puts button in box .
+*MOT:	no (.) is that +...
+%mor:	intj|no aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 +...
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$Rta $C/R
+*MOT:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $C/R
+*CHI:	0 .
+%sit:	puts button in box .
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Tea
+*MOT:	that's black .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|black-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	puts button in same box .
+*MOT:	no (.) Jessica .
+%mor:	intj|no noun|Jessica .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $Tea
+*MOT:	that's black .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|black-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	put it in with the black ones (.) black buttons .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in adp|with det|the-Def-Art adj|black-Pos-S1 noun|one-Plur adj|black-Pos-S1 noun|button-Plur .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|9|CASE 5|9|DET 6|7|AMOD 7|9|COMPOUND 8|9|AMOD 9|1|OBL 10|1|PUNCT
+%sit:	slight point to black button box .
+%cod:	$MLU=9 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	puts white in black box .
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Tea
+*MOT:	that's white .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|white-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	take the white one out .
+%mor:	verb|take-Fin-Imp-S det|the-Def-Art adj|white-Pos-S1 noun|one adv|out .
+%gra:	1|5|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|ADVMOD 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+*MOT:	and put it in the other box .
+%mor:	cconj|and verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art adj|other-Pos-S1 noun|box .
+%gra:	1|2|CC 2|7|ROOT 3|2|OBJ 4|7|CASE 5|7|DET 6|7|AMOD 7|2|OBL 8|2|PUNCT
+%cod:	$MLU=7 $NMV=1 $Ini $C/R
+*MOT:	take the white one and put it in that box .
+%mor:	verb|take-Fin-Imp-S det|the-Def-Art adj|white-Pos-S1 noun|one cconj|and verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|that-Def-Dem noun|box .
+%gra:	1|10|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|6|CC 6|1|CONJ 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%sit:	casual point to black box .
+%cod:	$MLU=10 $NMV=2 $Con $Tea
+*CHI:	0 .
+%sit:	puts button in right box .
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $C/R
+*CHI:	&=0I want these [*] .
+%mor:	verb|want-Fin-Imp-S pron|this-Dem-P1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	holds up button .
+%cod:	$MLU=2 $NMV=1 $Ini $Des
+*CHI:	these .
+%mor:	pron|this-Dem-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Des
+*CHI:	these .
+%mor:	pron|this-Dem-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Des
+*MOT:	oh (.) okay .
+%mor:	intj|oh intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Acc
+*MOT:	okay (.) put it in that box .
+%mor:	intj|okay verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|that-Def-Dem noun|box .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%sit:	points to box .
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*MOT:	we'll put the white one in that box .
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|put-Inf-S det|the-Def-Art adj|white-Pos-S1 noun|one adp|in det|that-Def-Dem noun|box .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+%cod:	$MLU=9 $NMV=1 $Con $C/R
+*CHI:	these .
+%mor:	pron|this-Dem-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	holds button to shirt and gazes at Mother .
+%cod:	$MLU=1 $NMV=0 $Ini $Des
+*CHI:	these .
+%mor:	pron|this-Dem-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Des
+*MOT:	no (.) Mommy's not sewing it on now .
+%mor:	intj|no noun|Mommy~aux|be-Fin-Ind-Pres-S3 part|not verb|sew-Part-Pres-S pron|it-Prs-Acc-S3 adp|on adv|now .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+%cod:	$MLU=8 $NMV=1 $Rde $C/R
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $C/R
+*MOT:	here (.) put it in the box .
+%mor:	adv|here verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|box .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%sit:	points to correct box .
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	take another white one .
+%mor:	verb|take-Fin-Imp-S det|another-Def adj|white-Pos-S1 noun|one .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	take another white one and put it in the box .
+%mor:	verb|take-Fin-Imp-S det|another-Def adj|white-Pos-S1 noun|one cconj|and verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|box .
+%gra:	1|10|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|6|CC 6|1|CONJ 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+%cod:	$MLU=10 $NMV=2 $Con $C/R
+*CHI:	yellow (.) Mommy .
+%mor:	adj|yellow-Pos-S1 noun|mommy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	picks up button .
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	no (.) it's not yellow .
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|yellow-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Rep
+*MOT:	take a black one .
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art adj|black-Pos-S1 noun|one .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*CHI:	yellow .
+%mor:	adj|yellow-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	nope .
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rep
+*MOT:	you put a white one in the box for Mommy ?
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 det|a-Ind-Art adj|white-Pos-S1 noun|one adp|in det|the-Def-Art noun|box adp|for noun|Mommy ?
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|10|CASE 10|2|OBL 11|2|PUNCT
+%cod:	$MLU=10 $NMV=1 $Ini $C/R
+*MOT:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $C/R
+*CHI:	0 .
+%sit:	Puts button in box .
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $C/R
+*MOT:	put the white ones in that box .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art adj|white-Pos-S1 noun|one-Plur adp|in det|that-Def-Dem noun|box .
+%gra:	1|7|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%sit:	points to correct box .
+%cod:	$MLU=7 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	puts button in correct box .
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $C/R
+*MOT:	take some more white ones .
+%mor:	verb|take-Fin-Imp-S det|some-Def adj|more-Cmp-S1 adj|white-Pos-S1 noun|one-Plur .
+%gra:	1|5|ROOT 2|5|DET 3|5|AMOD 4|5|AMOD 5|1|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*MOT:	take some more .
+%mor:	verb|take-Fin-Imp-S det|some-Def adj|more-Cmp-S1 .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	puts white button in .
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $C/R
+*CHI:	0 .
+%sit:	black button in white box .
+*MOT:	no (.) that's black (.) Jessica .
+%mor:	intj|no pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|black-Pos-S1 noun|Jessica .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $Tea
+*MOT:	put it in with the black ones .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in adp|with det|the-Def-Art adj|black-Pos-S1 noun|one-Plur .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|7|CASE 5|7|DET 6|7|AMOD 7|1|OBL 8|1|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	puts button in correct box .
+*MOT:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $Tea
+*MOT:	take another white one .
+%mor:	verb|take-Fin-Imp-S det|another-Def adj|white-Pos-S1 noun|one .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	puts button in box .
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Tea
+*MOT:	oh yeah (.) you're right .
+%mor:	intj|oh intj|yeah pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	I'm sorry .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rsc
+*MOT:	what a good girl (.) Jess .
+%mor:	pron|what-Int-S1 det|a-Ind-Art adj|good-Pos-S1 noun|girl noun|Jess .
+%gra:	1|5|ROOT 2|4|DET 3|4|AMOD 4|1|NSUBJ 5|4|APPOS 6|1|PUNCT
+%cod:	$MLU=5 $NMV=0 $Con $Tea
+*CHI:	0 .
+%sit:	silently sorting buttons .
+*MOT:	no (.) that's white .
+%mor:	intj|no pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|white-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rta $Tea
+*CHI:	0 .
+%sit:	puts button in correct box .
+*MOT:	what a good girl .
+%mor:	det|what-Def-Int det|a-Ind-Art adj|good-Pos-S1 noun|girl .
+%gra:	1|4|DET-PREDET 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Rta $C/R
+@End

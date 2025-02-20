@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/c-00010770-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;11.27|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	16-FEB-1973
+@Types:	long, toyplay, TD
+*CHI:	my trouble .
+%mor:	pron|my-Prs-Gen-S1 noun|trouble .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	1444
+*MOT:	you're having trouble ?
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|have-Part-Pres-S noun|trouble ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1444
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1444
+*CHI:	my baby hafta spit up .
+%mor:	pron|my-Prs-Gen-S1 noun|baby noun|hafta verb|spit-Fin-Ind-S adp|up .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%sit:	1445
+*MOT:	your baby hasta spit up ?
+%mor:	pron|your-Prs-Gen-S2 noun|baby x|hasta verb|spit-Fin-Ind-Pres-S adp|up ?
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%sit:	1445
+*CHI:	sick .
+%mor:	adj|sick-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1445
+*CHI:	hafta cry .
+%mor:	intj|hafta verb|cry-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	1445
+*CHI:	could I have one Pennie ?
+%mor:	aux|could-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S num|one noun|Pennie ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+%sit:	1446
+*CHI:	could I have one of you [: your] [*] Pennies [= pens] ?
+%mor:	aux|could-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S num|one adp|of pron|your-Prs-Gen-S2 noun|Pennies-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|3|PUNCT
+%sit:	1446
+*CHI:	Susie have sunglasses ?
+%mor:	noun|Susie verb|have-Fin-Ind-Pres-P3 noun|sunglass-Plur ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1447
+*CHI:	mud get my shoes .
+%mor:	noun|mud verb|get-Fin-Imp-S pron|my-Prs-Gen-S1 noun|shoe-Plur .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	1448
+*CHI:	mud get in my tennis_shoes .
+%mor:	noun|mud verb|get-Fin-Imp-S adp|in pron|my-Prs-Gen-S1 noun|tennisshos-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+%sit:	1448
+@End

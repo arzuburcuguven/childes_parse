@@ -1,0 +1,782 @@
+@UTF8
+@PID:	11312/c-00015298-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|Bates|MOT||female|||Mother|||
+@ID:	eng|Bates|CHI|2;04.|male|TD|MC|Target_Child|||
+@Types:	cross, toyplay, TD
+*MOT:	Steve (.) let's go fix an english muffin (.) okay ?
+%mor:	noun|Steve verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S verb|fix-Inf-S det|a-Ind-Art adj|English-Pos-S1 noun|muffin adj|okay-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|2|XCOMP 5|4|XCOMP 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|XCOMP 10|2|PUNCT
+*MOT:	you wanna help me ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|help-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you come help me (.) okay ?
+%mor:	pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Pres-S2 verb|help-Inf-S pron|I-Prs-Acc-S1 adj|okay-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|3|OBJ 5|3|XCOMP 6|2|PUNCT
+*CHI:	0 .
+%gpx:	nods . watches Mother
+*MOT:	okay (.) here's the english muffins .
+%mor:	intj|okay adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|English-Pos-S1 noun|muffin-Plur .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|COP 4|6|DET 5|6|AMOD 6|2|NSUBJ 7|2|PUNCT
+%act:	<1w> opens refrigerator .
+*MOT:	wanna put this on the counter for me ?
+%mor:	intj|wanna verb|put-Fin-Imp-S pron|this-Dem-S1 adp|on det|the-Def-Art noun|counter adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|8|CASE 8|2|OBL 9|2|PUNCT
+%act:	<1w> holds out package to Steve
+*MOT:	okay (.) you gonna help me ?
+%mor:	intj|okay pron|you-Prs-Nom-S2 adv|gonna verb|help-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother , at package
+%act:	<bef> takes package from Mother and puts on counter
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<1w> puts dish on counter
+*MOT:	look at this .
+%mor:	verb|look-Fin-Imp-S adp|at pron|this-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%add:	<1w-3w> Investigator
+*MOT:	he does help me all the time (.) actually .
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|help-Inf-S pron|I-Prs-Acc-S1 det|all-Def det|the-Def-Art noun|time adv|actually .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|7|DET-PREDET 6|7|DET 7|3|OBL-TMOD 8|3|ADVMOD 9|3|PUNCT
+%add:	<1w-9w> Investigator
+*CHI:	0 .
+%act:	opens dish+washer lid and stands on lid
+*MOT:	there !
+%mor:	adv|there !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you wan(t) (t)a get that out for me ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|get-Inf-S pron|that-Dem-S1 adp|out adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|COMPOUND-PRT 7|8|CASE 8|4|OBL 9|2|PUNCT
+*MOT:	I'm gonna put it in the toaster .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|put-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|toaster .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	now can eat it ?
+%mor:	adv|now aux|can-Fin-S verb|eat-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|ADVMOD 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	<bef> picks up package and attempts to remove muffin . stoops
+%gpx:	looks at Mother , at package , at Mother
+%xpho:	au k&n it It
+*MOT:	yeah (.) then we're gonna eat it (.) .
+%mor:	intj|yeah adv|then pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|gonna verb|eat-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*MOT:	let's toast it first and then put some butter on it (.) okay ?
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|toast-Inf-S pron|it-Prs-Acc-S3 adv|first cconj|and adv|then verb|put-Fin-Imp-S det|some-Def noun|butter adp|on pron|it-Prs-Acc-S3 adj|okay-Pos-S1 ?
+%gra:	1|13|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|ADVMOD 6|8|CC 7|8|ADVMOD 8|1|CONJ 9|10|DET 10|8|OBJ 11|12|CASE 12|8|OBL 13|8|XCOMP 14|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother's hand
+%xpho:	ke 6h iNl6 m6f
+*CHI:	&-uh (.) english muffin .
+%mor:	adj|English-Pos-S1 noun|muffin .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%act:	<aft> removes muffin and holds it . gives it to Mother
+*MOT:	muffin (.) yeah (.) muffin .
+%mor:	noun|muffin intj|yeah noun|muffin .
+%gra:	1|3|ROOT 2|3|DISCOURSE 3|1|PARATAXIS 4|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<1w> extends palm to Steve .
+*MOT:	I'm gonna put it in the toaster (.) okay ?
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|put-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|toaster adj|okay-Pos-S1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|XCOMP 10|4|PUNCT
+%act:	<1w> takes muffin .
+*MOT:	and then we'll put some butter on it ?
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1~aux|will-Fin-S verb|put-Inf-S det|some-Def noun|butter adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+%act:	<1w> prepares muffin .
+*MOT:	should we do that ?
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	<1w> opens drawer and takes out knife
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at bowl
+%act:	<aft> touches bowl . attempts to climb on counter .
+*MOT:	okay (.) will you get some butter for me ?
+%mor:	intj|okay aux|will-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S det|some-Def noun|butter adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+%act:	hands on hips
+*MOT:	where're you going ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I going yyy .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%xpho:	ai gan dIs
+*MOT:	what're ya (.) oop(s) .
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|oop .
+%gra:	1|4|ROOT 2|1|COP 3|4|NSUBJ 4|1|NSUBJ 5|1|PUNCT
+%gpx:	points finger prohibitively at Steve
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no [/] no [/] no [/] no [/] no [/] no (.) hey !
+%mor:	intj|no intj|hey !
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	hey !
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hey (.) we don't climb up on that !
+%mor:	intj|hey pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|climb-Inf-S adp|up adp|on pron|that-Dem-S1 !
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|5|PUNCT
+%act:	<1w> takes Steve's hand off drawer .
+*MOT:	what (.) you tell me what you want (.) okay ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adj|okay-Pos-S1 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|8|ROOT 4|3|IOBJ 5|7|OBJ 6|7|NSUBJ 7|3|CCOMP 8|7|XCOMP 9|3|PUNCT
+%act:	<1w> shuts drawer
+*CHI:	I want butter !
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|butter !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%xpho:	ai w6n6 b6t3r
+*CHI:	xxx .
+*MOT:	the butter's in the refrigerator .
+%mor:	det|the-Def-Art noun|butter~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|refrigerator .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+*MOT:	can you get the butter ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S det|the-Def-Art noun|butter ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	<1w> leans over Steve
+*CHI:	can't .
+%mor:	aux|can-Fin-S~part|not .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%xpho:	k&n
+*MOT:	you can open the +...
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|open-Inf-S det|the-Def-Art +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	helps Steve down
+*MOT:	I'll help you open the door (.) okay ?
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|help-Inf-S pron|you-Prs-Acc-S2 verb|open-Inf-S det|the-Def-Art noun|door adj|okay-Pos-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|XCOMP 9|3|PUNCT
+*CHI:	can't (.) me can't [*] !
+%mor:	aux|can-Fin-S~part|not pron|I-Prs-Acc-S1 aux|can-Fin-S~part|not !
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%act:	pulls rag on refrigerator door
+%xpho:	kah mi kah
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	leans into refrigerator . opens refrigerator and holds door open
+*MOT:	d(o) you +...
+%mor:	verb|do-Fin-Imp-S2 pron|you-Prs-Acc-S2 +...
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	can you get me the butter ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|butter ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%act:	<bef> gets butter
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	give me the butter .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|butter .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*MOT:	bring it out .
+%mor:	verb|bring-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*MOT:	bring it out .
+%mor:	verb|bring-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	one more .
+%mor:	num|one adj|more-Cmp-S1 .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%gpx:	looks at package
+%act:	<bef> holds out package
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	one more ?
+%mor:	num|one adj|more-Cmp-S1 ?
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%act:	<1w> takes package and examines it .
+*MOT:	oh (.) you're right .
+%mor:	intj|oh pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<1w> takes out butter
+*MOT:	wanna spread the butter ?
+%mor:	intj|wanna verb|spread-Fin-Imp-S det|the-Def-Art noun|butter ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	wh_wa_wa_wa@wp .
+%mor:	noun|whwawawap .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<bef> stands near dish+washer door . <dur> holds Mother's skirt
+*MOT:	wanna spread the butter on the muffin ?
+%mor:	intj|wanna verb|spread-Fin-Imp-S det|the-Def-Art noun|butter adp|on det|the-Def-Art noun|muffin ?
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	wa_wa_wa_wa_wa_wa@wp .
+%mor:	noun|wawawawawawap .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	extends hand to butter
+*MOT:	oh (.) just a sec(ond) (.) stuck .
+%mor:	intj|oh adv|just det|a-Ind-Art adj|second-Pos-S1 adj|stuck-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|4|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%act:	unwraps stick
+*CHI:	&-uh !
+*CHI:	&-uh !
+*MOT:	okay (.) it's right there .
+%mor:	intj|okay pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|right adv|there .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%act:	<1w> puts down on counter and unwraps .
+*MOT:	I'm going to get a knife (.) okay ?
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|knife adj|okay-Pos-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|XCOMP 9|3|PUNCT
+*MOT:	well (.) actually (.) we'll do it together (.) okay ?
+%mor:	intj|well adv|actually pron|we-Prs-Nom-P1~aux|will-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 adv|together adj|okay-Pos-S1 ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|ADVMOD 9|5|PUNCT
+*MOT:	shall we spread it together ?
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|spread-Inf-S pron|it-Prs-Acc-S3 adv|together ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%act:	<1w> opens drawer
+*CHI:	no no .
+%mor:	intj|no intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%act:	<aft> stands .
+*MOT:	no (.) that's dirty .
+%mor:	intj|no pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|dirty-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	put that back .
+%mor:	verb|put-Fin-Imp-S pron|that-Dem-S1 adv|back .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	0 .
+%act:	stoops and puts knife back . stands .
+*MOT:	okay (.) we hafta wait for the toast to pop .
+%mor:	intj|okay pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|wait-Inf-S adp|for det|the-Def-Art noun|toast part|to verb|pop-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|MARK 9|4|ADVCL 10|4|PUNCT
+%act:	<1w> puts plate and knife on counter .
+*MOT:	wait .
+%mor:	verb|wait-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<1w> discards wrappers
+*CHI:	pop up .
+%mor:	verb|pop-Inf-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%act:	<aft> fingers butter
+%gpx:	glances at toaster
+*MOT:	hey !
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	stoops over Steve
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<1w> looks into space .
+%act:	<1w> stops fingering butter .
+%xpho:	w6t &-eh pap aut Its pap aut
+*CHI:	it pop out .
+%mor:	pron|it-Prs-Nom-S3 verb|pop-Fin-Ind-Pres-S3 adp|out .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%gpx:	<1w> points to toaster
+%act:	<1w> turns toward toaster and plate
+*CHI:	its pop out [*] .
+%mor:	pron|its-Prs-Gen-S3 noun|pop adp|out .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	okay (.) these are hot !
+%mor:	intj|okay pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|hot-Pos-S1 !
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%act:	puts muffins on plate
+*MOT:	hot hot hot hot hot hot .
+%mor:	adj|hot-Pos-S1 adj|hot-Pos-S1 adj|hot-Pos-S1 adj|hot-Pos-S1 adj|hot-Pos-S1 adj|hot-Pos-S1 .
+%gra:	1|6|AMOD 2|6|AMOD 3|6|AMOD 4|6|AMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	you wanna help me cut the butter ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S verb|help-Inf-S pron|I-Prs-Acc-S1 verb|cut-Inf-S det|the-Def-Art noun|butter ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay (.) you can help .
+%mor:	intj|okay pron|you-Prs-Nom-S2 aux|can-Fin-S verb|help-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%act:	<1w> Mother and Steve cut butter together .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<1w> spread butter together
+*MOT:	David's home .
+%mor:	noun|David~part|s noun|home .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+%act:	cutting and spreading butter
+%exp:	sound of motor in the background
+*MOT:	do you hear David's car ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hear-Inf-S noun|David~part|s noun|car ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|3|PUNCT
+*MOT:	hear David's car ?
+%mor:	verb|hear-Fin-Imp-S noun|David~part|s noun|car ?
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|2|CASE 4|1|OBJ 5|1|PUNCT
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<aft> attempts to take toast
+%gpx:	looks to the side as if listening
+*MOT:	okay (.) let's take this ov(er) +...
+%mor:	intj|okay verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|take-Inf-S pron|this-Dem-S1 adv|over +...
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|COMPOUND-PRT 7|2|PUNCT
+%act:	puts knife down
+*MOT:	<you hold> [/] you hold the plate .
+%mor:	pron|you-Prs-Nom-S2 verb|hold-Fin-Ind-Pres-S2 det|the-Def-Art noun|plate .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	you hold the plate .
+%mor:	pron|you-Prs-Nom-S2 verb|hold-Fin-Ind-Pres-S2 det|the-Def-Art noun|plate .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	no (.) you hold the plate .
+%mor:	intj|no pron|you-Prs-Nom-S2 verb|hold-Fin-Ind-Pres-S2 det|the-Def-Art noun|plate .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%par:	<1w> lifting noise
+%act:	<1w> puts Steve's hands on plate edge . <1w> lifts Steve to table . puts Steve in his chair
+*CHI:	xxx other room .
+%mor:	adj|other-Pos-S1 noun|room .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%xpho:	6d3r wum
+*MOT:	no (.) let's sit and eat here (.) okay ?
+%mor:	intj|no verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|sit-Inf-S cconj|and verb|eat-Inf-S adv|here adj|okay-Pos-S1 ?
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|2|OBJ 4|2|XCOMP 5|6|CC 6|4|CONJ 7|6|ADVMOD 8|6|XCOMP 9|2|PUNCT
+*MOT:	we can eat here .
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|eat-Inf-S adv|here .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%act:	<1w> sits
+*MOT:	can I have one (.) please ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S num|one intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|DISCOURSE 6|3|PUNCT
+*CHI:	there one [*] .
+%mor:	adv|there num|one .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+%act:	<bef> picks up toast and holds to his mouth . <dur> holds out to Mother
+%xpho:	der w6n
+*MOT:	oh (.) thank_you very much .
+%mor:	intj|oh intj|thankyou adv|very adv|much .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%act:	takes toast and eats
+*MOT:	mm: (.) good .
+%mor:	intj|mm adj|good-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	(th)at hot .
+%mor:	det|that-Def-Dem adj|hot-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%act:	<aft> picks up toast and takes a bite
+%gpx:	looks at Mother
+*MOT:	well (.) it's not too [!] hot (.) actually .
+%mor:	intj|well pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|too adj|hot-Pos-S1 adv|actually .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%gpx:	<1w> shrugs .
+*MOT:	good (.) huh ?
+%mor:	adj|good-Pos-S1 intj|huh ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%gpx:	<1w> nods
+*CHI:	he Spiderman [*] ?
+%mor:	pron|he-Prs-Nom-S3 noun|Spiderman ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%act:	turns toward wall
+%gpx:	<bef> nods . looks at wall and points at picture
+%xpho:	hi spaid6m&n
+*MOT:	Spiderman ?
+%mor:	noun|Spiderman ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<1w> nods
+*CHI:	that right there .
+%mor:	pron|that-Dem-S1 adv|right adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%gpx:	<bef> points closer
+*MOT:	that's Spiderman (.) right ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Spiderman adv|right ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%gpx:	nods . looks at Steve
+*CHI:	Spiderman !
+%mor:	noun|Spiderman !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+%act:	arms out to each side
+%xpho:	spai+d3r m&n
+*MOT:	Spiderman !
+%mor:	noun|Spiderman !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Steve
+%int:	<1w> rise , fall , rise . draws out spi
+*MOT:	were you Spiderman on Halloween ?
+%mor:	aux|be-Fin-Ind-Past-S3 pron|you-Prs-Nom-S2 noun|Spiderman adp|on noun|Halloween ?
+%gra:	1|3|COP 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+%act:	<bef> picks up toast and takes a bite
+*MOT:	yeah (.) you were Spiderman on Halloween (.) weren't cha [: you] ?
+%mor:	intj|yeah pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 noun|Spiderman adp|on noun|Halloween aux|be-Fin-Ind-Past-S3~part|not pron|you-Prs-Acc-S2 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|9|ROOT 5|6|CASE 6|4|OBL 7|9|COP 8|9|ADVMOD 9|4|PARATAXIS 10|4|PUNCT
+%gpx:	looks at Steve
+*CHI:	I king [*] !
+%mor:	pron|I-Prs-Nom-S1 noun|king !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%gpx:	looks at Mother
+*MOT:	you king [*] !
+%mor:	pron|you-Prs-Gen-S2 noun|king !
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%gpx:	looks at Steve
+*MOT:	whoa !
+%mor:	intj|whoa !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in Halloween .
+%mor:	adp|in noun|Halloween .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%xpho:	In6 haulowin
+*MOT:	Halloween ?
+%mor:	noun|Halloween ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	nods . looks at Steve
+*CHI:	I angry in dem [: them] [*] .
+%mor:	pron|I-Prs-Nom-S1 adj|angry-Pos-S1 adp|in pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%gpx:	looks into space
+*MOT:	you angry ?
+%mor:	pron|you-Prs-Acc-S2 adj|angry-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah (.) I angry in dat [: that] hat [!] in Halloween [*] .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 adj|angry-Pos-S1 adp|in det|that-Def-Dem noun|hat adp|in noun|Halloween .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%act:	eats
+%gpx:	looks at Mother , down , at wall , at Mother
+*MOT:	Halloween (.) yeah .
+%mor:	noun|Halloween intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%gpx:	looks at Steve
+*MOT:	did you get lots_of candy ?
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|get-Inf-S adj|lotsof-Pos-S1 noun|candy ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+*MOT:	did I help you eat it ?
+%mor:	aux|do-Fin-Ind-Past-S1 pron|I-Prs-Nom-S1 verb|help-Inf-S pron|you-Prs-Acc-S2 verb|eat-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%act:	leans toward Steve . leans back
+%par:	<aft> laughs
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes I did !
+%mor:	intj|yes pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 !
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	you have one piece [*] .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|one noun|piece .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+%gpx:	looks at Mother
+%xpho:	jau h&v w6n pis
+*MOT:	I had one piece ?
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 num|one noun|piece ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+%gpx:	looks at Steve
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	nods . looks at Mother
+*MOT:	oh (.) I had more than that .
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 adj|more-Cmp-S1 adp|than pron|that-Dem-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|4|OBL 7|3|PUNCT
+%gpx:	<1w> nods .
+*MOT:	I ate all [!] the chocolate .
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1 det|all-Def det|the-Def-Art noun|chocolate .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET-PREDET 4|5|DET 5|2|OBJ 6|2|PUNCT
+*MOT:	oh_my_goodness !
+%mor:	noun|ohmygoodness !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<1w> pity facial expression . shakes head .
+*MOT:	I was helpin(g) ya out (.) though .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|help-Part-Pres-S pron|you-Prs-Acc-S2 adp|out adv|though .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|ADVMOD 7|3|PUNCT
+%gpx:	<1w> nods
+*CHI:	&-uh I have &-uh +...
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 +...
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%gpx:	<1w> looks down , at Mother . <1w> looks away , at Mother , down .
+*CHI:	I ah cut [!] it [*] !
+%mor:	pron|I-Prs-Nom-S1 intj|ah verb|cut-Inf-S pron|it-Prs-Acc-S3 !
+%gra:	1|3|NSUBJ 2|3|DISCOURSE 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	<1w> picks up toast
+%gpx:	<1w> looks at Mother , down
+*CHI:	I have two !
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 num|two !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you have two ?
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|two ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%gpx:	looks at Steve
+*CHI:	I have t(wo) +...
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 num|two +...
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	have +...
+%mor:	verb|have-Fin-Imp-S +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	be two .
+%mor:	aux|be-Fin-Imp-S num|two .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%gpx:	<aft> looks out window
+*MOT:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	is snowing [*] .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|snow-Part-Pres-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+%act:	gets up and stands
+%gpx:	looks at Mother
+*MOT:	no (.) nope .
+%mor:	intj|no intj|nope .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%gpx:	<1w> shakes head . looks at Steve
+*MOT:	would you please sit down ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 intj|please verb|sit-Inf-S adv|down ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	points to window . looks out window
+*CHI:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no (.) it's not [!] snowing .
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|snow-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%gpx:	looks at Steve
+*MOT:	would you please sit down ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 intj|please verb|sit-Inf-S adv|down ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	yes (.) it is !
+%mor:	intj|yes pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 !
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%gpx:	looks at Mother , out window
+%xpho:	jeS It Is
+*MOT:	it is snowing ?
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|snow-Part-Pres-S ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%gpx:	nods . looks at Steve
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<aft> looks out window
+*MOT:	hm: .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	sits down
+*CHI:	yeah (.) I will .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 aux|will-Fin-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%gpx:	<1w> nods . looks out window . looks down
+*MOT:	well (.) I don't see [!] it (.) but maybe it is snowing .
+%mor:	intj|well pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 cconj|but adv|maybe pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|snow-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|5|OBJ 7|11|CC 8|11|ADVMOD 9|11|NSUBJ 10|11|COP 11|5|CONJ 12|5|PUNCT
+*MOT:	would you sit down please ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|sit-Inf-S adp|down intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|DISCOURSE 6|3|PUNCT
+%gpx:	<1w> looks at Steve
+*MOT:	hm: (.) thank_you .
+%mor:	intj|hm intj|thankyou .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%gpx:	looks at Steve
+*MOT:	thank_you .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look !
+%mor:	verb|look-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	smiles
+%gpx:	looks at Mother
+%act:	<1w> rocks in chair
+*CHI:	I rocking [*] .
+%mor:	pron|I-Prs-Nom-S1 verb|rock-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	Steve (.) you shouldn't do that either (.) you know .
+%mor:	noun|Steve pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not verb|do-Inf-S pron|that-Dem-S1 cconj|either pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|9|EXPL 8|9|NSUBJ 9|5|PARATAXIS 10|5|PUNCT
+%gpx:	looks at Steve
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	<aft> smiles
+%gpx:	<aft> looks away
+%act:	<aft> resumes rocking
+*MOT:	you're just being a silly_billy (.) aren't ya ?
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|just aux|be-Ger-S det|a-Ind-Art noun|sillybilly aux|be-Fin-Ind-Pres-P3~part|not pron|you-Prs-Acc-S2 ?
+%gra:	1|9|NSUBJ 2|9|AUX 3|6|ADVMOD 4|6|COP 5|6|DET 6|9|NSUBJ 7|9|COP 8|9|ADVMOD 9|9|ROOT 10|9|PUNCT
+*MOT:	you're showing off .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|show-Part-Pres-S adp|off .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%act:	<1w> leans toward Steve . puts hand toward Steve's chair , stops . leans back
+*MOT:	hey !
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	now that's dangerous !
+%mor:	adv|now pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|dangerous-Pos-S1 !
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%gpx:	<1w-3w> nods .
+*MOT:	it's dangerous .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|dangerous-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%gpx:	<1w-2w> nods .
+*MOT:	you're gonna fall down and go bonk@o !
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|gonna verb|fall-Inf-S adv|down cconj|and verb|go-Inf-S noun|bonk !
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|ADVMOD 6|7|CC 7|4|CONJ 8|7|OBJ 9|4|PUNCT
+%gpx:	<1w> points to floor
+*CHI:	I won't .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%gpx:	looks at Mother
+%act:	moves head impudently
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<1w> nods .
+*MOT:	I don't want you to .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|PUNCT 7|4|PUNCT
+%gpx:	<1w> shakes head
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<1w> bangs hands on table .
+%gpx:	<1w> glances at floor . looks around .
+%xpho:	neO ai fInISd wIt DIs tOst
+*CHI:	I finished with this toast [*] .
+%mor:	pron|I-Prs-Nom-S1 verb|finish-Fin-Ind-Past-S1 adp|with det|this-Def-Dem noun|toast .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%act:	<1w> puts arms up over head
+%gpx:	<1w> looks at plate . points to toast . looks at Mother
+*MOT:	you finished ?
+%mor:	pron|you-Prs-Nom-S2 verb|finish-Fin-Ind-Past-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%gpx:	looks at Steve
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother , down
+*MOT:	doesn't look finished to me .
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|look-Inf-S verb|finish-Part-Past-S adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|3|XCOMP 5|6|CASE 6|4|OBL 7|3|PUNCT
+%gpx:	shakes head . looks at Steve
+*CHI:	you not finished [*] .
+%mor:	pron|you-Prs-Nom-S2 part|not verb|finish-Fin-Ind-Past-S2 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%act:	<bef> takes bite . <aft> begins to get up
+%gpx:	looks at Mother , at toast
+*MOT:	I'm [!] not finished .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|finish-Part-Past-S .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	will you wait (un)til I've finished please ?
+%mor:	aux|will-Fin-S pron|you-Prs-Nom-S2 verb|wait-Inf-S sconj|until pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|finish-Part-Past-S intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|3|DISCOURSE 9|3|PUNCT
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	gets in chair
+*MOT:	thank_you .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<1w> nods .
+*MOT:	I prefer [!] if you sat down !
+%mor:	pron|I-Prs-Nom-S1 verb|prefer-Fin-Ind-Pres-S1 sconj|if pron|you-Prs-Nom-S2 verb|sit-Fin-Ind-Past-S2 adv|down !
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|5|ADVMOD 7|2|PUNCT
+*CHI:	I will .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%par:	<aft> smiles at Mother . laughs
+%act:	<bef> picks up toast . <aft> takes bite . stands up coyly , slowly
+*MOT:	I don't think you hear [!] so good .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|you-Prs-Nom-S2 verb|hear-Fin-Ind-Pres-S2 adv|so adj|good-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|ADVMOD 8|6|XCOMP 9|4|PUNCT
+%gpx:	<1w> shakes head
+*MOT:	sit down .
+%mor:	verb|sit-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	I want to see it snow .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|see-Inf-S pron|it-Prs-Acc-S3 noun|snow .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|OBJ 7|2|PUNCT
+%gpx:	looks out window
+*MOT:	it's not snowing .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|snow-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%gpx:	shakes head
+*CHI:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks out window
+*MOT:	yeah ?
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Steve
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+*MOT:	would you sit down please ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|sit-Inf-S adp|down intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|DISCOURSE 6|3|PUNCT
+%gpx:	nods
+*CHI:	I won't !
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%gpx:	shakes head . looks at Mother
+*CHI:	I won't !
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	&-um &-um &-um &-um .
+%act:	<1w> rocks in chair
+*MOT:	you're gonna fall down .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|gonna verb|fall-Inf-S adv|down .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%gpx:	looks at Steve .
+*CHI:	&-uh (.) I won't .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%act:	<1w> sits .
+%gpx:	looks at Mother
+%par:	smiles
+%xpho:	6h ai wOnt ai fInIs nau
+*CHI:	I finish now [*] .
+%mor:	pron|I-Prs-Nom-S1 verb|finish-Fin-Ind-Pres-S1 adv|now .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%act:	<1w> begins to stand
+*MOT:	you finished now ?
+%mor:	pron|you-Prs-Nom-S2 verb|finish-Fin-Ind-Past-S2 adv|now ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%gpx:	looks at Steve
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+*MOT:	wanna jump ?
+%mor:	intj|wanna noun|jump ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%gpx:	watches Steve
+%act:	gets up
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	smiles
+%act:	<aft> jumps toward Mother's arms
+%gpx:	<aft> looks at Mother's arms , out
+*MOT:	big jump .
+%mor:	adj|big-Pos-S1 noun|jump .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%par:	<aft> lift noise . smiles
+%act:	<aft> holds Steve in arms and shakes
+@End

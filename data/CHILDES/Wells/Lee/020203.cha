@@ -1,0 +1,377 @@
+@UTF8
+@PID:	11312/c-00020247-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, MAR Child, GRA Grandmother, FAT Father
+@Options:	multi
+@ID:	eng|Wells|MOT||female|||Mother|||
+@ID:	eng|Wells|CHI|2;02.03|male|||Target_Child|||
+@ID:	eng|Wells|MAR|||||Child|||
+@ID:	eng|Wells|GRA|||||Grandmother|||
+@ID:	eng|Wells|FAT||male|||Father|||
+@Comment:	Nil
+@Location:	Kitchen
+@Comment:	noises <aft> squeals
+@Situation:	M is washing floor
+@Types:	long, toyplay, TD
+*MOT:	0 [=! singing ] .
+%par:	<aft> noise
+%com:	l and K are getting into cupboard under sink
+*MOT:	mark (2.) .
+%mor:	noun|mark .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	<2.> cries
+%add:	to L
+%com:	m takes children into sitting room
+*MOT:	write home every day (5.) .
+%mor:	verb|write-Fin-Imp-S adv|home det|every-Def noun|day .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|DET 4|1|OBL-TMOD 5|1|PUNCT
+%com:	m sings with radio M goes into kitchen
+%par:	<aft> singing
+*MOT:	all my loving .
+%mor:	det|all-Def pron|my-Prs-Gen-S1 noun|loving .
+%gra:	1|3|DET-PREDET 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*MOT:	oy (1.) .
+%mor:	intj|oy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	l goes into kitchen , M sends him out
+@Location:	Sitting room
+@Comment:	<bef> singing <aft> noises kitchen
+@Situation:	L puts arm round K
+@Location:	Sitting room/Kitchen
+@Comment:	<1.> noise <1.> noises intermittently
+@Situation:	Radio on
+@Situation:	L drops car in kitchen
+@Comment:	L returns to sitting room
+@Comment:	M comes into sitting room
+*CHI:	Mum .
+%mor:	noun|mum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	<aft> noises
+@Time Start:	10:11
+@Activities:	Snack
+@Situation:	Radio on
+@Comment:	Asking for something?
+*MOT:	little devil .
+%mor:	adj|little-Pos-S1 noun|devil .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bang (1.) .
+%mor:	noun|bang .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx (2.) .
+%com:	m gets L a drink
+*CHI:	a drink .
+%mor:	det|a-Ind-Art noun|drink .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+@Location:	Sitting room
+@Comment:	hums no speech
+@Situation:	Radio on
+*MOT:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	0 [=! hums] .
+@Location:	Kitchen
+@Situation:	Radio on
+*MAR:	www [>] .
+%com:	g tells M about the clock repairer who had an accident
+*MOT:	what man ?
+%mor:	det|what-Def-Int noun|man ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*GRA:	who does the watches .
+%mor:	pron|who-Rel-S1 verb|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|watch-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	xxx [<] .
+*GRA:	who xxx the watches .
+%mor:	pron|who-Rel-S1 det|the-Def-Art noun|watch-Plur .
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+%par:	<aft> with recognition
+*GRA:	<they said he went> [<] [>] right up in the air .
+%mor:	pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Past-P3 pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adv|right adp|up adp|in det|the-Def-Art noun|air .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|ADVMOD 6|4|COMPOUND-PRT 7|9|CASE 8|9|DET 9|4|OBL 10|2|PUNCT
+*MOT:	oh (2.) .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is he very ill ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adv|very adj|ill-Pos-S1 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*GRA:	they say it just says the car took him right up in the air (4.) .
+%mor:	pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Pres-P3 pron|it-Prs-Nom-S3 adv|just verb|say-Fin-Ind-Pres-S3 det|the-Def-Art noun|car verb|take-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adv|right adp|up adp|in det|the-Def-Art noun|air .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|5|NSUBJ 4|5|ADVMOD 5|2|CCOMP 6|7|DET 7|8|NSUBJ 8|5|CCOMP 9|8|OBJ 10|11|ADVMOD 11|8|COMPOUND-PRT 12|14|CASE 13|14|DET 14|8|OBL 15|2|PUNCT
+*MAR:	zzz .
+%mor:	noun|zzz .
+%gra:	1|1|ROOT 2|1|PUNCT
+*GRA:	xxx .
+*MOT:	is he in hospital then ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adp|in noun|hospital adv|then ?
+%gra:	1|5|ROOT 2|1|NSUBJ 3|4|CASE 4|1|OBL 5|4|ADVMOD 6|1|PUNCT
+*MOT:	leave that sugar alone will you .
+%mor:	verb|leave-Fin-Imp-S sconj|that noun|sugar adv|alone aux|will-Fin-S pron|you-Prs-Acc-S2 .
+%gra:	1|6|ROOT 2|5|MARK 3|5|NSUBJ 4|3|ADVMOD 5|1|CCOMP 6|5|OBJ 7|1|PUNCT
+%com:	l is playing with sugar
+*GRA:	xxx .
+*GRA:	xxx .
+%par:	<bef> noises <bef> noises
+*GRA:	xxx .
+*GRA:	&~mm [= yes] .
+*GRA:	xxx [<] xxx since that twenty five .
+%mor:	adp|since det|that-Def-Dem num|twenty num|five .
+%gra:	1|4|CASE 2|4|DET 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+%com:	g talks about her betting
+*MOT:	get down (2.) .
+%mor:	verb|get-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	go on .
+%mor:	verb|go-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+@Time Start:	11:19
+@Activities:	Unknown
+@Comment:	cries
+@Comment:	K pulls off sock and throws it into sitting room
+*GRA:	xxx [>] paper .
+%mor:	noun|paper .
+%gra:	1|1|ROOT 2|1|PUNCT
+%add:	to K
+%com:	m tries to give G money for ice cream
+*GRA:	go on .
+%mor:	verb|go-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*GRA:	go on .
+%mor:	verb|go-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MAR:	0 [=! cries] .
+*GRA:	well xxx [>] .
+%mor:	intj|well .
+%gra:	1|1|ROOT 2|1|PUNCT
+*GRA:	xxx three bob oughta be enough didn't it ?
+%mor:	num|three noun|bob noun|oughta aux|be-Inf-S adv|enough aux|do-Fin-Ind-Past-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|8|ROOT 7|6|ADVMOD 8|6|NSUBJ 9|6|PUNCT
+%com:	k cries on and off to end of sample
+*GRA:	I might as_well take your bag xxx .
+%mor:	pron|I-Prs-Nom-S1 aux|might-Fin-S adv|aswell verb|take-Inf-S pron|your-Prs-Gen-S2 noun|bag .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*MOT:	that's why I never brought them in .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|why pron|I-Prs-Nom-S1 adv|never verb|bring-Fin-Ind-Past-S1 pron|they-Prs-Acc-P3 adv|in .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|6|NSUBJ 5|6|ADVMOD 6|3|ADVCL-RELCL 7|6|OBJ 8|6|ADVMOD 9|3|PUNCT
+*MOT:	not unless you takes that little mushroom (4.) .
+%mor:	part|not sconj|unless pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Pres-S3 det|that-Def-Dem adj|little-Pos-S1 noun|mushroom .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|NSUBJ 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+%com:	g had lifted skirt up for a joke
+*MOT:	sight for sore eyes isn't it ?
+%mor:	noun|sight adp|for adj|sore-Pos-S1 noun|eye-Plur aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|7|NSUBJ 2|4|CASE 3|4|AMOD 4|1|NMOD 5|7|COP 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%com:	g goes to shops
+*MOT:	0 [=! sings] .
+@Location:	Sitting room/Kitchen
+@Situation:	L plays on tricycle
+*CHI:	down .
+%mor:	adv|down .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	hums laughs
+*CHI:	bang (17.) .
+%mor:	noun|bang .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bang .
+%mor:	noun|bang .
+%gra:	1|1|ROOT 2|1|PUNCT
+%add:	to L
+*MOT:	shut it up .
+%mor:	verb|shut-Fin-Imp-S pron|it-Prs-Acc-S3 adp|up .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*GRA:	come on .
+%mor:	verb|come-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*GRA:	come on .
+%mor:	verb|come-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%com:	l is holding sausages
+*MAR:	0 [=! cries] .
+%com:	g shuts fridge
+*MOT:	xxx is it .
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*GRA:	there's your cup in there [>] (6.) .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|cup adp|in adv|there .
+%gra:	1|2|EXPL 2|6|ROOT 3|4|NMOD-POSS 4|2|NSUBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*MAR:	0 [=! noises] [<] .
+@Location:	Sitting room
+@Situation:	L has a drink of squash
+*GRA:	xxx .
+%par:	<bef> noises <2.> noises
+*MOT:	me is it .
+%mor:	pron|I-Prs-Acc-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	xxx do his blinking milk .
+%mor:	verb|do-Fin-Imp-S pron|his-Prs-Gen-S3 noun|blinking noun|milk .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*MOT:	I'll go and do his milk (3.) .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|go-Inf-S cconj|and verb|do-Inf-S pron|his-Prs-Gen-S3 noun|milk .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|NMOD-POSS 7|5|OBJ 8|3|PUNCT
+*MOT:	sit down a minute .
+%mor:	verb|sit-Fin-Imp-S adp|down det|a-Ind-Art noun|minute .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBL-TMOD 5|1|PUNCT
+%par:	<bef> cries . .10
+%com:	m goes into kitchen
+*GRA:	mind oh what luck xxx .
+%mor:	verb|mind-Fin-Imp-S intj|oh det|what-Def-Int noun|luck .
+%gra:	1|4|ROOT 2|1|DISCOURSE 3|4|DET 4|1|OBJ 5|1|PUNCT
+%com:	g rubs chair with cloth
+@Location:	Sitting room
+@Situation:	M and G talking about a relation
+*MOT:	then she said “where does your Mother live” .
+%mor:	adv|then pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 adv|where aux|do-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|mother verb|live-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|8|ADVMOD 5|8|AUX 6|7|NMOD-POSS 7|8|NSUBJ 8|3|CCOMP 9|3|PUNCT
+%com:	sounds as though L is eating something
+*MOT:	I said xxx married .
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1 adj|married-Pos-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*MOT:	I said xxx six years isn't it ?
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1 num|six noun|year-Plur aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NUMMOD 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|2|CCOMP 8|2|PUNCT
+*MOT:	she said o:h xxx (10.) .
+%mor:	pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 intj|oh .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*MOT:	I've been meaning to say to her .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S verb|mean-Part-Pres-S part|to verb|say-Inf-S adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*MOT:	oh she said I couldn't stay home all day long (7.) .
+%mor:	intj|oh pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 pron|I-Prs-Nom-S1 aux|could-Fin-S~part|not verb|stay-Inf-S adv|home det|all-Def noun|day adv|long .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|11|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|7|ADVMOD 9|10|DET 10|11|OBL-TMOD 11|7|ADVMOD 12|3|PUNCT
+*MOT:	is me being out to work (3.) .
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 aux|be-Ger-S adv|out part|to verb|work-Inf-S .
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|MARK 6|4|ADVCL 7|4|PUNCT
+*GRA:	yeh you said .
+%mor:	intj|yeh pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*GRA:	<xxx that> [<] the same house xxx up there .
+%mor:	sconj|that det|the-Def-Art adj|same-Pos-S1 noun|house adv|up adv|there .
+%gra:	1|4|MARK 2|4|DET 3|4|AMOD 4|6|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+*GRA:	xxx .
+*MOT:	yes !
+%mor:	intj|yes !
+%gra:	1|1|ROOT 2|1|PUNCT
+*GRA:	xxx .
+*GRA:	yeh (3.) .
+%mor:	intj|yeh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	playing with K
+@Location:	Living room
+@Situation:	L asleep
+*FAT:	yes please (2.) .
+%mor:	intj|yes intj|please .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*GRA:	xxx .
+*FAT:	&~mm [= pardon?] .
+%par:	<aft> noise
+*FAT:	well (6.) .
+%mor:	intj|well .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	ta (3.) .
+%mor:	intj|to .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	thank_you (3.) .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	l gives F G's coat
+@Location:	Kitchen/Back garden
+@Situation:	L is playing with F's tools
+*FAT:	here he is (5.) .
+%mor:	adv|here pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|COP 4|1|PUNCT
+*FAT:	there's our Mark (5.) .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|Mark .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NMOD-POSS 4|2|NSUBJ 5|2|PUNCT
+%com:	l drops trowel in metal bin
+%par:	<aft> noise
+@Location:	Back garden
+@Comment:	no speech
+*FAT:	come on out_of there (1:1.) .
+%mor:	verb|come-Fin-Imp-S adp|on noun|outof adv|there .
+%gra:	1|4|ROOT 2|3|CASE 3|1|OBL 4|1|ADVMOD 5|1|PUNCT
+@Time Start:	3:17
+@Activities:	Snack
+*GRA:	<come by Nanna> [<] (10.) .
+%mor:	verb|come-Fin-Imp-S adp|by noun|Nanna .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*GRA:	you xxx want the bottle (30.) .
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|bottle .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%com:	g helps L drink
+*FAT:	is that better now (10.) ?
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|that adj|good-Cmp-S1 adv|now ?
+%gra:	1|3|COP 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%add:	to L
+@Time Start:	3:29
+@Activities:	Free play alone
+@Situation:	L plays with cars
+@Comment:	to K
+*GRA:	come on .
+%mor:	verb|come-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%par:	<aft> small cry <aft> noise
+*FAT:	&-eh (4.) (7.) .
+*CHI:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+@Time Start:	3:53
+@Activities:	Free play alone
+*GRA:	xxx (2.) .
+*GRA:	xxx (1:1.) .
+%par:	<bef> noise
+*GRA:	here Mark (15.) .
+%mor:	adv|here noun|Mark .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+@Location:	Sitting room
+*FAT:	what d(o) you want (5.) (2.) .
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*GRA:	come over here then .
+%mor:	verb|come-Fin-Imp-S adv|over adv|here adv|then .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*GRA:	come on [>] (4.) (4.) .
+%mor:	verb|come-Fin-Imp-S adv|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*GRA:	<never mind xxx> [<] .
+%mor:	adv|never verb|mind-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+@Time Start:	5:11
+*FAT:	what d(o) you want (3.) ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*FAT:	come over here then .
+%mor:	verb|come-Fin-Imp-S adv|over adv|here adv|then .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*CHI:	drink (24.) .
+%mor:	verb|drink-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	f gives L a drink
+*FAT:	say ta@q .
+%mor:	verb|say-Fin-Imp-S part|to .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*FAT:	isn't he Mark ?
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|he-Prs-Nom-S3 noun|Mark ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*FAT:	mark would eat the xxx and Mark would eat the cup an(d) all .
+%mor:	noun|mark aux|would-Fin-S verb|eat-Inf-S det|the-Def-Art cconj|and noun|Mark aux|would-Fin-S verb|eat-Inf-S det|the-Def-Art noun|cup cconj|and det|all-Def .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|3|OBJ 5|8|CC 6|8|NSUBJ 7|8|AUX 8|3|CONJ 9|10|DET 10|8|OBJ 11|12|CC 12|10|CONJ 13|3|PUNCT
+%com:	f plays with K
+*MAR:	ow .
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MAR:	&=laughs .
+*FAT:	d(o) you wanna play ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 intj|wanna verb|play-Inf-S ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|4|ROOT 5|4|PUNCT
+*FAT:	d(o) you want xxx .
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@Location:	Living room
+@Situation:	No speech from anyone
+@Location:	Sitting room
+@Comment:	noise
+*MOT:	you was greedy (7.) .
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S3 adj|greedy-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+@End

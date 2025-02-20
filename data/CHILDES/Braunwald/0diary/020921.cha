@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00011041-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;09.21|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	11-DEC-1973
+@Types:	long, toyplay, TD
+*CHI:	after I finish my breakfast could I have some cookies ?
+%mor:	sconj|after pron|I-Prs-Nom-S1 verb|finish-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|breakfast aux|could-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def noun|cookie-Plur ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|8|ADVCL 4|5|NMOD-POSS 5|3|OBJ 6|8|AUX 7|8|NSUBJ 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+%sit:	104
+*MOT:	no, cookies are for dessert .
+%mor:	intj|no cm|cm noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 adp|for noun|dessert .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|6|ROOT 7|6|PUNCT
+%sit:	104
+*CHI:	I want a sheep (be)cause I ate all up my sheep .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|sheep sconj|because pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1 det|all-Def adp|up pron|my-Prs-Gen-S1 noun|sheep .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|DET 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|7|OBJ 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|2|PUNCT
+%sit:	105
+*CHI:	was my breakfast getting cold when I went to the bathroom ?
+%mor:	aux|be-Fin-Ind-Past-S3 pron|my-Prs-Gen-S1 noun|breakfast verb|get-Ger-S adj|cold-Pos-S1 adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 adp|to det|the-Def-Art noun|bathroom ?
+%gra:	1|4|AUX 2|3|NMOD-POSS 3|4|NSUBJ 4|11|ROOT 5|4|XCOMP 6|8|ADVMOD 7|8|NSUBJ 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+%sit:	106
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	106
+*CHI:	don't take care of Amy (be)cause Ruthie take care of Amy .
+%mor:	aux|do-Fin-Imp-S~part|not verb|take-Fin-Imp-S noun|care adp|of noun|Amy sconj|because noun|Ruthie verb|take-Fin-Ind-Pres-S3 noun|care adp|of noun|Amy .
+%gra:	1|3|AUX 2|3|ADVMOD 3|12|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|9|MARK 8|9|NSUBJ 9|3|ADVCL 10|9|OBJ 11|12|CASE 12|9|OBL 13|3|PUNCT
+%sit:	107
+*CHI:	Toffer [: Christopher] throwed [: threw] [*] a block once over my head real long time ago .
+%mor:	noun|Christopher verb|throw-Fin-Ind-Past-S3 det|a-Ind-Art noun|block adv|once adp|over pron|my-Prs-Gen-S1 noun|head adv|real adj|long-Pos-S1 noun|time adv|ago .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|ADVMOD 10|11|AMOD 11|12|OBL-NPMOD 12|2|ADVMOD 13|2|PUNCT
+%sit:	108
+*CHI:	don't worry, was real long time ago .
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S cm|cm aux|be-Fin-Ind-Past-S3 adj|real-Pos-S1 adj|long-Pos-S1 noun|time adv|ago .
+%gra:	1|3|AUX 2|3|ADVMOD 3|9|ROOT 4|3|PUNCT 5|8|COP 6|8|AMOD 7|8|AMOD 8|9|OBL-NPMOD 9|3|PARATAXIS 10|3|PUNCT
+%sit:	108
+*CHI:	that's not fair if my red cup's dirty and that's poo_poo Mama .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 part|not adj|fair-Pos-S1 sconj|if pron|my-Prs-Gen-S1 adj|red-Pos-S1 noun|cup~aux|be-Fin-Ind-Pres-S3 adj|dirty-Pos-S1 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|poopoo-Pos-S1 noun|mama .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|15|ROOT 5|10|MARK 6|8|NMOD-POSS 7|8|AMOD 8|10|NSUBJ 9|10|COP 10|4|ADVCL 11|15|CC 12|15|NSUBJ 13|15|COP 14|15|AMOD 15|4|CONJ 16|4|PUNCT
+%sit:	109
+@End

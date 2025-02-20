@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/c-00011066-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;10.23|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	12-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	the fox tickled me in the butt .
+%mor:	det|the-Def-Art noun|fox verb|tickle-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|butt .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%sit:	244
+*CHI:	Mom, look who's behind you, Mom, Katie .
+%mor:	noun|mom cm|cm verb|look-Fin-Imp-S pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 adp|behind pron|you-Prs-Acc-S2 cm|cm noun|mom cm|cm noun|Katie .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|11|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|9|PUNCT 9|7|APPOS 10|11|PUNCT 11|9|CONJ 12|3|PUNCT
+%sit:	245
+*MOT:	it was good for morale to have a party for Six_West .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adj|good-Pos-S1 adp|for noun|morale part|to verb|have-Inf-S det|a-Ind-Art noun|party adp|for noun|SixWest .
+%gra:	1|3|EXPL 2|3|COP 3|11|ROOT 4|5|CASE 5|3|OBL 6|7|MARK 7|3|CSUBJ 8|9|DET 9|7|OBJ 10|11|CASE 11|9|NMOD 12|3|PUNCT
+%sit:	246
+*CHI:	who's morale ?
+%mor:	pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 noun|morale ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	246
+*CHI:	be careful because I'm next to thorns .
+%mor:	aux|be-Fin-Imp-S adj|careful-Pos-S1 sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|next adp|to noun|thorn-Plur .
+%gra:	1|2|COP 2|8|ROOT 3|6|MARK 4|6|NSUBJ 5|6|COP 6|2|ADVCL 7|8|CASE 8|6|OBL 9|2|PUNCT
+%sit:	247
+*CHI:	I just love you, love you, love you .
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 cm|cm verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 cm|cm verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|10|ROOT 4|3|OBJ 5|6|PUNCT 6|3|PARATAXIS 7|6|OBJ 8|9|PUNCT 9|3|PARATAXIS 10|9|OBJ 11|3|PUNCT
+%sit:	248
+*CHI:	Jackie, I love you .
+%mor:	noun|Jackie cm|cm pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	249
+*FAT:	you do ?
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	249
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	249
+@End

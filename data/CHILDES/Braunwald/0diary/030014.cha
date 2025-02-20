@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/c-00011115-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FAT Father, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;00.14|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	06-MAR-1974
+@Types:	long, toyplay, TD
+*CHI:	if it boils, I'll tell you .
+%mor:	sconj|if pron|it-Prs-Nom-S3 verb|boil-Fin-Ind-Pres-S3 cm|cm pron|I-Prs-Nom-S1~aux|will-Fin-S verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ADVCL 4|7|PUNCT 5|7|NSUBJ 6|7|AUX 7|8|ROOT 8|7|IOBJ 9|7|PUNCT
+%sit:	554
+*CHI:	I'll stand here and see if it boils .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|stand-Inf-S adv|here cconj|and verb|see-Inf-S sconj|if pron|it-Prs-Nom-S3 verb|boil-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|9|MARK 8|9|NSUBJ 9|6|CCOMP 10|3|PUNCT
+%sit:	554
+*CHI:	Daddy, know what Blakey told me when Jo [: Joanna] had chickenpox ?
+%mor:	noun|Daddy cm|cm verb|know-Fin-Imp-S pron|what-Rel-S1 noun|Blakey verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 adv|when noun|Joanna verb|have-Fin-Ind-Past-S3 noun|chickenpox ?
+%gra:	1|3|VOCATIVE 2|3|PUNCT 3|11|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|IOBJ 8|10|ADVMOD 9|10|NSUBJ 10|6|ADVCL 11|10|OBJ 12|3|PUNCT
+%sit:	555
+*FAT:	no, what ?
+%mor:	intj|no cm|cm pron|what-Int-S1 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	555
+*CHI:	he told me that xxx from chicken .
+%mor:	pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 sconj|that adp|from noun|chicken .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|IOBJ 4|6|MARK 5|6|CASE 6|2|OBL 7|2|PUNCT
+%sit:	555
+*CHI:	I hope that silly dog won't make poo .
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 sconj|that adj|silly-Pos-S1 noun|dog aux|will-Fin-S~part|not verb|make-Inf-S noun|poo .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|8|MARK 4|5|AMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|CCOMP 9|8|OBJ 10|2|PUNCT
+%sit:	556
+*MOT:	I hope not too .
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 part|not adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+%sit:	556
+*CHI:	something stinks around here .
+%mor:	pron|something-Ind-S1 verb|stink-Fin-Ind-Pres-S3 adp|around adv|here .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%sit:	j7_80
+*CHI:	Mister_All_Mine giving Daniel striped tiger his house back tomorrow .
+%mor:	noun|MisterAllMine verb|give-Ger-S noun|Daniel verb|stripe-Fin-Ind-Past-S noun|tiger pron|his-Prs-Gen-S3 noun|house adv|back noun|tomorrow .
+%gra:	1|4|NSUBJ 2|1|ACL 3|2|IOBJ 4|9|ROOT 5|4|OBJ 6|7|NMOD-POSS 7|4|OBJ 8|4|ADVMOD 9|4|OBL-TMOD 10|4|PUNCT
+%sit:	557
+*CHI:	I was looking forward for my new nightgown .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|look-Part-Pres-S adv|forward adp|for pron|my-Prs-Gen-S1 adj|new-Pos-S1 noun|nightgown .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|ADVMOD 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%sit:	558
+@End

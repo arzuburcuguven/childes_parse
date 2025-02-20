@@ -1,0 +1,486 @@
+@UTF8
+@PID:	11312/c-00020365-1
+@Begin
+@Languages:	eng
+@Participants:	ELA Child, CHI Target_Child, MOT Mother, UNK Unidentified
+@Options:	multi
+@ID:	eng|Wells|ELA|||||Child|||
+@ID:	eng|Wells|CHI|2;11.23|male|||Target_Child|||
+@ID:	eng|Wells|MOT||female|||Mother|||
+@ID:	eng|Wells|UNK|||||Unidentified|||
+@Activities:	Nonspecific
+@Types:	long, toyplay, TD
+*ELA:	I [!] not .
+%mor:	pron|I-Prs-Nom-S1 part|not .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*ELA:	I never (7.) .
+%mor:	pron|I-Prs-Nom-S1 adv|never .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it doesn't matter .
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	I don't mind you dropping your crumbs .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|mind-Inf-S pron|you-Prs-Acc-S2 verb|drop-Ger-S pron|your-Prs-Gen-S2 noun|crumb-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|NMOD-POSS 8|6|OBJ 9|4|PUNCT
+*ELA:	where's your bag Tony then .
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|bag noun|Tony adv|then .
+%gra:	1|6|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|COMPOUND 5|1|NSUBJ 6|1|ADVMOD 7|1|PUNCT
+%par:	<aft> whining
+*MOT:	shut up .
+%mor:	verb|shut-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	and get that shoved in your mouth .
+%mor:	cconj|and verb|get-Fin-Imp-S pron|that-Dem-S1 verb|shove-Part-Past-S adp|in pron|your-Prs-Gen-S2 noun|mouth .
+%gra:	1|2|CC 2|7|ROOT 3|2|OBJ 4|2|XCOMP 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|2|PUNCT
+%add:	talking to T
+*CHI:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in a minute .
+%mor:	adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	in a minute .
+%mor:	adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*ELA:	say goodbye Mummy (5.) .
+%mor:	verb|say-Fin-Imp-S noun|goodbye noun|mummy .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%com:	t is pretending to drive a bus E talking to M
+@Activities:	Talk
+*UNK:	he xxx .
+%mor:	pron|he-Prs-Nom-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ELA:	my brother goes away .
+%mor:	pron|my-Prs-Gen-S1 noun|brother verb|go-Fin-Ind-Pres-S3 adv|away .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%com:	pretends he has a brother
+*CHI:	my brother .
+%mor:	pron|my-Prs-Gen-S1 noun|brother .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*ELA:	he thought he had a a brother .
+%mor:	pron|he-Prs-Nom-S3 verb|think-Fin-Ind-Past-S3 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 det|a-Ind-Art det|a-Ind-Art noun|brother .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|DET 6|7|DET 7|4|OBJ 8|2|PUNCT
+*MOT:	yes he hasn't got one has he ?
+%mor:	intj|yes pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not verb|get-Part-Past-S num|one verb|have-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 ?
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|8|ROOT 6|5|OBJ 7|5|PARATAXIS 8|7|OBJ 9|5|PUNCT
+*ELA:	I've got a brother .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S det|a-Ind-Art noun|brother .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	m trying to tidy lounge children come in
+%par:	<aft> car noises
+*CHI:	my is .
+%mor:	pron|my-Prs-Gen-S1 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%com:	back in kitchen E and S talking Playing shops
+*CHI:	a shop .
+%mor:	det|a-Ind-Art noun|shop .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+%com:	take the girls shopping on his bus
+*CHI:	bye .
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	they get on T's bus
+*CHI:	hello bye .
+%mor:	intj|hello intj|bye .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+@Activities:	Free play
+*CHI:	mummie .
+%mor:	noun|mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want my birthday cake too (28.) .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|birthday noun|cake adv|too .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+*CHI:	and mine .
+%mor:	cconj|and pron|mine-Prs-S1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*UNK:	xxx waiting for me (4.) .
+%mor:	verb|wait-Ger-S adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%com:	others talking
+*ELA:	are you ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%com:	others talking
+@Activities:	Talk as main activity
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummie (4.) .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	want my tractor Mummy .
+%mor:	verb|want-Fin-Imp-S pron|my-Prs-Gen-S1 noun|tractor noun|mummy .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	Mummie I want my tractor .
+%mor:	noun|Mummie pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|tractor .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|5|NMOD-POSS 5|3|OBJ 6|1|PUNCT
+*CHI:	I wanna play with it .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|play-Inf-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	Mummie (25.) .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+@Activities:	Talk as main activity
+*CHI:	I want my tractor .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|tractor .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%com:	e and S play separately
+*CHI:	I want my tractor Mummy .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|tractor noun|mummy .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	I want my (24.) .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+@Activities:	Asleep
+@Location:	Kitchen
+@Situation:	M on pone
+@Activities:	Eating apple
+*MOT:	&~mm .
+*CHI:	I've not got that Mummy .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 part|not verb|get-Part-Past-S det|that-Def-Dem noun|mummy .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	don't talk with your mouth full darling .
+%mor:	aux|do-Fin-Imp-S~part|not verb|talk-Fin-Imp-S adp|with pron|your-Prs-Gen-S2 noun|mouth adj|full-Pos-S1 noun|darling .
+%gra:	1|3|AUX 2|3|ADVMOD 3|8|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|8|AMOD 8|3|OBL 9|3|PUNCT
+*CHI:	I xxx Mummy (25.) ?
+%mor:	pron|I-Prs-Nom-S1 noun|mummy ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%com:	has finished his apple
+*MOT:	yes (7.) .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I ninny [: finished] Mummy .
+%mor:	pron|I-Prs-Nom-S1 verb|finish-Fin-Ind-Past-S1 noun|Mummy .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	ninny [: finished] .
+%mor:	verb|finish-Fin-Ind-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ninny [: finished] xxx .
+%mor:	verb|finish-Fin-Ind-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	you stay there .
+%mor:	pron|you-Prs-Nom-S2 verb|stay-Fin-Ind-Pres-S2 adv|there .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	you're not to come in here .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not part|to verb|come-Inf-S adp|in adv|here .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|MARK 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+@Location:	Kitchen
+*MOT:	we'll just wait here a minute till Mummy's ready .
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S adv|just verb|wait-Inf-S adv|here det|a-Ind-Art noun|minute adp|till noun|Mummy~part|s adj|ready-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|4|ADVMOD 6|7|DET 7|4|OBL-TMOD 8|11|CASE 9|11|NMOD-POSS 10|9|CASE 11|4|OBL 12|4|PUNCT
+%com:	m is going to use sewing machine
+*CHI:	wait (3.) .
+%mor:	verb|wait-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	till Mummy's ready (6.) .
+%mor:	adp|till noun|Mummy~part|s adj|ready-Pos-S1 .
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+*MOT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(be)cause there's all pins and things Tony .
+%mor:	sconj|because pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|all-Def noun|pin-Plur cconj|and noun|thing-Plur noun|Tony .
+%gra:	1|3|MARK 2|3|EXPL 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|7|CC 7|5|CONJ 8|5|APPOS 9|3|PUNCT
+*CHI:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%com:	had reel of cotton
+*MOT:	but you don't (17.) .
+%mor:	cconj|but pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2~part|not .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%com:	sewing
+*MOT:	not yet .
+%mor:	part|not adv|yet .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx Mummy (3.) .
+%mor:	noun|mummy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	unknown
+*CHI:	I've got a bit of that Mummy .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S det|a-Ind-Art noun|bit adp|of det|that-Def-Dem noun|mummy .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*CHI:	my bit of that (2.) ?
+%mor:	pron|my-Prs-Gen-S1 noun|bit adp|of pron|that-Dem-S1 ?
+%gra:	1|2|NMOD-POSS 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	I play with that Mummy ?
+%mor:	pron|I-Prs-Nom-S1 verb|play-Fin-Ind-Pres-S1 adp|with det|that-Def-Dem noun|mummy ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%com:	wheel on sewing machine Wants M to turn wheel
+*CHI:	Mummie round ?
+%mor:	noun|Mummie adv|round ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%com:	wants to turn wheel himself
+*MOT:	I've told you you mustn't play with it .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|tell-Part-Past-S pron|you-Prs-Acc-S2 pron|you-Prs-Nom-S2 aux|must-Fin-S~part|not verb|play-Inf-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|IOBJ 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|10|CASE 10|8|OBL 11|3|PUNCT
+*MOT:	for heaven's sake xxx I've told you xxx .
+%mor:	adp|for noun|heaven~part|s noun|sake pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|tell-Part-Past-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|2|CASE 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|8|ROOT 8|7|IOBJ 9|7|PUNCT
+@Activities:	Free play
+@Comment:	<aft> siren noises
+*CHI:	xxx .
+*CHI:	&~mm .
+*MOT:	lorry with a siren is it ?
+%mor:	noun|lorry adp|with det|a-Ind-Art noun|siren aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 ?
+%gra:	1|6|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|6|COP 6|6|ROOT 7|6|PUNCT
+*MOT:	that's what that's called you know that thing that goes bleep [: beep] bleep [: beep] .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|that-Def-Dem noun|thing pron|that-Rel-S1 verb|go-Fin-Ind-Pres-S3 noun|beep noun|beep .
+%gra:	1|3|NSUBJ 2|3|COP 3|14|ROOT 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|3|ACL-RELCL 7|8|NSUBJ 8|6|CCOMP 9|10|DET 10|8|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|14|COMPOUND 14|12|OBJ 15|3|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~mm .
+*CHI:	siren Mummy .
+%mor:	noun|siren noun|mummy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	lorry is my lorry is (28.) .
+%mor:	noun|lorry aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|lorry aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%com:	pretending Pushing a lorry round on floor
+*CHI:	&~mm .
+*MOT:	yes ?
+%mor:	intj|yes ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that lorry .
+%mor:	det|that-Def-Dem noun|lorry .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%par:	<aft> laughs <aft> siren noises
+@Activities:	Free play (alone)
+*CHI:	what's that Mummy ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem noun|mummy ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	Mummie (14.) .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Mummy coffee ?
+%mor:	noun|mummy noun|coffee ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx (5.) .
+%com:	outside
+*MOT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my go out there Mummy ?
+%mor:	pron|my-Prs-Gen-S1 verb|go-Fin-Ind-S adv|out adv|there noun|Mummy ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|OBJ 6|2|PUNCT
+*CHI:	xxx (6.) .
+*CHI:	whack whack in the back Mummy .
+%mor:	verb|whack-Fin-Imp-S noun|whack adp|in det|the-Def-Art noun|back noun|mummy .
+%gra:	1|6|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|COMPOUND 6|1|OBL 7|1|PUNCT
+*MOT:	the duck is in the back is it ?
+%mor:	det|the-Def-Art noun|duck aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|back aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|8|ROOT 7|8|COP 8|6|PARATAXIS 9|6|PUNCT
+%par:	<aft> agrees <aft> siren noises
+%com:	chair by sewing machine
+*CHI:	here you are .
+%mor:	adv|here pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	here you are Mummy .
+%mor:	adv|here pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 noun|Mummy .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+%par:	<aft> siren noises
+*CHI:	xxx mine xxx (3.) .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hello .
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ELA:	hello .
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	goodbye .
+%mor:	noun|goodbye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's mine too (20.) .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 adv|too .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%com:	aeroplane
+%par:	<aft> plane noises Unknown
+*ELA:	come and have it then .
+%mor:	verb|come-Fin-Imp-S cconj|and verb|have-Fin-Imp-S pron|it-Prs-Acc-S3 adv|then .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|3|OBJ 5|3|ADVMOD 6|1|PUNCT
+*CHI:	xxx .
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ELA:	I'm going to get it all out ready (15.) .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|get-Inf-S pron|it-Prs-Acc-S3 adv|all adv|out adj|ready-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|ADVMOD 8|9|ADVMOD 9|5|XCOMP 10|3|PUNCT
+%com:	m and Friend talking
+*CHI:	hello .
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ELA:	what's your name Tony ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|name noun|Tony ?
+%gra:	1|5|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|NSUBJ 6|1|PUNCT
+*ELA:	Tony ?
+%mor:	noun|Tony ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*ELA:	Tony .
+%mor:	noun|Tony .
+%gra:	1|1|ROOT 2|1|PUNCT
+@Location:	Kitchen
+*CHI:	xxx I be boy .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 noun|boy .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	boy (3.) .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	<aft> noise <aft> car noises
+*CHI:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*ELA:	play with it .
+%mor:	verb|play-Fin-Imp-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*ELA:	a boy .
+%mor:	det|a-Ind-Art noun|boy .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*ELA:	a boy (7.) .
+%mor:	det|a-Ind-Art noun|boy .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*ELA:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	unknown
+*CHI:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ELA:	have you gotta have this car Tony ?
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|gotta verb|have-Inf-S det|this-Def-Dem noun|car noun|Tony ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|OBJ 8|4|PUNCT
+*CHI:	&~mm .
+*CHI:	police car (9.) .
+%mor:	noun|police noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+@Location:	Garden/Kitchen
+*CHI:	xxx .
+*CHI:	no tractor .
+%mor:	det|no-Def noun|tractor .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	tractor (9.) .
+%mor:	noun|tractor .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	say bye bye to xxx .
+%mor:	verb|say-Fin-Imp-S noun|bye noun|bye adp|to .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|OBL 5|1|PUNCT
+*CHI:	bye bye .
+%mor:	intj|bye intj|bye .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%com:	t kisses E
+*MOT:	that's lovely .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|lovely-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx (3.) .
+%com:	runs away Runs into kitchen
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	want fish please .
+%mor:	verb|want-Fin-Imp-S noun|fish intj|please .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|DISCOURSE 4|1|PUNCT
+%com:	wants fish for tea
+*MOT:	not again darling .
+%mor:	part|not adv|again adj|darling-Pos-S1 .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	&~mm ?
+%com:	fish
+*MOT:	you had the last at lunchtime sweetie .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Past-S2 det|the-Def-Art adj|last-Pos-S1 adp|at noun|lunchtime noun|sweetie .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bang (13.) .
+%mor:	noun|bang .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+@Activities:	Just finished tea
+@Comment:	Wants to get down from the table
+@Comment:	M is outside
+*CHI:	please can I get down ?
+%mor:	intj|please aux|can-Fin-S pron|I-Prs-Nom-S1 verb|get-Inf-S adv|down ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	please Mummy (10.) ?
+%mor:	intj|please verb|mummy-Fin-Imp-S ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	please Mummy (5.) ?
+%mor:	intj|please verb|mummy-Fin-Imp-S ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	please Mummy down (3.) ?
+%mor:	intj|please verb|mummy-Fin-Imp-S adv|down ?
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	please (27.) .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	please please .
+%mor:	intj|please intj|please .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@Location:	Hall
+@Situation:	M talking on phone
+@Comment:	<aft> calls
+@Comment:	<aft> calls <aft> calls
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mummy (26.) .
+%mor:	noun|mummy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	noun|Mummie .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,523 @@
+@UTF8
+@PID:	11312/a-00047645-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Edinburgh|CHI|0;09.00|female|||Target_Child|||
+@ID:	eng|Edinburgh|MOT||female|||Mother|||
+@Media:	mabel0903, audio
+@Date:	16-APR-2014
+@Types:	long, toyplay, TD
+*CHI:	&=babbles . 0_10263
+*MOT:	is that a tasty apple ? 10263_16000
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art adj|tasty-Pos-S1 noun|apple ?
+%gra:	1|5|ROOT 2|5|DET 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*MOT:	apple . 16000_19255
+%mor:	noun|apple .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles . 19255_28449
+*CHI:	&=babbles . 28449_45216
+*CHI:	&=unhappy:noise . 45216_151512
+*MOT:	I'll give it back in a minute . 151512_153744
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|give-Inf-S pron|it-Prs-Acc-S3 adv|back adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|3|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*CHI:	&=coughs . 153744_158790
+*CHI:	&=babbles . 158790_165017
+*CHI:	&=babbles . 165017_195723
+*CHI:	&=babbles . 195723_220863
+*CHI:	&=babbles . 220863_235284
+*MOT:	one two three catch . 235284_289455
+%mor:	num|one num|two num|three noun|catch .
+%gra:	1|4|NUMMOD 2|4|NUMMOD 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	one two three catch . 289455_294040
+%mor:	num|one num|two num|three noun|catch .
+%gra:	1|4|NUMMOD 2|4|NUMMOD 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	good girl ! 294040_295796
+%mor:	adj|good-Pos-S1 noun|girl !
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	oop and throw . 295796_298546
+%mor:	noun|oop cconj|and verb|throw-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*MOT:	yeah and catch . 298546_301606
+%mor:	intj|yeah cconj|and verb|catch-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*MOT:	don't you throw up on my new carpet . 301768_340827
+%mor:	aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|throw-Inf-S adp|up adp|on pron|my-Prs-Gen-S1 adj|new-Pos-S1 noun|carpet .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*MOT:	don't you throw up on my new carpet . 340827_342583
+%mor:	aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|throw-Inf-S adp|up adp|on pron|my-Prs-Gen-S1 adj|new-Pos-S1 noun|carpet .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*MOT:	mister bunny goes boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o . 342583_350583
+%mor:	noun|mister noun|bunny verb|go-Fin-Ind-Pres-S3 noun|boing .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	mister bunny goes boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [/] boing@o [=! singing] . 350583_357649
+%mor:	noun|mister noun|bunny verb|go-Fin-Ind-Pres-S3 noun|boing .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	&=laughs . 357649_407512
+%com:	a talking and musical toy has just spoken .
+*MOT:	that's a koala . 407512_415294
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|koala .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	and he's playing “Waltzing_Matilda” . 415294_492767
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|play-Part-Pres-S noun|WaltzingMatilda .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	www .
+%exp:	MOT talking to child
+*CHI:	&~a ! 492767_499626
+*MOT:	&~a ! 499626_501069
+*CHI:	&~a . 501069_501969
+*MOT:	&~a . 501969_502844
+*CHI:	&~wa . 502844_503844
+*MOT:	&~a . 503844_505030
+*CHI:	&~a: . 505030_506257
+*MOT:	&~a . 506257_506855
+*CHI:	&~a: . 506855_508366
+*MOT:	&~a . 508366_508856
+*MOT:	that's Blinky_Bill . 508856_514966
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|BlinkyBill .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	Blinky_Bill . 514966_518276
+%mor:	noun|BlinkyBill .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you're Mabel . 518276_519076
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 noun|Mabel .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	I'm Mummy . 519076_519676
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 noun|Mummy .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	that's Blinky_Bill . 519676_521374
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|BlinkyBill .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	you sat up, he sat up . 521374_544309
+%mor:	pron|you-Prs-Nom-S2 verb|sit-Fin-Ind-Past-S2 adp|up cm|cm pron|he-Prs-Nom-S3 verb|sit-Fin-Ind-Past-S3 adp|up .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT 5|6|NSUBJ 6|2|PARATAXIS 7|6|COMPOUND-PRT 8|2|PUNCT
+*MOT:	well he sat up, you didn't sit up . 544309_546222
+%mor:	intj|well pron|he-Prs-Nom-S3 verb|sit-Fin-Ind-Past-S3 adp|up cm|cm pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2~part|not verb|sit-Inf-S adp|up .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|3|PARATAXIS 10|9|COMPOUND-PRT 11|3|PUNCT
+*MOT:	that's what you're trying to do . 546222_547522
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|try-Part-Pres-S part|to verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|8|MARK 8|6|XCOMP 9|3|PUNCT
+*MOT:	ooh, but not fall forward . 547522_549380
+%mor:	intj|ooh cm|cm cconj|but part|not verb|fall-Fin-Imp-S adv|forward .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|CC 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	&~m: &~m &~m &~m . 549380_558434
+*MOT:	&~mum [/] &~mum [/] &~mum [/] &~mum &~m . 558434_561281
+*CHI:	&~dae . 561281_563954
+*MOT:	Dad &~da . 563954_565482
+%mor:	noun|dad .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~dae . 565482_569582
+*MOT:	&~dae . 569582_570466
+*MOT:	&~da [/] &~da [/] &~da . 570466_574394
+*CHI:	&~da . 574394_575804
+*MOT:	&~da . 575804_576405
+*CHI:	&~dee . 576405_577405
+*MOT:	whoo &=laughs . 577405_580091
+%mor:	intj|whoo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&~da . 580091_583041
+*MOT:	how_about &~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba ? 583041_587489
+%mor:	noun|howabout ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba . 587489_590133
+*MOT:	you baba ? 590133_592033
+%mor:	pron|you-Prs-Gen-S2 noun|baba ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	Mabel's baba . 592033_594187
+%mor:	noun|Mabel~part|s noun|baba .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	&~dja . 594187_596130
+*MOT:	&~da, oh is it &~da today ?
+%mor:	cm|cm intj|oh aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 noun|today ?
+%gra:	1|2|PUNCT 2|5|ROOT 3|2|COP 4|5|NSUBJ 5|2|OBL-TMOD 6|2|PUNCT
+*MOT:	is &~da the word of the day, &~da ? 596130_600119
+%mor:	aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|word adp|of det|the-Def-Art noun|day cm|cm ?
+%gra:	1|3|COP 2|3|DET 3|7|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT 8|3|PUNCT
+*CHI:	&~ga . 600119_601478
+*MOT:	&~da . 601478_602130
+*MOT:	that's an apple . 602130_604079
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apple .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	&~uu: . 604079_609078
+*MOT:	+< &~ewe:, an apple core you're scraping away .
+%mor:	cm|cm det|a-Ind-Art noun|apple noun|core pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|scrape-Part-Pres-S adv|away .
+%gra:	1|4|PUNCT 2|4|DET 3|4|COMPOUND 4|8|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|ADVMOD 9|4|PUNCT
+*CHI:	&~nuh . 609078_612759
+*MOT:	hafta do a seed reconnaissance soon . 610778_612559
+%mor:	intj|hafta verb|do-Fin-Imp-S det|a-Ind-Art noun|seed noun|reconnaissance adv|soon .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+*MOT:	&~da . 612759_613136
+*CHI:	&~da . 613136_614969
+*MOT:	&~da . 614969_617001
+*CHI:	&=monkey:noise:repeated:&a . 617001_640041
+*MOT:	wee monkey, I think +//. 634001_635401
+%mor:	adj|wee-Pos-S1 noun|monkey cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 +//.
+%gra:	1|2|AMOD 2|5|ROOT 3|2|PUNCT 4|5|NSUBJ 5|2|PARATAXIS 6|2|PUNCT
+*MOT:	do we have a monkey ? 635401_636501
+%mor:	aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Inf-S det|a-Ind-Art noun|monkey ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	I don't +//. 636501_638101
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not +//.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	I have a monkey at home in my bedroom . 638101_640041
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|monkey adp|at noun|home adp|in pron|my-Prs-Gen-S1 noun|bedroom .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL 7|9|CASE 8|9|NMOD-POSS 9|2|OBL 10|2|PUNCT
+*MOT:	in Australia . 640041_642211
+%mor:	adp|in noun|Australia .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	let's go bounce . 642211_643260
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S noun|bounce .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|1|PUNCT
+*MOT:	bounce [/] bounce [/] bounce [/] bounce [/] bounce [/] bounce , like a kangaroo, hello . 643260_649091
+%mor:	verb|bounce-Fin-Imp-S cm|cm adp|like det|a-Ind-Art noun|kangaroo cm|cm intj|hello .
+%gra:	1|7|ROOT 2|5|PUNCT 3|5|CASE 4|5|DET 5|1|OBL 6|7|PUNCT 7|1|PARATAXIS 8|1|PUNCT
+*MOT:	hello . 649091_650973
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I think there's a joey around here some(where) +//. 650973_652373
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|joey adv|around adv|here adv|somewhere +//.
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|EXPL 4|2|CCOMP 5|6|DET 6|4|NSUBJ 7|8|CASE 8|4|ADVMOD 9|4|ADVMOD 10|2|PUNCT
+*MOT:	oh here's the joey . 652373_653273
+%mor:	intj|oh adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|joey .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*MOT:	look, it's a baby kangaroo . 653273_655508
+%mor:	verb|look-Fin-Imp-S cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|baby noun|kangaroo .
+%gra:	1|7|ROOT 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|COMPOUND 7|1|PARATAXIS 8|1|PUNCT
+*MOT:	hello Mabel . 655508_657070
+%mor:	intj|hello noun|Mabel .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	Mabel . 657070_658225
+%mor:	noun|Mabel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we'll call you Skip . 658225_659847
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|call-Inf-S pron|you-Prs-Acc-S2 verb|skip-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*MOT:	Skippy ! 659847_661172
+%mor:	noun|Skippy !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Skippy: [/] Skippy: [/] Skippy: the bush kangaroo: [=! singing] . [+ SNG] 661172_667976
+%mor:	noun|Skippy det|the-Def-Art noun|Bush noun|kangaroo .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|APPOS 5|1|PUNCT
+*CHI:	&=monkey:noise:repeated:&a . 667976_673224
+*MOT:	&=imitated:monkey:noise:repeated:&a . 673224_677482
+*CHI:	+< &=monkey:noise:repeated:&a .
+*MOT:	&=gasps look at you clapping . 677482_679287
+%mor:	verb|look-Fin-Imp-S adp|at pron|you-Prs-Acc-S2 verb|clap-Ger-S .
+%gra:	1|4|ROOT 2|4|CASE 3|4|NSUBJ 4|1|ADVCL 5|1|PUNCT
+*MOT:	clap [/] clap [/] clap [/] clap [/] clap [/] clap , where's the possum ? 679287_683475
+%mor:	verb|clap-Fin-Imp-S cm|cm adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|possum ?
+%gra:	1|6|ROOT 2|1|PUNCT 3|1|PARATAXIS 4|3|COP 5|6|DET 6|3|NSUBJ 7|1|PUNCT
+*MOT:	mister possum ? 683475_685106
+%mor:	noun|mister noun|possum ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	oh he's over there . 685106_686085
+%mor:	intj|oh pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|over adv|there .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	clap [/] clap [/] clap [/] clap [/] clap [/] clap good girl clap [/] clap [/] clap . 686085_692778
+%mor:	verb|clap-Inf-Imp-S adj|good-Pos-S1 noun|girl noun|clap .
+%gra:	1|4|ROOT 2|4|AMOD 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*MOT:	<one two three> [/] one two three clap [/] clap [/] clap . 692778_701011
+%mor:	num|one num|two num|three noun|clap .
+%gra:	1|4|NUMMOD 2|4|NUMMOD 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	you dropped your &~op apple . 701011_706011
+%mor:	pron|you-Prs-Nom-S2 verb|drop-Fin-Ind-Past-S2 pron|your-Prs-Gen-S2 noun|apple .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	there you go, oh ! 706011_707925
+%mor:	pron|there-Int-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 cm|cm intj|oh !
+%gra:	1|3|EXPL 2|3|NSUBJ 3|5|ROOT 4|3|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+*MOT:	thank you for rubbing those hands all over me . 707925_710625
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 sconj|for verb|rub-Ger-S det|that-Def-Dem noun|hand-Plur det|all-Def adp|over pron|I-Prs-Acc-S1 .
+%gra:	1|9|ROOT 2|1|OBJ 3|4|MARK 4|1|ADVCL 5|6|DET 6|4|OBJ 7|9|ADVMOD 8|9|CASE 9|4|OBL 10|1|PUNCT
+*MOT:	thank you for that, all those apple juicy hands . 710625_713586
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|for pron|that-Dem-S1 cm|cm det|all-Def det|that-Def-Dem noun|apple adj|juicy-Pos-S1 noun|hand-Plur .
+%gra:	1|10|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT 6|10|DET-PREDET 7|10|DET 8|10|COMPOUND 9|10|AMOD 10|1|PARATAXIS 11|1|PUNCT
+*MOT:	oh you've just lost that . 713586_720312
+%mor:	intj|oh pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 adv|just verb|lose-Part-Past-S pron|that-Dem-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	have you still got a bit of apple in your mouth ? 720312_736048
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|still verb|get-Part-Past-S det|a-Ind-Art noun|bit adp|of noun|apple adp|in pron|your-Prs-Gen-S2 noun|mouth ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|11|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|11|CASE 10|11|NMOD-POSS 11|4|OBL 12|4|PUNCT
+*CHI:	&~hm . 736048_745310
+*CHI:	&=babbles . 745310_750219
+*MOT:	you do, don't you ? 750219_752319
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 cm|cm aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|PUNCT 4|2|PARATAXIS 5|4|ADVMOD 6|4|NSUBJ 7|2|PUNCT
+*MOT:	you've a bit of apple in your mouth . 752319_753419
+%mor:	pron|you-Prs-Nom-S2~verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art noun|bit adp|of noun|apple adp|in pron|your-Prs-Gen-S2 noun|mouth .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|NMOD-POSS 9|2|OBL 10|2|PUNCT
+*MOT:	you're hiding it, you little monkey . 753419_755345
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|hide-Part-Pres-S pron|it-Prs-Acc-S3 cm|cm pron|you-Prs-Acc-S2 adj|little-Pos-S1 noun|monkey .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|3|PUNCT 6|8|NMOD-POSS 7|8|AMOD 8|3|PARATAXIS 9|3|PUNCT
+*MOT:	oh you little chipmunk . 755345_757976
+%mor:	intj|oh pron|you-Prs-Acc-S2 adj|little-Pos-S1 noun|chipmunk .
+%gra:	1|4|DISCOURSE 2|4|DEP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	&~aa: . 757976_760061
+*MOT:	have you got it ? 760061_772261
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Past-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	have you eaten it ? 772261_773061
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Past-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	come on let me have a look . 773061_774391
+%mor:	verb|come-Fin-Imp-S adp|on verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|have-Inf-S det|a-Ind-Art noun|look .
+%gra:	1|7|ROOT 2|1|COMPOUND-PRT 3|1|PARATAXIS 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*MOT:	you rubbed apple all over me, thank you .
+%mor:	pron|you-Prs-Nom-S2 verb|rub-Fin-Ind-Past-S2 noun|apple adv|all adp|over pron|I-Prs-Acc-S1 cm|cm verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|CASE 6|2|OBL 7|8|PUNCT 8|2|PARATAXIS 9|8|OBJ 10|2|PUNCT
+*MOT:	give that to Toby . 774391_798489
+%mor:	verb|give-Fin-Imp-S pron|that-Dem-S1 adp|to noun|Toby .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+%com:	Toby is the family dog .
+*MOT:	so where were we ? 798489_804818
+%mor:	adv|so adv|where aux|be-Fin-Ind-Past-P3 pron|we-Prs-Nom-P1 ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+*MOT:	whee: ! 804818_806924
+%mor:	intj|whee !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	woah, are you trying to stand up ? 806924_812217
+%mor:	intj|woah cm|cm aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|try-Part-Pres-S part|to verb|stand-Inf-S adp|up ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|COMPOUND-PRT 9|5|PUNCT
+*CHI:	+< &=cries .
+*MOT:	the doggy goes woof@o [/] woof@o [/] woof@o [/] woof@o [/] woof@o [/] woof@o . 812217_815517
+%mor:	det|the-Def-Art noun|doggy verb|go-Fin-Ind-Pres-S3 noun|woof .
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	Old_Macdonald had a farm ee_aye_ee_aye_oh@wp [=! singing] . [+ SNG] 815517_820051
+%mor:	noun|OldMacdonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm noun|eeayeeeayeohp .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*MOT:	and on that farm there was a dog, ee_aye_ee_aye_oh@wp [=! singing] . [+ SNG] 820051_825112
+%mor:	cconj|and adp|on det|that-Def-Dem noun|farm pron|there-Int-S1 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art noun|dog cm|cm noun|eeayeeeayeohp .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|10|ROOT 7|8|DET 8|6|NSUBJ 9|8|PUNCT 10|8|APPOS 11|6|PUNCT
+*MOT:	with a woof@o [/] woof@o here and a woof@o [/] woof@o there, there a woof@o here a woof@o everywhere a woof@o [/] woof@o . [+ SNG] 825112_830995
+%mor:	adp|with det|a-Ind-Art noun|woof adv|here cconj|and det|a-Ind-Art noun|woof adv|there cm|cm pron|there-Int-S1 det|a-Ind-Art noun|woof adv|here det|a-Ind-Art noun|woof adv|everywhere det|a-Ind-Art noun|woof .
+%gra:	1|3|CASE 2|3|DET 3|12|NMOD 4|3|ADVMOD 5|7|CC 6|7|DET 7|3|CONJ 8|7|ADVMOD 9|3|PUNCT 10|12|EXPL 11|12|DET 12|18|ROOT 13|12|ADVMOD 14|15|DET 15|12|APPOS 16|18|ADVMOD 17|18|DET 18|12|APPOS 19|12|PUNCT
+*CHI:	+< &~ba .
+*MOT:	Old_Macdonald had a farm ee_aye_ee_aye_oh@wp [=! singing] . [+ SNG] 830995_836063
+%mor:	noun|OldMacdonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm noun|eeayeeeayeohp .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*MOT:	and on that farm there was a snowball throwing bear e@l i@l e@l i@l o@l [=! singing] . [+ SNG] 836063_844459
+%mor:	cconj|and adp|on det|that-Def-Dem noun|farm pron|there-Int-S1 verb|be-Fin-Ind-Past-S3 det|a-Ind-Art noun|snowball noun|throw noun|bear x|e noun|i intj|e pron|I-Prs-Nom-S1 verb|of-Fin-Ind-Pres-S1 .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|15|ROOT 7|10|DET 8|9|COMPOUND 9|10|AMOD 10|6|NSUBJ 11|6|NSUBJ 12|13|NSUBJ 13|15|DISCOURSE 14|15|NSUBJ 15|6|PARATAXIS 16|6|PUNCT
+*MOT:	with a snowball here and a cold bit of snow down your top there [=! singing] . 844459_848594
+%mor:	adp|with det|a-Ind-Art noun|snowball adv|here cconj|and det|a-Ind-Art adj|cold-Pos-S1 noun|bit adp|of noun|snow adp|down pron|your-Prs-Gen-S2 noun|top adv|there .
+%gra:	1|3|CASE 2|3|DET 3|14|ROOT 4|3|ADVMOD 5|8|CC 6|8|DET 7|8|AMOD 8|3|CONJ 9|10|CASE 10|8|NMOD 11|13|CASE 12|13|NMOD-POSS 13|8|NMOD 14|13|ADVMOD 15|3|PUNCT
+*MOT:	here a there, there a here, everywhere a blah [/] blah [=! singing] . [+ SNG] 848594_852277
+%mor:	adv|here det|a-Ind-Art adv|there cm|cm pron|there-Int-S1 det|a-Ind-Art adv|here cm|cm adv|everywhere det|a-Ind-Art intj|blah .
+%gra:	1|11|ROOT 2|3|DET 3|1|ADVMOD 4|1|PUNCT 5|1|CONJ 6|7|DET 7|1|ADVMOD 8|1|PUNCT 9|1|ADVMOD 10|9|NSUBJ 11|1|DISCOURSE 12|1|PUNCT
+*MOT:	Old_Macdonald had a farm ee_aye_ee_aye_oh@wp [=! singing] . [+ SNG] 852277_856734
+%mor:	noun|OldMacdonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm noun|eeayeeeayeohp .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*MOT:	and on that farm there was a pussycat, ee_aye_ee_aye_oh@wp [=! singing] . [+ SNG] 856734_863933
+%mor:	cconj|and adp|on det|that-Def-Dem noun|farm pron|there-Int-S1 aux|be-Fin-Ind-Past-S3 det|a-Ind-Art noun|pussycat cm|cm noun|eeayeeeayeohp .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|10|ROOT 7|8|DET 8|6|NSUBJ 9|8|PUNCT 10|8|APPOS 11|6|PUNCT
+*MOT:	with a miaow@o [/] miaow@o here and a miaow@o [/] miaow@o there, here a miaow@o, there a miaow@o, everywhere a miaow@o [/] miaow@o &=kisses [=! singing] . [+ SNG] 863933_868727
+%mor:	adp|with det|a-Ind-Art noun|miaow adv|here cconj|and det|a-Ind-Art noun|miaow adv|there cm|cm adv|here det|a-Ind-Art noun|miaow cm|cm pron|there-Int-S1 det|a-Ind-Art noun|miaow cm|cm adv|everywhere det|a-Ind-Art noun|miaow .
+%gra:	1|3|CASE 2|3|DET 3|20|ROOT 4|3|ADVMOD 5|7|CC 6|7|DET 7|3|CONJ 8|7|ADVMOD 9|10|PUNCT 10|3|PARATAXIS 11|12|DET 12|10|NSUBJ 13|10|PUNCT 14|10|EXPL 15|16|DET 16|10|NSUBJ 17|10|PUNCT 18|10|ADVMOD 19|20|DET 20|18|NSUBJ 21|3|PUNCT
+*MOT:	Old_Macdonald had a farm ee_aye_ee_aye_oh@wp [=! singing] . [+ SNG] 868727_872685
+%mor:	noun|OldMacdonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm noun|eeayeeeayeohp .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	&=babbles . 872685_903149
+*CHI:	&=babbles . 903149_915888
+*CHI:	&=babbles . 915888_922425
+*CHI:	&=babbles . 922425_926883
+*CHI:	&=moans . 926883_931972
+*CHI:	&=babbles . 931972_946123
+*CHI:	&=babbles . 946123_952605
+*CHI:	&=whines . 952605_957505
+*MOT:	you can't always get what you want Mabel, you can't always get what you want . 957505_961904
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not adv|always verb|get-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|Mabel cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not adv|always verb|get-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|18|ROOT 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|5|PUNCT 11|15|NSUBJ 12|15|AUX 13|15|ADVMOD 14|15|ADVMOD 15|5|PARATAXIS 16|15|OBJ 17|18|NSUBJ 18|16|ACL-RELCL 19|5|PUNCT
+*CHI:	&=babbles . 961904_971904
+*MOT:	monkey . 971904_973539
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	are your teethies playing up ? 973539_976761
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|teethey-Plur verb|play-Ger-S adp|up ?
+%gra:	1|4|AUX 2|3|NMOD-POSS 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*MOT:	are your teethies playing up ? 976761_980055
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|teethey-Plur verb|play-Ger-S adp|up ?
+%gra:	1|4|AUX 2|3|NMOD-POSS 3|4|NSUBJ 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	&=upset:noise . 980055_985843
+*MOT:	boo ! 985843_991693
+%mor:	noun|boo !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	peekaboo ! 991693_996446
+%mor:	noun|peekaboo !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	peekaboo ! 996446_1000120
+%mor:	noun|peekaboo !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	boo: . 1000120_1006407
+%mor:	noun|boo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	peekaboo ! 1006407_1010069
+%mor:	noun|peekaboo !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's a cra:zy rabbit playing peekaboo [/] peekaboo: . 1010069_1013648
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|crazy-Pos-S1 noun|rabbit verb|play-Ger-S noun|peekaboo .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|5|ACL 7|6|OBJ 8|5|PUNCT
+*CHI:	&=monkey:noiserepeated:&a . 1013648_1018073
+*MOT:	&=claps . 1018073_1020710
+*MOT:	&=claps, one two three, tap [/] tap [/] tap rub [/] rub [/] rub tap [/] tap [/] tap rub [/] rub [/] rub . 1020710_1029229
+%mor:	cm|cm num|one num|two num|three cm|cm noun|tap noun|rub noun|tap noun|rub .
+%gra:	1|9|PUNCT 2|4|NUMMOD 3|4|COMPOUND 4|9|NUMMOD 5|4|PUNCT 6|7|COMPOUND 7|9|COMPOUND 8|9|COMPOUND 9|9|ROOT 10|9|PUNCT
+*CHI:	&=babbles .
+*MOT:	Mummy have ? 1029229_1041999
+%mor:	noun|mummy verb|have-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	+" paddy cake paddy cake baker's man . [+ RHY] 1041999_1045191
+%mor:	noun|paddy noun|cake noun|paddy noun|cake noun|baker~part|s noun|man .
+%gra:	1|2|COMPOUND 2|7|ROOT 3|4|COMPOUND 4|5|COMPOUND 5|7|NMOD-POSS 6|5|CASE 7|2|APPOS 8|2|PUNCT
+*CHI:	+< &=babbles .
+*MOT:	+" bake me a cake as fast as you can . [+ RHY] 1045191_1048391
+%mor:	verb|bake-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|cake adv|as adv|fast sconj|as pron|you-Prs-Nom-S2 aux|can-Fin-S .
+%gra:	1|9|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|6|ADVMOD 6|1|ADVMOD 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|1|PUNCT
+*CHI:	+< &=babbles .
+*MOT:	good girl, <low five low five> [/] low five . 1048391_1058457
+%mor:	adj|good-Pos-S1 noun|girl cm|cm adj|low-Pos-S1 num|five .
+%gra:	1|2|AMOD 2|5|ROOT 3|2|PUNCT 4|5|AMOD 5|2|PARATAXIS 6|2|PUNCT
+*CHI:	+< &~mm: .
+*CHI:	&=babbles . 1058457_1061062
+*MOT:	low five ? 1061062_1061918
+%mor:	adj|low-Pos-S1 num|five ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	high five ? 1061918_1069830
+%mor:	adj|high-Pos-S1 num|five ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	+< &~mm: &~mum .
+*MOT:	high five . 1069830_1070784
+%mor:	adj|high-Pos-S1 num|five .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	&~mum ! 1070784_1072242
+*MOT:	&~mum . 1072242_1076066
+*MOT:	&~raa@o . 1076066_1081036
+*CHI:	+< &=laughs .
+*MOT:	&=laughs . 1081036_1082854
+*MOT:	&~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum [/] &~mum . 1082854_1087454
+*CHI:	&~mm &~muh . 1087454_1089728
+*MOT:	&~mum . 1089728_1093094
+*CHI:	&~mm &~m . 1093094_1094063
+*MOT:	&~m . 1094063_1095243
+*CHI:	&=babbles . 1095243_1100514
+*MOT:	&~mum . 1100514_1105848
+*MOT:	&~mum . 1105848_1110170
+*MOT:	&~mum . 1110170_1116235
+*CHI:	&~a . 1116235_1123970
+*MOT:	&~a . 1123970_1126712
+*CHI:	+< &~a .
+*CHI:	&~a &~aa: . 1126712_1128737
+*MOT:	&~a . 1128737_1132432
+*CHI:	+< &~a .
+*MOT:	&~a . 1132432_1134669
+*CHI:	&~a . 1134669_1139125
+*MOT:	+< &=laughs monkey [/] monkey .
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=mouth:noise . 1139125_1143183
+*CHI:	&=laughs . 1143183_1144583
+*MOT:	&=mouth:noise . 1144583_1146855
+*CHI:	&=mouth:noise . 1146855_1150145
+*MOT:	you're so cute ! 1150145_1151390
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|so adj|cute-Pos-S1 !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	&=mouth:noise . 1151390_1154347
+*MOT:	&=laughs . 1154347_1156133
+*MOT:	&=mouth:noise . 1156133_1157922
+*CHI:	&=mouth:noise . 1157922_1164358
+*MOT:	+< &=amused:noise .
+*CHI:	&=babbles . 1164358_1167922
+*MOT:	&=mouth:noise . 1168139_1170838
+*CHI:	&=babbles . 1170838_1174086
+*MOT:	&=laughs &=mouth:noise . 1174086_1176348
+*MOT:	Mabel ? 1176348_1178805
+%mor:	noun|Mabel ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=mouth:noise . 1178805_1181331
+*CHI:	&=mouth:noise . 1181331_1184052
+*CHI:	&=mouth:noise . 1184052_1187450
+*MOT:	&=laughs . 1187450_1188279
+*CHI:	&=babbles . 1188279_1191084
+*MOT:	&=mouth:noise . 1191084_1193840
+*MOT:	&=mouth:noise . 1193840_1197826
+*CHI:	+< &=babbles .
+*CHI:	&=repeated:&a . 1197826_1205082
+*MOT:	+< oh monkey, &=repeated:&a .
+%mor:	intj|oh noun|monkey cm|cm .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*CHI:	&=repeated:&a . 1205082_1206502
+*MOT:	&=repeated:&a . 1206502_1208678
+*CHI:	&=repeated:&a . 1208678_1209965
+*MOT:	&=laughs . 1209965_1211565
+*MOT:	&~a . 1211565_1219171
+*CHI:	+< &=babbbles .
+*MOT:	&=imitated:babble . 1219171_1221910
+*CHI:	&=mouth:noise . 1221910_1231210
+*MOT:	&=laughs . 1231210_1232379
+*MOT:	clap [/] clap [/] clap &=claps . 1232379_1234709
+%mor:	noun|clap .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< &=sneezes .
+*MOT:	ooh, <bless you> [/] bless you . 1234709_1237966
+%mor:	intj|ooh cm|cm verb|bless-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	does that feel good ? 1237966_1238566
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|feel-Inf-S adj|good-Pos-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*MOT:	do you like that sneeze ? 1238566_1239366
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|that-Def-Dem noun|sneeze ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	is that why you <smelt> [//] smiled ? 1239366_1240981
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that adv|why pron|you-Prs-Nom-S2 verb|smile-Fin-Ind-Past-S2 ?
+%gra:	1|5|ROOT 2|5|MARK 3|5|ADVMOD 4|5|NSUBJ 5|1|CCOMP 6|1|PUNCT
+*CHI:	&=mouth:noise . 1240981_1244377
+*CHI:	&=mouth:noise . 1244377_1249523
+*MOT:	monkey war +//. 1249523_1257723
+%mor:	noun|monkey noun|war +//.
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	oh, rabbit wars, rabbit &~rr: ! 1257723_1261331
+%mor:	intj|oh cm|cm noun|rabbit noun|war-Plur cm|cm noun|rabbit !
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|COMPOUND 4|6|ROOT 5|6|PUNCT 6|4|CONJ 7|4|PUNCT
+*MOT:	Mabel ? 1261331_1266298
+%mor:	noun|Mabel ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hi: . 1266298_1268591
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles . 1268591_1276941
+*MOT:	&=mouth:noise . 1276941_1280858
+*CHI:	+< &=babbles .
+*MOT:	&=mouth:noise . 1280858_1283131
+*CHI:	&=mouth:noise . 1283131_1288905
+*MOT:	good girl, you are a clever monkey . 1288905_1291745
+%mor:	adj|good-Pos-S1 noun|girl cm|cm pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|clever-Pos-S1 noun|monkey .
+%gra:	1|2|AMOD 2|8|ROOT 3|2|PUNCT 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|AMOD 8|2|PARATAXIS 9|2|PUNCT
+*CHI:	+< &=blows:raspberry .
+*MOT:	&=blows:raspberry, monkey &=repeated:&ar . 1291745_1296988
+%mor:	cm|cm noun|monkey .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+*CHI:	+< &=repeated:&a .
+*MOT:	&=chuckles, &=repeated:&a . 1296988_1300088
+%mor:	cm|cm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=repeated:&a . 1300088_1306472
+*CHI:	&~ha: . 1306472_1308369
+*CHI:	&=repeated:&a . 1308369_1313502
+*MOT:	have we got duckie ? 1312269_1313322
+%mor:	aux|have-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|get-Part-Past-S noun|duckie ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	see duckie, massive duck, quack@o [/] quack@o [/] quack@o [/] quack@o [/] quack@o [/] quack@o [/] quack@o . 1313322_1317502
+%mor:	verb|see-Fin-Imp-S noun|duckie cm|cm adj|massive-Pos-S1 noun|duck cm|cm noun|quack .
+%gra:	1|7|ROOT 2|1|OBJ 3|5|PUNCT 4|5|AMOD 5|2|CONJ 6|7|PUNCT 7|2|CONJ 8|1|PUNCT
+*CHI:	&=burps . 1317502_1318137
+*MOT:	oh, excuse you . 1318137_1319607
+%mor:	intj|oh cm|cm verb|excuse-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|IOBJ 5|3|PUNCT
+*CHI:	&=moans . 1319607_1327853
+*CHI:	&~aa: . 1327853_1340957
+*MOT:	+< &=laughs .
+*CHI:	&=babbles . 1340957_1345350
+*CHI:	&=moans . 1345350_1349626
+*MOT:	okay . 1349626_1351651
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

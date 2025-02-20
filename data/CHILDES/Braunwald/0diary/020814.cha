@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/c-00011005-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;08.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	03-NOV-1973
+@Types:	long, toyplay, TD
+*CHI:	which is for Laura ?
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|for noun|Laura ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%sit:	952
+*MOT:	here's yours .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|yours-Prs-S2 .
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	952
+*CHI:	was that a cat fight or did Peanuts catch a bird ?
+%mor:	aux|be-Fin-Ind-Past-S3 sconj|that det|a-Ind-Art noun|cat noun|fight cconj|or aux|do-Fin-Ind-Past-S3 noun|Peanut-Plur verb|catch-Inf-S det|a-Ind-Art noun|bird ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|DET 4|5|COMPOUND 5|11|ROOT 6|9|CC 7|9|AUX 8|9|NSUBJ 9|5|CONJ 10|11|DET 11|9|OBJ 12|5|PUNCT
+%sit:	953
+*MOT:	Peanuts caught a bird .
+%mor:	noun|peanut-Plur verb|catch-Fin-Ind-Past-P3 det|a-Ind-Art noun|bird .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	953
+*CHI:	if a really hole was in here then I would cry for new pants .
+%mor:	sconj|if det|a-Ind-Art adv|really noun|hole aux|be-Fin-Ind-Past-S3 adp|in adv|here adv|then pron|I-Prs-Nom-S1 aux|would-Fin-S verb|cry-Inf-S adp|for adj|new-Pos-S1 noun|pant-Plur .
+%gra:	1|7|MARK 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|CASE 7|11|ADVCL 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|14|ROOT 12|14|CASE 13|14|AMOD 14|11|OBL 15|11|PUNCT
+%sit:	954
+*CHI:	they are dumb_dumb because they didn't wait for me .
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|dumbdumb-Pos-S1 sconj|because pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3~part|not verb|wait-Inf-S adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|8|MARK 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|ADVCL 9|10|CASE 10|8|OBL 11|3|PUNCT
+%sit:	955
+*CHI:	how_come they went there without me ?
+%mor:	noun|howcome pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3 adv|there adp|without pron|I-Prs-Acc-S1 ?
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|1|PUNCT
+%sit:	956
+*MOT:	well, they didn't know you were awake .
+%mor:	intj|well cm|cm pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3~part|not verb|know-Inf-S pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 adj|awake-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|NSUBJ 8|9|COP 9|6|CCOMP 10|6|PUNCT
+%sit:	956
+@End

@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/c-00018074-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;11.18|female|||Target_Child|||
+@Date:	03-MAY-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	what is that called ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|call-Part-Past-S ?
+%gra:	1|4|OBJ 2|4|AUX-PASS 3|4|NSUBJ-PASS 4|4|ROOT 5|4|PUNCT
+*CHI:	where has Daddy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Daddy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what did you do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	why don't I put this back ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S1~part|not pron|I-Prs-Nom-S1 verb|put-Inf-S pron|this-Dem-S1 adv|back ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*CHI:	where has Sarah gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Sarah verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	why are they old ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adj|old-Pos-S1 ?
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%com:	after mum says because they're old
+*CHI:	what are we going to do with them ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|do-Inf-S adp|with pron|they-Prs-Acc-P3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*CHI:	what are you doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where (ha)s your jewelry box gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|jewelry noun|box verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|XCOMP 7|2|PUNCT
+*CHI:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	why she not in ?
+%mor:	adv|why pron|she-Prs-Nom-S3 part|not adv|in ?
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|ADVMOD 4|1|ADVCL-RELCL 5|1|PUNCT
+@End

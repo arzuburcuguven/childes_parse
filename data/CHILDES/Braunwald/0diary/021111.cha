@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00011083-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|02;11.11|female|||Target_Child|||
+@Date:	31-JAN-1974
+@Types:	long, toyplay, TD
+*MOT:	look, these are orange like your fish .
+%mor:	verb|look-Fin-Imp-S cm|cm pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|orange-Pos-S1 adp|like pron|your-Prs-Gen-S2 noun|fish .
+%gra:	1|8|ROOT 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|1|PARATAXIS 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|1|PUNCT
+%sit:	342
+*CHI:	I hope they make it .
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+%sit:	342
+*CHI:	you stay here til I beat you .
+%mor:	pron|you-Prs-Nom-S2 verb|stay-Fin-Ind-Pres-S2 adv|here sconj|till pron|I-Prs-Nom-S1 verb|beat-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|ADVMOD 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|OBJ 8|2|PUNCT
+%sit:	343
+*CHI:	and they say how beautiful those blue shoes are .
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Pres-P3 adv|how adj|beautiful-Pos-S1 det|that-Def-Dem adj|blue-Pos-S1 noun|shoe-Plur aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|5|ADVMOD 5|3|CCOMP 6|8|DET 7|8|AMOD 8|5|NSUBJ 9|5|COP 10|3|PUNCT
+%sit:	344
+*MOT:	who's they ?
+%mor:	pron|who-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|they-Prs-Nom-P3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	344
+*CHI:	Gloria .
+%mor:	noun|Gloria .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	344
+*CHI:	I don't like it too tight .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 adv|too adv|tight .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|ADVMOD 7|4|ADVMOD 8|4|PUNCT
+%sit:	345
+*CHI:	it'll hurt my heel so badly I'll die .
+%mor:	pron|it-Prs-Nom-S3~aux|will-Fin-S verb|hurt-Inf-S pron|my-Prs-Gen-S1 noun|heel adv|so adv|badly pron|I-Prs-Nom-S1~aux|will-Fin-S verb|die-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|ADVMOD 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|3|PARATAXIS 11|3|PUNCT
+%sit:	345
+*MOT:	no, you won't die .
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 aux|will-Fin-S~part|not verb|die-Inf-S .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	345
+@End

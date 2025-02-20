@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/c-00010913-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, GRA Grandmother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;05.09|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|GRA|||||Grandmother|||
+@Date:	29-JUL-1973
+@Types:	long, toyplay, TD
+*CHI:	Mommy, Mommy, I don't have some blue .
+%mor:	noun|Mommy cm|cm noun|Mommy cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S det|some-Def noun|blue .
+%gra:	1|8|VOCATIVE 2|1|PUNCT 3|8|VOCATIVE 4|8|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+%sit:	415
+*CHI:	like Joanna's .
+%mor:	adp|like noun|Joanna~part|s .
+%gra:	1|2|CASE 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	415
+*MOT:	yes, you do .
+%mor:	intj|yes cm|cm pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	415
+*MOT:	here's some .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|some-Def .
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	415
+*CHI:	allbody [: everybody] have white shoes .
+%mor:	pron|everybody-Tot-S1 verb|have-Fin-Ind-S3 adj|white-Pos-S1 noun|shoe-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%sit:	416
+*GRA:	everybody does have white shoes .
+%mor:	pron|everybody-Tot-S1 aux|do-Fin-Ind-Pres-S3 verb|have-Inf-S adj|white-Pos-S1 noun|shoe-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%sit:	416
+*CHI:	could you take this home for yourself ?
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|take-Inf-S det|this-Def-Dem noun|home adp|for pron|yourself-Prs-Acc-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+%sit:	417
+*CHI:	could you ?
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%sit:	417
+@End

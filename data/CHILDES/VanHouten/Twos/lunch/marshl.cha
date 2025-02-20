@@ -1,0 +1,233 @@
+@UTF8
+@PID:	11312/c-00017724-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|VanHouten|MOT||female|MOT_Older||Mother|MOT_2||
+@ID:	eng|VanHouten|CHI|2;04.|male|TD||Target_Child|||
+@Comment:	Education of MOT is 2
+@Situation:	Lunch. Mother and Child sit at kitchen table. Child's speech is fairly intelligible.
+@Comment:	Age Group of MOT Older
+@Comment:	cross, meal, TD
+@Types:	cross, meal, TD
+*MOT:	is it cooled off ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|cool-Part-Past-S adp|off ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	no cooled off now [*] .
+%mor:	intj|no verb|cool-Part-Past-S adp|off adv|now .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*MOT:	no more ?
+%mor:	adv|no adj|more-Cmp-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $Rfi
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	no more .
+%mor:	adv|no adj|more-Cmp-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $Exp
+*MOT:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Rep
+*MOT:	hey (.) these ain't bad .
+%mor:	intj|hey pron|this-Dem-P1 aux|be-Fin-Ind-Pres-S3~part|not adj|bad-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	you like these ?
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|this-Dem-P1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=a3 $NMV=1 $Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Exp
+*MOT:	yeah ?
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rex $Rfi
+*CHI:	xxx .
+%cod:	$Res $Rep
+*MOT:	not bad .
+%mor:	part|not adj|bad-Pos-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $Exp
+*MOT:	I've had worse .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|have-Part-Past-S adj|bad-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Exp
+*MOT:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Rep
+*MOT:	you hungry ?
+%mor:	pron|you-Prs-Acc-S2 adj|hungry-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	oh (.) okay .
+%mor:	intj|oh intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*MOT:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Rep
+*CHI:	this one .
+%mor:	det|this-Def-Dem noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Des
+*MOT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rde $Cla
+*CHI:	fix it .
+%mor:	verb|fix-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Des
+*MOT:	fix what ?
+%mor:	verb|fix-Inf-S pron|what-Int-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rde $Cla
+*CHI:	fix slipper [*] .
+%mor:	verb|fix-Inf-S noun|slipper .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Des
+*MOT:	your slipper fell off ?
+%mor:	pron|your-Prs-Gen-S2 noun|slipper verb|fall-Fin-Ind-Past-S3 adv|off ?
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rde $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	oh (.) I see it .
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rep
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	picks up slipper from under table .
+%cod:	$MLU=1 $NMV=0 $Con $Rsc
+*MOT:	okay (.) I got it .
+%mor:	intj|okay pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	is that on ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adv|on ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	it won't fall off no more ?
+%mor:	pron|it-Prs-Nom-S3 aux|will-Fin-S~part|not verb|fall-Inf-S adp|off adv|no adj|more-Cmp-S1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|COMPOUND-PRT 6|7|ADVMOD 7|4|ADVMOD 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	ignores Mother .
+%cod:	$Nul
+*CHI:	0 .
+%sit:	squirms in seat .
+*MOT:	don't do that again .
+%mor:	aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|that-Dem-S1 adv|again .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $C/R
+*MOT:	it's only going to fall off again .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|only verb|go-Part-Pres-S part|to verb|fall-Inf-S adv|off adv|again .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|6|ADVMOD 9|4|PUNCT
+%cod:	$MLU=8 $NMV=2 $Con $Rep
+*MOT:	you like them .
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rep
+*CHI:	&~da .
+%cod:	$MLU=0 $NMV=0 $Ini $Rsc
+*MOT:	&-eh (.) you know you're not sposta do that at the table .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not noun|sposta verb|do-Inf-S pron|that-Dem-S1 adp|at det|the-Def-Art noun|table .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|COMPOUND 7|2|CCOMP 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+%cod:	$MLU=12 $NMV=3 $Res $C/R
+*MOT:	where's your other hand ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 adj|other-Pos-S1 noun|hand ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|AMOD 5|2|NSUBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	0 .
+%sit:	holds up both hands .
+%cod:	$Res $Rep
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	just checking .
+%mor:	adv|just noun|check .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $Rep
+*MOT:	do you like sitting in Mommy's chair ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S verb|sit-Ger-S adp|in noun|Mommy~part|s noun|chair ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|XCOMP 5|8|CASE 6|8|NMOD-POSS 7|6|CASE 8|4|OBL 9|3|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Exp
+*MOT:	oh (.) you do .
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rex $C/A
+*MOT:	which chair is your chair ?
+%mor:	det|which-Def-Int noun|chair aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|chair ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	right there .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	points to chair .
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	where's Daddy's chair ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Daddy~part|s noun|chair ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Rfi
+*CHI:	right there .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	points to chair .
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	who sits here then ?
+%mor:	pron|who-Rel-S1 verb|sit-Fin-Ind-Pres-S3 adv|here adv|then ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	Mommy sit there .
+%mor:	noun|Mommy verb|sit-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Rep
+*MOT:	yeah (.) right now I'm sitting here .
+%mor:	intj|yeah adv|right adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|sit-Part-Pres-S adv|here .
+%gra:	1|6|DISCOURSE 2|3|ADVMOD 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rre $C/A
+*MOT:	yum (.) is that good ?
+%mor:	noun|yum aux|be-Fin-Ind-Pres-S3 adv|that adj|good-Pos-S1 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rep
+*MOT:	boy (.) you're eating good today .
+%mor:	intj|boy pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|eat-Part-Pres-S adj|good-Pos-S1 noun|today .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|XCOMP 6|4|OBL-TMOD 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*MOT:	you must be hungry .
+%mor:	pron|you-Prs-Nom-S2 aux|must-Fin-S aux|be-Inf-S adj|hungry-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	hey (.) maybe if you eat all that and if you want some more then after that we'll see what we've got for dessert .
+%mor:	intj|hey adv|maybe sconj|if pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 det|all-Def pron|that-Dem-S1 cconj|and sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def adj|more-Cmp-S1 adv|then adp|after sconj|that pron|we-Prs-Nom-P1~aux|will-Fin-S verb|see-Inf-S pron|what-Rel-S1 pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 verb|get-Part-Past-S adp|for noun|dessert .
+%gra:	1|19|DISCOURSE 2|19|ADVMOD 3|5|MARK 4|5|NSUBJ 5|19|ADVCL 6|7|DET-PREDET 7|5|OBJ 8|11|CC 9|11|MARK 10|11|NSUBJ 11|5|CONJ 12|13|DET 13|11|OBJ 14|11|ADVMOD 15|16|CASE 16|19|OBL 17|19|NSUBJ 18|19|AUX 19|25|ROOT 20|19|OBJ 21|23|NSUBJ 22|23|AUX 23|20|ACL-RELCL 24|25|CASE 25|23|OBL 26|19|PUNCT
+%cod:	$MLU=24 $NMV=4 $Con $Rep
+@End

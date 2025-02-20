@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/c-00018116-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|3;00.29|female|||Target_Child|||
+@Date:	14-JUN-1997
+@Types:	long, everyday, TD
+*CHI:	what have you got in your mouth ?
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Past-S adp|in pron|your-Prs-Gen-S2 noun|mouth ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*CHI:	what have you got in your hand ?
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Past-S adp|in pron|your-Prs-Gen-S2 noun|hand ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*CHI:	why (i)s mummy driving ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 noun|mummy verb|drive-Ger-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	which way do we go ?
+%mor:	det|which-Def-Int noun|way aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Inf-S ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	what did Amy do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3 noun|Amy verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	why (a)re you looking in that book ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|look-Part-Pres-S adp|in det|that-Def-Dem noun|book ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	what (i)s she having ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|have-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	why do you hafta ride on little ponys ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 intj|hafta verb|ride-Inf-S adp|on adj|little-Pos-S1 noun|pony-Plur ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|NSUBJ 4|5|DISCOURSE 5|8|ROOT 6|8|CASE 7|8|AMOD 8|5|OBL 9|5|PUNCT
+*CHI:	why don't they come out ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 verb|come-Inf-S adv|out ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	how do you do this ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S pron|this-Dem-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	why are we going home ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S adv|home ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	why is it a bumpy road ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art adj|bumpy-Pos-S1 noun|road ?
+%gra:	1|6|ADVMOD 2|6|COP 3|6|NSUBJ 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	what is all that mud ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|all-Def det|that-Def-Dem noun|mud ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|5|ROOT 6|5|PUNCT
+@End

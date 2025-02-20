@@ -1,0 +1,268 @@
+@UTF8
+@PID:	11312/c-00017735-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|VanHouten|MOT||female|MOT_Older||Mother|MOT_3||
+@ID:	eng|VanHouten|CHI|2;04.|male|TD||Target_Child|||
+@Comment:	Education of MOT is 3
+@Situation:	Lunch. Mother and Child mostly sit at the kitchen table. Child gets up and runs off twice. Mother chases him and brings him back. Child's speech is fairly clear.
+@Comment:	Age Group of MOT Older
+@Comment:	cross, meal, TD
+@Types:	cross, meal, TD
+*MOT:	come_on .
+%mor:	noun|comeon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	you gonna eat ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|eat-Fin-S ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%sit:	catches Child and holds him .
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rfi
+*MOT:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rfi
+*CHI:	soup .
+%mor:	noun|soup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	points to soup on stove .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	soup (.) yeah .
+%mor:	noun|soup intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $C/A
+*MOT:	soup in the pan .
+%mor:	noun|soup adp|in det|the-Def-Art noun|pan .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%cod:	$MLU=4 $NMV=0 $Con $Exp
+*MOT:	get your foot off that stove .
+%mor:	verb|get-Fin-Imp-S pron|your-Prs-Gen-S2 noun|foot adp|off det|that-Def-Dem noun|stove .
+%gra:	1|6|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $C/R
+*MOT:	that's hot .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|hot-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	you gonna eat your soup that's in the dish ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|eat-Inf-S pron|your-Prs-Gen-S2 noun|soup pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|dish ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|10|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|10|NSUBJ 7|10|COP 8|10|CASE 9|10|DET 10|5|ACL-RELCL 11|3|PUNCT
+%cod:	$MLU=10 $NMV=2 $Ini $Rfi
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Rfi
+*MOT:	you gonna eat the soup that's in the dish ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|eat-Inf-S det|the-Def-Art noun|soup pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|dish ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|10|ROOT 4|5|DET 5|3|OBJ 6|10|NSUBJ 7|10|COP 8|10|CASE 9|10|DET 10|5|ACL-RELCL 11|3|PUNCT
+%cod:	$MLU=10 $NMV=2 $Rri $Rfi
+*MOT:	say (.) alright Ma .
+%mor:	verb|say-Fin-Imp-S intj|alright noun|ma .
+%gra:	1|3|ROOT 2|3|DISCOURSE 3|1|OBJ 4|1|PUNCT
+%sit:	puts Child down at table .
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	eat your bread .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|bread .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	dunk it .
+%mor:	verb|dunk-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	eats .
+*MOT:	is that good ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adj|good-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rfi
+*CHI:	xxx .
+%cod:	$Ini
+*MOT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Cla
+*CHI:	0 .
+%sit:	ignores M .
+%cod:	$Nul
+*CHI:	hot .
+%mor:	adj|hot-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	hot ?
+%mor:	adj|hot-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Exp
+*MOT:	that's not hot .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 part|not adj|hot-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Epr
+*MOT:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rex $Rsc
+*MOT:	eat your soup .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|soup .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	spits out noodles .
+*MOT:	what are you doing that for ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S pron|that-Dem-S1 adp|for ?
+%gra:	1|4|OBL 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|1|CASE 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rfi
+*MOT:	eat it .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*CHI:	0 .
+%sit:	gets down from table .
+*MOT:	come here .
+%mor:	verb|come-Fin-Imp-S adv|here .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Rta $C/R
+*MOT:	Tom .
+%mor:	noun|Tom .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	where you going ?
+%mor:	adv|where pron|you-Prs-Nom-S2 verb|go-Ger-S ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	chases Child into other room and talks to him there .
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*MOT:	Tommy (.) come_on over here .
+%mor:	noun|Tommy noun|comeon adp|over adv|here .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	come_on you gotta eat .
+%mor:	noun|comeon pron|you-Prs-Nom-S2 aux|gotta-Fin-S verb|eat-Inf-S .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Con $C/R
+*MOT:	you gonna eat ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|eat-Fin-S ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*MOT:	go eat your soup .
+%mor:	verb|go-Fin-Imp-S verb|eat-Inf-S pron|your-Prs-Gen-S2 noun|soup .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|NMOD-POSS 4|2|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Con $C/R
+*CHI:	a boo_boo@c .
+%mor:	det|a-Ind-Art noun|booboo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	gets up and runs to kitchen .
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	a boo_boo@c ?
+%mor:	det|a-Ind-Art noun|booboo ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	follows Child back to kitchen .
+%cod:	$MLU=2 $NMV=0 $Rre $Exp
+*CHI:	0 .
+%sit:	stops to look at camera .
+*MOT:	go ahead .
+%mor:	verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rta $C/R
+*MOT:	come_on .
+%mor:	noun|comeon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	picks Child up .
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*CHI:	0 [=! screams] .
+%cod:	$MLU=0 $NMV=0 $Res $Des
+*MOT:	ssh .
+%mor:	noun|ssh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rde $C/R
+*MOT:	ssh .
+%mor:	noun|ssh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $C/R
+*MOT:	watch your head .
+%mor:	verb|watch-Fin-Imp-S pron|your-Prs-Gen-S2 noun|head .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Ini $C/R
+*MOT:	gonna eat your soup ?
+%mor:	adv|gonna verb|eat-Inf-S pron|your-Prs-Gen-S2 noun|soup ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*MOT:	where's your soup ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|soup ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	points to soup .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	what are you gonna do with it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|gonna verb|do-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%cod:	$Res
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Cla
+*MOT:	you want some milk ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def noun|milk ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*MOT:	Mama get you some milk ?
+%mor:	noun|mama verb|get-Fin-Ind-Pres-S pron|you-Prs-Acc-S2 det|some-Def noun|milk ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=0 $Con $Rfi
+*CHI:	want baba@c [*] ?
+%mor:	verb|want-Fin-Imp-S noun|baba ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Des
+*MOT:	no baba@c .
+%mor:	det|no-Def noun|baba .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rde $C/R
+*MOT:	eat your soup .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|soup .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	I'll get you some milk .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|you-Prs-Acc-S2 det|some-Def noun|milk .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%sit:	gets milk for C .
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*MOT:	go easy .
+%mor:	verb|go-Fin-Imp-S adj|easy-Pos-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*CHI:	what that ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*MOT:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Exp
+@End

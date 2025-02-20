@@ -1,0 +1,329 @@
+@UTF8
+@PID:	11312/c-00010636-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;07.12|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	02-OCT-1972
+@Types:	long, toyplay, TD
+*CHI:	turtle .
+%mor:	noun|turtle .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1057
+*CHI:	towel trah [: trash] .
+%mor:	noun|towel noun|trash .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1058
+*CHI:	Peanuh [: Peanuts] out der [: there], Peanuh [: Peanuts] .
+%mor:	noun|peanut-Plur adv|out adv|there cm|cm noun|peanut-Plur .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|3|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+%sit:	1059
+*CHI:	Peanuh [: Peanuts] out der [: there] .
+%mor:	noun|peanut-Plur adv|out adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	1059
+*CHI:	hacuum [: vacuum] .
+%mor:	noun|vacuum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1060
+*MOT:	we're not going to take it out but you can see it .
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|not verb|go-Part-Pres-S part|to verb|take-Inf-S pron|it-Prs-Acc-S3 adp|out cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|12|CC 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|12|OBJ 14|4|PUNCT
+%sit:	1060
+*CHI:	take it out .
+%mor:	verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%sit:	1060
+*CHI:	Tata [: Petra] take it out .
+%mor:	noun|Petra verb|take-Fin-Imp-S2 pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+%sit:	1060
+*SIS:	hi, workmen .
+%mor:	intj|hi cm|cm noun|workam-Plur .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	1061
+*CHI:	hi workmen .
+%mor:	intj|hi noun|workam-Plur .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	1061
+*CHI:	hi, workmen .
+%mor:	intj|hi cm|cm noun|workam-Plur .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	1061
+*CHI:	Ma man pulling .
+%mor:	noun|ma noun|man verb|pull-Ger-S .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL 4|1|PUNCT
+%sit:	10612
+*CHI:	hi, man .
+%mor:	intj|hi cm|cm noun|man .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+%sit:	1063
+*CHI:	key find key .
+%mor:	adj|key-Pos-S1 verb|find-Fin-Imp-S noun|key .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1064
+*CHI:	carry bag .
+%mor:	verb|carry-Fin-Imp-S noun|bag .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1065
+*CHI:	Laura carry .
+%mor:	noun|Laura verb|carry-Fin-Ind-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1065
+*CHI:	find ba(th) .
+%mor:	verb|find-Fin-Imp-S noun|bath .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1066
+*CHI:	Daddy .
+%mor:	noun|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1067
+*MOT:	where's Daddy ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Daddy ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	1067
+*CHI:	home .
+%mor:	noun|home .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1067
+*MOT:	I wish he were at home, but he's not .
+%mor:	pron|I-Prs-Nom-S1 verb|wish-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3 adp|at noun|home cm|cm cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|11|PUNCT 8|11|CC 9|11|NSUBJ 10|11|COP 11|2|CONJ 12|2|PUNCT
+%sit:	1067
+*MOT:	where is Daddy ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|Daddy ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	1067
+*CHI:	work .
+%mor:	noun|work .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1067
+*CHI:	clay play clay .
+%mor:	noun|clay noun|play noun|clay .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1068
+*MOT:	just a minute, I'll get you some .
+%mor:	adv|just det|a-Ind-Art noun|minute cm|cm pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|you-Prs-Acc-S2 det|some-Def .
+%gra:	1|3|ADVMOD 2|3|DET 3|7|OBL-TMOD 4|7|PUNCT 5|7|NSUBJ 6|7|AUX 7|9|ROOT 8|7|OBJ 9|7|OBJ 10|7|PUNCT
+%sit:	1068
+*CHI:	block .
+%mor:	noun|block .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1069
+*CHI:	here (w)e go, go, here (w)e go .
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 cm|cm verb|go-Fin-Ind-Pres-P1 cm|cm adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|9|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|5|PUNCT 5|1|PARATAXIS 6|7|PUNCT 7|1|PARATAXIS 8|9|NSUBJ 9|7|ADVCL-RELCL 10|1|PUNCT
+%sit:	1069
+*CHI:	huggy hut [: hug] it .
+%mor:	noun|huggy noun|hug pron|it-Prs-Acc-S3 .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+%sit:	1070
+*MOT:	oh goody, it's done .
+%mor:	intj|oh intj|goody cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S .
+%gra:	1|2|DISCOURSE 2|6|DISCOURSE 3|2|PUNCT 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|6|ROOT 7|6|PUNCT
+%sit:	1071a
+*CHI:	goody pant .
+%mor:	adj|goody-Pos-S1 noun|pant .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1071a several times
+*CHI:	goody pant .
+%mor:	adj|goody-Pos-S1 noun|pant .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1071b
+*MOT:	the Mommy horse is kissing the baby horse .
+%mor:	det|the-Def-Art noun|Mommy noun|horse aux|be-Fin-Ind-Pres-S3 verb|kiss-Part-Pres-S det|the-Def-Art noun|baby noun|horse .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+%sit:	1072
+*CHI:	bottle .
+%mor:	noun|bottle .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1072
+*MOT:	does the baby horse need a bottle ?
+%mor:	aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|baby noun|horse verb|need-Inf-S det|a-Ind-Art noun|bottle ?
+%gra:	1|5|AUX 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%sit:	1072
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1072
+*CHI:	dink [: drink] bottle .
+%mor:	verb|drink-Fin-Imp-S noun|bottle .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1072
+*CHI:	huggy hug me .
+%mor:	noun|huggy verb|hug-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1073
+*CHI:	look at me .
+%mor:	verb|look-Fin-Imp-S adp|at pron|I-Prs-Acc-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%sit:	1074
+*CHI:	&-uh heavy .
+%mor:	adj|heavy-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1075
+*MOT:	what did you say Laura ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|say-Inf-S noun|Laura ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1075
+*CHI:	heavy .
+%mor:	adj|heavy-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1075
+*CHI:	my clay .
+%mor:	pron|my-Prs-Gen-S1 noun|clay .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	1076
+*CHI:	my clay .
+%mor:	pron|my-Prs-Gen-S1 noun|clay .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	1076
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1076
+*CHI:	baby pairplane [: airplane] .
+%mor:	noun|baby noun|airplane .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1077
+*MOT:	no, the baby doesn't have a pairplane [: airplane] .
+%mor:	intj|no cm|cm det|the-Def-Art noun|baby aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|a-Ind-Art noun|airplane .
+%gra:	1|7|DISCOURSE 2|7|PUNCT 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%sit:	1077
+*MOT:	well, ask Shara if you can wear the hat .
+%mor:	intj|well cm|cm verb|ask-Fin-Imp-S noun|Shara sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S verb|wear-Inf-S det|the-Def-Art noun|hat .
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|10|ROOT 4|3|IOBJ 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|10|DET 10|8|OBJ 11|3|PUNCT
+%sit:	1078
+*CHI:	Shara hat ?
+%mor:	noun|Shara noun|hat ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1078
+*CHI:	Shara .
+%mor:	noun|Shara .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1079
+*CHI:	bebroom [: bedroom] pay [: play] bebroom [: bedroom] .
+%mor:	noun|bedroom noun|play noun|bedroom .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	1080
+*MOT:	no, that's Joanna's bedroom .
+%mor:	intj|no cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Joanna~part|s noun|bedroom .
+%gra:	1|7|DISCOURSE 2|7|PUNCT 3|7|NSUBJ 4|7|COP 5|7|NMOD-POSS 6|5|CASE 7|7|ROOT 8|7|PUNCT
+%sit:	1080
+*MOT:	you can play in your bedroom .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|play-Inf-S adp|in pron|your-Prs-Gen-S2 noun|bedroom .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%sit:	1080
+*CHI:	my doll .
+%mor:	pron|my-Prs-Gen-S1 noun|doll .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	1081
+*MOT:	where's Laura ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Laura ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	1082
+*CHI:	here (w)e are .
+%mor:	adv|here pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|COP 4|1|PUNCT
+%sit:	1082
+*CHI:	pull it .
+%mor:	verb|pull-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1083
+*CHI:	Sue pull it .
+%mor:	noun|Sue verb|pull-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1083
+*MOT:	take your doggie outside .
+%mor:	verb|take-Fin-Imp-S pron|your-Prs-Gen-S2 noun|doggie adv|outside .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%sit:	j3_79_295
+*CHI:	doggie ow, bite singers [: fingers] .
+%mor:	noun|doggie intj|ow cm|cm noun|bite noun|finger-Plur .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|5|PUNCT 4|5|COMPOUND 5|2|PARATAXIS 6|2|PUNCT
+%sit:	j3_79_295
+*MOT:	no, I mean your toy doggie .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|your-Prs-Gen-S2 noun|toy noun|doggie .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|NMOD-POSS 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+%sit:	j3_79_295
+*CHI:	look door, Shara .
+%mor:	verb|look-Fin-Imp-S noun|door cm|cm noun|Shara .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|PUNCT 4|1|VOCATIVE 5|1|PUNCT
+%sit:	1085
+*CHI:	Shara .
+%mor:	noun|Shara .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1085
+*CHI:	Baura down .
+%mor:	noun|Baura adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1086
+*MOT:	no, not now .
+%mor:	intj|no cm|cm part|not adv|now .
+%gra:	1|4|ROOT 2|1|PUNCT 3|4|ADVMOD 4|1|PARATAXIS 5|1|PUNCT
+%sit:	1086
+*CHI:	Deedee [: Joanna] down .
+%mor:	noun|Joanna adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1086
+*FAT:	we got the sweaters before the water went on .
+%mor:	pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1 det|the-Def-Art noun|sweater-Plur sconj|before det|the-Def-Art noun|water verb|go-Fin-Ind-Past-S3 adv|on .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|8|MARK 6|7|DET 7|8|NSUBJ 8|2|ADVCL 9|8|ADVMOD 10|2|PUNCT
+%sit:	1087
+*CHI:	water side .
+%mor:	noun|water noun|side .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1087
+*CHI:	put away .
+%mor:	verb|put-Fin-Imp-S adv|away .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1088
+*CHI:	put away .
+%mor:	verb|put-Fin-Imp-S adv|away .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1088
+*CHI:	put away .
+%mor:	verb|put-Fin-Imp-S adv|away .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1089
+*CHI:	put away .
+%mor:	verb|put-Fin-Imp-S adv|away .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	1089
+*CHI:	bye man .
+%mor:	intj|bye noun|man .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1090
+*CHI:	car ride .
+%mor:	noun|car noun|ride .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1091
+*CHI:	go .
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1092
+*MOT:	I can't go .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|go-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	1092
+*CHI:	light red .
+%mor:	noun|light adj|red-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1092
+*CHI:	light red .
+%mor:	noun|light adj|red-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1093
+*CHI:	light red .
+%mor:	noun|light adj|red-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1093
+*MOT:	that's right, the light's red .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 cm|cm det|the-Def-Art noun|light~part|s adj|red-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|8|PUNCT 5|6|DET 6|8|NMOD-POSS 7|6|CASE 8|3|PARATAXIS 9|3|PUNCT
+%sit:	1093
+@End

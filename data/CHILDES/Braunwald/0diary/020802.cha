@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/c-00010993-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;08.02|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	22-OCT-1973
+@Types:	long, toyplay, TD
+*CHI:	what should I do with my knife ?
+%mor:	pron|what-Int-S1 aux|should-Fin-S pron|I-Prs-Nom-S1 verb|do-Inf-S adp|with pron|my-Prs-Gen-S1 noun|knife ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+%sit:	886
+*MOT:	you should cut with your knife .
+%mor:	pron|you-Prs-Nom-S2 aux|should-Fin-S verb|cut-Inf-S adp|with pron|your-Prs-Gen-S2 noun|knife .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%sit:	886
+*CHI:	well what should I cut with my knife ?
+%mor:	intj|well pron|what-Int-S1 aux|should-Fin-S pron|I-Prs-Nom-S1 verb|cut-Inf-S adp|with pron|my-Prs-Gen-S1 noun|knife ?
+%gra:	1|5|DISCOURSE 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+%sit:	886
+*MOT:	meat .
+%mor:	noun|meat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	886
+*CHI:	nobody in the kitchen .
+%mor:	pron|nobody-Neg-S1 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%sit:	887
+*CHI:	could we have a family love ?
+%mor:	aux|could-Fin-S pron|we-Prs-Nom-P1 verb|have-Inf-S det|a-Ind-Art noun|family noun|love ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%sit:	888
+*MOT:	sure .
+%mor:	adj|sure-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	888
+*CHI:	it ringed .
+%mor:	pron|it-Prs-Nom-S3 verb|ringed-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	889
+*CHI:	it ringed .
+%mor:	pron|it-Prs-Nom-S3 verb|ringed-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	889
+*CHI:	Shara, I'm gonna tell on you .
+%mor:	noun|Shara cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|gonna verb|tell-Inf-S adp|on pron|you-Prs-Acc-S2 .
+%gra:	1|6|VOCATIVE 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%sit:	890
+*CHI:	(be)cause my mommy, (be)cause my daddy .
+%mor:	sconj|because pron|my-Prs-Gen-S1 noun|mommy cm|cm sconj|because pron|my-Prs-Gen-S1 noun|daddy .
+%gra:	1|3|MARK 2|3|NMOD-POSS 3|7|ROOT 4|3|PUNCT 5|7|MARK 6|7|NMOD-POSS 7|3|PARATAXIS 8|3|PUNCT
+%sit:	890
+*CHI:	Mommy tape Paige say +"/.
+%mor:	noun|Mommy verb|tape-Fin-S noun|Paige verb|say-Fin-Ind-Pres-S3 +"/.
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|PARATAXIS 5|2|PUNCT
+*CHI:	+" oh no you don't .
+%mor:	intj|oh intj|no pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2~part|not .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%sit:	891
+*MOT:	it's alright, you can have some .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|alright-Pos-S1 cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S det|some-Def .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|3|PARATAXIS 8|7|OBJ 9|3|PUNCT
+%sit:	891
+*CHI:	he's [: she's] [*] nice .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|nice-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	892
+*CHI:	he's [: she's] [*] reading a book to me .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|read-Part-Pres-S det|a-Ind-Art noun|book adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+%sit:	892
+*FAT:	she is .
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	892
+*FAT:	she .
+%mor:	pron|she-Prs-Nom-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	892
+*CHI:	know what ?
+%mor:	verb|know-Fin-Imp-S pron|what-Int-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Nanny_Edith [//] Missus_Gluck toilet overflowed .
+%mor:	noun|MissusGluck noun|toilet verb|overflow-Fin-Ind-Past-S3 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	893
+*FAT:	she said that her babysitter Missus_Gluck's toilet overflowed .
+%mor:	pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3 sconj|that pron|her-Prs-Gen-S3 noun|babysitter noun|MissusGluck~part|s noun|toilet verb|overflow-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|9|MARK 4|5|NMOD-POSS 5|8|NMOD-POSS 6|5|APPOS 7|5|CASE 8|9|NSUBJ 9|2|CCOMP 10|2|PUNCT
+%sit:	893
+*CHI:	Sean made pee on top of my pee .
+%mor:	noun|Sean verb|make-Fin-Ind-Past-S3 noun|pee adp|on noun|top adp|of pron|my-Prs-Gen-S1 noun|pee .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|2|PUNCT
+%sit:	894
+*CHI:	Sean made pee after me .
+%mor:	noun|Sean verb|make-Fin-Ind-Past-S3 noun|pee adp|after pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%sit:	894
+@End

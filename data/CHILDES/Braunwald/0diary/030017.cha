@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/c-00011118-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FAT Father, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;00.17|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	09-MAR-1974
+@Types:	long, toyplay, TD
+*CHI:	Johnnie in my class is really stronger than Shani_Lastname .
+%mor:	noun|Johnnie adp|in pron|my-Prs-Gen-S1 noun|class aux|be-Fin-Ind-Pres-S3 adv|really adj|strong-Cmp-S1 adp|than noun|ShaniLastname .
+%gra:	1|7|NSUBJ 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|7|COP 6|7|ADVMOD 7|9|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+%sit:	570
+*FAT:	how does that look ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|look-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	571
+*CHI:	you look sharp, sharp .
+%mor:	pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 adj|sharp-Pos-S1 cm|cm adj|sharp-Pos-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|PUNCT 5|3|CONJ 6|2|PUNCT
+%sit:	571
+*CHI:	Daddy, we saw a snail who's walking .
+%mor:	noun|Daddy cm|cm pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Past-P1 det|a-Ind-Art noun|snail pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|4|PUNCT
+%sit:	572
+*CHI:	Daddy, we saw a snail who's walking .
+%mor:	noun|Daddy cm|cm pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Past-P1 det|a-Ind-Art noun|snail pron|who-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|4|PUNCT
+%sit:	572
+*FAT:	where did he walk ?
+%mor:	adv|where aux|do-Fin-Ind-Past-S3 pron|he-Prs-Nom-S3 verb|walk-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	572
+*CHI:	he's walking at our house .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S adp|at pron|our-Prs-Gen-P1 noun|house .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%sit:	572
+*CHI:	she's such a good girl, Jo [: Joanna] is .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|such-Def det|a-Ind-Art adj|good-Pos-S1 noun|girl cm|cm noun|Joanna aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET-PREDET 4|6|DET 5|6|AMOD 6|9|ROOT 7|6|PUNCT 8|9|NSUBJ 9|6|PARATAXIS 10|6|PUNCT
+%sit:	573
+*CHI:	to find my Humpty_Dumpty .
+%mor:	part|to verb|find-Inf-S pron|my-Prs-Gen-S1 noun|HumptyDumpty .
+%gra:	1|2|MARK 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	573
+*MOT:	did you hear that, Jo [: Joanna] ?
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|hear-Inf-S pron|that-Dem-S1 cm|cm noun|Joanna ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|PUNCT 6|3|PARATAXIS 7|3|PUNCT
+%sit:	573
+*CHI:	I'm glad I have my big doll and Humpty_Dumpty .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-Pos-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 adj|big-Pos-S1 noun|doll cconj|and noun|HumptyDumpty .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|5|NSUBJ 5|3|CCOMP 6|8|NMOD-POSS 7|8|AMOD 8|5|OBJ 9|10|CC 10|8|CONJ 11|3|PUNCT
+%sit:	574
+@End

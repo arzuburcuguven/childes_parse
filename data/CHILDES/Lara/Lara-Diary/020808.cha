@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/c-00017976-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;08.08|female|||Target_Child|||
+@Date:	24-JAN-1997
+@Comment:	Mum Elsie and Dad
+@Comment:	on way to nursery
+@Types:	long, everyday, TD
+*CHI:	why it Friday ?
+%mor:	adv|why pron|it-Prs-Nom-S3 noun|Friday ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|NMOD-TMOD 4|1|PUNCT
+*CHI:	why we go to nursery ?
+%mor:	adv|why pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 adp|to noun|nursery ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%com:	after Mum saying on Friday we always go to nursery
+*CHI:	where can we park our car ?
+%mor:	adv|where aux|can-Fin-S pron|we-Prs-Nom-P1 verb|park-Inf-S pron|our-Prs-Gen-P1 noun|car ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+@Comment:	at home after nursery
+*CHI:	where (i)s Elsie_Grandma ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|ElsieGrandma ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what (i)s this here ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 adv|here ?
+%gra:	1|4|ROOT 2|1|COP 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	where (ha)s their Mummy gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 pron|their-Prs-Gen-P3 noun|mummy verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	why poorly get better now ?
+%mor:	adv|why adv|poorly verb|get-Inf-S adj|good-Cmp-S1 adv|now ?
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|3|XCOMP 5|3|ADVMOD 6|3|PUNCT
+%com:	after why what
+*CHI:	what (i)s in that red box ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adp|in det|that-Def-Dem adj|red-Pos-S1 noun|box ?
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	what they gonna [: going to] do upstairs ?
+%mor:	pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|go-Ger-Pres-S part|to verb|do-Inf-S adv|upstairs ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|3|PUNCT
+*CHI:	what (i)s Mummy gonna [: going to] say ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 noun|mummy verb|go-Part-Pres-S part|to verb|say-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	what (i)s Mummy gonna [: going to] say ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 noun|mummy verb|go-Part-Pres-S part|to verb|say-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+@End

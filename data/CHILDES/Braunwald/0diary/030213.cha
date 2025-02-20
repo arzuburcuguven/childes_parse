@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/c-00011145-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;02.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	03-MAY-1974
+@Types:	long, toyplay, TD
+*CHI:	I feel like to cry .
+%mor:	pron|I-Prs-Nom-S1 verb|feel-Fin-Ind-Pres-S1 adp|like part|to verb|cry-Inf-S .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|MARK 4|5|MARK 5|2|ADVCL 6|2|PUNCT
+%sit:	711
+*MOT:	you do ?
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	711
+*MOT:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	711
+*CHI:	because Amy cried at school today .
+%mor:	sconj|because noun|Amy verb|cry-Fin-Ind-Past-S3 adp|at noun|school noun|today .
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|5|CASE 5|3|OBL 6|3|OBL-TMOD 7|3|PUNCT
+%sit:	711
+*CHI:	that's why it makes me wanna cry .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|why pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adv|wanna verb|cry-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|5|NSUBJ 5|3|ADVCL-RELCL 6|5|OBJ 7|8|ADVMOD 8|5|XCOMP 9|3|PUNCT
+%sit:	711
+*CHI:	my tummy ached at school .
+%mor:	pron|my-Prs-Gen-S1 noun|tummy verb|ach-Fin-Ind-Past-S3 adp|at noun|school .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	712
+*MOT:	oh, you and Joanna you just get tummyaches at school .
+%mor:	intj|oh cm|cm pron|you-Prs-Nom-S2 cconj|and noun|Joanna pron|you-Prs-Nom-S2 adv|just verb|get-Fin-Ind-Pres-S2 noun|tummyach-Plur adp|at noun|school .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|VOCATIVE 4|5|CC 5|3|CONJ 6|8|NSUBJ 7|8|ADVMOD 8|11|ROOT 9|8|OBJ 10|11|CASE 11|8|OBL 12|8|PUNCT
+%sit:	712
+*CHI:	do you think I should have an appointment again ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|I-Prs-Nom-S1 aux|should-Fin-S verb|have-Inf-S det|a-Ind-Art noun|appointment adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|3|PUNCT
+%sit:	712
+*MOT:	no, I don't .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%sit:	712
+*CHI:	I want you to give me a kiss since I didn't see you all day .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|kiss sconj|since pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|see-Inf-S pron|you-Prs-Acc-S2 det|all-Def noun|day .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|13|MARK 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|5|ADVCL 14|13|OBJ 15|16|DET 16|13|OBL-TMOD 17|2|PUNCT
+%sit:	713
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	713
+@End

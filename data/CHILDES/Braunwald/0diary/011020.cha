@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/c-00010733-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;10.20|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	09-JAN-1973
+@Types:	long, toyplay, TD
+*CHI:	my go Sue .
+%mor:	pron|my-Prs-Gen-S1 noun|go noun|Sue .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	866
+*CHI:	more eggy .
+%mor:	adj|more-Cmp-S1 noun|eggy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	867
+*CHI:	want more .
+%mor:	verb|want-Fin-Imp-S adj|more-Cmp-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	867
+*CHI:	want more .
+%mor:	verb|want-Fin-Imp-S adj|more-Cmp-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	867
+*CHI:	uppie .
+%mor:	noun|uppie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	868
+*CHI:	carry me up .
+%mor:	verb|carry-Fin-Imp-S pron|I-Prs-Acc-S1 adp|up .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%sit:	868
+*CHI:	my Peanut [: Peanuts] bite me .
+%mor:	pron|my-Prs-Gen-S1 noun|peanut-Plur verb|bite-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	869
+*MOT:	oh dear, I'm sorry to hear that .
+%mor:	intj|oh intj|dear cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-Pos-S1 part|to verb|hear-Inf-S pron|that-Dem-S1 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|PUNCT 4|6|NSUBJ 5|6|COP 6|9|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|6|PUNCT
+%sit:	869
+*CHI:	my don't like it .
+%mor:	pron|my-Prs-Gen-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	869
+*CHI:	you hurt me .
+%mor:	pron|you-Prs-Nom-S2 verb|hurt-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	870
+*CHI:	this enough toilet_paper .
+%mor:	det|this-Def-Dem adj|enough-Pos-S1 noun|toiletpaper .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	871
+*CHI:	don't get more .
+%mor:	aux|do-Fin-Imp-S~part|not verb|get-Fin-Imp-S adj|more-Cmp-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	871
+*CHI:	don't tear paper out .
+%mor:	aux|do-Fin-Imp-S~part|not verb|tear-Fin-Imp-S noun|paper adp|out .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+%sit:	872
+*CHI:	this is not toilet_paper .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 part|not noun|toiletpaper .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	873
+*CHI:	Sue bad girl .
+%mor:	noun|Sue adj|bad-Pos-S1 noun|girl .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|CONJ 4|1|PUNCT
+%sit:	874
+*MOT:	who is ?
+%mor:	pron|who-Rel-S1 aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	874
+*CHI:	Sue is .
+%mor:	noun|Sue aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	874
+*CHI:	you bad girl .
+%mor:	pron|you-Prs-Acc-S2 adj|bad-Pos-S1 noun|girl .
+%gra:	1|3|DEP 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	874
+*CHI:	you dumb_dumb .
+%mor:	pron|you-Prs-Nom-S2 verb|dumbdumb-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	874
+*CHI:	somebody close my door .
+%mor:	pron|somebody-Ind-S1 verb|close-Fin-S pron|my-Prs-Gen-S1 noun|door .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	875
+@End

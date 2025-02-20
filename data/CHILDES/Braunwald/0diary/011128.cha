@@ -1,0 +1,138 @@
+@UTF8
+@PID:	11312/c-00010771-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FAT Father, SIS Sister, MOT Mother, UNC Relative
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;11.28|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|UNC|||||Relative|||
+@Date:	17-FEB-1973
+@Types:	long, toyplay, TD
+*CHI:	do you go movies ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Inf-S noun|movie-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1449
+*FAT:	tell Sue what Peanuts did .
+%mor:	verb|tell-Fin-Imp-S noun|Sue pron|what-Rel-S1 noun|peanut-Plur aux|do-Fin-Ind-Past-P3 .
+%gra:	1|5|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|1|PUNCT
+%sit:	1450
+*CHI:	know what Peanut [: Peanuts] did ?
+%mor:	verb|know-Fin-Imp-S pron|what-Rel-S1 noun|peanut-Plur verb|do-Fin-Ind-Past-P3 ?
+%gra:	1|4|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|1|PUNCT
+%sit:	1450
+*CHI:	Peanut [: Peanuts] go up room .
+%mor:	noun|peanut-Plur verb|go-Fin-Ind-Pres-P3 adp|up noun|room .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|PUNCT
+%sit:	1450
+*CHI:	you awake .
+%mor:	pron|you-Prs-Nom-S2 verb|awake-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1451
+*SIS:	I ate up all my orange .
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1 adp|up det|all-Def pron|my-Prs-Gen-S1 noun|orange .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|COMPOUND-PRT 4|6|DET-PREDET 5|6|NMOD-POSS 6|2|OBJ 7|2|PUNCT
+%sit:	1452
+*CHI:	I didn't eat my orange up .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1~part|not verb|eat-Inf-S pron|my-Prs-Gen-S1 noun|orange adv|up .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%sit:	1452
+*CHI:	know what Deedee [: Joanna] say ?
+%mor:	verb|know-Fin-Imp-S pron|what-Rel-S1 noun|Joanna verb|say-Fin-Ind-Pres-S3 ?
+%gra:	1|4|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|1|PUNCT
+%sit:	1453
+*MOT:	no, what did Deedee [: Joanna] say ?
+%mor:	intj|no cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Past-S3 noun|Joanna verb|say-Inf-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%sit:	1453
+*CHI:	Deedee [: Joanna] say yucky my picture .
+%mor:	noun|Joanna verb|say-Fin-Ind-Pres-S3 adj|yucky-Pos-S1 pron|my-Prs-Gen-S1 noun|picture .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|AMOD 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+%sit:	1453
+*MOT:	well, tell her yours isn't yucky .
+%mor:	intj|well cm|cm verb|tell-Fin-Imp-S pron|her-Prs-Acc-S3 pron|yours-Prs-S2 aux|be-Fin-Ind-Pres-S3~part|not adj|yucky-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|IOBJ 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|3|CCOMP 9|3|PUNCT
+%sit:	1453
+*CHI:	my not yucky .
+%mor:	pron|my-Prs-Gen-S1 part|not adj|yucky-Pos-S1 .
+%gra:	1|3|NMOD-POSS 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1454
+*CHI:	I tell my non@n .
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 x|non .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	1454
+*SIS:	Laura look at my picture .
+%mor:	noun|Laura verb|look-Fin-Imp-S adp|at pron|my-Prs-Gen-S1 noun|picture .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+%sit:	1455
+*CHI:	oh beautiful .
+%mor:	intj|oh adj|beautiful-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	1455
+*CHI:	my get off .
+%mor:	pron|my-Prs-Gen-S1 verb|get-Fin-Ind-Pres-S1 adv|off .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	1456
+*CHI:	my better get off .
+%mor:	pron|my-Prs-Gen-S1 adv|well verb|get-Inf-S adv|off .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%sit:	1456
+*CHI:	my better hold you package .
+%mor:	pron|my-Prs-Gen-S1 adj|good-Cmp-S1 noun|hold pron|you-Prs-Nom-S2 verb|package-Fin-Ind-Pres-S2 .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%sit:	1457
+*CHI:	my have my own .
+%mor:	pron|my-Prs-Gen-S1 verb|have-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 adj|own-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	1458
+*CHI:	you have you own .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|own-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%sit:	1458
+*CHI:	you have plenty more Daddy ?
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|plenty adj|more-Cmp-S1 noun|Daddy ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%sit:	1461
+*CHI:	you have plenty more ?
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|plenty adj|more-Cmp-S1 ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|ADVMOD 5|2|PUNCT
+%sit:	1461
+*CHI:	Uncle_Mark silly name .
+%mor:	noun|UncleMark adj|silly-Pos-S1 noun|name .
+%gra:	1|3|COMPOUND 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	1462
+*MOT:	is Uncle_Mark a silly name ?
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|UncleMark det|a-Ind-Art adj|silly-Pos-S1 noun|name ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%sit:	1462
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	1462
+*CHI:	lookit my made .
+%mor:	verb|lookit-Fin-Imp-S pron|my-Prs-Gen-S1 verb|make-Part-Past-S .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%sit:	1463 numerous times .
+*CHI:	my spill all over my this .
+%mor:	pron|my-Prs-Gen-S1 noun|spill det|all-Def-Tot adp|over pron|my-Prs-Gen-S1 pron|this-Dem-S1 .
+%gra:	1|2|NMOD-POSS 2|6|ROOT 3|6|ADVMOD 4|6|CASE 5|6|NMOD-POSS 6|2|NMOD 7|2|PUNCT
+%sit:	1464
+*MOT:	those are your pants .
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|pant-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%sit:	1464
+*MOT:	you spilt on your pants .
+%mor:	pron|you-Prs-Nom-S2 verb|spilt-Fin-Ind-Pres-S2 adp|on pron|your-Prs-Gen-S2 noun|pant-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+%sit:	1464
+*UNC:	jesus, I'm tired .
+%mor:	noun|jesus cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|tired-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%sit:	1465
+*CHI:	wanna go nini@c [= nap] den [: then] ?
+%mor:	intj|wanna verb|go-Fin-Imp-S noun|nini adv|then ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%sit:	1465
+@End

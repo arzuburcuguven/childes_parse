@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/c-00010954-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.22|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	12-SEP-1973
+@Types:	long, toyplay, TD
+*CHI:	I got watu [: water] .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|water .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	667, replacing word final "-er" with "-u" a lot in this transcript
+*CHI:	more watu [: water] .
+%mor:	adj|more-Cmp-S1 noun|water .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	667
+*MOT:	what's watu@q ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 noun|watu ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	667
+*MOT:	I don't understand .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|understand-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	667
+*CHI:	water .
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	667
+*CHI:	water water .
+%mor:	noun|water noun|water .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	667
+*CHI:	sweatu [: sweater] .
+%mor:	noun|sweater .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	668a
+*FAT:	you're sitting on my bladder .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|sit-Part-Pres-S adp|on pron|my-Prs-Gen-S1 noun|bladder .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%sit:	668b
+*CHI:	bladdu [: bladder] .
+%mor:	noun|bladder .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	668b
+*MOT:	Joanna hasta go to school, and Missus_Jordan will stay with you .
+%mor:	noun|Joanna x|hasta verb|go-Inf-S adp|to noun|school cm|cm cconj|and noun|MissusJordan aux|will-Fin-S verb|stay-Inf-S adp|with pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|12|ROOT 4|5|CASE 5|3|OBL 6|10|PUNCT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|3|CONJ 11|12|CASE 12|10|OBL 13|3|PUNCT
+%sit:	669
+*CHI:	not now .
+%mor:	part|not adv|now .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	669
+*CHI:	latu [: later] .
+%mor:	adv|late .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	669
+*CHI:	who needs this fork ?
+%mor:	pron|who-Rel-S1 verb|need-Fin-Ind-Pres-S3 det|this-Def-Dem noun|fork ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	670
+*MOT:	I need it .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	670
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	670
+*CHI:	that's for you .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%sit:	670
+*CHI:	well, you make me frustrated .
+%mor:	intj|well cm|cm pron|you-Prs-Nom-S2 verb|make-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adj|frustrated-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+%sit:	671
+*CHI:	how d(o) you school go ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|school verb|go-Inf-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|COMPOUND 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%sit:	672
+*SIS:	fine .
+%mor:	adj|fine-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	672
+@End

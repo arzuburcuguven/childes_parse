@@ -1,0 +1,112 @@
+@UTF8
+@PID:	11312/c-00010744-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|01;11.01|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	21-JAN-1973
+@Types:	long, toyplay, TD
+*MOT:	how's the milk today ?
+%mor:	adv|how~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|milk noun|today ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|OBL-TMOD 6|1|PUNCT
+%sit:	1019
+*CHI:	don't like mine .
+%mor:	aux|do-Fin-Imp-S~part|not verb|like-Fin-Imp-S pron|mine-Prs-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1019
+*CHI:	woke up .
+%mor:	verb|wake-Fin-Ind-Past-S1 adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%sit:	1020
+*CHI:	somebody did write my table .
+%mor:	pron|somebody-Ind-S1 aux|do-Fin-Ind-Past-S3 verb|write-Inf-S pron|my-Prs-Gen-S1 noun|table .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%sit:	1021
+*CHI:	my don't like it .
+%mor:	pron|my-Prs-Gen-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1021
+*CHI:	somebody hafta quiet .
+%mor:	pron|somebody-Ind-S1 intj|hafta adj|quiet-Pos-S1 .
+%gra:	1|3|ROOT 2|3|DISCOURSE 3|1|PARATAXIS 4|1|PUNCT
+%sit:	1022
+*CHI:	leave it be, Deedee [: Joanna] .
+%mor:	verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 aux|be-Inf-S cm|cm noun|Joanna .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|PUNCT 5|1|PARATAXIS 6|1|PUNCT
+%sit:	1023
+*CHI:	leave it .
+%mor:	verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1023
+*SIS:	I don't hafta, do I ?
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|hafta-Inf-S cm|cm verb|do-Fin-S pron|I-Prs-Nom-S1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|PUNCT 6|4|PARATAXIS 7|4|DISCOURSE 8|4|PUNCT
+%sit:	1023
+*MOT:	yes, you do .
+%mor:	intj|yes cm|cm pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	1023
+*CHI:	good job, Deedee [: Joanna] .
+%mor:	adj|good-Pos-S1 noun|job cm|cm noun|Joanna .
+%gra:	1|2|AMOD 2|4|ROOT 3|2|PUNCT 4|2|VOCATIVE 5|2|PUNCT
+%sit:	1024
+*CHI:	share share .
+%mor:	noun|share noun|share .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1025
+*MOT:	yes, please share it, Deedee [: Joanna] .
+%mor:	intj|yes cm|cm intj|please verb|share-Fin-Imp-S pron|it-Prs-Acc-S3 cm|cm noun|Joanna .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|DISCOURSE 4|7|ROOT 5|4|OBJ 6|4|PUNCT 7|4|PARATAXIS 8|4|PUNCT
+%sit:	1025
+*CHI:	pay pay .
+%mor:	verb|pay-Fin-Imp-S noun|pay .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1026
+*MOT:	oh you're going to pay with your money ?
+%mor:	intj|oh pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S part|to verb|pay-Inf-S adp|with pron|your-Prs-Gen-S2 noun|money ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|4|PUNCT
+%sit:	1026
+*CHI:	come on, man .
+%mor:	verb|come-Fin-Imp-S adv|on cm|cm noun|man .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|PUNCT 4|1|VOCATIVE 5|1|PUNCT
+%sit:	1026 several times
+*CHI:	monster scare me .
+%mor:	noun|monster verb|scare-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1027
+*CHI:	what doing Mom ?
+%mor:	pron|what-Int-S1 verb|do-Ger-S noun|mom ?
+%gra:	1|3|ROOT 2|1|ACL 3|2|OBJ 4|1|PUNCT
+%sit:	1028
+*MOT:	cooking dinner .
+%mor:	noun|cooking noun|dinner .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	1028
+*CHI:	Toffer [: Christopher] fall out window .
+%mor:	noun|Christopher verb|fall-Fin-Ind-S adp|out noun|window .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|PUNCT
+%sit:	1029
+*CHI:	really he did .
+%mor:	adv|really pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1029
+*CHI:	I see out window .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|out noun|window .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|PUNCT
+%sit:	1030
+*CHI:	want apple ring .
+%mor:	verb|want-Fin-Imp-S noun|apple noun|ring .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	1031
+*MOT:	okay if you sit in your chair .
+%mor:	intj|okay sconj|if pron|you-Prs-Nom-S2 verb|sit-Fin-Ind-Pres-S2 adp|in pron|your-Prs-Gen-S2 noun|chair .
+%gra:	1|7|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|1|PUNCT
+%sit:	1031
+*CHI:	no like peel .
+%mor:	det|no-Def intj|like noun|peel .
+%gra:	1|3|DET 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+%sit:	1032
+@End

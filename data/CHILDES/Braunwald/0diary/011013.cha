@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/c-00010726-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;10.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	02-JAN-1973
+@Types:	long, toyplay, TD
+*CHI:	this is dirty .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|dirty-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	727
+*CHI:	this is apple juice in it .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|apple noun|juice adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%sit:	727
+*CHI:	this is tea_party .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|teaparty-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	728
+*CHI:	Laura tea_party .
+%mor:	noun|Laura noun|teaparty .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	728
+*CHI:	Susie come see it .
+%mor:	noun|Susie verb|come-Fin-Ind-Pres-S verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%sit:	728
+*CHI:	no go eat living_room nut .
+%mor:	intj|no verb|go-Fin-Imp-S verb|eat-Fin-Imp-S noun|livingroom noun|nut .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|PARATAXIS 4|5|COMPOUND 5|3|OBJ 6|2|PUNCT
+%sit:	729
+*CHI:	just dining_room .
+%mor:	adv|just noun|diningroom .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	729
+*CHI:	spill milk .
+%mor:	verb|spill-Inf-S noun|milk .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	729
+*CHI:	do not Susie spill milk .
+%mor:	aux|do-Fin-Imp-S part|not noun|Susie verb|spill-Inf-S noun|milk .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	729
+*CHI:	do not spill milk .
+%mor:	aux|do-Fin-Imp-S part|not verb|spill-Fin-Imp-S noun|milk .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	729
+*CHI:	no spill milk .
+%mor:	det|no-Def noun|spill noun|milk .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	729
+*CHI:	no spill milk .
+%mor:	det|no-Def noun|spill noun|milk .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	729
+*CHI:	no spill milk .
+%mor:	det|no-Def noun|spill noun|milk .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	729
+*MOT:	don't worry about it Laura .
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about pron|it-Prs-Acc-S3 noun|Laura .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|5|CASE 5|3|OBL 6|3|VOCATIVE 7|3|PUNCT
+%sit:	729
+*CHI:	this is broken .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|break-Part-Past-S .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+%sit:	730
+@End

@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/c-00010769-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;11.26|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	15-FEB-1973
+@Types:	long, toyplay, TD
+*CHI:	here's my purse .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|purse .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+%sit:	1438
+*CHI:	could I dump playroom ?
+%mor:	aux|could-Fin-S pron|I-Prs-Nom-S1 verb|dump-Inf-S noun|playroom ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1439
+*MOT:	no, I just cleaned it up .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 adv|just verb|clean-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adp|up .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+%sit:	1439
+*MOT:	Laura, here's your key .
+%mor:	noun|Laura cm|cm adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|key .
+%gra:	1|3|VOCATIVE 2|3|PUNCT 3|6|ROOT 4|3|COP 5|6|NMOD-POSS 6|3|NSUBJ 7|3|PUNCT
+%sit:	1440
+*CHI:	I can't see it .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1440
+*CHI:	Deedee [: Joanna] won't wake up me .
+%mor:	noun|Joanna aux|will-Fin-S~part|not verb|wake-Inf-S adp|up pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|COMPOUND-PRT 6|4|OBJ 7|4|PUNCT
+%sit:	1441
+*CHI:	you talk Polly .
+%mor:	pron|you-Prs-Nom-S2 verb|talk-Fin-Ind-Pres-S2 noun|Polly .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1442
+*CHI:	I gonna race you .
+%mor:	pron|I-Prs-Nom-S1 adv|gonna verb|race-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1443
+@End

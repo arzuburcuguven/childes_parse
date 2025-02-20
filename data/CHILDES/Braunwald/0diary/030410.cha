@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00011188-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;04.10|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	30-JUN-1974
+@Types:	long, toyplay, TD
+*CHI:	what kind of animal is this ?
+%mor:	det|what-Def-Int noun|kind adp|of noun|animal aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|DET 2|6|ROOT 3|4|CASE 4|2|NMOD 5|2|COP 6|2|NSUBJ 7|2|PUNCT
+%sit:	896
+*MOT:	cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	896
+*CHI:	I bet it's still mooing .
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still adj|mooing-Pos-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|2|CCOMP 7|2|PUNCT
+%sit:	896
+*CHI:	what kind of animal is this ?
+%mor:	det|what-Def-Int noun|kind adp|of noun|animal aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|DET 2|6|ROOT 3|4|CASE 4|2|NMOD 5|2|COP 6|2|NSUBJ 7|2|PUNCT
+%sit:	897
+*MOT:	it's not .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	897
+*MOT:	it's vegetable .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|vegetable .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	897
+*CHI:	oh, it grows with seeds .
+%mor:	intj|oh cm|cm pron|it-Prs-Nom-S3 verb|grow-Fin-Ind-Pres-S3 adp|with noun|seed-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%sit:	897
+*MOT:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	897
+*CHI:	a bird really did make the egg right ?
+%mor:	det|a-Ind-Art noun|bird adv|really aux|do-Fin-Ind-Past-S3 verb|make-Inf-S det|the-Def-Art noun|egg adv|right ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|8|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+%sit:	898
+*MOT:	yeah, a chicken .
+%mor:	intj|yeah cm|cm det|a-Ind-Art noun|chicken .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|4|ROOT 5|4|PUNCT
+%sit:	898
+@End

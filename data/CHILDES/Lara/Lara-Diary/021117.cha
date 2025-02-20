@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/c-00018073-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;11.17|female|||Target_Child|||
+@Date:	02-MAY-1997
+@Comment:	Mum Dad Grandma Grandad
+@Types:	long, everyday, TD
+*CHI:	who is this ?
+%mor:	pron|who-Rel-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	whose is this ?
+%mor:	pron|whose-Rel-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%com:	immed after
+*CHI:	where has it gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where has Sindy gone ?
+%mor:	adv|where aux|have-Fin-Ind-Pres-S3 noun|Sindy verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where has the easel gone ?
+%mor:	adv|where verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|easel verb|go-Part-Past-S ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	where (i)s Sarah gone ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 noun|Sarah verb|go-Part-Past-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+@End

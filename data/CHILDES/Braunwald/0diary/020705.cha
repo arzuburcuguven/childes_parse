@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/c-00010966-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;07.05|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	25-SEP-1973
+@Types:	long, toyplay, TD
+*CHI:	which one you like ?
+%mor:	det|which-Def-Int noun|one pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 ?
+%gra:	1|2|DET 2|4|OBJ 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	719
+*FAT:	that one .
+%mor:	det|that-Def-Dem num|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	719
+*CHI:	soon I will be asleep .
+%mor:	adv|soon pron|I-Prs-Nom-S1 aux|will-Fin-S aux|be-Inf-S adj|asleep-Pos-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|COP 5|5|ROOT 6|5|PUNCT
+%sit:	720
+*CHI:	Sammy run over a car .
+%mor:	noun|Sammy verb|run-Fin-Ind-Pres-S3 adp|over det|a-Ind-Art noun|car .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%sit:	723
+*CHI:	Sammy was hit by a car .
+%mor:	noun|Sammy aux|be-Fin-Ind-Past-S3 verb|hit-Part-Past-S adp|by det|a-Ind-Art noun|car .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL-AGENT 7|3|PUNCT
+%sit:	723
+*CHI:	bad Ruthie, you are dumb_dumb .
+%mor:	adj|bad-Pos-S1 noun|Ruthie cm|cm pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adj|dumbdumb-Pos-S1 .
+%gra:	1|2|AMOD 2|6|VOCATIVE 3|2|PUNCT 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%sit:	724
+@End

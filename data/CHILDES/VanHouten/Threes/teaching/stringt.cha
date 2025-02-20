@@ -1,0 +1,596 @@
+@UTF8
+@PID:	11312/c-00017679-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, MOT Mother, CHI Target_Child, FAT Father
+@Options:	multi
+@ID:	eng|VanHouten|INV|||||Investigator|||
+@ID:	eng|VanHouten|MOT||female|||Mother|||
+@ID:	eng|VanHouten|CHI|3;05.20|female|MOT_Adolescent_||Target_Child|MOT_2_|McCarthyCog-119,_McCarthy_Verbal-59,_RITLS-16|
+@ID:	eng|VanHouten|FAT||male|||Father|||
+@Media:	stringt, audio
+@Comment:	Education of MOT is 2
+@Comment:	Mother's Age Group Adolescent
+@Comment:	McCarthy-Cognitive 119
+@Comment:	McCarthy-Verbal 59
+@Comment:	RITLS 16
+@Situation:	Teaching
+@Comment:	child teaches mother to take a small figure make it jump up and down three times and then place it on a minature park bench.
+@Comment:	cross, toyplay, TD
+@Types:	cross, toyplay, TD
+*INV:	can you show Mommy how to do it ? 45500_47426
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|show-Inf-S noun|Mommy adv|how part|to verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|IOBJ 5|3|OBJ 6|7|MARK 7|5|ACL 8|7|OBJ 9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Dir
+*INV:	teach Mommy . 47426_48443
+%mor:	verb|teach-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Dir
+*INV:	tell Mommy how to do it . 48443_50290
+%mor:	verb|tell-Fin-Imp-S noun|Mommy adv|how part|to verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|1|OBJ 4|5|MARK 5|3|ACL 6|5|OBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Dir
+*MOT:	can I look now Bec ? 50290_51550
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|look-Inf-S adv|now noun|Bec ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|ADVMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rfi
+*CHI:	0 . 50290_50893
+%sit:	begins to demonstrate .
+*INV:	wait . 50893_51395
+%mor:	verb|wait-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Tmo $C/R
+*INV:	Mommy's not looking . 51395_52488
+%mor:	noun|Mommy~aux|be-Fin-Ind-Pres-S3 part|not verb|look-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rep
+*INV:	tell Mommy to look . 52488_53766
+%mor:	verb|tell-Fin-Imp-S noun|Mommy part|to verb|look-Inf-S .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|MARK 4|1|XCOMP 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Tmo $Dir
+*MOT:	what do I gotta do ? 53766_55600
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|gotta verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*CHI:	one two three four five six sit on the bench . 55600_61001
+%mor:	num|one num|two num|three num|four num|five num|six verb|sit-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|bench .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|6|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|7|NSUBJ 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%sit:	demonstrates
+%cod:	$MLU=10 $NMV=1 $Tmo $Tea
+*INV:	alright let's see if Mommy does it right . 61001_63255
+%mor:	intj|alright verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S sconj|if noun|Mommy verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adv|right .
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|2|OBJ 4|2|XCOMP 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|7|OBJ 9|7|ADVMOD 10|2|PUNCT
+%cod:	$MLU=9 $NMV=3 $Tmo $Dir
+*MOT:	I hafta do it how many times ? 63255_64488
+%mor:	pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 adv|how adj|many-Pos-S1 noun|time-Plur ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|6|ADVMOD 6|7|AMOD 7|3|OBL-TMOD 8|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Rfi
+*CHI:	one two three four five seven times . 64488_67828
+%mor:	num|one num|two num|three num|four num|five num|seven noun|time-Plur .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|5|COMPOUND 5|7|NUMMOD 6|7|NUMMOD 7|7|ROOT 8|7|PUNCT
+%cod:	$MLU=7 $NMV=0 $Tmo $Trq
+*MOT:	one two three four five . 67828_71228
+%mor:	num|one num|two num|three num|four num|five .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|5|ROOT 4|5|NUMMOD 5|3|CONJ 6|3|PUNCT
+%sit:	performs task
+%cod:	$MLU=9 $NMV=1 $Tmo $Lim
+*CHI:	sit on the bench . 71228_72851
+%mor:	verb|sit-Fin-Imp-S adp|on det|the-Def-Art noun|bench .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Tea
+*MOT:	sit on the bench . 72851_73365
+%mor:	verb|sit-Fin-Imp-S adp|on det|the-Def-Art noun|bench .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%sit:	performs task
+%cod:	$MLU=4 $NMV=1 $Tmo $Lim
+*INV:	is that right ? 73365_74300
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adj|right-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*CHI:	yup . 74300_74815
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Eva
+@Comment:	child teaches mother to make a figure jump over a big figure , run around a little one and then sit on the bench.
+*INV:	can you get Mommy and teach Mommy how ? 115815_117650
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S noun|Mommy cconj|and verb|teach-Inf-S noun|Mommy adv|how ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|6|IOBJ 8|6|ADVMOD 9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Dir
+*MOT:	okay what do I gotta do ? 117650_119353
+%mor:	intj|okay pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|gotta verb|do-Inf-S ?
+%gra:	1|6|DISCOURSE 2|6|OBJ 3|6|AUX 4|6|NSUBJ 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Dir
+*CHI:	hoppin(g) down . 119353_122270
+%mor:	verb|hopping-Ger-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=2 $NMV=1 $Tmo $Tea
+*CHI:	run around around . 122270_124508
+%mor:	verb|run-Fin-Imp-S adv|around adv|around .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=3 $NMV=1 $Tmo $Tea
+*CHI:	okay ? 124508_125348
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Tea
+*MOT:	what does she gotta do ? 124508_125945
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 adv|gotta verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rfi
+*CHI:	run around hop [/] hop [/] hop [/] hop . 125945_130088
+%mor:	verb|run-Fin-Imp-S adp|around noun|hop .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=6 $NMV=2 $Tmo $Trq
+*FAT:	show Mom one more time . 127945_130535
+%mor:	verb|show-Inf-S noun|mom num|one adj|more-Cmp-S1 noun|time .
+%gra:	1|5|ROOT 2|1|IOBJ 3|5|NUMMOD 4|5|AMOD 5|1|OBL-TMOD 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*INV:	what does she do first ? 130535_131666
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Inf-S adv|first ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*INV:	tell Mommy . 131666_133481
+%mor:	verb|tell-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Dir
+*CHI:	Mom I hafta go to the bathroom . 133481_135675
+%mor:	noun|mom pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S verb|go-Inf-S adp|to det|the-Def-Art noun|bathroom .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|DISCOURSE 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Rsc
+*CHI:	don't do it . 135675_136320
+%mor:	aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rsc
+*CHI:	you show her . 136320_137408
+%mor:	pron|you-Prs-Nom-S2 verb|show-Fin-Ind-Pres-S2 pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rsc
+*CHI:	you tell her . 137408_138571
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|IOBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rsc
+*INV:	no I'm gonna have you tell her okay . 138571_140443
+%mor:	intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|gonna verb|have-Inf-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|her-Prs-Acc-S3 intj|okay .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|NSUBJ 7|5|XCOMP 8|7|IOBJ 9|5|DISCOURSE 10|5|PUNCT
+%cod:	$MLU=9 $NMV=2 $Tmo $Rsc
+*INV:	we'll wait for you . 140443_141111
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|wait-Inf-S adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rsc
+*CHI:	go run around the girl . 178050_180610
+%mor:	verb|go-Fin-Imp-S verb|run-Inf-S adp|around det|the-Def-Art noun|girl .
+%gra:	1|5|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Tea
+*CHI:	then you go hop [/] hop . 180610_185135
+%mor:	adv|then pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 noun|hop .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Tea
+*MOT:	what does it gotta do ? 185135_186451
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adv|gotta verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rfi
+*CHI:	0 . 186451_186910
+%sit:	demonstrates .
+*MOT:	hop around . 186910_189526
+%mor:	verb|hop-Fin-Imp-S adv|around .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Ext
+*MOT:	then run around . 189526_190538
+%mor:	adv|then verb|run-Fin-Imp-S adv|around .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Ext
+*INV:	want me to show you again ? 190538_191286
+%mor:	verb|want-Fin-Imp-S pron|I-Prs-Acc-S1 part|to verb|show-Inf-S pron|you-Prs-Acc-S2 adv|again ?
+%gra:	1|6|ROOT 2|1|OBJ 3|4|MARK 4|1|XCOMP 5|4|IOBJ 6|4|ADVMOD 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Rfi
+*CHI:	0 . 191286_191835
+%sit:	nods
+*INV:	okay . 191835_193133
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tch $Tea
+*INV:	ready ? 193133_194378
+%mor:	adj|ready-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tch $Tea
+*MOT:	okay I hafta close my eyes okay ? 194378_195405
+%mor:	intj|okay pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|close-Inf-S pron|my-Prs-Gen-S1 noun|eye-Plur adj|okay-Pos-S1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|XCOMP 8|4|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tch $Rep
+*INV:	jump over the big one and run around the little one . 195405_199876
+%mor:	verb|jump-Fin-Imp-S adp|over det|the-Def-Art adj|big-Pos-S1 noun|one cconj|and verb|run-Fin-Imp-S adp|around det|the-Def-Art adj|little-Pos-S1 noun|one .
+%gra:	1|11|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|7|CC 7|1|CONJ 8|11|CASE 9|11|DET 10|11|AMOD 11|7|OBL 12|1|PUNCT
+%cod:	$MLU=11 $NMV=2 $Tch $Tea
+*CHI:	see ? 199876_200320
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Tmo $C/R
+*CHI:	now do it . 200320_201363
+%mor:	adv|now verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $C/R
+*INV:	and then sit on the bench . 200320_201976
+%mor:	cconj|and adv|then verb|sit-Fin-Imp-S adp|on det|the-Def-Art noun|bench .
+%gra:	1|3|CC 2|3|ADVMOD 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tch $Tea
+*INV:	no you're gonna tell her . 201976_202911
+%mor:	intj|no pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|gonna verb|tell-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Dir
+*INV:	Mommy can't hear . 202911_203846
+%mor:	noun|Mommy aux|can-Fin-S~part|not verb|hear-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rep
+*MOT:	okay . 203846_205088
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $A/A
+*INV:	you show Mommy . 205088_206005
+%mor:	pron|you-Prs-Nom-S2 verb|show-Fin-Ind-Pres-S2 noun|Mommy .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Dir
+*MOT:	okay what's she gonna do now ? 206005_207531
+%mor:	intj|okay pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 adv|gonna verb|do-Inf-S adv|now ?
+%gra:	1|6|DISCOURSE 2|6|OBJ 3|6|AUX 4|6|NSUBJ 5|6|ADVMOD 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%cod:	$MLU=7 $NMV=1 $Tmo $Dir
+*CHI:	you hop over this one . 207531_210376
+%mor:	pron|you-Prs-Nom-S2 verb|hop-Fin-Ind-Pres-S2 adp|over det|this-Def-Dem noun|one .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%sit:	demonstrates
+%cod:	$MLU=5 $NMV=1 $Tmo $Tea
+*CHI:	run around the girl . 210376_212570
+%mor:	verb|run-Fin-Imp-S adp|around det|the-Def-Art noun|girl .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%sit:	demonstrates
+%cod:	$MLU=4 $NMV=1 $Tmo $Tea
+*CHI:	now sit on the bench . 212570_214436
+%mor:	adv|now verb|sit-Fin-Imp-S adp|on det|the-Def-Art noun|bench .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%sit:	demonstrates
+%cod:	$MLU=5 $NMV=1 $Tmo $Tea
+*MOT:	okay . 214436_215753
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $A/A
+*CHI:	okay ? 215753_216465
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Tea
+*MOT:	she's gonna hop around this one . 216465_218138
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|hop-Inf-S adp|around det|this-Def-Dem noun|one .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Tmo $Rfi
+*MOT:	hop around her ? 218138_219533
+%mor:	verb|hop-Fin-Imp-S adp|around pron|her-Prs-Acc-S3 ?
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*CHI:	no run around her . 219533_222071
+%mor:	det|no-Def noun|run adp|around pron|her-Prs-Acc-S3 .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Trq
+*CHI:	you run around the bigger one . 222071_224361
+%mor:	pron|you-Prs-Nom-S2 verb|run-Fin-Ind-Pres-S2 adp|around det|the-Def-Art adj|big-Cmp-S1 noun|one .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Trq
+*MOT:	she's gotta run around the big one and the little one ? 224361_226883
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|gotta verb|run-Inf-S adp|around det|the-Def-Art adj|big-Pos-S1 noun|one cconj|and det|the-Def-Art adj|little-Pos-S1 noun|one ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|12|CC 10|12|DET 11|12|AMOD 12|8|CONJ 13|4|PUNCT
+%cod:	$MLU=12 $NMV=1 $Tmo $Rfi
+*CHI:	no . 226883_228276
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Trq
+*MOT:	what ? 228276_228811
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Rfi
+*CHI:	you hop over the littler one . 228811_230661
+%mor:	pron|you-Prs-Nom-S2 verb|hop-Fin-Ind-Pres-S2 adp|over det|the-Def-Art noun|littler num|one .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|5|NUMMOD 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Trq
+*MOT:	I hop over the little one ? 230661_232495
+%mor:	pron|I-Prs-Nom-S1 verb|hop-Fin-Ind-Pres-S1 adp|over det|the-Def-Art adj|little-Pos-S1 noun|one ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Rfi
+*CHI:	you hop over the big one . 232495_234250
+%mor:	pron|you-Prs-Nom-S2 verb|hop-Fin-Ind-Pres-S2 adp|over det|the-Def-Art adj|big-Pos-S1 noun|one .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Trq
+*MOT:	and then what ? 234250_235416
+%mor:	cconj|and adv|then pron|what-Int-S1 ?
+%gra:	1|3|CC 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Tmo $Rfi
+*CHI:	you run around and around sit on the bench . 235416_239041
+%mor:	pron|you-Prs-Nom-S2 verb|run-Fin-Ind-Pres-S2 adv|around cconj|and adv|around verb|sit-Fin-Ind-Pres-S2 adp|on det|the-Def-Art noun|bench .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|ADVMOD 4|6|CC 5|6|ADVMOD 6|2|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+%cod:	$MLU=9 $NMV=2 $Tmo $Trq
+*MOT:	0 . 239041_239633
+%sit:	performs task .
+*CHI:	good ! 239633_240903
+%mor:	adj|good-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Eva
+*CHI:	good girl . 240903_241971
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Eva
+*MOT:	oh thank_you ! 241971_243136
+%mor:	intj|oh intj|thankyou !
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Rep
+*INV:	she did it and you showed her how . 243136_246763
+%mor:	pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 cconj|and pron|you-Prs-Nom-S2 verb|show-Fin-Ind-Past-S2 pron|her-Prs-Acc-S3 adv|how .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|6|CC 5|6|NSUBJ 6|2|CONJ 7|6|IOBJ 8|6|ADVMOD 9|2|PUNCT
+%cod:	$MLU=8 $NMV=2 $Clo $Evt
+*MOT:	thank_you for teaching me . 246763_247966
+%mor:	noun|thankyou sconj|for verb|teach-Ger-S pron|I-Prs-Acc-S1 .
+%gra:	1|4|ROOT 2|3|MARK 3|1|ACL 4|3|OBJ 5|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Clo $Evt
+@Comment:	child teaches mother to string beads; first a round one and then a square one.
+*INV:	now you're gonna show Mommy how to do that . 329966_331470
+%mor:	adv|now pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|gonna verb|show-Inf-S noun|Mommy adv|how part|to verb|do-Inf-S pron|that-Dem-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|IOBJ 7|5|OBJ 8|9|MARK 9|7|ACL 10|9|OBJ 11|5|PUNCT
+%cod:	$MLU=10 $NMV=2 $Tmo $Dir
+*MOT:	is it my turn ? 330470_331996
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|my-Prs-Gen-S1 noun|turn ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Dir
+*INV:	okay ? 331996_332931
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Dir
+*INV:	now you're gonna show Mommy . 332931_334000
+%mor:	adv|now pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|gonna verb|show-Inf-S noun|Mommy .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Dir
+*MOT:	okay . 334000_335146
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Dir
+*INV:	tell Mommy how to do it . 335146_335966
+%mor:	verb|tell-Fin-Imp-S noun|Mommy adv|how part|to verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|1|OBJ 4|5|MARK 5|3|ACL 6|5|OBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Dir
+*MOT:	what have I gotta do ? 335966_336845
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|gotta verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Dir
+*CHI:	I show you how [*] . 336845_338931
+%mor:	pron|I-Prs-Nom-S1 verb|show-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adv|how .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|IOBJ 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rep
+*MOT:	okay and then I'll do it ? 338931_340225
+%mor:	intj|okay cconj|and adv|then pron|I-Prs-Nom-S1~aux|will-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|6|DISCOURSE 2|6|CC 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%cod:	$MLU=7 $NMV=1 $Tmo $Dir
+*MOT:	okay . 340225_341695
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Dir
+*MOT:	what kind is that ? 341695_342630
+%mor:	det|what-Def-Int noun|kind aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|4|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Qui
+*CHI:	five . 342630_343278
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Rep
+*MOT:	what kind is that ? 343278_344140
+%mor:	det|what-Def-Int noun|kind aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|4|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Qui
+*CHI:	ball bead . 344140_345685
+%mor:	noun|ball noun|bead .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Rep
+*MOT:	okay a ball bead . 345685_347688
+%mor:	intj|okay det|a-Ind-Art noun|ball noun|bead .
+%gra:	1|4|DISCOURSE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Tmo $Evp
+*MOT:	now what other kind ? 347688_349258
+%mor:	adv|now det|what-Def-Int adj|other-Pos-S1 noun|kind ?
+%gra:	1|4|ADVMOD 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Tmo $Qui
+*CHI:	square . 349258_350875
+%mor:	adj|square-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Rep
+*MOT:	a square one okay . 350875_352828
+%mor:	det|a-Ind-Art adj|square-Pos-S1 noun|one adj|okay-Pos-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Tmo $Evp
+*CHI:	another hole . 352828_356358
+%mor:	det|another-Def noun|hole .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Tea
+*CHI:	like that . 356358_361833
+%mor:	adp|like pron|that-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%sit:	demonstrates stringing beads
+%cod:	$MLU=2 $NMV=0 $Tmo $Tea
+*CHI:	two holes . 361833_363208
+%mor:	num|two noun|hole-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Tea
+*MOT:	alright . 363208_364681
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $A/A
+*MOT:	how many do I hafta do ? 364681_366380
+%mor:	adv|how adj|many-Pos-S1 aux|do-Fin-Ind-Pres-P1 pron|I-Prs-Nom-S1 intj|hafta verb|do-Inf-S ?
+%gra:	1|2|ADVMOD 2|6|ADVMOD 3|6|AUX 4|6|NSUBJ 5|6|DISCOURSE 6|6|ROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Rfi
+*CHI:	these many . 366380_368971
+%mor:	det|this-Def-Dem adj|many-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Trq
+*INV:	is that done yet ? 368971_377446
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 verb|do-Part-Past-S adv|yet ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Dir
+*INV:	look at this . 377446_378706
+%mor:	verb|look-Fin-Imp-S adp|at pron|this-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Dir
+*INV:	is that what we did before ? 378706_380540
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Past-P1 adv|before ?
+%gra:	1|6|ROOT 2|5|MARK 3|1|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|ADVMOD 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Rfi
+*CHI:	no . 380540_383385
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Rep
+*CHI:	o:h ! 383385_385183
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	drops bead .
+%cod:	$MLU=0 $NMV=0 $Tmo $Rsc
+*INV:	okay now can you see if Mommy can do it ? 385183_387220
+%mor:	intj|okay adv|now aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S sconj|if noun|Mommy aux|can-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|9|OBJ 11|5|PUNCT
+%cod:	$MLU=10 $NMV=2 $Tmo $Dir
+*MOT:	can I do it now Becky ? 387220_388251
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 adv|now noun|Becky ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PARATAXIS 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Dir
+*CHI:	no . 388251_388791
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $C/R
+*INV:	<let's see if Mommy knows how> [>] . 388251_389906
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S sconj|if noun|Mommy verb|know-Fin-Ind-Pres-S3 adv|how .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|6|ADVMOD 8|1|PUNCT
+%sit:	simultaneous with M below .
+%cod:	$MLU=7 $NMV=3 $Tmo $Dir
+*MOT:	<can it be my turn> [<] ? 388251_390165
+%mor:	aux|can-Fin-S pron|it-Prs-Nom-S3 aux|be-Inf-S pron|my-Prs-Gen-S1 noun|turn ?
+%gra:	1|5|AUX 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%sit:	simultaneous with examiner above .
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*INV:	remember you're teaching Mommy ? 390165_394006
+%mor:	verb|remember-Fin-Imp-S pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|teach-Part-Pres-S noun|Mommy ?
+%gra:	1|5|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Dir
+*CHI:	these many . 394006_401661
+%mor:	det|this-Def-Dem adj|many-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Tea
+*CHI:	three . 401661_404640
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Tea
+*MOT:	I do three ? 404640_405971
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 num|three ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*MOT:	are you sure it's three ? 405971_407175
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|sure-Pos-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|three ?
+%gra:	1|3|COP 2|3|NSUBJ 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Rfi
+*CHI:	yup . 407175_408033
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Trq
+*MOT:	okay . 408033_408855
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $A/A
+*MOT:	I use this end right ? 408855_410978
+%mor:	pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 det|this-Def-Dem noun|end adv|right ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rfi
+*CHI:	yeah . 410978_412176
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Trq
+*MOT:	don't want no knot . 410978_412685
+%mor:	aux|do-Fin-Imp-S~part|not verb|want-Fin-Imp-S det|no-Def noun|knot .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rep
+*CHI:	no knot . 412685_414223
+%mor:	det|no-Def noun|knot .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Rep
+*MOT:	okay I put it through the hole . 414223_416668
+%mor:	intj|okay pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adp|through det|the-Def-Art noun|hole .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%sit:	performs task
+%cod:	$MLU=7 $NMV=1 $Tmo $Lim
+*MOT:	one . 416668_418448
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Lim
+*MOT:	now a square one ? 418448_420430
+%mor:	adv|now det|a-Ind-Art adj|square-Pos-S1 noun|one ?
+%gra:	1|4|ADVMOD 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Tmo $Rfi
+*CHI:	want another bead ? 420430_422358
+%mor:	verb|want-Fin-Imp-S det|another-Def noun|bead ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*MOT:	and another round one . 422358_425353
+%mor:	cconj|and det|another-Def noun|round num|one .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|DEP 5|3|PUNCT
+%sit:	performs task
+%cod:	$MLU=4 $NMV=0 $Tmo $Lim
+*CHI:	another bead . 425353_428103
+%mor:	det|another-Def noun|bead .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $C/R
+*MOT:	no I'm all set . 428103_429178
+%mor:	intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|all adj|set-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rep
+*MOT:	okay I'm done . 429178_430438
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|do-Part-Past-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rep
+*INV:	is she done ? 430438_431483
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Past-S ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*MOT:	look . 431483_432131
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Tmo $C/R
+*MOT:	am I done Becky ? 432131_432970
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|do-Part-Past-S noun|Becky ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rfi
+*MOT:	<that's the way you did it> [>] . 432970_433926
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|way pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|7|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|6|OBJ 8|4|PUNCT
+%sit:	simultaneous with examiner below .
+%cod:	$MLU=7 $NMV=2 $Tmo $Rep
+*INV:	<is Mommy done> [<] ? 432970_434431
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|Mommy verb|do-Part-Past-S ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|3|ROOT 4|3|PUNCT
+%sit:	simultaneous with M above .
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*CHI:	no one more . 434431_436073
+%mor:	det|no-Def pron|one-Neg-S1 adj|more-Cmp-S1 .
+%gra:	1|2|DET 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%cod:	$MLU=3 $NMV=0 $Tmo $Eva
+*CHI:	I'll get it for you . 436073_440375
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|get-Inf-S pron|it-Prs-Acc-S3 adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Rep
+*CHI:	you don't know how to do it . 440375_443193
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|know-Inf-S adv|how part|to verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|7|MARK 7|5|ACL 8|7|OBJ 9|4|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Rep
+*MOT:	oh I don't know huh . 443193_445313
+%mor:	intj|oh pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S intj|huh .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rep
+*INV:	you fixing it for Mommy ? 445313_446443
+%mor:	pron|you-Prs-Nom-S2 verb|fix-Ger-S pron|it-Prs-Acc-S3 adp|for noun|Mommy ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rfi
+*CHI:	yeah . 446443_447258
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Rep
+@End

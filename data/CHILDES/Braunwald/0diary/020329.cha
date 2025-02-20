@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/c-00010875-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, SIS Sister, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;03.29|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	19-JUN-1973
+@Types:	long, toyplay, TD
+*CHI:	Deedee [: Joanna] pulled down my crib .
+%mor:	noun|Joanna verb|pull-Fin-Ind-Past-S3 adp|down pron|my-Prs-Gen-S1 noun|crib .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+%sit:	125
+*CHI:	then I get out .
+%mor:	adv|then pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adv|out .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%sit:	125
+*CHI:	I want one those like Deedee [: Joanna] got .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|one pron|that-Dem-P1 adp|like noun|Joanna verb|get-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|7|NSUBJ 5|7|MARK 6|7|NSUBJ 7|3|ACL-RELCL 8|2|PUNCT
+%sit:	126
+*CHI:	in_case this get +...
+%mor:	intj|incase pron|this-Dem-S1 verb|get-Fin-S +...
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	127
+*CHI:	in_case this get for (to)morrow .
+%mor:	intj|incase pron|this-Dem-S1 verb|get-Inf-S adp|for noun|tomorrow .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	127
+*SIS:	look that's a letter t@l .
+%mor:	verb|look-Fin-Imp-S pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|letter noun|t .
+%gra:	1|6|ROOT 2|5|NSUBJ 3|5|COP 4|6|DET 5|6|COMPOUND 6|1|PARATAXIS 7|1|PUNCT
+%sit:	128
+*MOT:	it's an airplane .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|airplane .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%sit:	128
+*MOT:	it looks like an airplane .
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|airplane .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%sit:	128
+*CHI:	it is .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	128
+*CHI:	fly on it .
+%mor:	verb|fly-Fin-Imp-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%sit:	128
+*CHI:	you can fly on it .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|fly-Inf-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	128
+*CHI:	give me something wipe my eye .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 pron|something-Ind-S1 verb|wipe-Inf-S pron|my-Prs-Gen-S1 noun|eye .
+%gra:	1|6|ROOT 2|1|IOBJ 3|1|OBJ 4|3|ACL 5|6|NMOD-POSS 6|4|OBJ 7|1|PUNCT
+%sit:	129
+*CHI:	lookit that hair .
+%mor:	verb|lookit-Fin-Imp-S det|that-Def-Dem noun|hair .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%sit:	130
+*CHI:	my daddy like that hair .
+%mor:	pron|my-Prs-Gen-S1 noun|daddy adp|like det|that-Def-Dem noun|hair .
+%gra:	1|2|NMOD-POSS 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%sit:	130
+*CHI:	my daddy will like that hair .
+%mor:	pron|my-Prs-Gen-S1 noun|daddy aux|will-Fin-S verb|like-Inf-S det|that-Def-Dem noun|hair .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	130
+*MOT:	yes, he will won't he ?
+%mor:	intj|yes cm|cm pron|he-Prs-Nom-S3 aux|will-Fin-S aux|will-Fin-S~part|not pron|he-Prs-Nom-S3 ?
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|5|ADVMOD 7|5|OBJ 8|5|PUNCT
+%sit:	130
+*CHI:	when Dougie's mommy come ?
+%mor:	adv|when noun|Dougie~part|s noun|mommy verb|come-Fin-Ind-Pres-S3 ?
+%gra:	1|5|ADVMOD 2|4|NMOD-POSS 3|2|CASE 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%sit:	131
+*CHI:	I mean when Dougie's daddy come ?
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 adv|when noun|Dougie~part|s noun|daddy verb|come-Fin-Ind-Pres-P3 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|ADVMOD 4|6|NMOD-POSS 5|4|CASE 6|7|NSUBJ 7|2|ADVCL 8|2|PUNCT
+%sit:	131
+@End

@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/c-00010625-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|01;07.01|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	21-SEP-1972
+@Types:	long, toyplay, TD
+*MOT:	let's go change your pant .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S verb|change-Inf-S pron|your-Prs-Gen-S2 noun|pant .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|1|PUNCT
+%sit:	789
+*CHI:	take Laura .
+%mor:	verb|take-Fin-Imp-S noun|Laura .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	789
+*CHI:	take Laura .
+%mor:	verb|take-Fin-Imp-S noun|Laura .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	789
+*SIS:	I'm cockling [= tickling] Laura .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|cockle-Part-Pres-S noun|Laura .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	790
+*CHI:	cockle [= tickle] me .
+%mor:	verb|cockle-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	790
+*CHI:	Hatu [: Matthew] wet pant .
+%mor:	noun|Matthew adj|wet-Pos-S1 noun|pant .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|APPOS 4|1|PUNCT
+%sit:	791
+*CHI:	hi, pretty fower [: flower] .
+%mor:	intj|hi cm|cm adv|pretty noun|flower .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	792
+*CHI:	pretty fower [: flower] .
+%mor:	adv|pretty noun|flower .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	793
+*CHI:	lock door .
+%mor:	verb|lock-Inf-S noun|door .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	794
+*MOT:	say “good_night” to your father .
+%mor:	verb|say-Fin-Imp-S noun|goodnight adp|to pron|your-Prs-Gen-S2 noun|father .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|1|PUNCT
+%sit:	795
+*MOT:	night, Father .
+%mor:	noun|night cm|cm noun|Father .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%sit:	795
+@End

@@ -1,0 +1,436 @@
+@UTF8
+@PID:	11312/a-00032067-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, CHI Target_Child
+@Options:	CA
+@ID:	eng|Gelman|INV|||||Investigator|||
+@ID:	eng|Gelman|CHI|4;08.24|male|||Target_Child|||
+@G:	Ladybug
+@Types:	cross, adult, TD
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a creepy crawly .
+%mor:	det|a-Ind-Art adj|creepy-Pos-S1 noun|crawly .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	a lady bug .
+%mor:	det|a-Ind-Art noun|lady noun|bug .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*INV:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and spots and that's it .
+%mor:	cconj|and noun|spot-Plur cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|CC 2|6|ROOT 3|6|CC 4|6|NSUBJ 5|6|COP 6|2|CONJ 7|2|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, it has black spots and it's red and that's it .
+%mor:	intj|um cm|cm pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|black-Pos-S1 noun|spot-Plur cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|red-Pos-S1 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|14|ROOT 5|6|AMOD 6|4|OBJ 7|10|CC 8|10|NSUBJ 9|10|COP 10|4|CONJ 11|14|CC 12|14|NSUBJ 13|14|COP 14|4|CONJ 15|4|PUNCT
+*CHI:	and it has hair just like us .
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|hair adv|just adp|like pron|we-Prs-Acc-P1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|ADVMOD 6|7|CASE 7|3|OBL 8|3|PUNCT
+*INV:	Zorg doesn't know much about this one can you help him out ?
+%mor:	noun|Zorg aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S adj|much-Pos-S1 adp|about det|this-Def-Dem noun|one aux|can-Fin-S pron|you-Prs-Nom-S2 verb|help-Inf-S pron|he-Prs-Acc-S3 adp|out ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|OBL 9|11|AUX 10|11|NSUBJ 11|4|CCOMP 12|11|OBJ 13|11|COMPOUND-PRT 14|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	please help him out .
+%mor:	intj|please verb|help-Fin-Imp-S pron|he-Prs-Acc-S3 adp|out .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+*CHI:	um, yes .
+%mor:	intj|um cm|cm intj|yes .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	it has an line and wings .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|line cconj|and noun|wing-Plur .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|4|CONJ 7|2|PUNCT
+*CHI:	the lady bug is the wing, and that's it .
+%mor:	det|the-Def-Art noun|lady noun|bug aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|wing cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|DET 6|11|ROOT 7|11|PUNCT 8|11|CC 9|11|NSUBJ 10|11|COP 11|6|CONJ 12|6|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	you want to flip the page ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|flip-Inf-S det|the-Def-Art noun|page ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	Painter
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	an artist .
+%mor:	det|a-Ind-Art noun|artist .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has grass .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|grass .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	and a tree .
+%mor:	cconj|and det|a-Ind-Art noun|tree .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*INV:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and uh floor knob, and that's it .
+%mor:	cconj|and intj|uh noun|floor noun|knob cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|DISCOURSE 3|4|COMPOUND 4|9|ROOT 5|9|PUNCT 6|9|CC 7|9|NSUBJ 8|9|COP 9|4|CONJ 10|4|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	uh, there hasta be something that's green [?] .
+%mor:	intj|uh cm|cm pron|there-Int-S1 aux|hasta-Fin-S3 aux|be-Inf-S pron|something-Ind-S1 pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 adj|green-Pos-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|EXPL 4|5|AUX 5|9|ROOT 6|5|NSUBJ 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|5|PUNCT
+*CHI:	it has dirt .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|dirt .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and that's it .
+%mor:	cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+@G:	Turtle
+*INV:	what is no let's go in order .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|no-Def-Art verb|let-Inf-S~pron|we-Prs-Acc-P1 verb|go-Inf-S adp|in noun|order .
+%gra:	1|4|NSUBJ-OUTER 2|1|COP 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a turtle .
+%mor:	det|a-Ind-Art noun|turtle .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has a shell and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|shell cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|8|CC 6|8|NSUBJ 7|8|COP 8|2|CONJ 9|2|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it only has a tail and four legs and that's it .
+%mor:	pron|it-Prs-Nom-S3 adv|only verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tail cconj|and num|four noun|leg-Plur cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|12|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|NUMMOD 8|5|CONJ 9|12|CC 10|12|NSUBJ 11|12|COP 12|3|CONJ 13|3|PUNCT
+@G:	Pirate
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a pirate .
+%mor:	det|a-Ind-Art noun|pirate .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has a treasure chest and a xxx and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|treasure noun|chest cconj|and det|a-Ind-Art cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|7|CC 7|5|CONJ 8|11|CC 9|11|NSUBJ 10|11|COP 11|2|CONJ 12|2|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, it does not have a leg .
+%mor:	intj|um cm|cm pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 part|not verb|have-Inf-S det|a-Ind-Art noun|leg .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	it has jewels and a treasure chest and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|jewel-Plur cconj|and det|a-Ind-Art noun|treasure noun|chest cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|7|CC 5|7|DET 6|7|COMPOUND 7|3|CONJ 8|11|CC 9|11|NSUBJ 10|11|COP 11|2|CONJ 12|2|PUNCT
+@G:	Duck
+*INV:	mm what is this ?
+%mor:	intj|mm pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	a bird .
+%mor:	det|a-Ind-Art noun|bird .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it's a duck .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|duck .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	and it has xxx .
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	and, it has a green head .
+%mor:	cconj|and cm|cm pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|green-Pos-S1 noun|head .
+%gra:	1|4|CC 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*CHI:	and a black mouth and that's it .
+%mor:	cconj|and det|a-Ind-Art adj|black-Pos-S1 noun|mouth cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|8|ROOT 5|8|CC 6|8|NSUBJ 7|8|COP 8|4|CONJ 9|4|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um it has white fur and uh, mm, and uh wings and that's it .
+%mor:	intj|um pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|white-Pos-S1 noun|fur cconj|and intj|uh cm|cm intj|mm cm|cm cconj|and intj|uh noun|wing-Plur cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|17|ROOT 4|5|AMOD 5|3|OBJ 6|13|CC 7|13|DISCOURSE 8|7|PUNCT 9|13|DISCOURSE 10|13|PUNCT 11|13|CC 12|13|DISCOURSE 13|5|CONJ 14|17|CC 15|17|NSUBJ 16|17|COP 17|3|CONJ 18|3|PUNCT
+@G:	Baby
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a baby .
+%mor:	det|a-Ind-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has a dummy [?] and stars .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dummy cconj|and noun|star-Plur .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|4|CONJ 7|2|PUNCT
+*CHI:	and it has a face arms legs ears hair mouth, nose ears eyes everything, in the whole wide world and that's it .
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|face noun|arm-Plur noun|leg-Plur noun|ear-Plur noun|hair noun|mouth cm|cm noun|nose noun|ear-Plur noun|eye-Plur pron|everything-Tot-S1 cm|cm adp|in det|the-Def-Art adj|whole-Pos-S1 adj|wide-Pos-S1 noun|world cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|25|ROOT 4|10|DET 5|6|COMPOUND 6|7|COMPOUND 7|10|COMPOUND 8|10|COMPOUND 9|10|COMPOUND 10|3|XCOMP 11|15|PUNCT 12|13|COMPOUND 13|15|NSUBJ 14|15|NSUBJ 15|10|CONJ 16|21|PUNCT 17|21|CASE 18|21|DET 19|21|AMOD 20|21|AMOD 21|10|NMOD 22|25|CC 23|25|NSUBJ 24|25|COP 25|3|CONJ 26|3|PUNCT
+*INV:	tell me more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adj|more-Cmp-S1 .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	&=sighs it has a doggy .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|doggy .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and a lamp and that it .
+%mor:	cconj|and det|a-Ind-Art noun|lamp cconj|and sconj|that pron|it-Prs-Nom-S3 .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CC 5|6|MARK 6|3|CONJ 7|3|PUNCT
+@G:	Puppy
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a puppy dog .
+%mor:	det|a-Ind-Art noun|puppy noun|dog .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has four legs and it has mostly fur and eyes ears mouth and nose and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|four noun|leg-Plur cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adv|mostly noun|fur cconj|and noun|eye-Plur noun|ear-Plur noun|mouth cconj|and noun|nose cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|19|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CC 6|7|NSUBJ 7|2|CONJ 8|9|ADVMOD 9|7|OBJ 10|11|CC 11|12|COMPOUND 12|13|COMPOUND 13|7|OBJ 14|15|CC 15|13|CONJ 16|19|CC 17|19|NSUBJ 18|19|COP 19|2|CONJ 20|2|PUNCT
+*CHI:	and a tail and that's it .
+%mor:	cconj|and det|a-Ind-Art noun|tail cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|DET 3|7|ROOT 4|7|CC 5|7|NSUBJ 6|7|COP 7|3|CONJ 8|3|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has fur and that's all over him and it has claws and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|fur cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|all adp|over pron|he-Prs-Acc-S3 cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|claw-Plur cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|2|OBJ 4|9|CC 5|9|NSUBJ 6|9|COP 7|9|ADVMOD 8|9|CASE 9|2|CONJ 10|12|CC 11|12|NSUBJ 12|9|CONJ 13|12|OBJ 14|17|CC 15|17|NSUBJ 16|17|COP 17|2|CONJ 18|2|PUNCT
+@G:	Cookie
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a cookie .
+%mor:	det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it, has chocolate chips and, whatever it is and that's it .
+%mor:	pron|it-Prs-Acc-S3 cm|cm verb|have-Fin-Ind-Pres-S3 noun|chocolate noun|chip-Plur cconj|and cm|cm pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|14|ROOT 4|5|COMPOUND 5|3|OBJ 6|8|CC 7|6|PUNCT 8|5|CONJ 9|10|NSUBJ 10|8|ACL-RELCL 11|14|CC 12|14|NSUBJ 13|14|COP 14|8|CONJ 15|3|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um it has hair on it, and that's it .
+%mor:	intj|um pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|hair adp|on pron|it-Prs-Acc-S3 cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|11|PUNCT 8|11|CC 9|11|NSUBJ 10|11|COP 11|3|CONJ 12|3|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	it has chocolate chips on it and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|chocolate noun|chip-Plur adp|on pron|it-Prs-Acc-S3 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|COMPOUND 4|2|OBJ 5|6|CASE 6|2|OBL 7|10|CC 8|10|NSUBJ 9|10|COP 10|2|CONJ 11|2|PUNCT
+@G:	Carrot
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a carrot .
+%mor:	det|a-Ind-Art noun|carrot .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, it's orange and it has a leafs stem and that's it .
+%mor:	intj|um cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|orange-Pos-S1 cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|leaf noun|stem cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|15|ROOT 6|8|CC 7|8|NSUBJ 8|5|CONJ 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|15|CC 13|15|NSUBJ 14|15|COP 15|5|CONJ 16|5|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	uh you can cut it off, and that's it .
+%mor:	intj|uh pron|you-Prs-Nom-S2 aux|can-Fin-S verb|cut-Inf-S pron|it-Prs-Acc-S3 adp|off cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|11|PUNCT 8|11|CC 9|11|NSUBJ 10|11|COP 11|4|CONJ 12|4|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	it has a point at the end and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|point adp|at det|the-Def-Art noun|end cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|11|CC 9|11|NSUBJ 10|11|COP 11|2|CONJ 12|2|PUNCT
+@G:	Pig
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a guinea pig .
+%mor:	det|a-Ind-Art noun|guinea noun|pig .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has spots from mud and four legs and a &=snorts nose and a eyes ears mouth, and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|spot-Plur adp|from noun|mud cconj|and num|four noun|leg-Plur cconj|and det|a-Ind-Art noun|nose cconj|and det|a-Ind-Art noun|eye-Plur noun|ear-Plur noun|mouth cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|21|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|CC 7|8|NUMMOD 8|5|CONJ 9|11|CC 10|11|DET 11|5|CONJ 12|16|CC 13|16|DET 14|15|COMPOUND 15|16|COMPOUND 16|3|CONJ 17|21|PUNCT 18|21|CC 19|21|NSUBJ 20|21|COP 21|2|CONJ 22|2|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	and a nose, and some milk and that's it .
+%mor:	cconj|and det|a-Ind-Art noun|nose cm|cm cconj|and det|some-Def noun|milk cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|DET 3|11|ROOT 4|7|PUNCT 5|7|CC 6|7|DET 7|3|CONJ 8|11|CC 9|11|NSUBJ 10|11|COP 11|3|CONJ 12|3|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	um, uh, it has a tail [?] that's it .
+%mor:	intj|um cm|cm intj|uh cm|cm pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tail pron|that-Rel-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|3|PUNCT 5|6|NSUBJ 6|11|ROOT 7|8|DET 8|6|OBJ 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|6|PUNCT
+@G:	Banana
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a banana .
+%mor:	det|a-Ind-Art noun|banana .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it is curved and it has, a peel and that's it .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|curved-Pos-S1 cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 cm|cm det|a-Ind-Art noun|peel cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|13|ROOT 4|6|CC 5|6|NSUBJ 6|3|CONJ 7|9|PUNCT 8|9|DET 9|6|OBJ 10|13|CC 11|13|NSUBJ 12|13|COP 13|3|CONJ 14|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it's white and that's it .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|white-Pos-S1 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|CC 5|7|NSUBJ 6|7|COP 7|3|CONJ 8|3|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has fur on it and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|fur adp|on pron|it-Prs-Acc-S3 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|9|CC 7|9|NSUBJ 8|9|COP 9|2|CONJ 10|2|PUNCT
+@G:	Baseball Player
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a baseball player .
+%mor:	det|a-Ind-Art noun|baseball noun|player .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it has a bat and a helmet and shoes and a uniform and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bat cconj|and det|a-Ind-Art noun|helmet cconj|and noun|shoe-Plur cconj|and det|a-Ind-Art noun|uniform cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|9|CC 9|7|CONJ 10|12|CC 11|12|DET 12|4|CONJ 13|16|CC 14|16|NSUBJ 15|16|COP 16|2|CONJ 17|2|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, his hands are stretched out like that and then he's hitting a bat, and that's it .
+%mor:	intj|um cm|cm pron|his-Prs-Gen-S3 noun|hand-Plur aux|be-Fin-Ind-Pres-P3 verb|stretch-Part-Past-S adp|out adp|like pron|that-Dem-S1 cconj|and adv|then pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hit-Part-Pres-S det|a-Ind-Art noun|bat cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|NMOD-POSS 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|21|ROOT 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|14|CC 11|14|ADVMOD 12|14|NSUBJ 13|14|AUX 14|6|CONJ 15|16|DET 16|14|OBJ 17|21|PUNCT 18|21|CC 19|21|NSUBJ 20|21|COP 21|6|CONJ 22|6|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	his hands are holding on to the bat, and that's it .
+%mor:	pron|his-Prs-Gen-S3 noun|hand-Plur aux|be-Fin-Ind-Pres-P3 verb|hold-Part-Pres-S adp|on adp|to det|the-Def-Art noun|bat cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|13|PUNCT 10|13|CC 11|13|NSUBJ 12|13|COP 13|4|CONJ 14|4|PUNCT
+@G:	Doctor
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	um, a nurse .
+%mor:	intj|um cm|cm det|a-Ind-Art noun|nurse .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|4|ROOT 5|4|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um it has a stethoscope and hair and earrings and eyes ears mouth and nose .
+%mor:	intj|um pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stethoscope cconj|and noun|hair cconj|and noun|earring-Plur cconj|and noun|eye-Plur noun|ear-Plur noun|mouth cconj|and noun|nose .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|15|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|9|CC 9|5|CONJ 10|13|CC 11|12|COMPOUND 12|13|COMPOUND 13|5|CONJ 14|15|CC 15|13|CONJ 16|3|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, it has a microphone, and that's it .
+%mor:	intj|um cm|cm pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|microphone cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|11|ROOT 5|6|DET 6|4|OBJ 7|11|PUNCT 8|11|CC 9|11|NSUBJ 10|11|COP 11|4|CONJ 12|4|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	um, it has hair and that's it .
+%mor:	intj|um cm|cm pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|hair cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|4|OBJ 6|9|CC 7|9|NSUBJ 8|9|COP 9|4|CONJ 10|4|PUNCT
+@G:	Bread
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	bread .
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it's brown and xxx cut it and that's it .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|brown-Pos-S1 cconj|and verb|cut-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|5|CC 5|3|CONJ 6|5|OBJ 7|10|CC 8|10|NSUBJ 9|10|COP 10|3|CONJ 11|3|PUNCT
+*INV:	what else can you tell me ?
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it's shaped like a rectangle, and that's it .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|shape-Part-Past-S adp|like det|a-Ind-Art noun|rectangle cm|cm cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|11|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|11|PUNCT 8|11|CC 9|11|NSUBJ 10|11|COP 11|3|CONJ 12|3|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	it has yellow on the page and that's it .
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|yellow adp|on det|the-Def-Art noun|page cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|10|CC 8|10|NSUBJ 9|10|COP 10|2|CONJ 11|2|PUNCT
+@G:	Cheese
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	swiss cheese .
+%mor:	adj|swiss-Pos-S1 noun|cheese .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it's shaped in a triangle and it has holes and that's it .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|shape-Part-Past-S adp|in det|a-Ind-Art noun|triangle cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|hole-Plur cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|14|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CC 8|9|NSUBJ 9|3|CONJ 10|9|OBJ 11|14|CC 12|14|NSUBJ 13|14|COP 14|3|CONJ 15|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	it's big .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|big-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	and it has bites and mouse like it .
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|bite-Plur cconj|and noun|mouse adp|like pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|CC 6|4|CONJ 7|8|CASE 8|3|OBL 9|3|PUNCT
+*INV:	tell me a little bit more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art adj|little-Pos-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|6|OBL-NPMOD 6|1|OBJ 7|1|PUNCT
+*CHI:	mm, and if mice smell it they will come and eat it and that's it .
+%mor:	intj|mm cm|cm cconj|and sconj|if noun|mouse-Plur verb|smell-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 pron|they-Prs-Nom-P3 aux|will-Fin-S verb|come-Inf-S cconj|and verb|eat-Inf-S pron|it-Prs-Acc-S3 cconj|and pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|10|DISCOURSE 2|10|PUNCT 3|10|CC 4|6|MARK 5|6|NSUBJ 6|10|ADVCL 7|6|OBJ 8|10|NSUBJ 9|10|AUX 10|17|ROOT 11|12|CC 12|10|CONJ 13|12|OBJ 14|17|CC 15|17|NSUBJ 16|17|COP 17|10|CONJ 18|10|PUNCT
+*INV:	do you want to look at any again ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|look-Inf-S adp|at det|any-Def adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	okay well let's put Zorg back to sleep .
+%mor:	intj|okay intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S noun|Zorg adv|back adp|to noun|sleep .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|9|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|9|CASE 9|5|OBL 10|3|PUNCT
+@End

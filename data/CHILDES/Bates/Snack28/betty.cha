@@ -1,0 +1,412 @@
+@UTF8
+@PID:	11312/c-00015277-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|Bates|MOT||female|||Mother|||
+@ID:	eng|Bates|CHI|2;04.|female|TD|MC|Target_Child|||
+@Types:	cross, toyplay, TD
+*MOT:	why don't you have a drink of milk ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art noun|drink adp|of noun|milk ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+%act:	<bef> watches Betty . sits behind Betty . looks toward Betty . <dur> puts down milk . sits behind Betty
+*CHI:	0 .
+%act:	<bef> seated , eats cracker . eats candy cane
+*MOT:	why don't you take a bite of orange ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|take-Inf-S det|a-Ind-Art noun|bite adp|of noun|orange ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*CHI:	0 .
+%act:	puts down candy cane . reaches for milk
+*MOT:	it tastes very [!] sour right now .
+%mor:	pron|it-Prs-Nom-S3 verb|taste-Fin-Ind-Pres-S3 adv|very adj|sour-Pos-S1 adv|right adv|now .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|ADVMOD 4|2|XCOMP 5|6|ADVMOD 6|2|ADVMOD 7|2|PUNCT
+*CHI:	0 .
+%act:	picks up orange . eats
+*MOT:	that good ?
+%mor:	pron|that-Dem-S1 adj|good-Pos-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%act:	kneels
+*CHI:	0 .
+%act:	nods . picks up milk . drinks
+*MOT:	would you like a napkin ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S det|a-Ind-Art noun|napkin ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	kneels
+*CHI:	0 .
+%act:	<aft> looks back out , eats , picks up candy cane , eats
+*MOT:	wipe your face and your hands .
+%mor:	verb|wipe-Fin-Imp-S pron|your-Prs-Gen-S2 noun|face cconj|and pron|your-Prs-Gen-S2 noun|hand-Plur .
+%gra:	1|6|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|6|CC 5|6|NMOD-POSS 6|3|CONJ 7|1|PUNCT
+%act:	<bef> watches Betty holds out napkin to Betty <dur> looks toward Betty
+*CHI:	0 .
+%act:	<bef> takes napkin . <dur> wipes face
+*MOT:	why don't you drink some more milk ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|drink-Inf-S det|some-Def adj|more-Cmp-S1 noun|milk ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+%act:	sits . looks toward Betty
+*CHI:	0 .
+%act:	eats candy cane
+*CHI:	that [*] sticky .
+%mor:	det|that-Def-Dem adj|sticky-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%act:	<bef> puts down napkin . puts down candy cane
+%xpho:	d6 6ki
+*CHI:	sticky ?
+%mor:	adj|sticky-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<aft> wipes hands . puts down napkin . drinks milk
+%xpho:	6ki
+*MOT:	now wipe your mouth .
+%mor:	adv|now verb|wipe-Fin-Imp-S pron|your-Prs-Gen-S2 noun|mouth .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%act:	sits , looking toward Betty
+*CHI:	0 .
+%act:	puts down milk and picks up napkin
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<aft> puts down napkin
+%xpho:	6h ke
+*MOT:	thank_you .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	sits , looking toward Betty
+*CHI:	a cane ?
+%mor:	det|a-Ind-Art noun|cane ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%act:	<bef> picks up candy cane . <dur> shows Mother . looks toward Mother . <aft> sucks
+%xpho:	6 ken
+*MOT:	what is that (.) Betty ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 sconj|that noun|Betty ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%gpx:	<bef> nods
+*CHI:	candy cane .
+%mor:	noun|candy noun|cane .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%gpx:	smiles
+%xpho:	k& 6 ken
+*MOT:	candy cane (.) yes .
+%mor:	noun|candy noun|cane intj|yes .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+%act:	sits , looking toward Betty
+*MOT:	where's the cracker ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|cracker ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	0 .
+%gpx:	points to cracker . looks to mother
+*MOT:	how many crackers do you have there ?
+%mor:	adv|how adj|many-Pos-S1 noun|cracker-Plur aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S adv|there ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%act:	sits , looking toward Betty
+*CHI:	0 .
+%gpx:	points to plate of crackers . looks toward plate
+*MOT:	one (.) where's one ?
+%mor:	num|one adv|where~aux|be-Fin-Ind-Pres-S3 num|one ?
+%gra:	1|4|ROOT 2|4|ADVMOD 3|4|COP 4|1|ACL-RELCL 5|1|PUNCT
+*CHI:	0 .
+%act:	<aft> holds out 1 finger . looks at hand
+*MOT:	two .
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	holds out all fingers . shuts hand
+*MOT:	three .
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	holds out 2 fingers
+*MOT:	four .
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	four .
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+*CHI:	five .
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<aft> opens hand
+*MOT:	five .
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	six .
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	glances at Mother
+%xpho:	sIh
+*MOT:	six .
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 .
+%gpx:	holds out hand . picks up candy cane and sucks away . looks at candy cane
+*MOT:	why don't you take another bite of your orange ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|take-Inf-S det|another-Def noun|bite adp|of pron|your-Prs-Gen-S2 noun|orange ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|5|PUNCT
+*CHI:	orange ?
+%mor:	adj|orange-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	points to orange
+%xpho:	An
+*CHI:	orange ?
+%mor:	adj|orange-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%xpho:	Ang
+*CHI:	ahhah !
+%mor:	intj|ahhah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at Mother
+%xpho:	6h h6
+*MOT:	0 .
+%gpx:	nods
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<aft> looks at Mother
+%act:	<1w> takes bite . looks at Mother . eats
+*MOT:	0 .
+%gpx:	nods
+*CHI:	more ?
+%mor:	adj|more-Cmp-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	eats food
+%xpho:	mo
+*CHI:	Mom ?
+%mor:	noun|mom ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	looks at Mother . eats
+%xpho:	n nam
+*MOT:	I'll be right back .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S aux|be-Inf-S adv|right adv|back .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%com:	skip this period
+%act:	<bef> phone rings
+*MOT:	why don't you take another drink of your milk (.) okay ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|take-Inf-S det|another-Def noun|drink adp|of pron|your-Prs-Gen-S2 noun|milk adj|okay-Pos-S1 ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|11|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|5|XCOMP 12|5|PUNCT
+%act:	sits , looking at Betty
+*CHI:	&-uh (.) sticky .
+%mor:	adj|sticky-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<bef> puts down candy cane . <dur> looks at Mother . holds out hands to Mother
+%xpho:	6h 6k 6ki
+*MOT:	sticky (.) isn't it ?
+%mor:	adj|sticky-Pos-S1 aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%act:	<aft> looks at napkin . picks up napkin
+%gpx:	smiles and nods
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<bef> looks at napkin . picks up napkin . <1w> looks at Mother . wipes hands .
+*CHI:	see ?
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<1w> glances at Mother
+%act:	<1w> wipes mouth . puts down napkin
+*MOT:	there (.) your face looks pretty .
+%mor:	pron|there-Int-S1 pron|your-Prs-Gen-S2 noun|face verb|look-Fin-Ind-Pres-S3 adj|pretty-Pos-S1 .
+%gra:	1|4|EXPL 2|3|NMOD-POSS 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%gpx:	nods
+*CHI:	&-eh ?
+%act:	wiggles fingers . looks at Mother
+*MOT:	would you like me to get a washcloth ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S pron|I-Prs-Acc-S1 part|to verb|get-Inf-S det|a-Ind-Art noun|washcloth ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|3|PUNCT
+%gpx:	<1w> nods
+*MOT:	and wash your hands ?
+%mor:	cconj|and verb|wash-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hand-Plur ?
+%gra:	1|2|CC 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 .
+%gpx:	shakes head
+*MOT:	why don't you take a drink of milk ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|take-Inf-S det|a-Ind-Art noun|drink adp|of noun|milk ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	picks up milk and drinks
+*MOT:	mm: .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%act:	puts hand on table . looks at Mother
+*MOT:	why don't you take a bite of your cracker ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|take-Inf-S det|a-Ind-Art noun|bite adp|of pron|your-Prs-Gen-S2 noun|cracker ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|5|PUNCT
+%gpx:	smiles
+*MOT:	you haven't taken a bite of your cracker yet (.) Betty .
+%mor:	pron|you-Prs-Nom-S2 aux|have-Fin-Ind-Pres-S2~part|not verb|take-Part-Past-S det|a-Ind-Art noun|bite adp|of pron|your-Prs-Gen-S2 noun|cracker adv|yet noun|Betty .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|11|ADVMOD 11|4|PARATAXIS 12|4|PUNCT
+*CHI:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<bef> picks up candy cane and eats
+*CHI:	mm: .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mm: .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	smiles
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	glances at Mother . touches milk
+%xpho:	mI
+*MOT:	0 .
+%gpx:	nods
+*CHI:	mm: .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<bef> drinks milk . <dur> puts milk down . <aft> looks at Mother and eats candy cane
+*MOT:	mm: .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good !
+%mor:	adj|good-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bite ?
+%mor:	noun|bite ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	looks at Mother . puts candy cane in mouth
+*MOT:	no (.) don't bite .
+%mor:	intj|no aux|do-Fin-Imp-S~part|not verb|bite-Fin-Imp-S .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%gpx:	shakes head
+*CHI:	lick ?
+%mor:	verb|lick-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	sticks out tongue
+%xpho:	lIh
+*MOT:	lick (.) yeah .
+%mor:	verb|lick-Fin-Imp-S intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%gpx:	nods
+*CHI:	0 .
+%act:	looks at Mother . licks candy cane
+*MOT:	just like a pop .
+%mor:	adv|just adp|like det|a-Ind-Art noun|pop .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%gpx:	nods
+*CHI:	pop ?
+%mor:	noun|pop ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we only lick our pops (.) don't we ?
+%mor:	pron|we-Prs-Nom-P1 adv|only verb|lick-Fin-Ind-Pres-P1 pron|our-Prs-Gen-P1 noun|pop-Plur aux|do-Fin-Ind-Pres-P3~part|not pron|we-Prs-Nom-P1 ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|8|ROOT 4|5|NMOD-POSS 5|6|NSUBJ 6|3|CCOMP 7|6|ADVMOD 8|6|OBJ 9|3|PUNCT
+%gpx:	nods
+*CHI:	xxx .
+*CHI:	pop ?
+%mor:	noun|pop ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<aft> looks at Mother
+*MOT:	0 .
+%gpx:	smiles and nods
+*CHI:	my shoe is off .
+%mor:	pron|my-Prs-Gen-S1 noun|shoe aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%act:	<aft> eats candy cane
+%xpho:	mai Sus Is Of
+*MOT:	yes (.) your shoes are off (.) aren't they ?
+%mor:	intj|yes pron|your-Prs-Gen-S2 noun|shoe-Plur aux|be-Fin-Ind-Pres-P3 adv|off aux|be-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 ?
+%gra:	1|8|DISCOURSE 2|3|NMOD-POSS 3|8|NSUBJ 4|5|COP 5|8|ADVMOD 6|8|COP 7|8|ADVMOD 8|8|ROOT 9|8|PUNCT
+*MOT:	are there any birds out there ?
+%mor:	verb|be-Fin-Ind-Pres-P3 pron|there-Int-S1 det|any-Def noun|bird-Plur adv|out adv|there ?
+%gra:	1|6|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ 5|6|ADVMOD 6|1|ADVMOD 7|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	<bef> looks outside . <dur> shakes head . looks at Mother and and smiles
+*MOT:	have they been eating the bird seed out there ?
+%mor:	aux|have-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 aux|be-Part-Past-S verb|eat-Part-Pres-S det|the-Def-Art noun|bird noun|seed adp|out adv|there ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|9|ADVMOD 9|4|ADVMOD 10|4|PUNCT
+*CHI:	0 .
+%act:	looks at Mother . eats candy cane
+*MOT:	why don't you take another bite of your orange ?
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|take-Inf-S det|another-Def noun|bite adp|of pron|your-Prs-Gen-S2 noun|orange ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|5|PUNCT
+%gpx:	nods
+*CHI:	orange ?
+%mor:	adj|orange-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	picks up orange and eats
+%xpho:	3rng
+*MOT:	mm: (.) that's good !
+%mor:	intj|mm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|good-Pos-S1 !
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	more ?
+%mor:	adj|more-Cmp-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%xpho:	mo
+*MOT:	well (.) finish that bite first .
+%mor:	intj|well noun|finish det|that-Def-Dem noun|bite adv|first .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|DET 4|2|NMOD-NPMOD 5|2|ADVMOD 6|2|PUNCT
+*MOT:	is it all_gone ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|allgone-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	<aft> looks at plate . shakes head . eats . shrugs shoulder . finishes . opens hand . shrugs shoulder
+*MOT:	now you hafta wipe your mouth .
+%mor:	adv|now pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S verb|wipe-Inf-S pron|your-Prs-Gen-S2 noun|mouth .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	0 .
+%exp:	gets stickier
+%act:	<aft> wipes mouth . wipes hand . stops
+%gpx:	<aft> looks around . looks at napkin , with candy cane in it , in hand
+*MOT:	would you like me to get a washcloth now ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S pron|I-Prs-Acc-S1 part|to verb|get-Inf-S det|a-Ind-Art noun|washcloth adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|3|PUNCT
+%gpx:	smiles , nods
+*CHI:	0 .
+%act:	touches candy cane . looks at candy cane . puts hands up
+*MOT:	would you like me to get a washcloth ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S pron|I-Prs-Acc-S1 part|to verb|get-Inf-S det|a-Ind-Art noun|washcloth ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|3|PUNCT
+*CHI:	0 .
+%gpx:	<aft> odd head movement . looks at hands
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	gets up
+*CHI:	&-uh (.) sticky .
+%mor:	adj|sticky-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	licks arm
+%xpho:	6h 6ki
+*MOT:	oh (.) what sticky fingers .
+%mor:	intj|oh det|what-Def-Int adj|sticky-Pos-S1 noun|finger-Plur .
+%gra:	1|4|DISCOURSE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%act:	<dur> wipes hands , etc .
+%par:	whisper
+*MOT:	get your mouth with this .
+%mor:	verb|get-Fin-Imp-S pron|your-Prs-Gen-S2 noun|mouth adp|with pron|this-Dem-S1 .
+%gra:	1|5|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%act:	<bef> looks at mouth . <dur> wipes mouth
+*CHI:	0 .
+%act:	<aft> holds candy cane with 2 hands . licks candy cane
+*MOT:	like me to get your other hand ?
+%mor:	verb|like-Fin-Imp-S pron|I-Prs-Acc-S1 part|to verb|get-Inf-S pron|your-Prs-Gen-S2 adj|other-Pos-S1 noun|hand ?
+%gra:	1|7|ROOT 2|1|OBJ 3|4|MARK 4|1|XCOMP 5|7|NMOD-POSS 6|7|AMOD 7|4|OBJ 8|1|PUNCT
+%act:	<bef> wipes Betty's face
+*CHI:	0 .
+%act:	<bef> looks at Mother . holds out candy cane . <aft> holds out wrong hand to Mother
+*MOT:	the other hand !
+%mor:	det|the-Def-Art adj|other-Pos-S1 noun|hand !
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%act:	<bef> wipes Betty's face
+*CHI:	0 .
+%act:	<aft> puts candy cane in other hand . holds out correct hand to Mother
+*CHI:	sticky !
+%mor:	adj|sticky-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%gpx:	looks at candy cane
+%xpho:	6ki
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	<bef> takes candy cane and wipes hand . walks to chair
+@End

@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/c-00010820-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, SIS Sister, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;01.21|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	11-APR-1973
+@Types:	long, toyplay, TD
+*CHI:	Mommy keep sneezing .
+%mor:	noun|Mommy verb|keep-Fin-Imp-S verb|sneeze-Ger-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%sit:	652
+*CHI:	I keep sneezing .
+%mor:	pron|I-Prs-Nom-S1 verb|keep-Fin-Ind-Pres-S1 verb|sneeze-Ger-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%sit:	652
+*CHI:	give me little bit toast .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 adj|little-Pos-S1 noun|bit noun|toast .
+%gra:	1|5|ROOT 2|1|IOBJ 3|5|AMOD 4|5|COMPOUND 5|1|OBJ 6|1|PUNCT
+%sit:	653
+*CHI:	cleaners cleaners going clean .
+%mor:	noun|cleaner-Plur noun|cleaner-Plur verb|go-Ger-S adj|clean-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%sit:	654
+*CHI:	Erica ?
+%mor:	noun|Erica ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	655
+*SIS:	I'm not Erica .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not noun|Erica .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	655
+*CHI:	I thought you Erica .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 noun|Erica .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%sit:	655
+*SIS:	s@l l@l u@l g@l g@l e@l r@l .
+%mor:	part|s x|l x|u noun|gram noun|gram x|e x|r .
+%gra:	1|7|ROOT 2|1|GOESWITH 3|1|GOESWITH 4|1|GOESWITH 5|6|COMPOUND 6|1|VOCATIVE 7|6|FLAT 8|1|PUNCT
+%sit:	656
+*CHI:	how spell my name ?
+%mor:	adv|how verb|spell-Inf-S pron|my-Prs-Gen-S1 noun|name ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	656
+*CHI:	Mom, I'm afraid .
+%mor:	noun|mom cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|afraid-Pos-S1 .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%sit:	658
+*MOT:	what are you afraid of ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|afraid-Pos-S1 adp|of ?
+%gra:	1|4|OBL 2|4|COP 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+%sit:	658
+*CHI:	cleaning mans [: men] [*] .
+%mor:	verb|clean-Ger-S noun|man-Plur .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	658
+*CHI:	I shooting you .
+%mor:	pron|I-Prs-Nom-S1 verb|shoot-Ger-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	659
+*CHI:	lie down .
+%mor:	verb|lie-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	659
+*CHI:	I finished .
+%mor:	pron|I-Prs-Nom-S1 verb|finish-Fin-Ind-Past-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	660
+*CHI:	I'm finished .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|finish-Part-Past-S .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+%sit:	660
+*CHI:	wrong number .
+%mor:	adj|wrong-Pos-S1 noun|number .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	661
+*CHI:	hafta get my sunglasses .
+%mor:	intj|hafta verb|get-Fin-Imp-S pron|my-Prs-Gen-S1 noun|sunglass-Plur .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	662
+*MOT:	you hafta get your sunglasses .
+%mor:	pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S verb|get-Inf-S pron|your-Prs-Gen-S2 noun|sunglass-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%sit:	662
+*MOT:	how_come ?
+%mor:	intj|howcome ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	662
+*CHI:	because going on a long trip .
+%mor:	sconj|because verb|go-Ger-S adp|on det|a-Ind-Art adj|long-Pos-S1 noun|trip .
+%gra:	1|2|MARK 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+%sit:	662
+*CHI:	I hate that .
+%mor:	pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	663
+*CHI:	I hate avocado .
+%mor:	pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 noun|avocado .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	663
+*MOT:	we really are too early .
+%mor:	pron|we-Prs-Nom-P1 adv|really aux|be-Fin-Ind-Pres-P1 adv|too adj|early-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%sit:	664
+*MOT:	we're always too early .
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|always adv|too adj|early-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%sit:	664
+*CHI:	(th)em early birds .
+%mor:	pron|they-Prs-Acc-P3 adj|early-Pos-S1 noun|bird-Plur .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%sit:	664
+@End

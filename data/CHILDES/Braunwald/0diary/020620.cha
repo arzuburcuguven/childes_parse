@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/c-00010952-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.20|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	10-SEP-1973
+@Types:	long, toyplay, TD
+*CHI:	our next neighbors are sleeping so gotta be quiet .
+%mor:	pron|our-Prs-Gen-P1 adj|next-Pos-S1 noun|neighbor-Plur aux|be-Fin-Ind-Pres-P3 verb|sleep-Part-Pres-S adv|so aux|gotta-Fin-S aux|be-Inf-S adj|quiet-Pos-S1 .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|9|ADVMOD 7|9|AUX 8|9|COP 9|5|PARATAXIS 10|5|PUNCT
+%sit:	657
+*CHI:	I'm sure I won't get splinter with my shoes off .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-Pos-S1 pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not verb|get-Inf-S noun|splinter adp|with pron|my-Prs-Gen-S1 noun|shoe-Plur adv|off .
+%gra:	1|3|NSUBJ 2|3|COP 3|12|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|7|OBJ 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|7|ADVMOD 13|3|PUNCT
+%sit:	658
+*CHI:	monstu [: monster], it's a monstu [: monster] .
+%mor:	noun|monster cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|monster .
+%gra:	1|6|ROOT 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|PARATAXIS 7|1|PUNCT
+%sit:	659
+*MOT:	what's a monstu [: monster] ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|monster ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%sit:	659
+*CHI:	monster .
+%mor:	noun|monster .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	659
+*CHI:	that coffee pot's for emergency .
+%mor:	det|that-Def-Dem noun|coffee noun|pot~part|s adp|for noun|emergency .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|ROOT 4|3|CASE 5|6|CASE 6|3|NMOD 7|3|PUNCT
+%sit:	660
+*CHI:	in_case somebody sick or coffee put [: pot] broken .
+%mor:	intj|incase pron|somebody-Ind-S1 adj|sick-Pos-S1 cconj|or noun|coffee noun|pot verb|break-Part-Past-S .
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|2|AMOD 4|6|CC 5|6|COMPOUND 6|7|NSUBJ 7|3|CONJ 8|2|PUNCT
+%sit:	660
+*MOT:	but you're too young to go to Oakwood .
+%mor:	cconj|but pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|too adj|young-Pos-S1 part|to verb|go-Inf-S adp|to noun|Oakwood .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|5|PUNCT
+%sit:	661
+*MOT:	you stay at nursery school .
+%mor:	pron|you-Prs-Nom-S2 verb|stay-Fin-Ind-Pres-S2 adp|at noun|nursery noun|school .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|COMPOUND 5|2|OBL 6|2|PUNCT
+%sit:	661
+*CHI:	yeah, but I'm older at Toffer [: Christopher] .
+%mor:	intj|yeah cm|cm cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|old-Cmp-S1 adp|at noun|Christopher .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|CC 4|6|NSUBJ 5|6|COP 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%sit:	661
+*CHI:	Mom, my heart stopped breathing .
+%mor:	noun|mom cm|cm pron|my-Prs-Gen-S1 noun|heart verb|stop-Fin-Ind-Past-S3 verb|breathe-Ger-S .
+%gra:	1|5|VOCATIVE 2|5|PUNCT 3|4|NMOD-POSS 4|5|NSUBJ 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+%sit:	662
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	662
+*MOT:	but you're okay now ?
+%mor:	cconj|but pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|okay-Pos-S1 adv|now ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%sit:	662
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	662
+@End

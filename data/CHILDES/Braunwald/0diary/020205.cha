@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/c-00010834-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;02.05|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	25-APR-1973
+@Types:	long, toyplay, TD
+*CHI:	he not coming .
+%mor:	pron|he-Prs-Nom-S3 part|not verb|come-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%sit:	880
+*MOT:	yes, he is .
+%mor:	intj|yes cm|cm pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	880
+*CHI:	Mommy, I think Deedee [: Joanna] feels better .
+%mor:	noun|Mommy cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|Joanna verb|feel-Fin-Ind-Pres-S3 adj|good-Cmp-S1 .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|7|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|XCOMP 8|4|PUNCT
+%sit:	881
+*CHI:	Mommy, I think Deedee [: Joanna] had hard time .
+%mor:	noun|Mommy cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|Joanna verb|have-Fin-Ind-Past-S3 adj|hard-Pos-S1 noun|time .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|8|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|AMOD 8|6|OBJ 9|4|PUNCT
+%sit:	881
+*MOT:	you do ?
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	881
+*CHI:	Deedee [: Joanna], you had hard time ?
+%mor:	noun|Joanna cm|cm pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Past-S2 adj|hard-Pos-S1 noun|time ?
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+%sit:	881
+*SIS:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	881
+*CHI:	that makes me angry .
+%mor:	pron|that-Dem-S1 verb|make-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adj|angry-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%sit:	883
+*CHI:	my daddy fix it with screwdriver .
+%mor:	pron|my-Prs-Gen-S1 noun|daddy verb|fix-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adp|with noun|screwdriver .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%sit:	884
+*CHI:	I'm making caca [= poo] Deedee [: Joanna] .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|make-Part-Pres-S noun|caca noun|Joanna .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+%sit:	885
+*CHI:	that was mine .
+%mor:	pron|that-Dem-S1 aux|be-Fin-Ind-Past-S3 pron|mine-Prs-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	886
+*CHI:	Mommy, I need you .
+%mor:	noun|Mommy cm|cm pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	887
+*CHI:	wear my purple shirt (to)morrow .
+%mor:	verb|wear-Fin-Imp-S pron|my-Prs-Gen-S1 adj|purple-Pos-S1 noun|shirt noun|tomorrow .
+%gra:	1|5|ROOT 2|4|NMOD-POSS 3|4|AMOD 4|1|OBJ 5|1|OBL-TMOD 6|1|PUNCT
+%sit:	888
+*CHI:	wear my pants (to)morrow too when I go Susie's .
+%mor:	verb|wear-Fin-Imp-S pron|my-Prs-Gen-S1 noun|pant-Plur noun|tomorrow adv|too adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 noun|Susie~part|s .
+%gra:	1|10|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|OBL-TMOD 5|1|ADVMOD 6|8|ADVMOD 7|8|NSUBJ 8|1|ADVCL 9|8|OBJ 10|9|CASE 11|1|PUNCT
+%sit:	888
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	889
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	889
+*CHI:	I was talking myself .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|talk-Part-Pres-S pron|myself-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	889
+*SIS:	you have karma .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|karma .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	890
+*CHI:	I doesn't have karma .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S noun|karma .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	890
+*CHI:	have gas_station .
+%mor:	verb|have-Fin-Imp-S noun|gasstation .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	890
+*MOT:	gas_station ?
+%mor:	noun|gasstation ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	890
+*CHI:	I making gas_station .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Ger-S noun|gasstation .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	890
+@End

@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/c-00018045-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Lara|CHI|2;10.19|female|||Target_Child|||
+@Date:	04-APR-1997
+@Comment:	Mum Dad Grandad and Grandma
+@Types:	long, everyday, TD
+*CHI:	what to do ?
+%mor:	pron|what-Int-S1 part|to verb|do-Inf-S ?
+%gra:	1|3|ROOT 2|3|MARK 3|1|ACL 4|1|PUNCT
+*CHI:	what did say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3 verb|say-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*CHI:	what are they making ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|make-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	where you going ?
+%mor:	adv|where pron|you-Prs-Nom-S2 verb|go-Ger-S ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	where (i)s the doggie going ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|doggie verb|go-Ger-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	what (i)s the man doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|man verb|do-Ger-S ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|5|NSUBJ 5|1|ACL 6|1|PUNCT
+*CHI:	how we going to go under there ?
+%mor:	adv|how pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|go-Inf-S adp|under adv|there ?
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|1|PUNCT
+*CHI:	what did Grandad do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3 noun|Grandad verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem adj|funny-Pos-S1 noun|noise ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*CHI:	where (i)s my drink ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|drink ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+@End

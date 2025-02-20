@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/c-00010958-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.26|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	16-SEP-1973
+@Types:	long, toyplay, TD
+*CHI:	hairdrypu [: hairdryer] .
+%mor:	noun|hairdryer .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	684
+*CHI:	for hairdryer she calls it hairdrypu [: hairdryer] .
+%mor:	adp|for noun|hairdryer pron|she-Prs-Nom-S3 verb|call-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 noun|hairdryer .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+%sit:	684
+*CHI:	she calls it diapu@q .
+%mor:	pron|she-Prs-Nom-S3 verb|call-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 noun|diapu .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%sit:	685
+*CHI:	for diaper@q she calls it diapu@q .
+%mor:	adp|for noun|diaper pron|she-Prs-Nom-S3 verb|call-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 noun|diapu .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+%sit:	685
+*MOT:	you mean diapus@q for diapers@q ?
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 noun|diapus adp|for noun|diaper-Plur ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+%sit:	685
+*CHI:	she calls for diapus@q .
+%mor:	pron|she-Prs-Nom-S3 verb|call-Fin-Ind-Pres-S3 adp|for noun|diapus .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%sit:	685
+@End

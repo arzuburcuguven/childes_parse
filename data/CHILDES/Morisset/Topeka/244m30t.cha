@@ -1,0 +1,516 @@
+@UTF8
+@PID:	11312/c-00016885-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|Morisset|MOT||female|||Mother|||
+@ID:	eng|Morisset|CHI|2;06.|male|||Target_Child|||
+@Date:	07-JAN-1987
+@Time Duration:	10:48:00-10:53:39
+@Situation:	Mother-child snack in lab
+@Location:	Topeka , KS , USA
+@Types:	cross, toyplay, TD
+*MOT:	go [/] go (.) get it John .
+%mor:	verb|go-Fin-Imp-S verb|get-Inf-S pron|it-Prs-Acc-S3 noun|John .
+%gra:	1|4|ROOT 2|1|XCOMP 3|2|OBJ 4|2|XCOMP 5|1|PUNCT
+%tim:	10:48:02
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	you wanna eat ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|eat-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*MOT:	you want some cookies ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def noun|cookie-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:rep
+*MOT:	you wanna eat ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|eat-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-um (.) eat !
+%mor:	verb|eat-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eat [/] (.) eat !
+%mor:	verb|eat-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:new
+*MOT:	<wait a minute> [>] .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx [<] .
+%cod:	$u:unc
+*MOT:	go sit down I'm gonna bring to ya .
+%mor:	verb|go-Fin-Imp-S verb|sit-Inf-S adp|down pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|gonna verb|bring-Inf-S adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|9|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|1|PARATAXIS 8|9|CASE 9|7|OBL 10|1|PUNCT
+*MOT:	(o)kay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	thank_you (.) Sherry [= M's name] .
+%mor:	noun|thankyou noun|Sherry .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%cod:	$c:min
+*MOT:	you're welcome .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|welcome-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	sit down .
+%mor:	verb|sit-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	leave it closed !
+%mor:	verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 verb|close-Part-Past-S !
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	like that .
+%mor:	adp|like pron|that-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	&-um (.) eat Sher ?
+%mor:	verb|eat-Fin-Imp-S noun|Sher ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:new
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-um eat !
+%mor:	verb|eat-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:rep
+*MOT:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-um !
+*CHI:	&-um (.) eat !
+%mor:	verb|eat-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you gonna eat ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|eat-Fin-S ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$c:new
+*MOT:	you gonna eat ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|eat-Fin-S ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	ye(a)h .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	okay (.) wait a second .
+%mor:	intj|okay verb|wait-Fin-Imp-S det|a-Ind-Art noun|second .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	M pours a cup of juice
+*CHI:	thank_you (.) Sher .
+%mor:	intj|thankyou noun|Sher .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+%cod:	$c:min
+%com:	pause
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	thank_you (.) Sher .
+%mor:	intj|thankyou noun|Sher .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+%cod:	$c:rep
+*MOT:	you're welcome .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|welcome-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx yours ?
+%mor:	pron|yours-Prs-S2 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's yours ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|yours-Prs-S2 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$c:new
+*MOT:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's mine ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$c:new
+*MOT:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%cod:	$b:min
+*MOT:	eat (.) John .
+%mor:	verb|eat-Fin-Imp-S noun|John .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	eat .
+%mor:	verb|eat-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's yours ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|yours-Prs-S2 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$c:min
+*MOT:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eat cookie ?
+%mor:	verb|eat-Fin-Imp-S noun|cookie ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$c:new
+*MOT:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	gimme that !
+%mor:	verb|gimme-Fin-Imp-S pron|that-Dem-S1 !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%gpx:	M reaches for object from C
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	gimme that !
+%mor:	verb|gimme-Fin-Imp-S pron|that-Dem-S1 !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	now just eat that !
+%mor:	adv|now adv|just verb|eat-Fin-Imp-S pron|that-Dem-S1 !
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	eat that .
+%mor:	verb|eat-Fin-Imp-S pron|that-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	wanna play ?
+%mor:	intj|wanna verb|play-Fin-Imp-S ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$b:min
+*MOT:	eat first and then you can play .
+%mor:	verb|eat-Fin-Imp-S adv|first cconj|and adv|then pron|you-Prs-Nom-S2 aux|can-Fin-S verb|play-Inf-S .
+%gra:	1|7|ROOT 2|1|ADVMOD 3|7|CC 4|7|ADVMOD 5|7|NSUBJ 6|7|AUX 7|1|CONJ 8|1|PUNCT
+*MOT:	no (.) John .
+%mor:	intj|no noun|John .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	eat first .
+%mor:	verb|eat-Fin-Imp-S adv|first .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	eat .
+%mor:	verb|eat-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look (.) Sher .
+%mor:	verb|look-Fin-Imp-S noun|Sher .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$b:min
+*MOT:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sherry (.) can I play xxx ?
+%mor:	noun|Sherry aux|can-Fin-S pron|I-Prs-Nom-S1 verb|play-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$c:new
+*MOT:	you eat first .
+%mor:	pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 adv|first .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx can I have some more ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$c:new
+*MOT:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:new
+*MOT:	eat your cookies .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|cookie-Plur .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx yours ?
+%mor:	pron|yours-Prs-S2 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's mine ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%act:	C reaches for cup
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's mine ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$c:new
+*MOT:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's yours .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|yours-Prs-S2 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$c:rep
+*MOT:	&-um (o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's mine ?
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$c:rep
+*MOT:	ye(a)h (.) drink it !
+%mor:	intj|yeah verb|drink-Fin-Imp-S pron|it-Prs-Acc-S3 !
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx mine ?
+%mor:	pron|mine-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:rep
+*MOT:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx cookies .
+%mor:	noun|cookie-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	you eat yours .
+%mor:	pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 pron|yours-Prs-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	that's nasty .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|nasty-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	eat your cookie .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|cookie .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	eat your cookie .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|cookie .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx cookie .
+%mor:	noun|cookie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%act:	C knocks over cup of juice
+%cod:	$c:min
+*MOT:	John (.) look at you .
+%mor:	noun|John verb|look-Fin-Imp-S adp|at pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%act:	M wipes up spilled juice
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx have some more ?
+%mor:	verb|have-Fin-Imp-S det|some-Def adj|more-Cmp-S1 ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:new
+*MOT:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	because you wasted .
+%mor:	sconj|because pron|you-Prs-Nom-S2 verb|waste-Fin-Ind-Past-S2 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx some more ?
+%mor:	det|some-Def adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$c:rep
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx some more Sher ?
+%mor:	det|some-Def adj|more-Cmp-S1 noun|Sher ?
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx cup .
+%mor:	noun|cup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	thank_you (.) Sherry .
+%mor:	noun|thankyou noun|Sherry .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%exp:	<bef> M gets up; M refills the cup
+*CHI:	xxx cup .
+%mor:	noun|cup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Sher .
+%mor:	noun|Sher .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:new
+*MOT:	leave that alone !
+%mor:	verb|leave-Fin-Imp-S pron|that-Dem-S1 adv|alone !
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%act:	M wipes up spilled juice
+*CHI:	Sher (.) who did that ?
+%mor:	noun|Sher pron|who-Rel-S1 verb|do-Fin-Ind-Past-S3 pron|that-Dem-S1 ?
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|1|PUNCT
+%cod:	$c:new
+*MOT:	you !
+%mor:	pron|you-Prs-Acc-S2 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	you .
+%mor:	pron|you-Prs-Acc-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	who did that ?
+%mor:	pron|who-Rel-S1 verb|do-Fin-Ind-Past-S3 pron|that-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$c:rep
+*MOT:	you did it .
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	eat your cookies (.) John .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|cookie-Plur noun|John .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|OBJ 5|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	eat your cookies .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|cookie-Plur .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%gpx:	C points over at an object straight ahead
+%cod:	$r:min
+*MOT:	ye(a)h (.) when you eat first .
+%mor:	intj|yeah adv|when pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 adv|first .
+%gra:	1|5|ROOT 2|4|ADVMOD 3|4|NSUBJ 4|1|ADVCL 5|4|ADVMOD 6|1|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%tim:	10:53:00
+%com:	end of five minutes
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sher ?
+%mor:	noun|Sher ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	can I play with that ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|play-Inf-S adp|with pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	that .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$r:new
+*MOT:	John !
+%mor:	noun|John !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	look at you !
+%mor:	verb|look-Fin-Imp-S adp|at pron|you-Prs-Acc-S2 !
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	Sherry (.) let me do it ?
+%mor:	noun|Sherry verb|let-Fin-S pron|I-Prs-Acc-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%cod:	$c:new
+*MOT:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx do it !
+%mor:	verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	move that Sher .
+%mor:	verb|move-Inf-S det|that-Def-Dem noun|Sher .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$c:new
+%tim:	10:53:27
+%com:	10:53:27 ending time is 10:53:39
+@End

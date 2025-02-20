@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/c-00017379-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Sachs|CHI|2;05.21|female|||Target_Child|||
+@ID:	eng|Sachs|MOT||female|||Mother|||
+@ID:	eng|Sachs|FAT||male|||Father|||
+@Media:	020521, audio, missing
+@Situation:	in bath
+@Types:	long, toyplay, TD
+*CHI:	I making a xxx .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Ger-S det|a-Ind-Art .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I'm spitting my cocoa out .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|spitting-Part-Pres-S pron|my-Prs-Gen-S1 noun|cocoa adv|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	I xxx don't need it .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|need-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	what are you doing (.) Nomi ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S noun|Nomi ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	getting cocoa .
+%mor:	verb|get-Ger-S noun|cocoa .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	Nomi (.) how come you stopped talking ?
+%mor:	intj|nomi adv|how verb|come-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 verb|stop-Fin-Ind-Past-S2 verb|talk-Ger-S ?
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|6|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|XCOMP 7|3|PUNCT
+*CHI:	because you .
+%mor:	sconj|because pron|you-Prs-Acc-S2 .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*MOT:	why did you stop talking ?
+%mor:	adv|why aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|stop-Inf-S verb|talk-Ger-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	because I'm playing in the bathtub .
+%mor:	sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|play-Part-Pres-S adp|in det|the-Def-Art noun|bathtub .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	because you're playing in the bathtub .
+%mor:	sconj|because pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|play-Part-Pres-S adp|in det|the-Def-Art noun|bathtub .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	but you were talking before .
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2 verb|talk-Part-Pres-S adv|before .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*MOT:	did you stop because the recorder was on ?
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|stop-Inf-S sconj|because det|the-Def-Art noun|recorder aux|be-Fin-Ind-Past-S3 adv|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|COP 8|3|ADVCL 9|3|PUNCT
+%com:	break in recording
+%exp:	she said "I want to play in the bath+tub and make juice" .
+*CHI:	have yours already .
+%mor:	verb|have-Fin-Imp-S2 pron|yours-Prs-S2 adv|already .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*FAT:	whatcha [: what are you] doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	making juice .
+%mor:	verb|make-Ger-S noun|juice .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	you're making juice ?
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|make-Part-Pres-S noun|juice ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	coffee .
+%mor:	noun|coffee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	you're making juice .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|make-Part-Pres-S noun|juice .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	what now ?
+%mor:	pron|what-Int-S1 adv|now ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	coffee .
+%mor:	noun|coffee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	you're making coffee .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|make-Part-Pres-S noun|coffee .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	this is hot coffee .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|hot-Pos-S1 noun|coffee .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	you're making it in the boat .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|make-Part-Pres-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|boat .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	are you warm enough ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|warm-Pos-S1 adv|enough ?
+%gra:	1|3|COP 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	(.) looks like somebody got a haircut .
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|somebody-Ind-S1 verb|get-Fin-Ind-Past-S3 det|a-Ind-Art noun|haircut .
+%gra:	1|6|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|6|DET 6|4|OBJ 7|1|PUNCT
+@End

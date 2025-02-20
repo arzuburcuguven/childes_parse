@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/c-00010942-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.08|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	28-AUG-1973
+@Types:	long, toyplay, TD
+*CHI:	I wanna take off this shirt .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|take-Inf-S adp|off det|this-Def-Dem noun|shirt .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%sit:	600
+*CHI:	I'm too big .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|too adj|big-Pos-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	600
+*MOT:	no, it's too big .
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|big-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	600
+*CHI:	Dada, Joanna almost choked on me .
+%mor:	noun|Dada cm|cm noun|Joanna adv|almost verb|choke-Fin-Ind-Past-S3 adp|on pron|I-Prs-Acc-S1 .
+%gra:	1|5|VOCATIVE 2|5|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%sit:	601
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	601
+*CHI:	Joanna almost choked on me .
+%mor:	noun|Joanna adv|almost verb|choke-Fin-Ind-Past-S3 adp|on pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	601
+*FAT:	oh_my_goodness .
+%mor:	noun|ohmygoodness .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	601
+*MOT:	she almost choked you, you mean .
+%mor:	pron|she-Prs-Nom-S3 adv|almost verb|choke-Fin-Ind-Past-S3 pron|you-Prs-Acc-S2 cm|cm pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|3|PUNCT 6|7|NSUBJ 7|3|PARATAXIS 8|3|PUNCT
+%sit:	601
+*CHI:	if I eat that peach, then I won't be hungry whole night .
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 det|that-Def-Dem noun|peach cm|cm adv|then pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not aux|be-Inf-S adj|hungry-Pos-S1 adj|whole-Pos-S1 noun|night .
+%gra:	1|3|MARK 2|3|NSUBJ 3|12|ADVCL 4|5|DET 5|3|OBJ 6|12|PUNCT 7|12|ADVMOD 8|12|NSUBJ 9|12|AUX 10|12|ADVMOD 11|12|COP 12|14|ROOT 13|14|AMOD 14|12|OBL-TMOD 15|12|PUNCT
+%sit:	602
+*CHI:	I learning how put on underpants .
+%mor:	pron|I-Prs-Nom-S1 verb|learn-Ger-S adv|how verb|put-Fin-Ind-Past-S adp|on noun|underpant-Plur .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|ADVMOD 4|2|CCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+%sit:	603
+*MOT:	good .
+%mor:	adj|good-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	603
+*CHI:	I'm a toddler, right ?
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|toddler cm|cm adj|right-Pos-S1 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|PUNCT 6|4|DISCOURSE 7|4|PUNCT
+%sit:	603
+*MOT:	no, you're a big girl .
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|big-Pos-S1 noun|girl .
+%gra:	1|7|DISCOURSE 2|7|PUNCT 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%sit:	603
+*MOT:	you're two and a half .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 num|two cconj|and det|a-Ind-Art noun|half .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+%sit:	603
+@End

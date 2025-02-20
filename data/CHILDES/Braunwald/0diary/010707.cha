@@ -1,0 +1,397 @@
+@UTF8
+@PID:	11312/c-00010631-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, SIS Sister, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;07.07|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	27-SEP-1972
+@Types:	long, toyplay, TD
+*CHI:	bowwow out .
+%mor:	intj|bowwow adp|out .
+%gra:	1|2|ROOT 2|1|GOESWITH 3|1|PUNCT
+%sit:	916
+*CHI:	doll doll .
+%mor:	noun|doll noun|doll .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	916
+*CHI:	don't Deedee [: Joanna] .
+%mor:	aux|do-Fin-Imp-S~part|not noun|Joanna .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%sit:	917
+*CHI:	mine Deedee [: Joanna] .
+%mor:	pron|mine-Prs-S1 noun|Joanna .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	917
+*CHI:	see butter .
+%mor:	verb|see-Fin-Imp-S noun|butter .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	918
+*CHI:	Deedee [: Joanna] bowl .
+%mor:	noun|Joanna noun|bowl .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	919
+*SIS:	I already got milk .
+%mor:	pron|I-Prs-Nom-S1 adv|already verb|get-Fin-Ind-Past-S1 noun|milk .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	919
+*CHI:	hay [: hair] hay [: hair] hay [: hair] wet .
+%mor:	noun|hair noun|hair noun|hair adj|wet-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	920
+*CHI:	hay [: hair] wet .
+%mor:	noun|hair adj|wet-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	920
+*CHI:	Peanuh [: Peanuts] papoom [: bathroom] .
+%mor:	noun|peanut-Plur noun|bathroom .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	921
+*CHI:	eating .
+%mor:	noun|eating .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	921
+*MOT:	what do you hear ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hear-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	922
+*FAT:	Eugene barking ?
+%mor:	noun|Eugene noun|barking ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	922
+*CHI:	no Eugene barking .
+%mor:	det|no-Def noun|Eugene noun|barking .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	922
+*CHI:	don't don't Sue don't Papa .
+%mor:	aux|do-Fin-Imp-S~part|not aux|do-Fin-Imp-S~part|not noun|Sue aux|do-Fin-S~part|not noun|Papa .
+%gra:	1|6|AUX 2|6|ADVMOD 3|6|AUX 4|6|ADVMOD 5|6|NSUBJ 6|8|ROOT 7|6|ADVMOD 8|6|NSUBJ 9|6|PUNCT
+%sit:	923
+*MOT:	either George is here or there's an enormous white cat down there in the garden .
+%mor:	cconj|either noun|George aux|be-Fin-Ind-Pres-S3 adv|here cconj|or pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|enormous-Pos-S1 adj|white-Pos-S1 noun|cat adv|down adv|there adp|in det|the-Def-Art noun|garden .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|16|ROOT 5|7|CC 6|7|EXPL 7|4|CONJ 8|11|DET 9|11|AMOD 10|11|AMOD 11|7|NSUBJ 12|13|ADVMOD 13|7|ADVMOD 14|16|CASE 15|16|DET 16|13|OBL 17|4|PUNCT
+%sit:	924
+*CHI:	kitty down der [: there], Sue .
+%mor:	noun|kitty adv|down adv|there cm|cm noun|Sue .
+%gra:	1|5|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT 5|1|PARATAXIS 6|1|PUNCT
+%sit:	924
+*CHI:	kitty down der [: there] .
+%mor:	noun|kitty adv|down adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	924
+*CHI:	butter see .
+%mor:	noun|butter verb|see-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	925
+*CHI:	see butter .
+%mor:	verb|see-Fin-Imp-S noun|butter .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	925
+*CHI:	hi, butter .
+%mor:	intj|hi cm|cm noun|butter .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	925
+*CHI:	hi, butter .
+%mor:	intj|hi cm|cm noun|butter .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%sit:	925
+*CHI:	building Sue .
+%mor:	noun|building noun|Sue .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	926
+*CHI:	building .
+%mor:	noun|building .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	926
+*MOT:	want Sue to open your cheese ?
+%mor:	verb|want-Fin-Imp-S noun|Sue part|to verb|open-Inf-S pron|your-Prs-Gen-S2 noun|cheese ?
+%gra:	1|6|ROOT 2|1|OBJ 3|4|MARK 4|1|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|1|PUNCT
+%sit:	927
+*CHI:	no, Baura [: Laura] do it .
+%mor:	intj|no cm|cm noun|Laura verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	927
+*CHI:	tata [= glasses] .
+%mor:	noun|tata .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	928
+*CHI:	mut [: nut] Sue .
+%mor:	noun|nut noun|Sue .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	929
+*CHI:	mut [: nut] Sue .
+%mor:	noun|nut noun|Sue .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	929
+*CHI:	hecup [: hiccup] .
+%mor:	noun|hiccup .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	930
+*MOT:	who has the hiccups ?
+%mor:	pron|who-Rel-S1 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|hiccup-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	930
+*CHI:	me .
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	930
+*CHI:	bobom@c [= clay] bobom@c [= clay] see bobom@c [= clay] .
+%mor:	noun|bobom noun|bobom verb|see-Fin-Imp-S noun|bobom .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	931
+*CHI:	tuk [: touch] bobom@c [= clay] .
+%mor:	verb|touch-Inf-S noun|bobom .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	931
+*MOT:	okay, so touch it .
+%mor:	intj|okay cm|cm adv|so verb|touch-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	931
+*CHI:	tuk [: touch] bobom@c [= clay] .
+%mor:	verb|touch-Inf-S noun|bobom .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	932
+*CHI:	tuk [: touch] bobom@c [= clay] .
+%mor:	verb|touch-Inf-S noun|bobom .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	932
+*MOT:	you touched it already .
+%mor:	pron|you-Prs-Nom-S2 verb|touch-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 adv|already .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%sit:	932
+*CHI:	cat foo(d) .
+%mor:	noun|cat noun|food .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	933
+*CHI:	cat water .
+%mor:	noun|cat noun|water .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	934
+*CHI:	tata [= glasses] clean .
+%mor:	noun|tata noun|clean .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	935
+*CHI:	bite bite carrot .
+%mor:	noun|bite noun|bite noun|carrot .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	936
+*CHI:	secret Sue .
+%mor:	adj|secret-Pos-S1 noun|Sue .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	937
+*MOT:	oh no .
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%sit:	937
+*CHI:	Baura [: Laura] secret .
+%mor:	noun|Laura noun|secret .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	937
+*MOT:	oh no .
+%mor:	intj|oh intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%sit:	937
+*CHI:	secret done .
+%mor:	noun|secret verb|do-Part-Past-S .
+%gra:	1|2|ROOT 2|1|ACL 3|1|PUNCT
+%sit:	937
+*MOT:	you go to the front door and see if Daddy's car is there .
+%mor:	pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adp|to det|the-Def-Art adj|front-Pos-S1 noun|door cconj|and verb|see-Fin-Ind-Pres-S2 sconj|if noun|Daddy~part|s noun|car aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|8|CC 8|2|CONJ 9|14|MARK 10|12|NMOD-POSS 11|10|CASE 12|14|NSUBJ 13|14|COP 14|8|CCOMP 15|2|PUNCT
+%sit:	938
+*CHI:	no Daddy car .
+%mor:	det|no-Def noun|Daddy noun|car .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	938
+*CHI:	hi, Kathy .
+%mor:	intj|hi cm|cm noun|Kathy .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%sit:	939
+*CHI:	no bubble .
+%mor:	det|no-Def noun|bubble .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	941
+*CHI:	no baby bubble .
+%mor:	det|no-Def noun|baby noun|bubble .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	941
+*CHI:	no Jen .
+%mor:	intj|no noun|Jen .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	941
+*CHI:	Jen tata [= glasses] on .
+%mor:	noun|Jen noun|tata adv|on .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|ADVMOD 4|1|PUNCT
+%sit:	942
+*CHI:	pipit@c [= blanket] wet .
+%mor:	noun|pipit adj|wet-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	943
+*CHI:	pairplane [: airplane] up der [: there] .
+%mor:	noun|airplane adv|up adv|there .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%sit:	944
+*MOT:	boy it's pretty around here .
+%mor:	intj|boy pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|pretty adv|around adv|here .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	945
+*CHI:	pretty tree .
+%mor:	adj|pretty-Pos-S1 noun|tree .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	945
+*CHI:	store in .
+%mor:	noun|store adv|in .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	946
+*CHI:	store .
+%mor:	noun|store .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	946
+*CHI:	roll up .
+%mor:	verb|roll-Inf-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%sit:	947
+*CHI:	don't .
+%mor:	verb|do-Fin-Imp-S~part|not .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	948
+*CHI:	Baura [: Laura] down .
+%mor:	noun|Laura adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	948
+*CHI:	Laura down .
+%mor:	noun|Laura adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%sit:	948
+*CHI:	Baura [: Laura] shoe on .
+%mor:	noun|Laura noun|shoe adv|on .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|3|ROOT 4|3|PUNCT
+%sit:	949
+*MOT:	are you hungry ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|hungry-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	950
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	950
+*MOT:	do you want milk ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|milk ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	950
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	950
+*MOT:	do you want food ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|food ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	950
+*MOT:	do you want juice ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|juice ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	950
+*CHI:	no ju(ice) .
+%mor:	det|no-Def noun|juice .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	950
+*CHI:	no milk .
+%mor:	det|no-Def noun|milk .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	950
+*CHI:	me cakie [= monkey] .
+%mor:	pron|I-Prs-Acc-S1 noun|cakie .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	951
+*CHI:	hello Daddy car .
+%mor:	intj|hello noun|Daddy noun|car .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	952
+*MOT:	could you give your bottle to Daddy ?
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|your-Prs-Gen-S2 noun|bottle adp|to noun|Daddy ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+%sit:	953
+*CHI:	Daddy here go .
+%mor:	noun|Daddy adv|here verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|1|ADVMOD 3|3|ROOT 4|3|PUNCT
+%sit:	953
+*CHI:	clean me .
+%mor:	verb|clean-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	954
+*CHI:	find kitty baby .
+%mor:	verb|find-Fin-Imp-S noun|kitty noun|baby .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%sit:	955
+*MOT:	find the book with the kitty and the baby in it ?
+%mor:	verb|find-Fin-Imp-S det|the-Def-Art noun|book adp|with det|the-Def-Art noun|kitty cconj|and det|the-Def-Art noun|baby adp|in pron|it-Prs-Acc-S3 ?
+%gra:	1|11|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CC 8|9|DET 9|6|CONJ 10|11|CASE 11|1|ADVCL 12|1|PUNCT
+%sit:	955
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	955
+*CHI:	my dat [: that] .
+%mor:	pron|my-Prs-Gen-S1 pron|that-Dem-S1 .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	956
+*CHI:	my dat [: that] .
+%mor:	pron|my-Prs-Gen-S1 pron|that-Dem-S1 .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	956
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	956
+*CHI:	see bobom@c [= clay] .
+%mor:	verb|see-Fin-Imp-S noun|bobom .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	957
+*CHI:	bobom@c [= clay] .
+%mor:	noun|bobom .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	957
+*CHI:	pretty bobom@c [= clay] .
+%mor:	adv|pretty noun|bobom .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	957
+*CHI:	pretty bobom@c [= clay] .
+%mor:	adv|pretty noun|bobom .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	957
+*CHI:	doll poo .
+%mor:	noun|doll noun|poo .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	958
+*CHI:	doll poo .
+%mor:	noun|doll noun|poo .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	958
+*MOT:	the doll poos ?
+%mor:	det|the-Def-Art noun|doll noun|poos-Plur ?
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	958
+*CHI:	uhoh, Laura down .
+%mor:	intj|uhoh cm|cm noun|Laura adv|down .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%sit:	959
+*CHI:	Laura write .
+%mor:	noun|Laura verb|write-Fin-Ind-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	960
+*CHI:	Laura write .
+%mor:	noun|Laura verb|write-Fin-Ind-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	960
+*CHI:	Peanuh [: Peanuts] bottle .
+%mor:	noun|peanut-Plur noun|bottle .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	961
+*CHI:	here (w)e go .
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+%sit:	963 numerous times
+@End

@@ -1,0 +1,151 @@
+@UTF8
+@PID:	11312/c-00017712-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|VanHouten|MOT||female|||Mother|||
+@ID:	eng|VanHouten|CHI|2;04.|male|MOT_Adolescent||Target_Child|MOT_1||
+@Comment:	Education of MOT is 1
+@Situation:	Lunch. Child sits in high chair at table. Mother walks around , preparing food. Finally , Mother sits down to eat too. Grandmother and baby are in kitchen too. It is noisy. Child is fairly intelligible.
+@Comment:	Age Group of MOT Adolescent
+@Comment:	cross, meal, TD
+@Types:	cross, meal, TD
+*MOT:	here ya are .
+%mor:	adv|here pron|you-Prs-Acc-S2 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|COP 4|1|PUNCT
+%sit:	places glass of juice on table .
+%cod:	$MLU=3 $NMV=1 $Ini $Rep
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Rfi
+*CHI:	I don't want this .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	extends glass .
+%cod:	$MLU=4 $NMV=1 $Ini $Des
+*CHI:	I don't want this .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Des
+*MOT:	you don't want that ?
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S pron|that-Dem-S1 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rde $Exp
+*MOT:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	takes glass .
+%cod:	MLU=1 $NMV=0 $Con $Acc
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	hands plate .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	eat your salad first .
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|salad adv|first .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*CHI:	0 .
+%sit:	picks up food with fingers .
+*MOT:	eat it with your fork .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 adp|with pron|your-Prs-Gen-S2 noun|fork .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|NMOD-POSS 5|1|OBL 6|1|PUNCT
+%sit:	points to fork; leaves .
+%cod:	$MLU=5 $NMV=1 $Rta $C/R
+*CHI:	0 .
+%sit:	eats food with fingers .
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	turns around to find Child eating with fingers; points to fork .
+%cod:	$MLU=1 $NMV=0 $Rta $C/R
+*MOT:	eat it +...
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 +...
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$Con $C/R
+*MOT:	who's that ?
+%mor:	pron|who-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	holds up handle of fork .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	who's that ?
+%mor:	pron|who-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*MOT:	it's Pluto .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|Pluto .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	is it good ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|good-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	sits down after finishing preparation of own food .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	0 .
+%sit:	continues eating .
+%cod:	$Nul
+*CHI:	0 .
+%sit:	picks up food with fingers .
+*MOT:	eat it with you fork .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 adp|with pron|you-Prs-Acc-S2 noun|fork .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DEP 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $C/R
+*CHI:	0 .
+%sit:	picks up food with fingers .
+*MOT:	eat it with you fork .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 adp|with pron|you-Prs-Acc-S2 noun|fork .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DEP 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $C/R
+*CHI:	0 .
+%sit:	picks up food with fingers .
+*MOT:	eat it with you fork .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 adp|with pron|you-Prs-Acc-S2 noun|fork .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DEP 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $C/R
+*MOT:	use your fork .
+%mor:	verb|use-Fin-Imp-S pron|your-Prs-Gen-S2 noun|fork .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	use your fork .
+%mor:	verb|use-Fin-Imp-S pron|your-Prs-Gen-S2 noun|fork .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%sit:	points to fork .
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	gets spoon .
+%cod:	$MLU=1 $NMV=0 $Ini $C/R
+*MOT:	you want a spoon ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|a-Ind-Art noun|spoon ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	gives spoon to Child .
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	takes spoon and gives fork to Mother .
+*MOT:	hm: (.) thank_you .
+%mor:	intj|hm intj|thankyou .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rta $Rsc
+*CHI:	0 .
+%sit:	eats food .
+*MOT:	myumm [: num_num] .
+%mor:	noun|numnum .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Rep
+*MOT:	is that good ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adj|good-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	gaze Mother , tries to dislodge food from teeth .
+*MOT:	xxx .
+%sit:	laughs; takes Child's fingers out of his mouth .
+%cod:	$Rta $C/R
+@End

@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/c-00010941-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;06.07|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	27-AUG-1973
+@Types:	long, toyplay, TD
+*CHI:	in_case one used up .
+%mor:	intj|incase num|one verb|use-Part-Past-S adp|up .
+%gra:	1|2|DISCOURSE 2|3|NSUBJ-PASS 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%sit:	590
+*CHI:	in_case (a)nother one used up we got another one .
+%mor:	adv|incase det|another-Def noun|one verb|use-Part-Past-S adp|up pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1 det|another-Def noun|one .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|7|NSUBJ 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%sit:	590
+*CHI:	Mommy, I want food .
+%mor:	intj|mommy cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|food .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	591
+*CHI:	I smell waiting toast and food .
+%mor:	pron|I-Prs-Nom-S1 verb|smell-Fin-Ind-Pres-S1 verb|wait-Ger-S noun|toast cconj|and noun|food .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|3|OBJ 5|6|CC 6|4|CONJ 7|2|PUNCT
+%sit:	591
+*MOT:	I'm getting it for you, Laura .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|get-Part-Pres-S pron|it-Prs-Acc-S3 adp|for pron|you-Prs-Acc-S2 cm|cm noun|Laura .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT 8|3|VOCATIVE 9|3|PUNCT
+%sit:	591
+*CHI:	I got new milk for us when [/] when [/] when that milk used up .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 adj|new-Pos-S1 noun|milk adp|for pron|we-Prs-Acc-P1 adv|when det|that-Def-Dem noun|milk verb|use-Fin-Ind-Past-S3 adp|up .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|AMOD 4|2|OBJ 5|6|CASE 6|2|OBL 7|10|ADVMOD 8|9|DET 9|10|NSUBJ 10|2|ADVCL 11|10|COMPOUND-PRT 12|2|PUNCT
+%sit:	592
+*MOT:	when that milk used up, then we will use that milk .
+%mor:	adv|when det|that-Def-Dem noun|milk verb|use-Fin-Ind-Past-S3 adp|up cm|cm adv|then pron|we-Prs-Nom-P1 aux|will-Fin-S verb|use-Inf-S det|that-Def-Dem noun|milk .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|10|ADVCL 5|4|COMPOUND-PRT 6|10|PUNCT 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|12|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+%sit:	592
+*MOT:	well, I want Laura .
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|Laura .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	593
+*MOT:	I love her .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	593
+*MOT:	she can't be lost .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not aux|be-Inf-S verb|lose-Part-Past-S .
+%gra:	1|5|NSUBJ-PASS 2|5|AUX 3|5|ADVMOD 4|5|AUX-PASS 5|5|ROOT 6|5|PUNCT
+%sit:	593
+*CHI:	she can't come because she's sick, that's why .
+%mor:	pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not verb|come-Inf-S sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|sick-Pos-S1 cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|why .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|8|MARK 6|8|NSUBJ 7|8|COP 8|4|ADVCL 9|4|PUNCT 10|12|NSUBJ 11|12|COP 12|4|PARATAXIS 13|4|PUNCT
+%sit:	593
+*CHI:	shoot, he didn't fix our dishwasher .
+%mor:	verb|shoot-Inf-Imp-S cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3~part|not verb|fix-Inf-S pron|our-Prs-Gen-P1 noun|dishwasher .
+%gra:	1|8|ROOT 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|1|PARATAXIS 7|8|NMOD-POSS 8|6|OBJ 9|1|PUNCT
+%sit:	594
+*MOT:	honey, he didn't come to fix our dishwasher .
+%mor:	noun|honey cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3~part|not verb|come-Inf-S part|to verb|fix-Inf-S pron|our-Prs-Gen-P1 noun|dishwasher .
+%gra:	1|6|VOCATIVE 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|10|ROOT 7|8|MARK 8|6|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|6|PUNCT
+%sit:	594
+*CHI:	where's my one baby, Mama ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 num|one noun|baby cm|cm noun|Mama ?
+%gra:	1|2|ADVMOD 2|7|ROOT 3|5|NMOD-POSS 4|5|NUMMOD 5|2|NSUBJ 6|5|PUNCT 7|5|APPOS 8|2|PUNCT
+%sit:	595
+*CHI:	oh, she's over here .
+%mor:	intj|oh cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|over adv|here .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	595
+*CHI:	honey, where are you ?
+%mor:	noun|honey cm|cm adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|5|ROOT 2|1|PUNCT 3|1|PARATAXIS 4|3|COP 5|3|NSUBJ 6|1|PUNCT
+%sit:	595
+*CHI:	clowns shouldn't drive .
+%mor:	noun|clown-Plur aux|should-Fin-S~part|not verb|drive-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	596
+*CHI:	clowns should not drive .
+%mor:	noun|clown-Plur aux|should-Fin-S part|not verb|drive-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	596
+*CHI:	clowns should not drive in a car .
+%mor:	noun|clown-Plur aux|should-Fin-S part|not verb|drive-Inf-S adp|in det|a-Ind-Art noun|car .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%sit:	596
+*CHI:	shoot, clowns shouldn't be in a car .
+%mor:	verb|shoot-Inf-Imp-S cm|cm noun|clown-Plur aux|should-Fin-S~part|not aux|be-Inf-S adp|in det|a-Ind-Art noun|car .
+%gra:	1|9|ROOT 2|1|PUNCT 3|9|NSUBJ 4|9|AUX 5|9|ADVMOD 6|9|COP 7|9|CASE 8|9|DET 9|1|PARATAXIS 10|1|PUNCT
+%sit:	596
+@End

@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/c-00011056-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|02;10.12|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	01-JAN-1974
+@Types:	long, toyplay, TD
+*MOT:	don't let Peanuts out (be)cause Katie's here .
+%mor:	aux|do-Fin-Imp-S~part|not verb|let-Fin-Imp-S noun|peanut-Plur adp|out sconj|because noun|Katie~part|s adv|here .
+%gra:	1|3|AUX 2|3|ADVMOD 3|9|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|9|MARK 7|9|NMOD-POSS 8|7|CASE 9|3|ADVCL 10|3|PUNCT
+%sit:	193
+*CHI:	I want it real close so Katie can't go upstairs .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adv|real adj|close-Pos-S1 adv|so noun|Katie aux|can-Fin-S~part|not verb|go-Inf-S adv|upstairs .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|XCOMP 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|2|PARATAXIS 11|10|ADVMOD 12|2|PUNCT
+%sit:	193
+*CHI:	everything's getting in my eyes .
+%mor:	pron|everything-Tot-S1~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in pron|my-Prs-Gen-S1 noun|eye-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%sit:	194
+*MOT:	what's everything ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	194
+*CHI:	I don't wanna see any o(f) my friends .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|wanna verb|see-Inf-S det|any-Def adp|of pron|my-Prs-Gen-S1 noun|friend-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|5|PUNCT
+%sit:	195
+*CHI:	they call me a voumvoum@n .
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 det|a-Ind-Art noun|voumvoum .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|XCOMP 6|2|PUNCT
+%sit:	195
+*MOT:	what's a voumvoum@n ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|voumvoum ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%sit:	195
+*FAT:	who calls you a voumvoum@n ?
+%mor:	pron|who-Rel-S1 verb|call-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 det|a-Ind-Art noun|voumvoum ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|XCOMP 6|2|PUNCT
+%sit:	195
+*CHI:	Johnnie .
+%mor:	noun|Johnnie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	195
+*FAT:	shall I butter this for you ?
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|butter-Inf-S pron|this-Dem-S1 adp|for pron|you-Prs-Acc-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%sit:	196
+*CHI:	yeah, so I won't get too much .
+%mor:	intj|yeah cm|cm adv|so pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not verb|get-Inf-S adv|too adj|much-Pos-S1 .
+%gra:	1|7|DISCOURSE 2|7|PUNCT 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|9|ROOT 8|9|ADVMOD 9|7|XCOMP 10|7|PUNCT
+%sit:	196
+*FAT:	high today is only fifty eight degrees .
+%mor:	adj|high-Pos-S1 noun|today aux|be-Fin-Ind-Pres-S3 adv|only num|fifty num|eight noun|degree-Plur .
+%gra:	1|2|AMOD 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|6|COMPOUND 6|7|NUMMOD 7|7|ROOT 8|7|PUNCT
+%sit:	197
+*CHI:	we shouldn't go out anywhere .
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S~part|not verb|go-Inf-S adv|out adv|anywhere .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+%sit:	197
+*MOT:	we shouldn't ?
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S~part|not ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	197
+*CHI:	no (be)cause it's cold out .
+%mor:	intj|no sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cold-Pos-S1 adv|out .
+%gra:	1|5|DISCOURSE 2|5|MARK 3|5|NSUBJ 4|5|COP 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%sit:	197
+*CHI:	I don't know why Dave doesn't call me Bobo .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|why noun|Dave aux|do-Fin-Ind-Pres-S3~part|not verb|call-Inf-S pron|I-Prs-Acc-S1 noun|Bobo .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|9|ADVMOD 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|CCOMP 10|9|OBJ 11|9|XCOMP 12|4|PUNCT
+%sit:	198
+*MOT:	who does Dave call Bobo ?
+%mor:	pron|who-Rel-S1 aux|do-Fin-Ind-Pres-S3 noun|Dave verb|call-Inf-S noun|Bobo ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	198
+*CHI:	Jessica .
+%mor:	noun|Jessica .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	198
+*CHI:	Jack, Sue forgot something put in the (re)frigerator .
+%mor:	noun|Jack cm|cm noun|Sue verb|forget-Fin-Ind-Past-S3 pron|something-Ind-S1 verb|put-Part-Past-S adp|in det|the-Def-Art noun|refrigerator .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|NSUBJ 4|9|ROOT 5|4|OBJ 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+%sit:	199
+@End

@@ -1,0 +1,472 @@
+@UTF8
+@PID:	11312/c-00017705-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|VanHouten|MOT||female|||Mother|||
+@ID:	eng|VanHouten|CHI|2;04.|female|MOT_Older||Target_Child|MOT_2||
+@Comment:	Education of MOT is 2
+@Situation:	Freeplay. Mother and Child sit on the floor in the living room. They play with a miniature park with a merry-go-round and a slide. Child's speech is fairly comprehensible.
+@Comment:	Age Group of MOT Older
+@G:	Mother_Freeplay
+@Types:	cross, toyplay, TD
+*MOT:	can you do that ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	puts miniature people on merry+go+round .
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $C/R
+*MOT:	can you do that ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	can you sit them in the chairs ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|sit-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|chair-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $C/R
+*MOT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $C/R
+*MOT:	can you sit them in the chairs ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|sit-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|chair-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $C/R
+*CHI:	all done !
+%mor:	det|all-Def verb|do-Part-Past-S !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	empties plastic toy container .
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	Nicole (.) turn around this way .
+%mor:	noun|Nicole verb|turn-Fin-Ind-Pres-S adp|around det|this-Def-Dem noun|way .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*CHI:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	holds up new plastic container of toys .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rri $Cla
+*CHI:	toys .
+%mor:	noun|toy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	toys .
+%mor:	noun|toy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	let's move this over here .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|move-Inf-S pron|this-Dem-S1 adp|over adv|here .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|CASE 6|3|OBL 7|1|PUNCT
+%sit:	moves toy box closer to her .
+%cod:	$MLU=6 $NMV=2 $Ini $Rep
+*MOT:	look it .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	spins merry+go+round .
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	look at that .
+%mor:	verb|look-Fin-Imp-S adp|at pron|that-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	oops .
+%mor:	noun|oop .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	fell off it's perch .
+%mor:	verb|fall-Fin-Ind-Past-S1 adp|off pron|it-Prs-Acc-S3~part|s noun|perch .
+%gra:	1|5|ROOT 2|5|CASE 3|5|NMOD-POSS 4|3|CASE 5|1|OBL 6|1|PUNCT
+%sit:	puts merry+go+round back on base .
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*MOT:	wee !
+%mor:	intj|wee !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	spins merry+go+round .
+%cod:	$MLU=0 $NMV=0 $Ini $Rep
+*MOT:	the girl going for a ride ?
+%mor:	det|the-Def-Art noun|girl verb|go-Ger-S adp|for det|a-Ind-Art noun|ride ?
+%gra:	1|2|DET 2|6|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*MOT:	wanna put another one on ?
+%mor:	intj|wanna verb|put-Fin-Imp-S det|another-Def noun|one adv|on ?
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	sit her in the chair .
+%mor:	verb|sit-Fin-Imp-S pron|her-Prs-Acc-S3 adp|in det|the-Def-Art noun|chair .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%sit:	gives toy to Child .
+%cod:	$MLU=5 $NMV=1 $Rde $Acc
+*MOT:	you sit her in the chair .
+%mor:	pron|you-Prs-Nom-S2 verb|sit-Fin-Ind-Pres-S2 pron|her-Prs-Acc-S3 adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	looks around for chair .
+*MOT:	look it .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rta $C/R
+*MOT:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	puts person on merry+go+round .
+%cod:	$MLU=2 $NMV=0 $Con $C/R
+*MOT:	sit her on the chair so she can spin around .
+%mor:	verb|sit-Fin-Imp-S pron|her-Prs-Acc-S3 adp|on det|the-Def-Art noun|chair adv|so pron|she-Prs-Nom-S3 aux|can-Fin-S verb|spin-Inf-S adv|around .
+%gra:	1|10|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|1|ADVCL 10|9|ADVMOD 11|1|PUNCT
+%cod:	$MLU=10 $NMV=2 $Ini $C/R
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	sit her in the chair .
+%mor:	verb|sit-Fin-Imp-S pron|her-Prs-Acc-S3 adp|in det|the-Def-Art noun|chair .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	tries to put toy on seat .
+*MOT:	that's backwards .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|backwards .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rep
+*MOT:	turn it around .
+%mor:	verb|turn-Fin-Imp-S pron|it-Prs-Acc-S3 adv|around .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	that's a girl .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*MOT:	can you make her hang on ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|make-Inf-S pron|her-Prs-Acc-S3 verb|hang-Inf-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $C/R
+*MOT:	can you make her hang on ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|make-Inf-S pron|her-Prs-Acc-S3 verb|hang-Inf-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $C/R
+*MOT:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	look it .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	see how these hands fit on here .
+%mor:	verb|see-Fin-Imp-S adv|how det|this-Def-Dem noun|hand-Plur verb|fit-Fin-Ind-Pres-P3 adp|on adv|here .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|DET 4|5|NSUBJ 5|2|ADVCL-RELCL 6|7|CASE 7|5|OBL 8|1|PUNCT
+%sit:	fastens toy to merry+go+round .
+%cod:	$MLU=7 $NMV=2 $Con $Tea
+*MOT:	see ?
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	can you do that with one of the girls (.) or a boy ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S pron|that-Dem-S1 adp|with num|one adp|of det|the-Def-Art noun|girl-Plur cconj|or det|a-Ind-Art noun|boy ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CC 11|12|DET 12|9|CONJ 13|3|PUNCT
+%cod:	$MLU=12 $NMV=1 $Con $Tea
+*MOT:	here's another girl .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|another-Def noun|girl .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%sit:	gives toy to Child .
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	sit her on the chair .
+%mor:	verb|sit-Fin-Imp-S pron|her-Prs-Acc-S3 adp|on det|the-Def-Art noun|chair .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	tries to put person on seat .
+*MOT:	that's backwards .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|backwards .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rep
+*CHI:	that's backwards .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|backwards .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Rep
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	sit her in .
+%mor:	verb|sit-Fin-Imp-S pron|her-Prs-Acc-S3 adv|in .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	can you make her hang on ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|make-Inf-S pron|her-Prs-Acc-S3 verb|hang-Inf-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $C/R
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/R
+*MOT:	make her hang on so she'll sit up straight .
+%mor:	verb|make-Fin-Imp-S pron|her-Prs-Acc-S3 verb|hang-Inf-S adp|on adv|so pron|she-Prs-Nom-S3~aux|will-Fin-S verb|sit-Inf-S adp|up adv|straight .
+%gra:	1|10|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|1|ADVCL 9|8|COMPOUND-PRT 10|8|ADVMOD 11|1|PUNCT
+%cod:	$MLU=10 $NMV=3 $Con $C/R
+*CHI:	straight .
+%mor:	adv|straight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	she's backwards .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|backwards .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rep
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Cla
+*CHI:	her backwards .
+%mor:	pron|her-Prs-Acc-S3 adv|backwards .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	she's backwards ?
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|backwards ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Exp
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	no (.) she's not backwards .
+%mor:	intj|no pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|backwards .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Rep
+*CHI:	I can't do this .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|do-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	0 .
+%sit:	reaches to help .
+%cod:	$Rre $Acc
+*CHI:	xxx .
+%sit:	pulls toy away .
+%cod:	$Res $Des
+*MOT:	alright (.) sit her in there .
+%mor:	intj|alright verb|sit-Fin-Imp-S pron|her-Prs-Acc-S3 adp|in adv|there .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*CHI:	put it off .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Des
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rde $Cla
+*MOT:	can we put it on the floor and do it ?
+%mor:	aux|can-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|floor cconj|and verb|do-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CC 9|3|CONJ 10|9|OBJ 11|3|PUNCT
+%cod:	$MLU=10 $NMV=2 $Con $Exp
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	maybe it will be easier .
+%mor:	adv|maybe pron|it-Prs-Nom-S3 aux|will-Fin-S aux|be-Inf-S adj|easy-Cmp-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rde $Acc
+*MOT:	there you go .
+%mor:	pron|there-Int-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	puts toy on floor .
+%cod:	$MLU=3 $NMV=1 $Con $Acc
+*CHI:	0 .
+%sit:	tries to put piece in the chair .
+*MOT:	no (.) put it the other way so she's sitting right in the chair .
+%mor:	intj|no verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 det|the-Def-Art adj|other-Pos-S1 noun|way adv|so pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|sit-Part-Pres-S adv|right adp|in det|the-Def-Art noun|chair .
+%gra:	1|2|DISCOURSE 2|14|ROOT 3|2|OBJ 4|6|DET 5|6|AMOD 6|2|OBL-NPMOD 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|2|ADVCL 11|14|ADVMOD 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+%cod:	$MLU=14 $NMV=2 $Rta $C/R
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Rsc
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $C/R
+*MOT:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	look it how Mommy does .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 adv|how noun|Mommy verb|do-Fin-Ind-Pres-S3 .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|ADVMOD 4|5|NSUBJ 5|1|ADVCL 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Con $C/R
+*CHI:	not on this .
+%mor:	part|not adp|on pron|this-Dem-S1 .
+%gra:	1|3|ADVMOD 2|3|CASE 3|3|ROOT 4|3|PUNCT
+%sit:	pulls toy away off base .
+%cod:	$MLU=3 $NMV=0 $Res $Des
+*MOT:	put it on .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|on .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rde $C/R
+*CHI:	0 .
+%sit:	puts toy on base .
+*MOT:	there you go .
+%mor:	pron|there-Int-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	spin them around .
+%mor:	verb|spin-Fin-Imp-S pron|they-Prs-Acc-P3 adv|around .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	make them go for a wee@f .
+%mor:	verb|make-Fin-Imp-S pron|they-Prs-Acc-P3 verb|go-Inf-S adp|for det|a-Ind-Art noun|wee .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $C/R
+*MOT:	make them go for a ride .
+%mor:	verb|make-Fin-Imp-S pron|they-Prs-Acc-P3 verb|go-Inf-S adp|for det|a-Ind-Art noun|ride .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $C/R
+*MOT:	wee .
+%mor:	intj|wee .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $C/R
+*MOT:	like this .
+%mor:	adp|like pron|this-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Tea
+*MOT:	over here .
+%mor:	adv|over adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	spins merry+go+round .
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*MOT:	wee !
+%mor:	intj|wee !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Tea
+*MOT:	can you do that ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Tea
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Tea
+*MOT:	can you do that ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S pron|that-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	over here .
+%mor:	adv|over adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*MOT:	turn it around in the center .
+%mor:	verb|turn-Fin-Imp-S pron|it-Prs-Acc-S3 adv|around adp|in det|the-Def-Art noun|center .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Tea
+*MOT:	wee !
+%mor:	intj|wee !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	spins merry+go+round .
+%cod:	$MLU=0 $NMV=0 $Con $Tea
+*CHI:	wee !
+%mor:	intj|wee !
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	tries to spin toy .
+%cod:	$MLU=0 $NMV=0 $Res $Lim
+*MOT:	wee !
+%mor:	intj|wee !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rle $Tea
+*MOT:	can you turn around ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|turn-Inf-S adv|around ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	look it .
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	put it over here .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|over adv|here .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+%sit:	moves toy so Child faces camera .
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	put it over here .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|over adv|here .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	turn around .
+%mor:	verb|turn-Inf-S adv|around .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	turn around .
+%mor:	verb|turn-Inf-S adv|around .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	oops .
+%mor:	noun|oop .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	I knocked the poor boy off the bench .
+%mor:	pron|I-Prs-Nom-S1 verb|knock-Fin-Ind-Past-S1 det|the-Def-Art adj|poor-Pos-S1 noun|boy adp|off det|the-Def-Art noun|bench .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rep
+*MOT:	o:h (.) look at that .
+%mor:	intj|oh verb|look-Fin-Imp-S adp|at pron|that-Dem-S1 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%sit:	puts boy back .
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	wanna put another girl in ?
+%mor:	intj|wanna verb|put-Fin-S det|another-Def noun|girl adv|in ?
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Rfi
+*MOT:	can you just put them in the chair and I'll fix their hands ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 adv|just verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|chair cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|fix-Inf-S pron|their-Prs-Gen-P3 noun|hand-Plur ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|14|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|4|PUNCT
+%cod:	$MLU=14 $NMV=2 $Con $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	xxx .
+%sit:	holds person out to Mother .
+%cod:	$Ini $Des
+*MOT:	okay (.) sit him on the chair first .
+%mor:	intj|okay verb|sit-Fin-Imp-S pron|he-Prs-Acc-S3 adp|on det|the-Def-Art noun|chair adv|first .
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|ADVMOD 8|2|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rde $C/R
+*MOT:	watch Mommy .
+%mor:	verb|watch-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	put him on the chair .
+%mor:	verb|put-Fin-Imp-S pron|he-Prs-Acc-S3 adp|on det|the-Def-Art noun|chair .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+@End

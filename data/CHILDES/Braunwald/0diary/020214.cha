@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/c-00010843-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FRI Friend, MOT Mother, FAT Father
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;02.14|female|||Target_Child|||
+@ID:	eng|Braunwald|FRI|||||Friend|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	04-MAY-1973
+@Types:	long, toyplay, TD
+*CHI:	those are good .
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|good-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	1024
+*CHI:	our friend come .
+%mor:	pron|our-Prs-Gen-P1 noun|friend verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1025
+*CHI:	we going have bath .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Ger-S verb|have-Fin-Ind-S noun|bath .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|PARATAXIS 4|3|OBJ 5|2|PUNCT
+%sit:	1026
+*CHI:	where table goed [: went] [*] ?
+%mor:	adv|where noun|table verb|go-Fin-Ind-Past-S3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1027
+*CHI:	pretending you guys baby .
+%mor:	verb|pretend-Ger-S pron|you-Prs-Nom-S2 noun|guy-Plur noun|baby .
+%gra:	1|4|ROOT 2|3|DEP 3|1|IOBJ 4|1|OBJ 5|1|PUNCT
+%sit:	1028
+*FRI:	are you reading the story ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|read-Part-Pres-S det|the-Def-Art noun|story ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	1029
+*CHI:	you are babies .
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 noun|baby-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	1029
+*CHI:	pretend you are baby .
+%mor:	verb|pretend-Fin-Imp-S pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adj|baby-Pos-S1 .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+%sit:	1030
+*CHI:	you could have more okay .
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|have-Inf-S adv|more adj|okay-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+%sit:	1031
+*MOT:	I could ?
+%mor:	pron|I-Prs-Nom-S1 aux|could-Fin-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	1031
+*CHI:	water in there with candies .
+%mor:	noun|water adp|in adv|there adp|with noun|candy-Plur .
+%gra:	1|5|ROOT 2|3|CASE 3|1|NMOD 4|5|CASE 5|1|NMOD 6|1|PUNCT
+%sit:	1032
+*CHI:	let's do this puzzle .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|do-Inf-S det|this-Def-Dem noun|puzzle .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%sit:	1033
+*CHI:	want you carry my things .
+%mor:	verb|want-Fin-Ind-S pron|you-Prs-Acc-S2 verb|carry-Inf-S pron|my-Prs-Gen-S1 noun|thing-Plur .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|1|PUNCT
+%sit:	1034
+*CHI:	I want few nuts .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 adj|few-Pos-S1 noun|nut-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%sit:	1035
+*CHI:	I hear something talking, Mom .
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Pres-S1 pron|something-Ind-S1 verb|talk-Ger-S cm|cm noun|mom .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|3|ACL 5|6|PUNCT 6|4|OBJ 7|2|PUNCT
+%sit:	1036
+*MOT:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	1036
+*MOT:	I think it's birds singing .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|bird-Plur verb|sing-Ger-S .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|5|ACL 7|2|PUNCT
+%sit:	1036
+*CHI:	birds singing, Mom .
+%mor:	noun|bird-Plur verb|sing-Ger-S cm|cm noun|mom .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|PUNCT 4|2|OBJ 5|2|PUNCT
+%sit:	1036
+*CHI:	I get you settled in Ruthie's group .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 verb|settle-Part-Past-S adp|in noun|Ruthie~part|s noun|group .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|2|XCOMP 5|8|CASE 6|8|NMOD-POSS 7|6|CASE 8|4|OBL 9|2|PUNCT
+%sit:	1037
+*CHI:	you going byebye with me .
+%mor:	pron|you-Prs-Nom-S2 verb|go-Ger-S noun|byebye adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%sit:	1037
+*CHI:	I not elephant any more .
+%mor:	pron|I-Prs-Nom-S1 part|not verb|elephant-Fin-Ind-Pres-S1 det|any-Def adj|more-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	1038
+*CHI:	ah, Daddy, what you got ?
+%mor:	intj|ah cm|cm noun|Daddy cm|cm pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 ?
+%gra:	1|7|ROOT 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|OBJ 6|7|NSUBJ 7|1|PARATAXIS 8|1|PUNCT
+%sit:	1039
+*FAT:	here, you want it ?
+%mor:	adv|here cm|cm pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 ?
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1039
+*FAT:	you can have it .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1039
+*CHI:	this I read .
+%mor:	pron|this-Dem-S1 pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Pres-S1 .
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%sit:	1040
+*CHI:	that I was reading .
+%mor:	sconj|that pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|read-Part-Pres-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%sit:	1040
+*CHI:	Daddy, what's buga@n ?
+%mor:	noun|Daddy cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 noun|buga ?
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%sit:	1041
+*CHI:	what's bugaboo@n mean, Dad ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 noun|bugaboo verb|mean-Inf-S cm|cm noun|dad ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|PUNCT 6|4|PARATAXIS 7|4|PUNCT
+%sit:	1041
+*FAT:	Daddy doesn't know .
+%mor:	noun|Daddy aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	1041
+*MOT:	Laura, the cradle's in the den .
+%mor:	noun|Laura cm|cm det|the-Def-Art noun|cradle~part|s adp|in det|the-Def-Art noun|den .
+%gra:	1|4|VOCATIVE 2|4|PUNCT 3|4|DET 4|8|ROOT 5|4|CASE 6|8|CASE 7|8|DET 8|4|NMOD 9|4|PUNCT
+%sit:	1042
+*CHI:	I don't want cradle .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S noun|cradle .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1042
+@End

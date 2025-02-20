@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00010750-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|01;11.07|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	27-JAN-1973
+@Types:	long, toyplay, TD
+*CHI:	not Pennies [= pens] my purse .
+%mor:	part|not noun|penny-Plur pron|my-Prs-Gen-S1 noun|purse .
+%gra:	1|2|ADVMOD 2|4|NMOD-POSS 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%sit:	1111
+*CHI:	not my Pennie my purse .
+%mor:	part|not pron|my-Prs-Gen-S1 noun|Pennie pron|my-Prs-Gen-S1 noun|purse .
+%gra:	1|5|ADVMOD 2|3|NMOD-POSS 3|5|NMOD-POSS 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%sit:	1111
+*CHI:	where Mattie [: Matthew] blanketie ?
+%mor:	adv|where noun|Matthew noun|blanketie ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%sit:	1112
+*MOT:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	1112
+*CHI:	you find it .
+%mor:	pron|you-Prs-Nom-S2 verb|find-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1112
+*CHI:	Mommy say my older drive .
+%mor:	noun|Mommy verb|say-Fin-Ind-Pres-S pron|my-Prs-Gen-S1 adj|old-Cmp-S1 noun|drive .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%sit:	1113
+*MOT:	no, you can't drive .
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|drive-Inf-S .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	1113
+*CHI:	my older .
+%mor:	pron|my-Prs-Gen-S1 adj|old-Cmp-S1 .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%sit:	1113
+*CHI:	I did sit Mommy lap .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1 verb|sit-Inf-S noun|Mommy noun|lap .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+%sit:	1114
+*CHI:	I sit Mommy lap .
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Pres-S1 noun|Mommy noun|lap .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%sit:	1114
+*CHI:	Erica drive he Mommy .
+%mor:	noun|Erica verb|drive-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 noun|Mommy .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%sit:	1114
+*MOT:	what did Erica do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3 noun|Erica verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	1114
+*CHI:	drive she Mommy .
+%mor:	verb|drive-Fin-Imp-S pron|she-Prs-Nom-S3 noun|Mommy .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+%sit:	1114
+@End

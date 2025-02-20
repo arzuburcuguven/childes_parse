@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00010863-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;03.09|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	29-MAY-1973
+@Types:	long, toyplay, TD
+*CHI:	how_come muffin have go in oven ?
+%mor:	adj|howcome-Pos-S1 noun|muffin aux|have-Fin-Ind-Pres-P3 verb|go-Inf-S adp|in noun|oven ?
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%sit:	48
+*MOT:	because it's too big for the toaster .
+%mor:	sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|big-Pos-S1 adp|for det|the-Def-Art noun|toaster .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%sit:	48
+*CHI:	I help you, Sue .
+%mor:	pron|I-Prs-Nom-S1 verb|help-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 cm|cm noun|Sue .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|PUNCT 5|2|PARATAXIS 6|2|PUNCT
+%sit:	49
+*CHI:	I will help you .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|help-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	49
+*CHI:	there's swimming_pool under me .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|swimmingpool adp|under pron|I-Prs-Acc-S1 .
+%gra:	1|2|EXPL 2|5|ROOT 3|2|NSUBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%sit:	50
+@End

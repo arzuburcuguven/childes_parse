@@ -1,0 +1,123 @@
+@UTF8
+@PID:	11312/c-00010551-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	multi
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|CHI|01;04.13|female|||Target_Child|||
+@Date:	03-JUL-1972
+@Types:	long, toyplay, TD
+*MOT:	do you like to go swimming ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|go-Inf-S verb|swim-Ger-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|XCOMP 7|3|PUNCT
+%sit:	755
+*MOT:	do you blow bubbles at Jen's ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|blow-Inf-S noun|bubble-Plur adp|at noun|Jen~part|s ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|6|CASE 8|3|PUNCT
+%sit:	755
+*CHI:	bubble bubble Dada carcar [: car] .
+%mor:	noun|bubble noun|bubble noun|Dada noun|car .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%sit:	755
+*CHI:	byebye carcar [: car] .
+%mor:	noun|Byebye noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	756
+*MOT:	Dada byebye carcar [: car] .
+%mor:	noun|Dada noun|Byebye noun|car .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	756
+*CHI:	byebye carcar [: car] .
+%mor:	noun|Byebye noun|car .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	756
+*CHI:	fower [: flower] fower [: flower] .
+%mor:	noun|flower noun|flower .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	757
+*MOT:	you're eating a banana .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|eat-Part-Pres-S det|a-Ind-Art noun|banana .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	758
+*MOT:	that is a banana .
+%mor:	pron|that-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|banana .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%sit:	758
+*CHI:	hi baba [= banana] baba [= banana] .
+%mor:	intj|hi noun|baba noun|baba .
+%gra:	1|3|ROOT 2|1|VOCATIVE 3|1|FLAT 4|1|PUNCT
+%sit:	758
+*CHI:	baba [= banana] (y)um .
+%mor:	noun|baba noun|yum .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	759
+*CHI:	Dada .
+%mor:	noun|dada .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	760
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	762
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	762
+*CHI:	Lola .
+%mor:	noun|Lola .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	762
+*MOT:	Lola what ?
+%mor:	noun|Lola pron|what-Int-S1 ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	762
+*CHI:	Lola cy [: cry] .
+%mor:	noun|Lola verb|cry-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%sit:	762
+*MOT:	no, Lola doesn't cry .
+%mor:	intj|no cm|cm noun|Lola aux|do-Fin-Ind-Pres-S3~part|not verb|cry-Inf-S .
+%gra:	1|6|DISCOURSE 2|6|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	762
+*CHI:	hi cy [: cry] .
+%mor:	intj|hi verb|cry-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	762
+*CHI:	goo(d) (y)um (y)um goo(d) .
+%mor:	adj|good-Pos-S1 noun|yum noun|yum adj|good-Pos-S1 .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|NSUBJ 4|2|PARATAXIS 5|2|PUNCT
+%sit:	763
+*CHI:	hey boo .
+%mor:	intj|hey noun|boo .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%sit:	764
+*CHI:	kiddy [: kitty] e@b .
+%mor:	noun|kitty noun|e .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	765
+*MOT:	where's Daddy ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Daddy ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	766
+*CHI:	byebye .
+%mor:	noun|Byebye .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	766
+*MOT:	where's Jojo [: Joanna] ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Joanna ?
+%gra:	1|3|ADVMOD 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	766
+*CHI:	byebye .
+%mor:	noun|Byebye .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	766
+*MOT:	where's Laura ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|Laura ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	766
+*CHI:	uhuh [: no] .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	767
+@End

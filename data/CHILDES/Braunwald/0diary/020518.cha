@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/c-00010922-1
+@Begin
+@Languages:	eng
+@Participants:	FAT Father, CHI Target_Child
+@Options:	multi
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|CHI|02;05.18|female|||Target_Child|||
+@Date:	08-AUG-1973
+@Types:	long, toyplay, TD
+*FAT:	how_come your hair's so curly ?
+%mor:	verb|howcome-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hair~aux|be-Fin-Ind-Pres-S3 adv|so adj|curly-Pos-S1 ?
+%gra:	1|6|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|6|COP 5|6|ADVMOD 6|1|CCOMP 7|1|PUNCT
+%sit:	455
+*CHI:	because, because I need a haircut .
+%mor:	sconj|because cm|cm sconj|because pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|a-Ind-Art noun|haircut .
+%gra:	1|5|MARK 2|1|PUNCT 3|5|MARK 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%sit:	455
+*CHI:	this is terrible apple juice .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|terrible-Pos-S1 noun|apple noun|juice .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|AMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%sit:	456
+*CHI:	I don't wanna drink this terrible apple juice (be)cause it's terrible .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|wanna verb|drink-Inf-S det|this-Def-Dem adj|terrible-Pos-S1 noun|apple noun|juice sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|terrible-Pos-S1 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|13|ROOT 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|5|OBJ 10|13|MARK 11|13|NSUBJ 12|13|COP 13|5|ADVCL 14|5|PUNCT
+%sit:	456
+*CHI:	I was looking for my bottle and you took it away .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|look-Part-Pres-S adp|for pron|my-Prs-Gen-S1 noun|bottle cconj|and pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 adv|away .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|9|CC 8|9|NSUBJ 9|3|CONJ 10|9|OBJ 11|9|ADVMOD 12|3|PUNCT
+%sit:	457
+*CHI:	when I need a kleenex then you give me this .
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|a-Ind-Art noun|kleenex adv|then pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|this-Dem-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ADVCL 4|5|DET 5|3|OBJ 6|8|ADVMOD 7|8|NSUBJ 8|10|ROOT 9|8|IOBJ 10|8|OBJ 11|8|PUNCT
+%sit:	458
+*CHI:	I don't have one my hand .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S num|one pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|NMOD-POSS 7|4|OBJ 8|4|PUNCT
+%sit:	458
+@End

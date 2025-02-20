@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/c-00010852-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	multi
+@ID:	eng|Braunwald|CHI|02;02.23|female|||Target_Child|||
+@Date:	13-MAY-1973
+@Types:	long, toyplay, TD
+*CHI:	I was in den .
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adp|in noun|den .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%sit:	1158
+*CHI:	two childs [: children] [*] .
+%mor:	num|two noun|child-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%sit:	1159
+*CHI:	this is child, and this is child .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|child cm|cm cconj|and pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|child .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|8|PUNCT 5|8|CC 6|8|NSUBJ 7|8|COP 8|3|CONJ 9|3|PUNCT
+%sit:	1159
+*CHI:	children going this .
+%mor:	noun|child-Plur verb|go-Ger-S pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1159
+*CHI:	who's that from ?
+%mor:	pron|who-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 adp|from ?
+%gra:	1|4|ROOT 2|1|COP 3|1|NSUBJ 4|1|CASE 5|1|PUNCT
+%sit:	1160
+@End

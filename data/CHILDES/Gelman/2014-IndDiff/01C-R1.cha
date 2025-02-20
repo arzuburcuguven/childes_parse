@@ -1,0 +1,423 @@
+@UTF8
+@PID:	11312/a-00031970-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, CHI Target_Child
+@Options:	CA
+@ID:	eng|Gelman|INV|||||Investigator|||
+@ID:	eng|Gelman|CHI|4;10.25|male|||Target_Child|||
+@G:	Teacher
+@Types:	cross, adult, TD
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	um a person teaching .
+%mor:	intj|um det|a-Ind-Art noun|person noun|teaching .
+%gra:	1|4|DISCOURSE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	I know math .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 noun|math .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	hm &=nods:yes .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	Zorg doesn't know much about this one can you help him out ?
+%mor:	noun|Zorg aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S adj|much-Pos-S1 adp|about det|this-Def-Dem noun|one aux|can-Fin-S pron|you-Prs-Nom-S2 verb|help-Inf-S pron|he-Prs-Acc-S3 adp|out ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|OBL 9|11|AUX 10|11|NSUBJ 11|4|CCOMP 12|11|OBJ 13|11|COMPOUND-PRT 14|4|PUNCT
+*CHI:	like um one &=holds:fingers_up and one makes one plus, um one plus one equal equals two .
+%mor:	intj|like intj|um num|one cconj|and num|one verb|make-Fin-Ind-Pres-S3 num|one cconj|plus cm|cm intj|um num|one cconj|plus num|one adj|equal-Pos-S1 verb|equal-Fin-Ind-Pres-S3 num|two .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|6|NSUBJ 4|6|CC 5|6|NSUBJ 6|16|ROOT 7|6|OBJ 8|11|CC 9|8|PUNCT 10|11|DISCOURSE 11|7|CONJ 12|13|CC 13|11|CONJ 14|13|AMOD 15|6|PARATAXIS 16|15|XCOMP 17|6|PUNCT
+*INV:	&=nods:yes mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=turns:page .
+@G:	Horse
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a horse .
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	I don't know a lot like like um horses .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|a-Ind-Art noun|lot adp|like intj|like intj|um noun|horse-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DISCOURSE 9|10|DISCOURSE 10|4|OBL 11|4|PUNCT
+*CHI:	my friend Firstname really knows about horses .
+%mor:	pron|my-Prs-Gen-S1 noun|friend noun|Firstname adv|really verb|know-Fin-Ind-Pres-S3 adp|about noun|horse-Plur .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|2|APPOS 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	he been studying horses at his <horn horn> [?], home .
+%mor:	pron|he-Prs-Nom-S3 aux|be-Part-Past-S verb|study-Part-Pres-S noun|horse-Plur adp|at pron|his-Prs-Gen-S3 noun|horn noun|horn cm|cm noun|home .
+%gra:	1|3|NSUBJ 2|3|AUX 3|10|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|COMPOUND 8|3|OBL 9|10|PUNCT 10|8|APPOS 11|3|PUNCT
+*INV:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	now Zorg doesn't know much about this one .
+%mor:	adv|now noun|Zorg aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S adj|much-Pos-S1 adp|about det|this-Def-Dem noun|one .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|5|PUNCT
+*INV:	can you help him out ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|help-Inf-S pron|he-Prs-Acc-S3 adp|out ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*CHI:	I don't know it &-ah because Firstname hasn't told me yet .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|it-Prs-Acc-S3 sconj|because noun|Firstname aux|have-Fin-Ind-Pres-S3~part|not verb|tell-Part-Past-S pron|I-Prs-Acc-S1 adv|yet .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|4|OBJ 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|ADVCL 11|10|IOBJ 12|10|ADVMOD 13|4|PUNCT
+*CHI:	&=turns:page .
+@G:	Cake
+*CHI:	cake .
+%mor:	noun|cake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um this is the frosting &=pointing:frosting .
+%mor:	intj|um pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|frosting .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	this is the cake &=pointing:cake .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|cake .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	this is the frosting &=points .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|frosting .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*INV:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	anything else you can say ?
+%mor:	pron|anything-Ind-S1 adj|else-Pos-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|say-Inf-S ?
+%gra:	1|5|ROOT 2|1|AMOD 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|1|PUNCT
+*CHI:	&=turns:page .
+@G:	Witch
+*CHI:	witch .
+%mor:	noun|witch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	green &=points:witch_face .
+%mor:	adj|green-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	green &=points:witch_hands .
+%mor:	adj|green-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hey but why does she have claws ?
+%mor:	intj|hey cconj|but adv|why aux|do-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|have-Inf-S noun|claw-Plur ?
+%gra:	1|6|DISCOURSE 2|6|CC 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*INV:	&=leans hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	I don't really know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|really verb|know-Inf-S .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	hey witches don't use the witches usually have teeth .
+%mor:	intj|hey noun|witch-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|use-Inf-S det|the-Def-Art noun|witch-Plur adv|usually verb|have-Fin-Ind-Pres-P3 noun|tooth-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|7|DET 7|9|NSUBJ 8|9|ADVMOD 9|5|PARATAXIS 10|9|OBJ 11|5|PUNCT
+*INV:	hm &=nods:yes .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	mkay [= okay] .
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=turns:page .
+@G:	Cereal
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	cereal .
+%mor:	noun|cereal .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	cereal ?
+%mor:	noun|cereal ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	&=turns:page .
+*INV:	oh can we talk about this one a little bit &=turns:back .
+%mor:	intj|oh aux|can-Fin-S pron|we-Prs-Nom-P1 verb|talk-Inf-S adp|about det|this-Def-Dem noun|one det|a-Ind-Art adj|little-Pos-S1 noun|bit .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|DET 9|10|AMOD 10|4|OBL-NPMOD 11|4|PUNCT
+*CHI:	I don't .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	pour it and milk on it put it in a bowl .
+%mor:	verb|pour-Fin-Imp-S pron|it-Prs-Acc-S3 cconj|and noun|milk adp|on pron|it-Prs-Acc-S3 verb|put-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|in det|a-Ind-Art noun|bowl .
+%gra:	1|11|ROOT 2|1|OBJ 3|4|CC 4|2|CONJ 5|6|CASE 6|1|OBL 7|1|PARATAXIS 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	mkay [= okay] .
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	Football Player
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a girl playing football .
+%mor:	det|a-Ind-Art noun|girl verb|play-Ger-S noun|football .
+%gra:	1|2|DET 2|4|ROOT 3|2|ACL 4|3|OBJ 5|2|PUNCT
+*INV:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, &=points:picture blue and white .
+%mor:	intj|um cm|cm adj|blue-Pos-S1 cconj|and adj|white-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+*CHI:	and a blue helmet .
+%mor:	cconj|and det|a-Ind-Art adj|blue-Pos-S1 noun|helmet .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	hey but, why should why do girls usually um girls don't usually play basketballs .
+%mor:	intj|hey cconj|but cm|cm adv|why aux|should-Fin-S adv|why aux|do-Fin-Ind-Pres-P3 noun|girl-Plur adv|usually intj|um noun|girl-Plur aux|do-Inf-S~part|not adv|usually verb|play-Inf-S noun|basketball-Plur .
+%gra:	1|15|DISCOURSE 2|15|CC 3|15|PUNCT 4|15|ADVMOD 5|15|AUX 6|15|ADVMOD 7|15|AUX 8|15|NSUBJ 9|15|ADVMOD 10|11|DISCOURSE 11|15|NSUBJ 12|15|AUX 13|15|ADVMOD 14|15|ADVMOD 15|16|ROOT 16|15|OBJ 17|15|PUNCT
+*INV:	hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	and girls don't usually play sports .
+%mor:	cconj|and noun|girl-Plur aux|do-Fin-Ind-Pres-P3~part|not adv|usually verb|play-Inf-S noun|sport-Plur .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	girls don't usually like playing sports .
+%mor:	noun|girl-Plur aux|do-Fin-Ind-Pres-P3~part|not adv|usually verb|like-Inf-S verb|play-Ger-S noun|sport-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|7|ROOT 6|5|XCOMP 7|6|OBJ 8|5|PUNCT
+*INV:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	hm .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=turns:page .
+@G:	Popcorn
+*CHI:	popcorn .
+%mor:	noun|popcorn .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	popcorn ?
+%mor:	noun|popcorn ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um .
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hey why do they put red on it &=points:picture ?
+%mor:	intj|hey adv|why aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|put-Inf-S adv|red adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|5|PUNCT
+*INV:	&=leans hm I don't really know .
+%mor:	intj|hm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|really verb|know-Inf-S .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+*INV:	anything else you wanna say ?
+%mor:	pron|anything-Ind-S1 adj|else-Pos-S1 pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|say-Inf-S ?
+%gra:	1|5|ROOT 2|1|AMOD 3|5|NSUBJ 4|5|AUX 5|1|ACL-RELCL 6|1|PUNCT
+*CHI:	no &=turns:page .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	Penguin
+*CHI:	a penguin .
+%mor:	det|a-Ind-Art noun|penguin .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um .
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	penguins cannot fly but they can swim &=gestures:swimming .
+%mor:	noun|penguin-Plur aux|cannot-Fin-S verb|fly-Inf-S cconj|but pron|they-Prs-Nom-P3 aux|can-Fin-S verb|swim-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CC 5|7|NSUBJ 6|7|AUX 7|3|CONJ 8|3|PUNCT
+*INV:	&=nods:yes mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	Zorg doesn't know much about this .
+%mor:	noun|Zorg aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S adj|much-Pos-S1 adp|about pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+*CHI:	&=turns:page .
+*INV:	oh, okay .
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*INV:	well Zorg doesn't know much about this one &=points:penguin .
+%mor:	intj|well noun|Zorg aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S adj|much-Pos-S1 adp|about det|this-Def-Dem noun|one .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|5|PUNCT
+*CHI:	&=turns:back .
+*INV:	can you help him out ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|help-Inf-S pron|he-Prs-Acc-S3 adp|out ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*CHI:	which one ?
+%mor:	det|which-Def-Int num|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	&=pointis:penguin this one .
+%mor:	det|this-Def-Dem noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I told he he heared .
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 verb|hear-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|NSUBJ 5|2|CCOMP 6|2|PUNCT
+*INV:	he heard ?
+%mor:	pron|he-Prs-Nom-S3 verb|hear-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=bounces:picture .
+*INV:	what'd he hear ?
+%mor:	pron|what-Int-S1~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|hear-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	penguins can swim can can swim but not fly .
+%mor:	noun|penguin-Plur aux|can-Fin-S verb|swim-Inf-S aux|can-Fin-S aux|can-Fin-S verb|swim-Inf-S cconj|but part|not verb|fly-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|CSUBJ 4|6|AUX 5|6|AUX 6|9|ROOT 7|9|CC 8|9|ADVMOD 9|6|CONJ 10|6|PUNCT
+*CHI:	&=turns:back &=turns:page .
+*INV:	&=nods:yes .
+*INV:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=turns:page .
+@G:	Pilot
+*INV:	what is ⌈this⌉ ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	   ⌊airplane⌋ .
+%mor:	noun|airplane .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	I don't know airplanes .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S noun|airplane-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	can you take a guess ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|take-Inf-S det|a-Ind-Art noun|guess ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	&=turns:page no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	Lobster
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a lobster .
+%mor:	det|a-Ind-Art noun|lobster .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	you're doing really well .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|do-Part-Pres-S adv|really adv|well .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	lobsters, &=gestures:claw_hands grab, pinch stuff .
+%mor:	noun|lobster-Plur cm|cm noun|grab cm|cm noun|pinch noun|stuff .
+%gra:	1|6|ROOT 2|3|PUNCT 3|1|CONJ 4|6|PUNCT 5|6|COMPOUND 6|1|CONJ 7|1|PUNCT
+*INV:	mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	Elephant
+*CHI:	an, &=turns:page elephant .
+%mor:	det|a-Ind-Art cm|cm noun|elephant .
+%gra:	1|3|DET 2|3|PUNCT 3|3|ROOT 4|3|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	um, I don't know a lot about elephants &=turns:page .
+%mor:	intj|um cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|a-Ind-Art noun|lot adp|about noun|elephant-Plur .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|10|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|8|NMOD 11|6|PUNCT
+@G:	Broccoli
+*CHI:	broccoli .
+%mor:	noun|broccoli .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	broccoli ?
+%mor:	noun|broccoli ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=laughs .
+*INV:	&=laughs .
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	&=laughs that broccoli looks like little trees .
+%mor:	sconj|that noun|broccoli verb|look-Fin-Ind-Pres-S3 adp|like adj|little-Pos-S1 noun|tree-Plur .
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|AMOD 6|3|OBL 7|3|PUNCT
+*INV:	&=nods mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	these are not, &=points:picture these are not um these are not um you don't usually eat these but these are buds .
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 part|not cm|cm pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 part|not intj|um pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 part|not intj|um pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|usually verb|eat-Inf-S pron|this-Dem-P1 cconj|but pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|bud-Plur .
+%gra:	1|2|NSUBJ 2|22|ROOT 3|2|ADVMOD 4|2|PUNCT 5|17|NSUBJ-OUTER 6|17|COP 7|17|ADVMOD 8|17|DISCOURSE 9|17|NSUBJ-OUTER 10|17|COP 11|17|ADVMOD 12|17|DISCOURSE 13|17|NSUBJ 14|17|AUX 15|17|ADVMOD 16|17|ADVMOD 17|2|PARATAXIS 18|17|OBJ 19|22|CC 20|22|NSUBJ 21|22|COP 22|17|CONJ 23|2|PUNCT
+*INV:	&=nods:yes mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=turns:page .
+@G:	Alligator
+*CHI:	a alligator .
+%mor:	det|a-Ind-Art noun|alligator .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	a alligator ?
+%mor:	det|a-Ind-Art noun|alligator ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	uh I don't know a lot about them &=turns:page .
+%mor:	intj|uh pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|a-Ind-Art noun|lot adp|about pron|they-Prs-Acc-P3 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+@G:	Clown
+*INV:	what is this ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	a clown .
+%mor:	det|a-Ind-Art noun|clown .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*INV:	clown ?
+%mor:	noun|clown ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	⌈I haven't I haven't been in a circus for a long time⌉ .
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1~part|not aux|be-Part-Past-S adp|in det|a-Ind-Art noun|circus adp|for det|a-Ind-Art adj|long-Pos-S1 noun|time .
+%gra:	1|2|NSUBJ 2|10|PARATAXIS 3|2|ADVMOD 4|10|NSUBJ 5|10|AUX 6|10|ADVMOD 7|10|COP 8|10|CASE 9|10|DET 10|14|ROOT 11|14|CASE 12|14|DET 13|14|AMOD 14|10|OBL 15|10|PUNCT
+*INV:	⌊well⌋ +...
+%mor:	intj|well +...
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	&=nods mkay [= okay] .
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	Orange
+*CHI:	orange .
+%mor:	adj|orange-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	orange ?
+%mor:	adj|orange-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	what more can you tell me ?
+%mor:	pron|what-Int-S1 adj|more-Cmp-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|5|OBJ 2|1|AMOD 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|IOBJ 7|5|PUNCT
+*CHI:	my dad juggles, with (th)em .
+%mor:	pron|my-Prs-Gen-S1 noun|dad verb|juggle-Fin-Ind-Pres-S3 cm|cm adp|with pron|they-Prs-Acc-P3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|6|ROOT 4|3|PUNCT 5|6|CASE 6|3|OBL 7|3|PUNCT
+*INV:	&=nods:yes mhm [= yes] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you eat (th)em .
+%mor:	pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	you peel (th)em .
+%mor:	pron|you-Prs-Nom-S2 verb|peel-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	&=nods:yes .
+@Comment:	end of book
+*INV:	great .
+%mor:	adj|great-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	&=closes:book alrighty .
+%mor:	intj|alrighty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*INV:	well thank you very much .
+%mor:	intj|well verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adv|very adv|much .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+*INV:	do you want to put Zorg back into his box ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|put-Inf-S noun|Zorg adv|back adp|into pron|his-Prs-Gen-S3 noun|box ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|3|PUNCT
+*INV:	let him go back to sleep ?
+%mor:	verb|let-Fin-Imp-S pron|he-Prs-Acc-S3 verb|go-Inf-S adv|back adp|to noun|sleep ?
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|1|PUNCT
+@End

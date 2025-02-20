@@ -1,0 +1,193 @@
+@UTF8
+@PID:	11312/a-00047655-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Edinburgh|CHI|0;09.04|female|||Target_Child|||
+@ID:	eng|Edinburgh|MOT||female|||Mother|||
+@Media:	mary0903, audio
+@Date:	28-JAN-2014
+@Types:	long, toyplay, TD
+*CHI:	&=blows:raspberries . 0_4751
+*MOT:	drink your water ? 4751_5901
+%mor:	verb|drink-Fin-Imp-S pron|your-Prs-Gen-S2 noun|water ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*MOT:	yes ? 5901_15906
+%mor:	intj|yes ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	good girl . 15906_18282
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	uhuh . 18282_26675
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's it . 26675_28578
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	cup . 28578_38455
+%mor:	noun|cup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's it, cup . 38455_41781
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm noun|cup .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+*CHI:	&=blows:raspberries . 41781_49911
+*MOT:	what's that ? 49911_52028
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	&=coughs . 52028_55047
+*MOT:	all done ? 55047_64438
+%mor:	det|all-Def verb|do-Part-Past-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	all done ? 64438_70900
+%mor:	det|all-Def verb|do-Part-Past-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	cup . 70900_86152
+%mor:	noun|cup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=blows:raspberries &=babble . 86152_111965
+*MOT:	+< are you waving ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wave-Part-Pres-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	&=babbles . 111965_126333
+*MOT:	+< are you eating your bib ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S pron|your-Prs-Gen-S2 noun|bib ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	&=babble &=hiccups .
+*MOT:	have you got hiccups ? 126333_154432
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Past-S noun|hiccup-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you got hickey hiccups ? 154432_159010
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 noun|hickey noun|hiccup-Plur ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	&=babbles . 159010_171510
+*CHI:	&=hiccups . 171510_178510
+*MOT:	oh that's big hiccups . 178510_180743
+%mor:	intj|oh pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|big-Pos-S1 noun|hiccup-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	will we get rid of the hiccups ? 180743_182435
+%mor:	aux|will-Fin-S pron|we-Prs-Nom-P1 verb|get-Inf-S adj|rid-Pos-S1 adp|of det|the-Def-Art noun|hiccup-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*CHI:	&=hiccup . 182435_185835
+*MOT:	let's get rid . 185835_187550
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S adj|rid-Pos-S1 .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|1|PUNCT
+*CHI:	&=hiccup . 187550_206080
+*MOT:	are they gone ? 206080_208112
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adj|gone-Pos-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%com:	MOT has given CHI some water .
+*CHI:	&=hiccup . 208112_211927
+*MOT:	no . 211927_213056
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=hiccup . 213056_244056
+%com:	more water .
+*MOT:	you want the cup ? 244056_246194
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|cup ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	&=blows:raspberries . 246194_256240
+*CHI:	&~blows:raspberries &=hiccups &=babbles . 256240_272358
+*MOT:	oh really ? 272358_276856
+%mor:	intj|oh adv|really ?
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	not want that ? 276856_285255
+%mor:	part|not verb|want-Inf-S pron|that-Dem-S1 ?
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	&=unhappy:noise . 285255_294759
+*MOT:	was it the worst thing ever ? 294759_296876
+%mor:	aux|be-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 det|the-Def-Art adj|bad-Sup-S1 noun|thing adv|ever ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|DET 4|5|AMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*CHI:	&=cries . 296876_312938
+*MOT:	aw, come on . 312938_316862
+%mor:	intj|aw cm|cm verb|come-Fin-Imp-S adv|on .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*MOT:	I was away for two seconds . 316862_319354
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 adv|away adp|for num|two noun|second-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|3|PUNCT
+*CHI:	&=hiccup . 319354_325754
+*MOT:	have we got the hickey hiccups ? 325754_327780
+%mor:	aux|have-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|get-Part-Past-S det|the-Def-Art noun|hickey noun|hiccup-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*MOT:	have we got the hickey hiccups ? 327780_334353
+%mor:	aux|have-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|get-Part-Past-S det|the-Def-Art noun|hickey noun|hiccup-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*MOT:	what will we do ? 334353_337018
+%mor:	pron|what-Int-S1 aux|will-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	we have a little play and see ? 337018_341327
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|little-Pos-S1 noun|play cconj|and verb|see-Fin-Ind-Pres-P1 ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|CC 7|2|CONJ 8|2|PUNCT
+*MOT:	there we go . 341327_347940
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	what do you want to play with tonight ? 347940_351072
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|play-Inf-S adp|with noun|tonight ?
+%gra:	1|6|OBL 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|1|CASE 8|6|OBL-TMOD 9|4|PUNCT
+*MOT:	in the box ? 351072_353988
+%mor:	adp|in det|the-Def-Art noun|box ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	monkey drum ? 353988_355970
+%mor:	noun|monkey noun|drum ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*MOT:	and see what else is in your box . 355970_388293
+%mor:	cconj|and verb|see-Fin-Imp-S pron|what-Rel-S1 adv|else aux|be-Fin-Ind-Pres-S3 adp|in pron|your-Prs-Gen-S2 noun|box .
+%gra:	1|2|CC 2|8|ROOT 3|8|NSUBJ 4|3|AMOD 5|8|COP 6|8|CASE 7|8|NMOD-POSS 8|2|CCOMP 9|2|PUNCT
+*MOT:	two rattles . 388293_420483
+%mor:	num|two noun|rattle-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	have you got two rattles now ? 420483_423467
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Past-S num|two noun|rattle-Plur adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*MOT:	where's the other one ? 423467_448046
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|other-Pos-S1 noun|one ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*MOT:	you got your rattles . 448046_456350
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 pron|your-Prs-Gen-S2 noun|rattle-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	you got Jenny here . 456350_475423
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 noun|Jenny adv|here .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%com:	sound of cat miaowing .
+*MOT:	here's your cat . 475423_477641
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|cat .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*MOT:	here's your cat . 477641_480288
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|cat .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*MOT:	&=gasps, is she there ? 480288_482567
+%mor:	cm|cm aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 adv|there ?
+%gra:	1|2|PUNCT 2|4|ROOT 3|4|NSUBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	oh you got the hickey hiccups . 482567_512612
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 det|the-Def-Art noun|hickey noun|hiccup-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*MOT:	oh you got the hickey hiccups . 512612_515765
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 det|the-Def-Art noun|hickey noun|hiccup-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*MOT:	they go with your bottle . 515765_518544
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adp|with pron|your-Prs-Gen-S2 noun|bottle .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*MOT:	will they go with your bottle ? 518544_521950
+%mor:	aux|will-Fin-S pron|they-Prs-Nom-P3 verb|go-Inf-S adp|with pron|your-Prs-Gen-S2 noun|bottle ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*MOT:	&~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba . 521950_523376
+*MOT:	oh, where did it go ? 523376_536185
+%mor:	intj|oh cm|cm adv|where aux|do-Fin-Ind-Past-S3 pron|it-Prs-Nom-S3 verb|go-Inf-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*MOT:	you dropped it ? 536185_537316
+%mor:	pron|you-Prs-Nom-S2 verb|drop-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	did you drop it ? 537316_539737
+%mor:	aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|drop-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	there you go . 539737_542635
+%mor:	pron|there-Int-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	&~hey &~ya &~hey &~ya . 542635_556223
+*MOT:	you got thumb_thumb ? 556223_560618
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2 noun|thumbthumb ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you're tired now . 560618_563452
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|tired-Pos-S1 adv|now .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+@End

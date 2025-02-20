@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/c-00011001-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, HOU Caretaker
+@Options:	multi
+@ID:	eng|Braunwald|CHI|2;08.10|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|HOU|||||Caretaker|||
+@Date:	30-OCT-1973
+@Types:	long, toyplay, TD
+*CHI:	I prefer wear my Mickey_Mouse .
+%mor:	pron|I-Prs-Nom-S1 verb|prefer-Fin-Ind-Pres-S1 verb|wear-Inf-S pron|my-Prs-Gen-S1 noun|MickeyMouse .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|2|PUNCT
+%sit:	931
+*MOT:	you prefer to wear your Mickey_Mouse shirt ?
+%mor:	pron|you-Prs-Nom-S2 verb|prefer-Fin-Ind-Pres-S2 part|to verb|wear-Inf-S pron|your-Prs-Gen-S2 noun|MickeyMouse noun|shirt ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|NMOD-POSS 6|7|COMPOUND 7|4|OBJ 8|2|PUNCT
+%sit:	931
+*MOT:	okay, go up and find it .
+%mor:	intj|okay cm|cm verb|go-Fin-Imp-S adp|up cconj|and verb|find-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|6|OBJ 8|3|PUNCT
+%sit:	931
+*CHI:	let me see if anymore whites in there .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S sconj|if adv|anymore noun|white-Plur adp|in adv|there .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|6|MARK 5|6|ADVMOD 6|3|CCOMP 7|8|CASE 8|6|NMOD 9|1|PUNCT
+%sit:	932
+*CHI:	I think so .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%sit:	932
+*CHI:	no, only pinks .
+%mor:	intj|no cm|cm adv|only noun|pink-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	932
+*CHI:	what could be in here ?
+%mor:	pron|what-Int-S1 aux|could-Fin-S aux|be-Inf-S adp|in adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	934
+*MOT:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	934
+*MOT:	what could be in there ?
+%mor:	pron|what-Int-S1 aux|could-Fin-S aux|be-Inf-S adp|in adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%sit:	934
+*CHI:	did Steven's mommy went [: go] [*] alone ?
+%mor:	verb|do-Fin-Ind-Past-S3 noun|Steven~part|s noun|mommy verb|go-Inf-S adv|alone ?
+%gra:	1|6|ROOT 2|4|NMOD-POSS 3|2|CASE 4|1|OBJ 5|1|XCOMP 6|5|ADVMOD 7|1|PUNCT
+%sit:	935
+*MOT:	yes, she went to pick up Steven at school .
+%mor:	intj|yes cm|cm pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 part|to verb|pick-Inf-S adp|up noun|Steven adp|at noun|school .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|NSUBJ 4|10|ROOT 5|6|MARK 6|4|ADVCL 7|6|COMPOUND-PRT 8|6|OBJ 9|10|CASE 10|6|OBL 11|4|PUNCT
+%sit:	935
+*CHI:	which school he went to ?
+%mor:	det|which-Def-Int noun|school pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adp|to ?
+%gra:	1|2|DET 2|4|OBJ 3|4|NSUBJ 4|5|ROOT 5|2|CASE 6|4|PUNCT
+%sit:	935
+*CHI:	which school ?
+%mor:	det|which-Def-Int noun|school ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%sit:	935
+*MOT:	elementary school .
+%mor:	adj|elementary-Pos-S1 noun|school .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%sit:	935
+*CHI:	Missus_Jordan is a helper to me .
+%mor:	noun|MissusJordan aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|helper adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%sit:	936
+*HOU:	well, that's very nice .
+%mor:	intj|well cm|cm pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adv|very adj|nice-Pos-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	936
+*MOT:	that's right .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 adj|right-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%sit:	936
+*MOT:	Missus_Jordan is a helper to all of us .
+%mor:	noun|MissusJordan aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|helper adp|to det|all-Def adp|of pron|we-Prs-Acc-P1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|8|ROOT 5|6|CASE 6|4|OBL 7|8|CASE 8|6|NMOD 9|4|PUNCT
+%sit:	936
+@End

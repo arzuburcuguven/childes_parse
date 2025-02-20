@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00011177-1
+@Begin
+@Languages:	eng
+@Participants:	FRI Friend, CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|FRI|||||Friend|||
+@ID:	eng|Braunwald|CHI|03;03.20|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	09-JUN-1974
+@Types:	long, toyplay, TD
+*FRI:	pretend you're the doctor .
+%mor:	verb|pretend-Fin-Imp-S pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|the-Def-Art noun|doctor .
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|CCOMP 6|1|PUNCT
+%sit:	842
+*CHI:	no, a nurse .
+%mor:	intj|no cm|cm det|a-Ind-Art noun|nurse .
+%gra:	1|4|DISCOURSE 2|4|PUNCT 3|4|DET 4|4|ROOT 5|4|PUNCT
+%sit:	842
+*CHI:	I'm a girl .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|girl .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%sit:	842
+*CHI:	could I go to the ponies ?
+%mor:	aux|could-Fin-S pron|I-Prs-Nom-S1 verb|go-Inf-S adp|to det|the-Def-Art noun|pony-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%sit:	843
+*MOT:	of course .
+%mor:	adp|of noun|course .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+%sit:	843
+*CHI:	I might suck my thumb .
+%mor:	pron|I-Prs-Nom-S1 aux|might-Fin-S verb|suck-Inf-S pron|my-Prs-Gen-S1 noun|thumb .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%sit:	843
+@End

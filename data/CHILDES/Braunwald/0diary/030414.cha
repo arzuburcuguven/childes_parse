@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/c-00011192-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	multi
+@ID:	eng|Braunwald|CHI|03;04.14|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	04-JUL-1974
+@Types:	long, toyplay, TD
+*CHI:	do you know why cinnamon it ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S adv|why noun|cinnamon pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|COMPOUND 6|3|CCOMP 7|3|PUNCT
+%sit:	913
+*MOT:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	913
+*CHI:	(be)cause they're cinnamon buns .
+%mor:	sconj|because pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|cinnamon noun|bun-Plur .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%sit:	913
+*CHI:	I wanna look at the garden .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|look-Inf-S adp|at det|the-Def-Art noun|garden .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%sit:	914
+*MOT:	good, you're old enough to go down by yourself .
+%mor:	adj|good-Pos-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|old-Pos-S1 adv|enough part|to verb|go-Inf-S adv|down adp|by pron|yourself-Prs-Acc-S2 .
+%gra:	1|11|ROOT 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|1|PARATAXIS 6|5|ADVMOD 7|8|MARK 8|5|ADVCL 9|8|ADVMOD 10|11|CASE 11|8|OBL 12|1|PUNCT
+%sit:	914
+*CHI:	no, I wanna look at the garden from up here .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 aux|wanna-Fin-Ind-Pres-S1 verb|look-Inf-S adp|at det|the-Def-Art noun|garden adp|from adv|up adv|here .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|ADVMOD 11|5|OBL 12|5|PUNCT
+%sit:	914
+*MOT:	fine .
+%mor:	adj|fine-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	914
+*CHI:	I like our garden .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|our-Prs-Gen-P1 noun|garden .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	914
+*CHI:	we have red apples (in)stead of green apples .
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|red-Pos-S1 noun|apple-Plur adv|instead adp|of adj|green-Pos-S1 noun|apple-Plur .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|AMOD 4|2|OBJ 5|8|CASE 6|5|FIXED 7|8|AMOD 8|2|OBL 9|2|PUNCT
+%sit:	914
+*CHI:	when I'm fast asleep that means I feel asleep fast, right Mommy ?
+%mor:	adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|fast adj|asleep-Pos-S1 pron|that-Dem-S1 verb|mean-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|feel-Fin-Ind-Pres-S1 adv|asleep adv|fast cm|cm adj|right-Pos-S1 noun|Mommy ?
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|7|ADVCL 6|7|NSUBJ 7|14|ROOT 8|9|NSUBJ 9|7|CCOMP 10|9|ADVMOD 11|9|ADVMOD 12|14|PUNCT 13|14|DISCOURSE 14|9|PARATAXIS 15|7|PUNCT
+%sit:	915
+*MOT:	right .
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	915
+@End
