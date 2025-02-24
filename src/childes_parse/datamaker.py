@@ -7,8 +7,19 @@ import argparse
 from dictionaries import w2string
 import string
 
-root_folder = os.path.dirname(__file__) 
+# Get the root folder (two levels up)
+root_folder = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# Define the path to the 'data' folder
+data_folder = os.path.join(root_folder, "data/CHILDES")
+output_folder = os.path.join(root_folder, "data/AOCHILDES")
+
+print("Data Folder Path:", data_folder)
+
+
 ignore_regex = re.compile(r'(�|www|xxx|yyy)')
+
+
 
 """Filtering Functions"""
 def extract_age_from_file(file_path: Path) -> Optional[int]:
@@ -27,11 +38,11 @@ def extract_age_from_file(file_path: Path) -> Optional[int]:
                 
     return None  # If no age is found
 
-def find_cha_files(root_folder: Path, min_age: int = 0, max_age: int = 12) -> List:
+def find_cha_files(data_folder: Path, min_age: int = 0, max_age: int = 12) -> List:
     """Recursively find all .cha files and filter by child age."""
     selected_files = []
 
-    for dirpath, _, filenames in os.walk(root_folder):
+    for dirpath, _, filenames in os.walk(data_folder):
         for file in filenames:
             if file.endswith(".cha"):
                 file_path = os.path.join(dirpath, file)
@@ -71,7 +82,7 @@ def clean_line(line):
 
     # Remove bracketed annotations (e.g., [=! silence], [/], [=! laughs])
     line = re.sub(r'<[^>]+>', '', line)  # Remove angled brackets <you>
-    line = re.sub(r'(?:\b\d+ )?\[=! [^\]]+\]|\&=[^\s]+', '', line)  # Remove square bracket content 0 [=! laughs]
+    line = re.sub(r'(?:\b\d+ )?\[.*?\]|\(.*?\)|\{.*?\}|\&=[^\s]+', '', line)  # Remove bracket content 0 [=! laughs]
 
     # Remove @ annotations
     line = re.sub(r'\b\w+@\w+\b', '', line)
@@ -87,13 +98,16 @@ def clean_line(line):
     line = " ".join(words).replace('+', ' ').replace('_', ' ')
 
     # Remove all punctuation except hyphens
-    line = line.translate(str.maketrans('', '', string.punctuation.replace('-', '')))
+    # line = line.translate(str.maketrans('', '', string.punctuation.replace('-', '')))
 
     # Remove repeated words (e.g., "tickle tickle tickle" → "tickle")
     line = re.sub(r'\b(\w+)( \1\b)+', r'\1', line)
     
     # Remove repeated syllables with hyphens (e.g., "-uh -uh -uh" → "-uh")
     line = re.sub(r'(-\w+)( \1)+', r'\1', line)
+
+    # Remove ampersands
+    line = re.sub(r'&', '', line)
 
     # Remove double space
     line = re.sub(r'\s{2,}', ' ', line)
@@ -135,7 +149,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Run file filtering
-    filtered_files = find_cha_files(root_folder, args.min_age, args.max_age)
+    filtered_files = find_cha_files(data_folder, args.min_age, args.max_age)
 
     print(f"Found {len(filtered_files)} files for age range {args.min_age}-{args.max_age} months.")
     #Run the cleaning and processing
@@ -145,7 +159,6 @@ if __name__ == "__main__":
     for file_path in filtered_files:  # `filtered_files` comes from the age filtering step
         process_chat_files(file_path, collected_lines)
 
-    output_folder = "data_processed"
     os.makedirs(output_folder, exist_ok=True)
     output_file = os.path.join(output_folder, f"age_{args.min_age}_{args.max_age}.txt")
     

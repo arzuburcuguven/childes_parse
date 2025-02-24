@@ -34,7 +34,7 @@ def parse_text_file(input_path, output_path):
     with open(output_path, "w", encoding="utf-8") as outfile:
         outfile.write("\n".join(parsed_sentences))
 
-input_folder = "../../data/AOCHILDES"
+input_folder = "..data"
 output_folder = "../../data/PARSED"
 
 os.makedirs(output_folder, exist_ok=True)
