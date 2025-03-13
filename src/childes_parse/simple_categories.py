@@ -5,6 +5,7 @@ It counts the occurrences of the following structures.
 """
 import sys, subprocess,re
 
+#TODO: All "s" signifying simple should come first -.-
 #Single item simple noun phrase, e.g. Mike, you, something, metal, tends to be on the subject position
 
 NP_S1 = "(NP <: /NN|DT|PRP|CD|FW/)"
@@ -56,11 +57,11 @@ VP_SO_JJ = f"(VP<1/^VB/[<2{NP_S_D_JJ}|<2{NP_S_JJ}]!<3__)"
 
 VP_SO_JJS = f"(VP<1/^VB/[<2{NP_S_JJS}|<2{NP_S_D_JJS}]!<3__)"
 
-
 ## TODO:Extend punctuation
 #Punctuation
 
 P = "/^(\.|\.\.\.|!|\?)$/"
+P_MID = "/^(\.|:|,|''|``|-LRB-|-RRB-|HYPH)$/"
 
 ################################################################################ The Categories ################################################################################ 
 
@@ -95,7 +96,6 @@ NP_2_ADJP = f"'(NP[<1/^JJ/|<1{ADJP_S1}][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}|<2/^NN|DT|
 NP_2_ADJP_P = f"'(NP[<1/^JJ/|<1{ADJP_S1}][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}|<2/^NN|DT|PRP|CD/]<3{P}!<4__)!>__'"
 
 
-
 #Imperative VP: do this 
 
 VP_Imp = f"'{VP_SO}!>__'"
@@ -117,8 +117,12 @@ NP_JJ_N_N_P = f"'(NP<1/JJ/<2/^NN|DT|PRP|CD/<3/^NN|DT|PRP|CD/<4{P}!<5__)!>__'"
 
 # det NN JJ 
 NP_3_D_N_JJ = f"'(NP[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}][<2/^JJ/|<2{ADJP_S1}]!<3__)!>__'"
-NP_3_D_N_JJ_P = f"'(NP[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}][<2/^JJ/|<2{ADJP_S1}]<3{P}!<__)!>__'"
+NP_3_D_N_JJ_P = f"'(NP[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}][<2/^JJ/|<2{ADJP_S1}]<3{P}!<4__)!>__'"
 
+#Imperative VP: do this, Mike!
+
+VP_Imp_S = f"'(S<1(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{P_MID}[<4{NP_S1}|<4{NP_S2}|<4{NP_S3}]!<5__))!>__'"
+VP_Imp_S_P = f"'(S<1(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{P_MID}[<4{NP_S1}|<4{NP_S2}|<4{NP_S3}]!<5__)<2{P}!<3__)!>__'"
 
 #Simple sentence, intranstive
 
@@ -158,9 +162,45 @@ S_SVC = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_SC}<3{P})!>__'"
 
 #TODO: Ungrammatical stuff like Noun ADJP
 
-#TODO: Patterns with high yield:
+###################################################################### Perturbed patterns with high yield ######################################################################
 
-# S<1NP<2(VP<1/VB/<2(NP<DT<JJ<NN)!<3__)!>__
+# Simple sentences w/ interjections
+
+#Simple sentence, intranstive
+
+S_U_SV = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_S}<4{P})!>__'"
+
+#Simple sentence, intranstive, w/ adjective mod on S: the cute girl runs, the best follows
+
+S_U_SV_JJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S_D_JJ}|<2{NP_S_JJ}|<2{NP_S_JJS}|<2{NP_S_D_JJS}]<3{VP_S}<4{P})!>__'"
+
+#Simple sentence, transitive
+
+S_U_SVO = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SO}<4{P})!>__'"
+
+##Simple sentence, transitive, w/ adjective mod on 0: She is a cute girl, Mike answers the pink phone
+
+S_U_SVO_OJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}][<3{VP_SO_JJ}|<3{VP_SO_JJS}]<4{P})!>__'"
+
+#Simple sentence, transitive, w/ adjective mod on S: the cute girl answers the phone, the best follows
+
+S_U_SVO_SJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S_D_JJ}|<2{NP_S_JJ}|<2{NP_S_JJS}|<2{NP_S_D_JJS}]<3{VP_SO}<4{P})!>__'"
+
+#Simple sentence, transitive, w/ adjective mod on S and O: the cute girl answers the pink phone
+
+S_U_SVO_SJJ_OJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S_D_JJ}|<2{NP_S_JJ}|<2{NP_S_JJS}|<2{NP_S_D_JJS}][<3{VP_SO_JJ}|<3{VP_SO_JJS}]<4{P})!>__'"
+
+#Simple sentence, ditransitive
+
+S_U_SVOO = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SOO}<4{P})!>__'"
+
+#TODO: ditrans w/ adjective modifiers
+
+#She is smart
+
+#TODO: other combinations e.g Smart girl is tall, smart girl is the best
+
+S_U_SVC = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SC}<4{P})!>__'"
 
 
 #list of patterns to search for
@@ -184,6 +224,8 @@ pattern_dict = {
     "NP_2_ADJP_P": NP_2_ADJP_P,
     "VP_Imp": VP_Imp,
     "VP_Imp_P": VP_Imp_P,
+    "VP_Imp_S": VP_Imp_S,
+    "VP_Imp_S_P": VP_Imp_S_P,
     # 3 items
     "NP_3_D_JJ_N": NP_3_D_JJ_N,
     "NP_3_D_N_JJ": NP_3_D_N_JJ,
@@ -202,6 +244,15 @@ pattern_dict = {
     "S_SVO_SJJ_OJJ": S_SVO_SJJ_OJJ,
     "S_SVOO": S_SVOO,
     "S_SVC": S_SVC,
+    # Simple sentences w/ 
+    "S_U_SV": S_U_SV,
+    "S_U_SV_JJ": S_U_SV_JJ,
+    "S_U_SVO": S_U_SVO,
+    "S_U_SVO_SJJ": S_U_SVO_SJJ,
+    "S_U_SVO_OJJ": S_U_SVO_OJJ,
+    "S_U_SVO_SJJ_OJJ": S_U_SVO_SJJ_OJJ,
+    "S_U_SVOO": S_U_SVOO,
+    "S_U_SVC": S_U_SVC,
     # To be discarded?
     "INTJ_1": INTJ_1,
     "INTJ_1_P": INTJ_1_P
