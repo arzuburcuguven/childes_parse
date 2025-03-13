@@ -1,19 +1,29 @@
 import argparse
+from collections import defaultdict
 
-folder_path = "../../data/PARSED/age"
+folder_path = "../../data/PARSED_spacy/PARSED/age"
 
-def frag_sent_counter(min_age: int, max_age:int):
+def count_line_starters(min_age: int, max_age: int):
     file_path = f"{folder_path}_{min_age}_{max_age}.parsed"
-    print(file_path)
-    frag_count = 0
-    sent_count = 0
-    with open(file_path, "r", encoding="utf_8") as file:
+    output_file = f"{folder_path}_{min_age}_{max_age}_counts.txt"
+    print(f"Processing file: {file_path}")
+    
+    starter_counts = defaultdict(int)
+    
+    with open(file_path, "r", encoding="utf-8") as file:
         for line in file:
-            if line.startswith("(S "):
-                sent_count += 1
-            else:
-                frag_count += 1
-    return sent_count, frag_count
+            line = line.strip()
+            if line.startswith("("):
+                first_token = line.split()[0].lstrip("(")  # Extract first token and strip '('
+                starter_counts[first_token] += 1
+    
+    with open(output_file, "w", encoding="utf-8") as out_file:
+        for key, value in sorted(starter_counts.items()):
+            out_file.write(f"{key}: {value}\n")
+    
+    print(f"Results saved to {output_file}")
+    return dict(starter_counts)
+
 
 if __name__ == "__main__":
     # Argument parser setup
@@ -23,6 +33,6 @@ if __name__ == "__main__":
 
     # Parse arguments
     args = parser.parse_args()
-    sent_count, frag_count = frag_sent_counter(args.min_age, args.max_age)
-    print(f"for ages {args.min_age} - {args.max_age} sentence_count: {sent_count} fragment count: {frag_count}")
+    stats_dict = count_line_starters(args.min_age, args.max_age)
+    print(f"for ages {args.min_age} - {args.max_age}: {stats_dict}")
 
