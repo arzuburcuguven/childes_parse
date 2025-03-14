@@ -1,128 +1,105 @@
-from typing import Set, List, Optional, Tuple
+from typing import List, Optional, Dict
 from pathlib import Path
 import os
 import pandas as pd
 import re
 import argparse
+from collections import defaultdict
 from dictionaries import w2string
 import string
 
-# Get the root folder (two levels up)
 root_folder = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-# Define the path to the 'data' folder
 data_folder = os.path.join(root_folder, "data/CHILDES")
 output_folder = os.path.join(root_folder, "data/AOCHILDES")
 
-print("Data Folder Path:", data_folder)
-
-
 ignore_regex = re.compile(r'(�|www|xxx|yyy)')
 
+# Track metadata: files per age group and activity type counts
+metadata = defaultdict(lambda: {"file_count": 0, "activities": defaultdict(int), "sentences": defaultdict(int)})
 
 
-"""Filtering Functions"""
+""" Filtering Functions """
 def extract_age_from_file(file_path: Path) -> Optional[int]:
-    """Extract child's age (in months) from the @ID line in a CHILDES .cha file."""
     with open(file_path, "r", encoding="utf-8") as file:
         for line in file:
-            if line.startswith("@ID:") and "Target_Child" in line or "Child" in line:
-                # Updated regex to handle different spacing and field variations
+            if line.startswith("@ID:") and ("Target_Child" in line or "Child" in line):
                 match = re.search(r'eng\|[^|]*\|[^|]*\|(\d+);(\d*)', line)                
                 if match:
                     years = int(match.group(1))
-                    # Handle missing or empty months
                     months_str = match.group(2)
                     months = int(months_str) if months_str and months_str.isdigit() else 0
-                    return years * 12 + months  # Convert to months
-                
-    return None  # If no age is found
+                    return years * 12 + months  
+    return None  
 
-def find_cha_files(data_folder: Path, min_age: int = 0, max_age: int = 12) -> List:
-    """Recursively find all .cha files and filter by child age."""
+def extract_activity_types(file_path: Path) -> List[str]:
+    """Extract activity types from the @Types line in a CHILDES .cha file."""
+    activities = []
+    with open(file_path, "r", encoding="utf-8") as file:
+        for line in file:
+            if line.startswith("@Types:"):
+                activities = line.strip().split(":")[1].strip().split(", ")
+                break
+    return activities
+
+
+def find_cha_files(data_folder: Path, min_age: int, max_age: int) -> List:
+    """Recursively find .cha files and filter by child age."""
     selected_files = []
 
     for dirpath, _, filenames in os.walk(data_folder):
         for file in filenames:
             if file.endswith(".cha"):
                 file_path = os.path.join(dirpath, file)
-
-                # Extract child's age
                 child_age_months = extract_age_from_file(file_path)
-                # Check if age falls within range
+
                 if child_age_months is not None and min_age <= child_age_months < max_age:
                     selected_files.append(file_path)
 
+                    # Update metadata for the age group
+                    metadata[child_age_months]["file_count"] += 1
+                    activities = extract_activity_types(file_path)
+                    for act in activities:
+                        metadata[child_age_months]["activities"][act] += 1
+
     return selected_files
 
-def extract_child_speakers(file_path: Path) -> set():
-    child_speakers = set()
-    with open(file_path, "r", encoding="utf-8") as file:
-        for line in file:
-            if line.startswith("@ID"):
-                parts = line.split("|")
-                if "Target_Child" in parts or "Child" in parts:
-                    speaker_code = parts[2]
-                    child_speakers.add(f"*{speaker_code}:")
-    return child_speakers
 
-""" Cleaning Functions"""
-
-def clean_line(line):
+""" Cleaning & Processing Functions """
+def clean_line(line: str) -> Optional[str]:
     """Normalize text by removing punctuation, fixing spelling, and splitting compounds."""
     line = re.sub(r'\d+_\d+', '', line)  # Remove timestamps
     line = re.sub(r'^\*\w+:\s*', '', line)  # Remove speaker labels (*MOT:, *FAT:)
 
-    # Ignore lines matching the regex (e.g., unwanted characters, website links)
     if ignore_regex.search(line):
         return None
 
-    # Lowercase the entire utterance
     line = line.lower()
+    line = re.sub(r'<[^>]+>', '', line)  # Remove <you>
+    line = re.sub(r'(?:\b\d+ )?\[.*?\]|\(.*?\)|\{.*?\}|\&=[^\s]+', '', line)  # Remove annotations
+    line = re.sub(r'\b\w+@\w+\b', '', line)  # Remove @ annotations
+    line = re.sub(r'\(\d+\.\)', '', line)  # Remove (3.), (5.), etc.
+    line = re.sub(r'[\x15‡↫→@↑^]', '', line)
+    line = re.sub(r'\b(O|mhm)\s*\.\s*', '', line)
 
-    # Remove bracketed annotations (e.g., [=! silence], [/], [=! laughs])
-    line = re.sub(r'<[^>]+>', '', line)  # Remove angled brackets <you>
-    line = re.sub(r'(?:\b\d+ )?\[.*?\]|\(.*?\)|\{.*?\}|\&=[^\s]+', '', line)  # Remove bracket content 0 [=! laughs]
-
-    # Remove @ annotations
-    line = re.sub(r'\b\w+@\w+\b', '', line)
-
-    # Remove (3.), (5.), etc.
-    line = re.sub(r'\(\d+\.\)', '', line)
-
-    # Fix spelling errors using predefined dictionary
     words = line.split()
     words = [w2string.get(word, word) for word in words]
 
-    # Split compound words (replace + and _ but keep hyphens)
     line = " ".join(words).replace('+', ' ').replace('_', ' ')
-
-    # Remove all punctuation except hyphens
-    # line = line.translate(str.maketrans('', '', string.punctuation.replace('-', '')))
-
-    # Remove repeated words (e.g., "tickle tickle tickle" → "tickle")
-    line = re.sub(r'\b(\w+)( \1\b)+', r'\1', line)
-    
-    # Remove repeated syllables with hyphens (e.g., "-uh -uh -uh" → "-uh")
-    line = re.sub(r'(-\w+)( \1)+', r'\1', line)
-
-    # Remove ampersands
     line = re.sub(r'&', '', line)
-
-    # Remove double space
     line = re.sub(r'\s{2,}', ' ', line)
 
-    # Remove one-token utterances
     if len(line.split()) < 2:
         return None
 
     return line.strip()
 
-def process_chat_files(file_path: Path, collected_lines):
-    child_speakers = extract_child_speakers(file_path)
-    recording = False
+
+def process_chat_files(file_path: Path, collected_lines: List[str], age_group: int):
+    child_speakers = set()
+    activities = extract_activity_types(file_path)
 
     with open(file_path, "r", encoding="utf-8") as file:
+        recording = False
         for line in file:
             line = line.strip()
             if line.startswith("@Begin"):
@@ -130,39 +107,63 @@ def process_chat_files(file_path: Path, collected_lines):
                 continue
             if not recording or line.startswith(("@", "%")):
                 continue
-            if any(line.startswith(child_speaker) for child_speaker in child_speakers):
-                continue
-            cleaned_line = clean_line(line)
 
-            if cleaned_line:  # Avoid saving empty lines
+            cleaned_line = clean_line(line)
+            if cleaned_line:
                 collected_lines.append(cleaned_line)
+
+                # Count sentences for each activity type in this age group
+                for act in activities:
+                    metadata[age_group]["sentences"][act] += 1
 
     print(f"Processed: {file_path}")
 
+
+""" Main Execution """
 if __name__ == "__main__":
-    # Argument parser setup
     parser = argparse.ArgumentParser(description="Filter CHILDES .cha files based on child age.")
     parser.add_argument("min_age", type=int, help="Minimum child age in months")
     parser.add_argument("max_age", type=int, help="Maximum child age in months")
 
-    # Parse arguments
     args = parser.parse_args()
 
-    # Run file filtering
     filtered_files = find_cha_files(data_folder, args.min_age, args.max_age)
-
     print(f"Found {len(filtered_files)} files for age range {args.min_age}-{args.max_age} months.")
-    #Run the cleaning and processing
 
     collected_lines = []
-
-    for file_path in filtered_files:  # `filtered_files` comes from the age filtering step
-        process_chat_files(file_path, collected_lines)
+    for file_path in filtered_files:
+        age_group = extract_age_from_file(file_path)
+        if age_group is not None:
+            process_chat_files(file_path, collected_lines, age_group)
 
     os.makedirs(output_folder, exist_ok=True)
     output_file = os.path.join(output_folder, f"age_{args.min_age}_{args.max_age}.txt")
-    
+
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("\n".join(collected_lines))
-    
-    print(f"processed data saved to {output_file}")
+
+    print(f"Processed data saved to {output_file}")
+
+    """ Generate Metadata Output """
+    metadata_output = os.path.join(output_folder, f"metadata_{args.min_age}_{args.max_age}.csv")
+    metadata_list = []
+    print(metadata)
+
+    for age, data in sorted(metadata.items()):
+        print(age)
+        print(data)
+        total_sentences = sum(data["sentences"].values())
+        for act, count in data["sentences"].items():
+            percentage = (count / total_sentences * 100) if total_sentences > 0 else 0
+            metadata_list.append({
+                "Age (Months)": age,
+                "File Count": data["file_count"],
+                "Activity Type": act,
+                "Sentence Count": count,
+                "Percentage": round(percentage, 2)
+            })
+
+    df_metadata = pd.DataFrame(metadata_list)
+    df_metadata.to_csv(metadata_output, index=False)
+
+    print(f"Metadata saved to {metadata_output}")
