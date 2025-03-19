@@ -8,54 +8,54 @@ import sys, subprocess,re
 #TODO: All "s" signifying simple should come first -.-
 #Single item simple noun phrase, e.g. Mike, you, something, metal, tends to be on the subject position
 
-NP_S1 = "(NP <: /NN|DT|PRP|CD|FW/)"
+S_NP_1 = "(NP <: /NN|DT|PRP|CD|FW/)"
 
 #Two item simple noun phrase, e.g. a magnet, the bear, my back tends to be on the object position
 
-NP_S2 = "(NP<1/NN|DT|PRP|CD|UH|FW/<2/^NN|DT|PRP|CD|FW/!<3__)"
+S_NP_2 = "(NP<1/NN|DT|PRP|CD|UH|FW/<2/^NN|DT|PRP|CD|FW/!<3__)"
 
 #Two item simple noun phrase, e.g. a magnet men, the pet store
 
-NP_S3 = "(NP<1/NN|DT|PRP|CD|UH|FW/<2/^NN|DT|PRP|CD|FW/<3/^NN|DT|PRP|CD|FW/!<4__)"
+S_NP_3 = "(NP<1/NN|DT|PRP|CD|UH|FW/<2/^NN|DT|PRP|CD|FW/<3/^NN|DT|PRP|CD|FW/!<4__)"
 
 #Simple NP with a JJ
 
-NP_S_D_JJ = "(NP<1/DT|PRP|CD|UH$/<2/^JJ/<3/^NN|DT|PRP|CD/!<4__)"
+S_NP_D_JJ = "(NP<1/DT|PRP|CD|UH$/<2/^JJ/<3/^NN|DT|PRP|CD/!<4__)"
 
-NP_S_JJ = "(NP<1/^JJ/<2/^NN|DT|PRP|CD/!<3__)"
+S_NP_JJ = "(NP<1/^JJ/<2/^NN|DT|PRP|CD/!<3__)"
 
 #Simple NP: the best
 
-NP_S_JJS = "(NP<:/^JJ/)"
+S_NP_JJS = "(NP<:/^JJ/)"
 
-NP_S_D_JJS = "(NP<1/DT|PRP|CD|UH$/<2/^JJ/!<3__)"
+S_NP_D_JJS = "(NP<1/DT|PRP|CD|UH$/<2/^JJ/!<3__)"
 
 #Simple ADJP
-#TODO: ADJP RB JJ & ADJP VBZ variants ADJP RB VBN PRT
+#TODO: & ADJP VBZ variants ADJP RB VBN PRT
 
-ADJP_S1 = "(ADJP|ADJ <:/^JJ/)"
+S_ADJP = "(ADJP|ADJ <:/^JJ/)"
 
 #simple VP
 
-VP_S = "(VP<:/^VB/)"
+S_VP = "(VP<:/^VB/)"
 
 #simple VP w/ simple NP child
 
-VP_SO = f"(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]!<3__)"
+S_VP_O = f"(VP<1/^VB/[<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]!<3__)"
 
 #simple VP w/ 2 simple NP child
 
-VP_SOO = f"(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}][<3{NP_S1}|<3{NP_S2}|<3{NP_S3}]!<4__)"
+S_VP_OO = f"(VP<1/^VB/[<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}][<3{S_NP_1}|<3{S_NP_2}|<3{S_NP_3}]!<4__)"
 
 #simple VP w/ simple ADJP child
 
-VP_SC = f"(VP<1/^VB/<2{ADJP_S1}!<3__)"
+S_VP_C = f"(VP<1/^VB/<2{S_ADJP}!<3__)"
 
 #simple VP w/ simple JJ child
 
-VP_SO_JJ = f"(VP<1/^VB/[<2{NP_S_D_JJ}|<2{NP_S_JJ}]!<3__)"
+S_VP_O_JJ = f"(VP<1/^VB/[<2{S_NP_D_JJ}|<2{S_NP_JJ}]!<3__)"
 
-VP_SO_JJS = f"(VP<1/^VB/[<2{NP_S_JJS}|<2{NP_S_D_JJS}]!<3__)"
+S_VP_O_JJS = f"(VP<1/^VB/[<2{S_NP_JJS}|<2{S_NP_D_JJS}]!<3__)"
 
 ## TODO:Extend punctuation
 #Punctuation
@@ -67,11 +67,11 @@ P_MID = "/^(\.|:|,|''|``|-LRB-|-RRB-|HYPH)$/"
 
 ## Single item utterances
 
-NP_1 = f"'{NP_S1}!>__'"
+NP_1 = f"'{S_NP_1}!>__'"
 NP_1_P = f"'(NP <1 /^NN|DT|PRP|CD/<2{P}!<3__)!>__'" 
 
-NP_1_JJ = f"'(NP[<1/^JJ/|<1{ADJP_S1}]!<2__)!>__'"
-NP_1_JJ_P = f"'(NP[<1/^JJ/|<1{ADJP_S1}]<2{P}!<3__)!>__'"
+NP_1_JJ = f"'(NP[<1/^JJ/|<1{S_ADJP}]!<2__)!>__'"
+NP_1_JJ_P = f"'(NP[<1/^JJ/|<1{S_ADJP}]<2{P}!<3__)!>__'"
 
 NP_1_VB = "'(NP<:/^VB/)!>__'"
 NP_1_VB_P = f"'(NP<1/^VB/<2{P}!<3__)!>__'"
@@ -79,8 +79,8 @@ NP_1_VB_P = f"'(NP<1/^VB/<2{P}!<3__)!>__'"
 VP_1 = "'(VP<:/^VB/) !>__'"
 VP_1_P = f"'(VP<1/^VB/<2{P}!<3__)!>__'" 
 
-ADJP_1 = f"'{ADJP_S1}!>__'"
-ADJP_1_P = f"'(ADJP|ADJ<1/^JJ/<2{P}!<3__)!>__'"
+ADJP_1 = f"'{S_ADJP}!>__'"
+ADJP_1_P = f"'(ADJP|ADJP<1/^JJ/<2{P}!<3__)!>__'"
 
 INTJ_1 = "'(INTJ<:UH)!>__'"
 INTJ_1_P = f"'(INTJ<1UH<2{P})!>__'"
@@ -88,18 +88,20 @@ INTJ_1_P = f"'(INTJ<1UH<2{P})!>__'"
 ## Double item utterances
 
 # NP det Noun: a cat
-NP_2_D = f"'{NP_S2}!>__'"
+NP_2_D = f"'{S_NP_2}!>__'"
 NP_2_D_P = f"'(NP<1/DT|PRP|CD|UH$/<2/^NN|DT|PRP|CD/<3{P}!<4__)!>__'"
 
 # NP adjp noun: blue (a) cat (toy) oh well this can be 4 item as well
-NP_2_ADJP = f"'(NP[<1/^JJ/|<1{ADJP_S1}][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}|<2/^NN|DT|PRP|CD/]!<3__)!>__'"
-NP_2_ADJP_P = f"'(NP[<1/^JJ/|<1{ADJP_S1}][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}|<2/^NN|DT|PRP|CD/]<3{P}!<4__)!>__'"
+NP_2_ADJP = f"'(NP[<1/^JJ/|<1{S_ADJP}][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}|<2/^NN|DT|PRP|CD/]!<3__)!>__'"
+NP_2_ADJP_P = f"'(NP[<1/^JJ/|<1{S_ADJP}][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}|<2/^NN|DT|PRP|CD/]<3{P}!<4__)!>__'"
 
+# okay perfect
+JJ_JJ_P = "'(ADJP<1/^JJ/<2/^JJ/<3/\./!<4__)!>__'"
 
 #Imperative VP: do this 
 
-VP_Imp = f"'{VP_SO}!>__'"
-VP_Imp_P = f"'(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{P}!<4__)!>__'"
+VP_Imp = f"'{S_VP_O}!>__'"
+VP_Imp_P = f"'(VP<1/^VB/[<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{P}!<4__)!>__'"
 
 ##Triple item
 
@@ -116,41 +118,42 @@ NP_JJ_N_N = "'(NP<1/JJ/<2/^NN|DT|PRP|CD/<3/^NN|DT|PRP|CD/!<4__)!>__'"
 NP_JJ_N_N_P = f"'(NP<1/JJ/<2/^NN|DT|PRP|CD/<3/^NN|DT|PRP|CD/<4{P}!<5__)!>__'"
 
 # det NN JJ 
-NP_3_D_N_JJ = f"'(NP[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}][<2/^JJ/|<2{ADJP_S1}]!<3__)!>__'"
-NP_3_D_N_JJ_P = f"'(NP[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}][<2/^JJ/|<2{ADJP_S1}]<3{P}!<4__)!>__'"
+NP_3_D_N_JJ = f"'(NP[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}][<2/^JJ/|<2{S_ADJP}]!<3__)!>__'"
+NP_3_D_N_JJ_P = f"'(NP[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}][<2/^JJ/|<2{S_ADJP}]<3{P}!<4__)!>__'"
 
 #Imperative VP: do this, Mike!
 
-VP_Imp_S = f"'(S<1(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{P_MID}[<4{NP_S1}|<4{NP_S2}|<4{NP_S3}]!<5__))!>__'"
-VP_Imp_S_P = f"'(S<1(VP<1/^VB/[<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{P_MID}[<4{NP_S1}|<4{NP_S2}|<4{NP_S3}]!<5__)<2{P}!<3__)!>__'"
+VP_Imp_S = f"'(S<1(VP<1/^VB/[<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{P_MID}[<4{S_NP_1}|<4{S_NP_2}|<4{S_NP_3}]!<5__))!>__'"
+VP_Imp_S_P = f"'(S<1(VP<1/^VB/[<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{P_MID}[<4{S_NP_1}|<4{S_NP_2}|<4{S_NP_3}]!<5__)<2{P}!<3__)!>__'"
 
 #Simple sentence, intranstive
 
-S_SV = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_S}<3{P})!>__'"
+S_SV = f"'(S[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}]<2{S_VP}<3{P})!>__'"
 
 #Simple sentence, intranstive, w/ adjective mod on S: the cute girl runs, the best follows
 
-S_SV_JJ = f"'(S[<1{NP_S_D_JJ}|<1{NP_S_JJ}|<1{NP_S_JJS}|<1{NP_S_D_JJS}]<2{VP_S}<3{P})!>__'"
+S_SV_JJ = f"'(S[<1{S_NP_D_JJ}|<1{S_NP_JJ}|<1{S_NP_JJS}|<1{S_NP_D_JJS}]<2{S_VP}<3{P})!>__'"
 
 #Simple sentence, transitive
 
-S_SVO = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_SO}<3{P})!>__'"
+S_SVO = f"'(S[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}]<2{S_VP_O}!<3__)!>__'"
+S_SVO_P = f"'(S[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}]<2{S_VP_O}<3{P})!>__'"
 
 ##Simple sentence, transitive, w/ adjective mod on 0: She is a cute girl, Mike answers the pink phone
 
-S_SVO_OJJ = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}][<2{VP_SO_JJ}|<2{VP_SO_JJS}]<3{P})!>__'"
+S_SVO_OJJ = f"'(S[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}][<2{S_VP_O_JJ}|<2{S_VP_O_JJS}]<3{P})!>__'"
 
 #Simple sentence, transitive, w/ adjective mod on S: the cute girl answers the phone, the best follows
 
-S_SVO_SJJ = f"'(S[<1{NP_S_D_JJ}|<1{NP_S_JJ}|<1{NP_S_JJS}|<1{NP_S_D_JJS}]<2{VP_SO}<3{P})!>__'"
+S_SVO_SJJ = f"'(S[<1{S_NP_D_JJ}|<1{S_NP_JJ}|<1{S_NP_JJS}|<1{S_NP_D_JJS}]<2{S_VP_O}<3{P})!>__'"
 
 #Simple sentence, transitive, w/ adjective mod on S and O: the cute girl answers the pink phone
 
-S_SVO_SJJ_OJJ = f"'(S[<1{NP_S_D_JJ}|<1{NP_S_JJ}|<1{NP_S_JJS}|<1{NP_S_D_JJS}][<2{VP_SO_JJ}|<2{VP_SO_JJS}]<3{P})!>__'"
+S_SVO_SJJ_OJJ = f"'(S[<1{S_NP_D_JJ}|<1{S_NP_JJ}|<1{S_NP_JJS}|<1{S_NP_D_JJS}][<2{S_VP_O_JJ}|<2{S_VP_O_JJS}]<3{P})!>__'"
 
 #Simple sentence, ditransitive
 
-S_SVOO = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_SOO}<3{P})!>__'"
+S_SVOO = f"'(S[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}]<2{S_VP_OO}<3{P})!>__'"
 
 #TODO: ditrans w/ adjective modifiers
 
@@ -158,7 +161,7 @@ S_SVOO = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_SOO}<3{P})!>__'"
 
 #TODO: other combinations e.g Smart girl is tall, smart girl is the best
 
-S_SVC = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_SC}<3{P})!>__'"
+S_SVC = f"'(S[<1{S_NP_1}|<1{S_NP_2}|<1{S_NP_3}]<2{S_VP_C}<3{P})!>__'"
 
 #TODO: Ungrammatical stuff like Noun ADJP
 
@@ -168,31 +171,31 @@ S_SVC = f"'(S[<1{NP_S1}|<1{NP_S2}|<1{NP_S3}]<2{VP_SC}<3{P})!>__'"
 
 #Simple sentence, intranstive
 
-S_U_SV = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_S}<4{P})!>__'"
+S_U_SV = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{S_VP}<4{P})!>__'"
 
 #Simple sentence, intranstive, w/ adjective mod on S: the cute girl runs, the best follows
 
-S_U_SV_JJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S_D_JJ}|<2{NP_S_JJ}|<2{NP_S_JJS}|<2{NP_S_D_JJS}]<3{VP_S}<4{P})!>__'"
+S_U_SV_JJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_D_JJ}|<2{S_NP_JJ}|<2{S_NP_JJS}|<2{S_NP_D_JJS}]<3{S_VP}<4{P})!>__'"
 
 #Simple sentence, transitive
 
-S_U_SVO = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SO}<4{P})!>__'"
+S_U_SVO = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{S_VP_O}<4{P})!>__'"
 
 ##Simple sentence, transitive, w/ adjective mod on 0: She is a cute girl, Mike answers the pink phone
 
-S_U_SVO_OJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}][<3{VP_SO_JJ}|<3{VP_SO_JJS}]<4{P})!>__'"
+S_U_SVO_OJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}][<3{S_VP_O_JJ}|<3{S_VP_O_JJS}]<4{P})!>__'"
 
 #Simple sentence, transitive, w/ adjective mod on S: the cute girl answers the phone, the best follows
 
-S_U_SVO_SJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S_D_JJ}|<2{NP_S_JJ}|<2{NP_S_JJS}|<2{NP_S_D_JJS}]<3{VP_SO}<4{P})!>__'"
+S_U_SVO_SJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_D_JJ}|<2{S_NP_JJ}|<2{S_NP_JJS}|<2{S_NP_D_JJS}]<3{S_VP_O}<4{P})!>__'"
 
 #Simple sentence, transitive, w/ adjective mod on S and O: the cute girl answers the pink phone
 
-S_U_SVO_SJJ_OJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S_D_JJ}|<2{NP_S_JJ}|<2{NP_S_JJS}|<2{NP_S_D_JJS}][<3{VP_SO_JJ}|<3{VP_SO_JJS}]<4{P})!>__'"
+S_U_SVO_SJJ_OJJ = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_D_JJ}|<2{S_NP_JJ}|<2{S_NP_JJS}|<2{S_NP_D_JJS}][<3{S_VP_O_JJ}|<3{S_VP_O_JJS}]<4{P})!>__'"
 
 #Simple sentence, ditransitive
 
-S_U_SVOO = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SOO}<4{P})!>__'"
+S_U_SVOO = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{S_VP_OO}<4{P})!>__'"
 
 #TODO: ditrans w/ adjective modifiers
 
@@ -200,7 +203,7 @@ S_U_SVOO = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SOO}<4{P
 
 #TODO: other combinations e.g Smart girl is tall, smart girl is the best
 
-S_U_SVC = f"'(S[<1(INTJ<:UH)|<1UH][<2{NP_S1}|<2{NP_S2}|<2{NP_S3}]<3{VP_SC}<4{P})!>__'"
+S_U_SVC = f"'(S[<1(INTJ<:UH)|<1UH][<2{S_NP_1}|<2{S_NP_2}|<2{S_NP_3}]<3{S_VP_C}<4{P})!>__'"
 
 
 #list of patterns to search for
@@ -235,10 +238,12 @@ pattern_dict = {
     "NP_JJ_JJ_N_P": NP_JJ_JJ_N_P,
     "NP_JJ_N_N": NP_JJ_N_N,
     "NP_JJ_N_N_P": NP_JJ_N_N_P,
+    "JJ_JJ_P": JJ_JJ_P,
     # Simple sentences
     "S_SV": S_SV,
     "S_SV_JJ": S_SV_JJ,
     "S_SVO": S_SVO,
+    "S_SVO_P": S_SVO_P,
     "S_SVO_SJJ": S_SVO_SJJ,
     "S_SVO_OJJ": S_SVO_OJJ,
     "S_SVO_SJJ_OJJ": S_SVO_SJJ_OJJ,
@@ -258,52 +263,54 @@ pattern_dict = {
     "INTJ_1_P": INTJ_1_P
 }
 
-# Write to a pattern file, list of the rules for UI testing 
-with open("tregex_patterns_simple_?.txt", "w") as f:
+if __name__ == "__main__":
+
+    # Write to a pattern file, list of the rules for UI testing 
+    with open("tregex_patterns_simple_?.txt", "w") as f:
+        for name, pattern in pattern_dict.items():
+            f.write(f"{name}: {pattern}\n")
+
+    #input file name
+    inputFile=sys.argv[1]
+
+    #extract the name of the file being processed
+    output=inputFile.split('/')[-1]
+
+    #output file name
+    outputFile=open(sys.argv[2],"w")
+    print('Processing '+inputFile+'...')
+
+    #write a list of 24 comma-delimited fields to the output file
+    fields= ["Filename", "WordCount"] + [key for key in pattern_dict]
+    outputFile.write(",".join(fields) + "\n")
+
+    #list of counts of the patterns
+    patterncount=[]
+
+    #query the parse trees using the tregex patterns
     for name, pattern in pattern_dict.items():
-        f.write(f"{name}: {pattern}\n")
+            command = "./tregex.sh " + pattern + " " + inputFile + " -C -o"
+            print(command)
+            count = subprocess.getoutput(command).split('\n')[-1]
+            patterncount.append(int(count))
+            
+    #update frequencies of complex nominals, clauses, and T-units
+    #patterncount[7]=patterncount[-4]+patterncount[-5]+patterncount[-6]
+    #patterncount[2]=patterncount[2]+patterncount[-3]
+    #patterncount[3]=patterncount[3]+patterncount[-2]
+    #patterncount[1]=patterncount[1]+patterncount[-1]
 
-#input file name
-inputFile=sys.argv[1]
+    #word count
+    infile=open(inputFile,"r")
+    content=infile.read()
+    w=len(re.findall("\([A-Z]+\$? [^\)\(-]+\)",content))
+    infile.close()
 
-#extract the name of the file being processed
-output=inputFile.split('/')[-1]
-
-#output file name
-outputFile=open(sys.argv[2],"w")
-print('Processing '+inputFile+'...')
-
-#write a list of 24 comma-delimited fields to the output file
-fields= ["Filename", "WordCount"] + [key for key in pattern_dict]
-outputFile.write(",".join(fields) + "\n")
-
-#list of counts of the patterns
-patterncount=[]
-
-#query the parse trees using the tregex patterns
-for name, pattern in pattern_dict.items():
-        command = "./tregex.sh " + pattern + " " + inputFile + " -C -o"
-        print(command)
-        count = subprocess.getoutput(command).split('\n')[-1]
-        patterncount.append(int(count))
+    #add frequencies of words and other structures to output string
+    output+=","+str(w) #number of words
+    for count in patterncount:
+        output+=","+str(count)
         
-#update frequencies of complex nominals, clauses, and T-units
-#patterncount[7]=patterncount[-4]+patterncount[-5]+patterncount[-6]
-#patterncount[2]=patterncount[2]+patterncount[-3]
-#patterncount[3]=patterncount[3]+patterncount[-2]
-#patterncount[1]=patterncount[1]+patterncount[-1]
 
-#word count
-infile=open(inputFile,"r")
-content=infile.read()
-w=len(re.findall("\([A-Z]+\$? [^\)\(-]+\)",content))
-infile.close()
-
-#add frequencies of words and other structures to output string
-output+=","+str(w) #number of words
-for count in patterncount:
-    output+=","+str(count)
-    
-
-#write output string to output file
-outputFile.write(output+"\n")
+    #write output string to output file
+    outputFile.write(output+"\n")
