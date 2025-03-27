@@ -7,8 +7,8 @@ It counts the occurrences of the following structures.
 """
 
 import sys, subprocess, re
-import simple_categories as sc
-import pos_adv_categories as pvc
+import a_simple_categories as sc
+import a2_pos_adv_categories as pvc
 
 # simple questions
 
@@ -27,7 +27,7 @@ S_SQ_yn_3 = f"'(SQ<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}][<3{sc.S
 
 #Shall we go hide
 
-S_SQ_yn_4 = f"'(SQ<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3(VP<1/VB/<2(VP<:VB)!<4__))<4{sc.P})!>__'"
+S_SQ_yn_4 = f"'(SQ<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3(VP<1/VB/<2(VP<:VB)!<4__)<4{sc.P})!>__'"
 
 #Can I try now?
 
@@ -41,7 +41,7 @@ S_SQ_yn_6 = f"'(SQ<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3(VP<1/
 
 #What?, how long? what kind of scientist?
 
-S_SBARQ_1 = f"'(SBARQ<1/WH/<2{sc.P})!>__'"
+S_SBARQ_1 = f"'(SBARQ<1(/WH|WP|WRB/)<2{sc.P})!>__'"
 
 #Why this?
 
@@ -51,17 +51,28 @@ S_SBARQ_2 = f"'(SBARQ<1/WH/[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.P})!
 
 S_SBARQ_3 = "'(SBARQ<1/WH/<2RB)!>__'"
 
-#What is wrong?
-
-#Which one
 
 # What is your name, 1 verb? copula Q? What is the canonical name
-S_SBARQ_4 = f"'(SBARQ<1/WH/<2(/VB|MD/)[<3{sc.S_NP_1}|<3{sc.S_NP_2}|<3{sc.S_NP_3}<3{sc.S_ADJP}]<4{sc.P})!>__'"
-S_SBARQ_SQ_4 = f"'(SBARQ<1/WH/<2(SQ<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}|<2{sc.S_ADJP}]!<3__)<3{sc.P})!>__'"
+S_SBARQ_4 = f"'(SBARQ<1/WH/<2((SQ|S)<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}|<2{sc.S_ADJP}]!<3__)<3{sc.P})!>__'"
 
 #What do you do, What can you do 2 What is the canonical name
-S_SBARQ_5 = f"'(SBARQ<1/WH/<2(/VB|MD/)[<3{sc.S_NP_1}|<3{sc.S_NP_2}|<3{sc.S_NP_3}][<4{sc.S_VP}|<4{sc.S_VP_O}|<4{sc.S_VP_OO}]<5{sc.P})!>__'"
-S_SBARQ_SQ_5 = f"'(SBARQ<1/WH/<2(SQ<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}][<3{sc.S_VP}|<3{sc.S_VP_O}|<3{sc.S_VP_OO}]!<3__)<3{sc.P})!>__'"
+S_SBARQ_5 = f"'(SBARQ<1/WH/<2((SQ|S)<1(/VB|MD/)[<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}][<3{sc.S_VP}|<3{sc.S_VP_O}|<3{sc.S_VP_OO}]!<4__)<3{sc.P})!>__'"
+
+# like what ?
+
+S_SBARQ_6 = f"'(SBARQ<1(VP<1/VB/<2(NP<:/WP/))<2{sc.P})!>__'"
+
+# What she said
+
+S_SBARQ_7 = f"'(SBARQ<1/WH/<2((SQ|S)[<1{sc.S_NP_1}|<1{sc.S_NP_2}|<1{sc.S_NP_3}|<1{sc.S_ADJP}][<3{sc.S_VP}|<3{sc.S_VP_O}|<3{sc.S_VP_OO}]!<4__)<3{sc.P})!>__'"
+
+# What is she doing?
+
+################################Odd ones################################
+# Which one
+
+S_NP_Q_1 = "'(NP<1WDT<2CD<3{sc.P})!>__'"
+
 
 
 #list of patterns to search for
@@ -72,15 +83,16 @@ pattern_dict = {
     "S_SQ_yn_2": S_SQ_yn_2,
     "S_SQ_yn_3": S_SQ_yn_3,
     "S_SQ_yn_4": S_SQ_yn_4,
-    "S_SQ_yn_4": S_SQ_yn_5,
-    "S_SQ_yn_4": S_SQ_yn_6,
+    "S_SQ_yn_5": S_SQ_yn_5,
+    "S_SQ_yn_6": S_SQ_yn_6,
     "S_SBARQ_1": S_SBARQ_1,
     "S_SBARQ_2": S_SBARQ_2,
-    "S_SBARQ_2": S_SBARQ_3,
-    "S_SBARQ_2": S_SBARQ_4,
-    "S_SBARQ_2": S_SBARQ_5,
-    "S_SBARQ_SQ_1": S_SBARQ_SQ_4,
-    "S_SBARQ_SQ_2": S_SBARQ_SQ_5
+    "S_SBARQ_3": S_SBARQ_3,
+    "S_SBARQ_4": S_SBARQ_4,
+    "S_SBARQ_5": S_SBARQ_5,
+    "S_SBARQ_6": S_SBARQ_6,
+    "S_SBARQ_7": S_SBARQ_7,
+    "S_NP_Q_1": S_NP_Q_1,
 }
 
 

@@ -293,12 +293,6 @@ if __name__ == "__main__":
             print(command)
             count = subprocess.getoutput(command).split('\n')[-1]
             patterncount.append(int(count))
-            
-    #update frequencies of complex nominals, clauses, and T-units
-    #patterncount[7]=patterncount[-4]+patterncount[-5]+patterncount[-6]
-    #patterncount[2]=patterncount[2]+patterncount[-3]
-    #patterncount[3]=patterncount[3]+patterncount[-2]
-    #patterncount[1]=patterncount[1]+patterncount[-1]
 
     #word count
     infile=open(inputFile,"r")

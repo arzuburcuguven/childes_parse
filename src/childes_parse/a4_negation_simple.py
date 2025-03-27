@@ -5,7 +5,7 @@ It counts the occurrences of the following structures.
 """
 
 import sys, subprocess, re
-import simple_categories as sc
+import a_simple_categories as sc
 
 # Captures 50: S<1NP<2ADVP<3(VP<(RB</^not|n.*t$/))
 

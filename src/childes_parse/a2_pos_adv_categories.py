@@ -4,7 +4,7 @@ This script analyzes a single plain text file.
 It counts the occurrences of the following structures.
 """
 import sys, subprocess, re
-import simple_categories as sc
+import a_simple_categories as sc
 
 
 #Simple possesive , e.g. Maggies's, you, something, metal, tends to be on the subject position
@@ -100,13 +100,13 @@ S_SVOO_ADVP_direct = f"'(S|SINV[<1{sc.S_NP_1}|<1{sc.S_NP_2}|<1{sc.S_NP_3}][<2{S_
 
 #ADVP initial: Well I see you
 
-S_ADV_SV = f"'(S|SINV[<1{S_ADVP}|<2{S_ADVP_2}][<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.S_VP}<4{sc.P})!>__'"
-S_ADV_SVO = f"'(S|SINV[<1{S_ADVP}|<2{S_ADVP_2}][<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.S_VP_OO}<4{sc.P})!>__'"
-S_ADV_SVOO = f"'(S|SINV[<1{S_ADVP}|<2{S_ADVP_2}][<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.S_VP_OO}<4{sc.P})!>__'"
+S_ADV_SV = f"'(S|SINV[<1{S_ADVP}|<1{S_ADVP_2}][<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.S_VP}<4{sc.P})!>__'"
+S_ADV_SVO = f"'(S|SINV[<1{S_ADVP}|<1{S_ADVP_2}][<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.S_VP_OO}<4{sc.P})!>__'"
+S_ADV_SVOO = f"'(S|SINV[<1{S_ADVP}|<1{S_ADVP_2}][<2{sc.S_NP_1}|<2{sc.S_NP_2}|<2{sc.S_NP_3}]<3{sc.S_VP_OO}<4{sc.P})!>__'"
 
 #ADVP as subject: here it is
 
-#ADVP initial: Well I see you
+#ADVP initial: Well see you
 
 S_ADVP_as_S_SV = f"'(S|SINV[<1{S_ADVP}|<1{S_ADVP_2}]<2{sc.S_VP}<3{sc.P})!>__'"
 S_ADVP_as_S_SVO = f"'(S|SINV[<1{S_ADVP}|<1{S_ADVP_2}]<2{sc.S_VP_OO}<3{sc.P})!>__'"
@@ -126,7 +126,7 @@ S_SV_ADJP = f"'(S[<1{sc.S_NP_1}|<1{sc.S_NP_2}|<1{sc.S_NP_3}]<2(VP<1/^VB/<2(ADJP<
 
 S_SV_C_ADJP_RB = f"'(S[<1{sc.S_NP_1}|<1{sc.S_NP_2}|<1{sc.S_NP_3}]<2(VP<1/VB/<2(NP<1/NN|DT|PRP|CD|UH|FW/<2(ADJP<1/^RB/<2/^JJ/)<3/NN|DT|PRP|CD|UH|FW/!<4__)!<3__)<3{sc.P})!>__'"
 
-
+# TODO: Slowly wlaked away
 
 #list of patterns to search for
 #here we can combine the cats by item count, but maybe seperate the ADJP_1p as the "okay" confounds the counts
